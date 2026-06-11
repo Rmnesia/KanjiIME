@@ -25,10 +25,10 @@ function Get-CandidateScore([string]$Mode, [string]$Candidate, [int]$Weight) {
   $length = [System.Globalization.StringInfo]::ParseCombiningCharacters($Candidate).Count
   $score = $Weight
 
-  if ($length -le 1) { $score += 600 }
-  elseif ($length -eq 2) { $score += 420 }
-  elseif ($length -eq 3) { $score += 260 }
-  elseif ($length -eq 4) { $score += 120 }
+  if ($length -le 1) { $score += 900 }
+  elseif ($length -eq 2) { $score += 380 }
+  elseif ($length -eq 3) { $score += 220 }
+  elseif ($length -eq 4) { $score += 100 }
   else { $score -= [Math]::Min(300, ($length - 4) * 35) }
 
   if ($Mode -eq "jp") {
@@ -56,6 +56,9 @@ Get-ChildItem -Path $dataPath -Recurse -Filter "*.tsv" | Sort-Object FullName | 
     $candidate = $parts[2].Trim()
     $weight = if ($parts.Count -ge 4 -and $parts[3].Trim()) { [int]$parts[3].Trim() } else { 50 }
     $comment = if ($parts.Count -ge 5) { $parts[4].Trim() } else { "" }
+    if ((Split-Path -Leaf $file) -eq "seed.tsv") {
+      $weight += 3000
+    }
 
     if (!$english -or !$candidate) { return }
 
