@@ -1,0 +1,6 @@
+patch:
+  style/display_tray_icon: true
+  style/horizontal: true
+  style/inline_preedit: true
+  style/label_format: "%s."
+  style/font_face: "Microsoft YaHei UI"

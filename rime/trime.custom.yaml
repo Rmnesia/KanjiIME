@@ -1,0 +1,4 @@
+patch:
+  "style/keyboards":
+    - qwerty
+  "style/candidate_use_cursor": true

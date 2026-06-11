@@ -1,0 +1,6 @@
+patch:
+  schema_list:
+    - schema: kanji_en_jp
+    - schema: kanji_en_zh
+    - schema: kanji_en_hk
+  menu/page_size: 7

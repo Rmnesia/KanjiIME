@@ -1,0 +1,45 @@
+# mode	english	candidate	weight	comment
+all	fire	火	100	fire
+jp	fire	炎	90	flame
+jp	fire	火事	80	fire incident
+zh	fire	炎	90	flame
+zh	fire	火灾	80	fire disaster
+hk	fire	炎	90	flame
+hk	fire	火災	80	fire disaster
+all	water	水	100	water
+jp	water	水道	70	water supply
+zh	water	河	70	river
+hk	water	河	70	river
+all	mountain	山	100	mountain
+jp	mountain	富士山	60	Mount Fuji
+zh	mountain	山峰	70	peak
+hk	mountain	山峰	70	peak
+all	sun	日	100	sun/day
+jp	sun	太陽	90	sun
+zh	sun	太阳	90	sun
+hk	sun	太陽	90	sun
+all	moon	月	100	moon/month
+jp	moon	月光	80	moonlight
+zh	moon	月亮	90	moon
+hk	moon	月亮	90	moon
+all	tree	木	100	tree/wood
+jp	tree	木	95	tree
+zh	tree	树	95	tree
+hk	tree	樹	95	tree
+all	person	人	100	person
+jp	person	人間	75	human
+zh	person	人民	80	people
+hk	person	人民	80	people
+all	love	愛	100	love
+zh	love	爱	100	love
+hk	love	愛	100	love
+jp	love	恋	80	romance
+hk	love	戀	80	romance
+all	heart	心	100	heart
+jp	heart	心臓	80	heart organ
+zh	heart	心脏	80	heart organ
+hk	heart	心臟	80	heart organ
+all	peace	平和	90	peace
+zh	peace	和平	100	peace
+hk	peace	和平	100	peace
+jp	peace	和平	80	peace
