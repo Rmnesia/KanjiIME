@@ -5,19 +5,6 @@ Type an English meaning, then commit Japanese kanji, Simplified Chinese, or Trad
 
 No cloud translation, no copy-paste workflow, no switching to a browser. It feels like a normal IME, but the lookup key is English.
 
-## Download
-
-Get the latest builds from the GitHub releases page:
-
-**https://github.com/Rmnesia/KanjiIME/releases**
-
-Choose the package for your device:
-
-- **Windows:** download `KanjiIME-Weasel-Setup.exe`
-- **Android:** download `KanjiIME-Android.apk`
-
-On Windows, the installer is based on Rime Weasel and includes the KanjiIME dictionaries. On Android, the APK is based on Trime and ships with the same JP/ZH/HK modes.
-
 ## See It Work
 
 Type an English word and choose a candidate with number keys, mouse, or touch.
@@ -34,6 +21,20 @@ Type an English word and choose a candidate with number keys, mouse, or touch.
 <img width="1591" height="523" alt="cb67d214-dc33-4796-9877-c082eb1d6723" src="https://github.com/user-attachments/assets/764450e9-467c-41f6-bcb7-ce32d399a68c" />
 <img width="384" height="97" alt="image" src="https://github.com/user-attachments/assets/d17d810c-8b09-4f15-914a-1986c53ebafc" />
 <img width="1593" height="479" alt="7db03fe0-0595-480b-871a-174b86e1c7e3" src="https://github.com/user-attachments/assets/106ddee4-1ff6-4f32-bc77-bf077cf6e90c" />
+
+## Download
+
+Get the latest builds from the GitHub releases page:
+
+**https://github.com/Rmnesia/KanjiIME/releases**
+
+Choose the package for your device:
+
+- **Windows:** download `KanjiIME-Weasel-Setup.exe`
+- **Android:** download `KanjiIME-Android.apk`
+
+On Windows, the installer is based on Rime Weasel and includes the KanjiIME dictionaries. On Android, the APK is based on Trime and ships with the same JP/ZH/HK modes.
+
 
 ## What You Can Type
 
