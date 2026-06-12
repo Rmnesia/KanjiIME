@@ -39,41 +39,43 @@ namespace KanjiImeInstaller
                 Directory.CreateDirectory(tempDir);
                 ExtractPayload(tempDir);
 
-                string installer = Path.Combine(tempDir, "weasel-installer.exe");
+                string payloadWeaselDir = Path.Combine(tempDir, "weasel");
+                string payloadRimeDir = Path.Combine(tempDir, "rime");
+                string installRoot = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles), "Rime");
+                string installDir = Path.Combine(installRoot, "weasel-kanjiime");
                 string rimeDir = Path.Combine(
                     Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData),
                     "Rime");
 
-                string deployer = FindWeaselDeployer();
-                if (deployer == null)
+                if (!File.Exists(Path.Combine(payloadWeaselDir, "WeaselSetup.exe")) ||
+                    !File.Exists(Path.Combine(payloadWeaselDir, "WeaselDeployer.exe")))
                 {
-                    if (!File.Exists(installer))
-                    {
-                        throw new FileNotFoundException("Bundled Weasel installer was not found.", installer);
-                    }
-
-                    AppendLog(logPath, "Installing Weasel silently.");
-                    Run(installer, "/S", logPath);
-                    deployer = FindWeaselDeployer();
+                    throw new FileNotFoundException("Bundled Weasel program files were not found.");
                 }
 
-                string setup = FindWeaselFile("WeaselSetup.exe");
-                string server = FindWeaselFile("WeaselServer.exe");
+                AppendLog(logPath, "Installing bundled Weasel files to " + installDir);
+                CopyDirectory(payloadWeaselDir, installDir, logPath);
+
+                string deployer = Path.Combine(installDir, "WeaselDeployer.exe");
+                string setup = Path.Combine(installDir, "WeaselSetup.exe");
+                string server = Path.Combine(installDir, "WeaselServer.exe");
 
                 Directory.CreateDirectory(rimeDir);
-                foreach (string file in Directory.GetFiles(tempDir, "*.yaml"))
+                foreach (string file in Directory.GetFiles(payloadRimeDir, "*", SearchOption.AllDirectories))
                 {
-                    string destination = Path.Combine(rimeDir, Path.GetFileName(file));
+                    string relative = file.Substring(payloadRimeDir.Length).TrimStart(Path.DirectorySeparatorChar, Path.AltDirectorySeparatorChar);
+                    string destination = Path.Combine(rimeDir, relative);
+                    Directory.CreateDirectory(Path.GetDirectoryName(destination));
                     File.Copy(file, destination, true);
                     AppendLog(logPath, "Copied " + destination);
                 }
 
-                if (deployer == null)
+                if (!File.Exists(deployer))
                 {
                     throw new FileNotFoundException("WeaselDeployer.exe was not found after installation.");
                 }
 
-                if (setup == null)
+                if (!File.Exists(setup))
                 {
                     throw new FileNotFoundException("WeaselSetup.exe was not found after installation.");
                 }
@@ -85,7 +87,7 @@ namespace KanjiImeInstaller
                 AppendLog(logPath, "Deploying with " + deployer);
                 Run(deployer, "/deploy", logPath);
 
-                if (server != null)
+                if (File.Exists(server))
                 {
                     AppendLog(logPath, "Starting Weasel server with " + server);
                     StartNoWait(server, "", logPath);
@@ -128,34 +130,24 @@ namespace KanjiImeInstaller
             }
         }
 
-        private static string FindWeaselDeployer()
+        private static void CopyDirectory(string sourceDir, string destinationDir, string logPath)
         {
-            return FindWeaselFile("WeaselDeployer.exe");
-        }
-
-        private static string FindWeaselFile(string fileName)
-        {
-            string[] roots =
+            foreach (string directory in Directory.GetDirectories(sourceDir, "*", SearchOption.AllDirectories))
             {
-                Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ProgramFilesX86), "Rime"),
-                Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ProgramFiles), "Rime")
-            };
-
-            foreach (string root in roots)
-            {
-                if (String.IsNullOrEmpty(root) || !Directory.Exists(root))
-                {
-                    continue;
-                }
-
-                string[] matches = Directory.GetFiles(root, fileName, SearchOption.AllDirectories);
-                if (matches.Length > 0)
-                {
-                    return matches[0];
-                }
+                string relative = directory.Substring(sourceDir.Length).TrimStart(Path.DirectorySeparatorChar, Path.AltDirectorySeparatorChar);
+                Directory.CreateDirectory(Path.Combine(destinationDir, relative));
             }
 
-            return null;
+            Directory.CreateDirectory(destinationDir);
+            foreach (string file in Directory.GetFiles(sourceDir, "*", SearchOption.AllDirectories))
+            {
+                string relative = file.Substring(sourceDir.Length).TrimStart(Path.DirectorySeparatorChar, Path.AltDirectorySeparatorChar);
+                string destination = Path.Combine(destinationDir, relative);
+                Directory.CreateDirectory(Path.GetDirectoryName(destination));
+                File.Copy(file, destination, true);
+            }
+
+            AppendLog(logPath, "Copied Weasel program files.");
         }
 
         private static void Run(string fileName, string arguments, string logPath)
