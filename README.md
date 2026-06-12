@@ -2,6 +2,13 @@
 
 KanjiIME is a Rime-based English-to-CJK/Japanese input method bundle.
 
+You can even type japanese/chinese without studying any words and communicate with native speaker.
+<img width="673" height="94" alt="062c99fb-819b-436a-940e-3fbb8e66e472" src="https://github.com/user-attachments/assets/609dd665-79c3-49b4-af02-fa89c12b2a02" />
+<img width="1591" height="523" alt="cb67d214-dc33-4796-9877-c082eb1d6723" src="https://github.com/user-attachments/assets/764450e9-467c-41f6-bcb7-ce32d399a68c" />
+<img width="384" height="97" alt="image" src="https://github.com/user-attachments/assets/d17d810c-8b09-4f15-914a-1986c53ebafc" />
+<img width="1593" height="479" alt="7db03fe0-0595-480b-871a-174b86e1c7e3" src="https://github.com/user-attachments/assets/106ddee4-1ff6-4f32-bc77-bf077cf6e90c" />
+
+
 Type an English meaning and choose a candidate by number or click/tap:
 
 - `fire` -> `火`, `炎`, `火事`
