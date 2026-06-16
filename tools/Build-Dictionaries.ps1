@@ -100,7 +100,12 @@ Get-ChildItem -Path $dataPath -Recurse -Filter "*.tsv" | Sort-Object FullName | 
 
     if (!$english -or !$candidate) { return }
 
-    $targets = if ($mode -eq "all") { @("jp", "zh", "hk") } else { @($mode) }
+      $isFallbackComment = $comment -match "common-fallback|common-empty-fallback"
+      $targets = if ($mode -eq "all") {
+        if ($isFallbackComment) { @("zh", "hk") } else { @("jp", "zh", "hk") }
+      } else {
+        @($mode)
+      }
     foreach ($target in $targets) {
       if (!$modes.ContainsKey($target)) {
         throw "Unknown mode '$mode' in $file. Use jp, zh, hk, or all."
@@ -126,26 +131,28 @@ foreach ($mode in $modes.Keys) {
       if ($row.Score -ge 0) { $presentEnglish.Add($row.English) | Out-Null }
     }
 
-    foreach ($entry in $commonRanks.GetEnumerator()) {
-      if ($entry.Value -gt 2000) { continue }
-      $english = $entry.Key
-      if ($english.Length -lt 3 -or $presentEnglish.Contains($english)) { continue }
-      $fallback = if ($mode -eq "zh") { [string][char]0x8BCD } elseif ($mode -eq "hk") { [string][char]0x8A5E } else { [string][char]0x8A9E }
-      $modes[$mode].Add([pscustomobject]@{
-        English = $english
-        Candidate = $fallback
-        Weight = 1
-        Score = 1
-        Comment = "common-empty-fallback"
-      })
-      $presentEnglish.Add($english) | Out-Null
+    if ($mode -ne "jp") {
+      foreach ($entry in $commonRanks.GetEnumerator()) {
+        if ($entry.Value -gt 2000) { continue }
+        $english = $entry.Key
+        if ($english.Length -lt 3 -or $presentEnglish.Contains($english)) { continue }
+        $fallback = if ($mode -eq "zh") { [string][char]0x8BCD } else { [string][char]0x8A5E }
+        $modes[$mode].Add([pscustomobject]@{
+          English = $english
+          Candidate = $fallback
+          Weight = 1
+          Score = 1
+          Comment = "common-empty-fallback"
+        })
+        $presentEnglish.Add($english) | Out-Null
+      }
     }
   }
 
   $lines = [System.Collections.Generic.List[string]]::new()
   $lines.Add("---")
   $lines.Add("name: $name")
-  $lines.Add('version: "0.1.0"')
+  $lines.Add('version: "2026.06.16.2"')
   $lines.Add("sort: by_weight")
   $lines.Add("use_preset_vocabulary: false")
   $lines.Add("...")

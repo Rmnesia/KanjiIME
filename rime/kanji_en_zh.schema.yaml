@@ -1,7 +1,7 @@
 schema:
   schema_id: kanji_en_zh
   name: "KanjiIME ZH"
-  version: "0.1.0"
+  version: "2026.06.16.2"
 
 switches:
   - name: ascii_mode

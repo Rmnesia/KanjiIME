@@ -41,7 +41,7 @@ if (!$WeaselSourceDir) {
 }
 
 $source = Resolve-Path $WeaselSourceDir
-foreach ($required in @("WeaselSetup.exe", "WeaselDeployer.exe", "WeaselServer.exe", "weasel.dll", "weasel.ime", "rime.dll")) {
+foreach ($required in @("WeaselSetup.exe", "WeaselDeployer.exe", "WeaselServer.exe", "weasel.dll", "rime.dll")) {
   if (!(Test-Path (Join-Path $source $required))) {
     throw "Invalid Weasel source directory: missing $required in $source"
   }
@@ -88,6 +88,12 @@ New-Item -ItemType Directory -Force -Path $kanjiUserDir | Out-Null
 Copy-Item -LiteralPath (Join-Path $root "rime/default.custom.yaml") -Destination $kanjiUserDir -Force
 Copy-Item -LiteralPath (Join-Path $root "rime/weasel.custom.yaml") -Destination $kanjiUserDir -Force
 Copy-Item -LiteralPath (Join-Path $root "rime/user.yaml") -Destination $kanjiUserDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_jp.schema.yaml") -Destination $kanjiUserDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_zh.schema.yaml") -Destination $kanjiUserDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_hk.schema.yaml") -Destination $kanjiUserDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_jp.dict.yaml") -Destination $kanjiUserDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_zh.dict.yaml") -Destination $kanjiUserDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_hk.dict.yaml") -Destination $kanjiUserDir -Force
 
 $nsi = Get-Content -LiteralPath (Join-Path $weaselOutput "install.nsi") -Raw -Encoding UTF8
 $compatibleInitBlock = @'
@@ -191,6 +197,13 @@ $copyUserBlock = @'
   File "kanjiime-user\default.custom.yaml"
   File "kanjiime-user\weasel.custom.yaml"
   File "kanjiime-user\user.yaml"
+  File "kanjiime-user\kanji_en_jp.schema.yaml"
+  File "kanjiime-user\kanji_en_zh.schema.yaml"
+  File "kanjiime-user\kanji_en_hk.schema.yaml"
+  File "kanjiime-user\kanji_en_jp.dict.yaml"
+  File "kanjiime-user\kanji_en_zh.dict.yaml"
+  File "kanjiime-user\kanji_en_hk.dict.yaml"
+  RMDir /r "$APPDATA\Rime\build"
   SetShellVarContext all
 '@
 $nsi = $nsi -replace '(?m)^  SetOutPath \$INSTDIR\r?\n\r?\n  ; test /T flag for zh_TW locale', ('  SetOutPath $INSTDIR' + $copyUserBlock + "`r`n`r`n  ; test /T flag for zh_TW locale")

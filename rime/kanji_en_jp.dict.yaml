@@ -1,6 +1,6 @@
 ﻿---
 name: kanji_en_jp
-version: "0.1.0"
+version: "2026.06.16.2"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -1259,12 +1259,10 @@ use_preset_vocabulary: false
 重祚	accession	1279
 継承	accession	1278
 即位	accession-to-the-throne	1279
-配件	accessories	2018
 服飾	accessories	2017
 小物	accessories	2017
 付属品	accessories	1858
 小もの	accessories	1797
-配件	accessory	1280
 付帯	accessory	1278
 附帯	accessory	1278
 付属品	accessory	1120
@@ -4541,7 +4539,6 @@ use_preset_vocabulary: false
 年齢差	age-gap	1118
 時効	ageing	1276
 月齢	age-in-months	1278
-語	agencies	1
 力	agency	2352
 代任	agency	1843
 桂庵	agency	1843
@@ -4624,7 +4621,6 @@ use_preset_vocabulary: false
 販売代理店	agent	1286
 旅行代理店	agent	1286
 ビラン剤	agent	1181
-語	agents	1
 斡旋料	agent's	1119
 あっせん料	agent's	804
 斡旋料	agent's-charge	1119
@@ -6292,7 +6288,6 @@ use_preset_vocabulary: false
 付け出し	allowed	1227
 髪置	allowing	1279
 髪置き	allowing	1059
-語	allows	1
 合金	alloy	1279
 各部	all-parts	1279
 全域	all-parts	1278
@@ -6710,7 +6705,6 @@ use_preset_vocabulary: false
 追い討ち	already	1595
 証明済み	already-proved	939
 大丈夫	alright	1116
-亦	also	2655
 又	also	2655
 とも言う	also-called	939
 俎	altar	1799
@@ -7583,7 +7577,6 @@ use_preset_vocabulary: false
 古意	ancient-ways	1279
 先哲	ancient-wise-men	1279
 古文	ancient-writing	1279
-和	and	2699
 已上	and-above	1278
 以上	and-above	1278
 御中	and-company	1279
@@ -7658,7 +7651,6 @@ use_preset_vocabulary: false
 御使い	angel	1059
 守護天使	angel	999
 天の使い	angel	939
-語	angeles	1
 鹹草	angelica	1279
 明日葉	angelica	1119
 鹹草	angelica-keiskei	1279
@@ -7958,12 +7950,12 @@ use_preset_vocabulary: false
 言い渡す	announce	939
 出る	announced	1203
 未公表	announced	1119
-公告	announcement	1280
 発表	announcement	1279
 発令	announcement	1279
 公表	announcement	1279
 公称	announcement	1279
 公達	announcement	1279
+公告	announcement	1279
 公示	announcement	1279
 内示	announcement	1279
 披露	announcement	1279
@@ -7986,7 +7978,6 @@ use_preset_vocabulary: false
 正式発表	announcement	999
 お披露目	announcement	939
 時報	announcement-of-time	1279
-公告	announcements	1545
 発表者	announcer	1119
 冲和	announcing	1276
 錯和	announcing	1276
@@ -8952,7 +8943,6 @@ use_preset_vocabulary: false
 機械	apparatus	1277
 器械	apparatus	1277
 伝音器	apparatus	1119
-語	apparel	1
 仮死	apparent	1279
 明白	apparent	1277
 擬死	apparent	1277
@@ -9596,7 +9586,6 @@ use_preset_vocabulary: false
 透す	approve	1193
 認める	approve	1055
 我が意を得る	approve	769
-語	approved	1
 盲判	approving	1279
 めくら判	approving	939
 概数	approximate	1279
@@ -9630,7 +9619,6 @@ use_preset_vocabulary: false
 近似	approximation	1279
 付属品	appurtenances	1118
 附属品	appurtenances	1118
-四月	apr	1910
 梅	apricot	1799
 楳	apricot	1799
 杏	apricot	1799
@@ -10183,7 +10171,6 @@ use_preset_vocabulary: false
 加減乗除	arithmetical	999
 等差数列	arithmetic-progression	999
 等差級数	arithmetic-series	999
-亚利桑那	arizona	950
 方舟	ark	1279
 箱船	ark	1279
 箱舟	ark	1279
@@ -11269,7 +11256,6 @@ use_preset_vocabulary: false
 手前	artistry	1273
 画会	artists	1687
 画壇	artists	1687
-艺术家	artists	1478
 芸術家	artists	1478
 画筆	artist's	1279
 画筆	artist's-brush	1279
@@ -11709,7 +11695,6 @@ use_preset_vocabulary: false
 申しつける	ask	1454
 申し付ける	ask	1454
 問いただす	ask	1454
-问	asked	2294
 聞いた	asked	1554
 不問	asking	1279
 反問	asking	1278
@@ -12104,7 +12089,6 @@ use_preset_vocabulary: false
 準会員	associate-member	1119
 準社員	associate-member	1119
 副牧師	associate-pastor	1119
-語	associates	1
 画会	association	1938
 結社	association	1938
 連想	association	1938
@@ -13219,12 +13203,10 @@ use_preset_vocabulary: false
 必竟	atyanta	1277
 畢竟	atyanta	1277
 競売	auction	1570
-拍卖	auction	1570
 競る	auction	1507
 糶る	auction	1507
 競争売買	auction	1289
 競売	auctions	1280
-拍卖	auctions	1280
 大胆	audacious	1278
 僭越	audacious	1278
 僣越	audacious	1278
@@ -13285,7 +13267,6 @@ use_preset_vocabulary: false
 動作記録	audit-trail	999
 監査記録	audit-trail	999
 監査証跡	audit-trail	999
-八月	aug	1915
 増やす	augment	1058
 殖やす	augment	1058
 卜占	augury	1278
@@ -13451,7 +13432,6 @@ use_preset_vocabulary: false
 捜索	authorized	1278
 公称資本	authorized	999
 公称資本	authorized-capital	999
-語	authors	1
 原注	author's	1279
 原註	author's	1279
 乞高評	author's	1119
@@ -13501,7 +13481,6 @@ use_preset_vocabulary: false
 自動化	automation	1119
 自働化	automation	1119
 四輪車	automobile	1119
-語	automotive	1
 自律神経	autonomic	999
 自律神経	autonomic-nerve	999
 主動的	autonomous	1119
@@ -13714,7 +13693,6 @@ use_preset_vocabulary: false
 啓蟄	awakening	1279
 喚起	awakening	1278
 泡盛	awamori	1279
-奖	award	2246
 勲記	award	1725
 裁定	award	1724
 贈る	award	1663
@@ -13730,7 +13708,6 @@ use_preset_vocabulary: false
 表賞	awarding	1278
 表彰	awarding	1278
 授賞	awarding-a-prize	1279
-奖	awards	2160
 敏感	aware	1278
 意識	aware	1278
 覚る	aware	1217
@@ -17525,7 +17502,6 @@ use_preset_vocabulary: false
 強請る	beg	1059
 何とぞ	beg	1058
 拝み倒す	beg	938
-開始	began	1280
 元年	began	1278
 同期生	began	1118
 瞽女	beggar	1279
@@ -17926,7 +17902,6 @@ use_preset_vocabulary: false
 北京	beijing	1279
 北京語	beijing	1119
 北京語	beijing-dialect	1119
-語	being	1
 剛い	being-able-to-handle	1211
 勁い	being-able-to-handle	1211
 強い	being-able-to-handle	1211
@@ -19103,7 +19078,7 @@ use_preset_vocabulary: false
 胸当	bib	1278
 胸あて	bib	1058
 胸当て	bib	1058
-聖書	bible	1577
+聖書	bible	1576
 下句	bible	1576
 下の句	bible	1356
 書誌	bibliography	1279
@@ -20542,8 +20517,6 @@ use_preset_vocabulary: false
 丁	blocks	1798
 楷書	block-style	1278
 正書	block-style	1278
-博客	blog	2001
-語	blogs	1
 金髪	blond	1279
 金髪	blond-hair	1279
 血	blood	2260
@@ -21218,7 +21191,6 @@ use_preset_vocabulary: false
 釣り船	boat-shaped-hanging-flower-vase	1058
 釣り舟	boat-shaped-hanging-flower-vase	1058
 艇身	boat's-length	1279
-語	bob	1
 御河童	bobbed	1119
 お河童	bobbed	1059
 御河童	bobbed-hair	1119
@@ -22215,7 +22187,6 @@ use_preset_vocabulary: false
 煩さい	bossy	1052
 五月蝿い	bossy	932
 五月蠅い	bossy	932
-波士顿	boston	1486
 植物園	botanical	1119
 植物園	botanical-garden	1119
 共	both	2597
@@ -23071,7 +23042,6 @@ use_preset_vocabulary: false
 別院	branch-temple	1279
 末寺	branch-temple	1279
 分院	branch-temple	1278
-品牌	brand	1857
 酒名	brand	1856
 烙印	brand	1856
 名酒	brand	1856
@@ -23100,7 +23070,6 @@ use_preset_vocabulary: false
 閃かす	brandish	1059
 真新しい	brand-new	939
 仕立て下ろし	brand-new	769
-品牌	brands	1651
 黄銅	brass	1279
 金管	brass	1279
 真鍮	brass	1279
@@ -24472,9 +24441,7 @@ use_preset_vocabulary: false
 玄米	brown-rice	1278
 黒砂糖	brown-sugar	1119
 出額	brows	1279
-浏览	browse	1979
 閲覧	browse	1979
-浏览器	browser	1605
 参照	browsing	1277
 閲覧	browsing	1277
 黶	bruise	1798
@@ -25745,7 +25712,6 @@ use_preset_vocabulary: false
 商談	business-discussion	1279
 繁華街	business-district	1119
 商業地	business-district	1119
-語	businesses	1
 事業拡充	business-expansion	999
 経営破綻	business-failure	999
 休業日	business-holiday	1119
@@ -26812,7 +26778,6 @@ use_preset_vocabulary: false
 椿	camellia	1799
 山茶	camellia	1279
 海石榴	camellia	1119
-相机	camera	1881
 写真機	camera	1720
 写真器	camera	1720
 写真屋	camera	1719
@@ -26821,7 +26786,6 @@ use_preset_vocabulary: false
 隠しカメラ	camera	1165
 写真班	cameramen	1119
 写真嫌い	cameraphobia	939
-相机	cameras	1759
 写真屋	camera-shop	1118
 写真機店	camera-shop	999
 迷彩	camouflage	1279
@@ -26947,7 +26911,6 @@ use_preset_vocabulary: false
 落花枝に帰らず破鏡再び照らさず	can	1428
 加	canada	2555
 加奈陀	canada	1876
-語	canadian	1
 壕	canal	1798
 濠	canal	1798
 堀	canal	1798
@@ -27490,7 +27453,6 @@ use_preset_vocabulary: false
 生擒	capturing-alive	1279
 生け擒	capturing-alive	1059
 生け捕り	capturing-alive	939
-车	car	2619
 車	car	2619
 函	car	2615
 筥	car	2615
@@ -27964,7 +27926,6 @@ use_preset_vocabulary: false
 お祭り	carnival	1058
 お祀り	carnival	1058
 肉食	carnivorous	1277
-語	carolina	1
 頸動脈	carotid	1119
 頚動脈	carotid	1119
 けい動脈	carotid	939
@@ -28255,7 +28216,6 @@ use_preset_vocabulary: false
 繰り越	carry-over	1059
 繰越し	carry-over	1059
 繰り越し	carry-over	939
-车	cars	2461
 車	cars	2461
 台数	cars	1940
 荷車	cart	2009
@@ -28454,7 +28414,6 @@ use_preset_vocabulary: false
 現金払い	cash-payment	939
 現金正価	cash-price	999
 現金引き出し	cash-withdrawal	769
-赌场	casino	1822
 五目飯	casserole	1119
 五目めし	casserole	939
 火食鳥	cassowary	1119
@@ -28787,7 +28746,6 @@ use_preset_vocabulary: false
 標語	catchword	1278
 公会問答	catechism	999
 公教要理	catechism	999
-語	categories	1
 圏	category	2543
 框	category	2542
 枠	category	2542
@@ -29278,7 +29236,6 @@ use_preset_vocabulary: false
 穴ぐら	cellar	1059
 収監力	cell-capacity	1119
 細胞膜	cell-membrane	1119
-語	cells	1
 摂氏	celsius	1279
 白亜質	cementum	1119
 華表	cemetery	1279
@@ -29453,7 +29410,6 @@ use_preset_vocabulary: false
 中	centre	2422
 芯	centre	2421
 心	centre	2420
-中心	centre	1906
 都心	centre	1905
 円心	centre	1905
 中枢	centre	1905
@@ -30739,7 +30695,6 @@ use_preset_vocabulary: false
 慈善箱	charity-box	1119
 慈善鍋	charity-pot	1119
 義塾	charity-school	1279
-語	charles	1
 嚏	charm	1798
 嚔	charm	1798
 味	charm	1797
@@ -31397,7 +31352,6 @@ use_preset_vocabulary: false
 粋	chic	1799
 小粋	chic	1278
 小意気	chic	1118
-芝加哥	chicago	1596
 雞	chicken	1799
 鶏	chicken	1799
 鷄	chicken	1799
@@ -32360,7 +32314,6 @@ use_preset_vocabulary: false
 異口同音	chorus	998
 折り返し	chorus	934
 合唱団	chorus-group	1119
-語	chris	1
 基督	christ	1279
 名づける	christen	938
 名付ける	christen	938
@@ -32378,7 +32331,6 @@ use_preset_vocabulary: false
 鬼理死丹	christianity	999
 吉利支丹	christianity	999
 キリスト教	christianity	624
-聖誕	christmas	1791
 彩度	chroma	1279
 律	chromatic	1794
 半音階	chromatic	1119
@@ -32609,8 +32561,8 @@ use_preset_vocabulary: false
 鼬ごっこ	circles	939
 周回	circling	1278
 堂々回り	circling	938
-堂々巡り	circling	938
 堂堂回り	circling	938
+堂々巡り	circling	938
 堂堂巡り	circling	938
 堂々回り	circling-a-temple	938
 堂々巡り	circling-a-temple	938
@@ -33323,7 +33275,6 @@ use_preset_vocabulary: false
 三行広告欄	classified	864
 三行広告欄	classified-ads	864
 別	classified-by	1794
-分类广告	classifieds	1000
 分類広告	classifieds	1000
 分類表	classified-table	1119
 えり分ける	classify	804
@@ -33773,7 +33724,6 @@ use_preset_vocabulary: false
 きまり文句	clich	802
 決まり文句	clich	802
 陳腐	clich-d	1278
-語	click	1
 釣	clickbaiting	1797
 釣り	clickbaiting	1217
 咄々	clicking	1279
@@ -33795,7 +33745,6 @@ use_preset_vocabulary: false
 取引先	client-company	1118
 取り引き先	client-company	803
 渉外	client-relations	1278
-語	clients	1
 厓	cliff	1799
 崖	cliff	1799
 懸崖	cliff	1279
@@ -34672,7 +34621,6 @@ use_preset_vocabulary: false
 ハ短調	c-minor	879
 何れ	c'mon	1217
 何れ何れ	c'mon	937
-科技网	cnet	1563
 馬車	coach	1279
 四頭立ての馬車	coach	734
 四頭立ての馬車	coach-and-four	734
@@ -35576,7 +35524,6 @@ use_preset_vocabulary: false
 色取り	color	1726
 色褪める	color	1608
 天然色写真	color	1533
-語	colorado	1
 着色	colorant	1278
 呈色	coloration	1279
 彩り	coloration	1218
@@ -35715,7 +35662,6 @@ use_preset_vocabulary: false
 生地	colours	1275
 素地	colours	1275
 朝焼け	colours	1058
-語	columbia	1
 コロンブスの卵	columbus	494
 コロンブスの玉子	columbus	459
 コロンブスの卵	columbus'-egg	494
@@ -35780,7 +35726,6 @@ use_preset_vocabulary: false
 不欄	columns	1279
 霜柱	columns	1279
 中段	columns	1278
-商业	com	1711
 昏睡	coma	1279
 昏睡状態	comatose	999
 こん睡状態	comatose	804
@@ -38216,7 +38161,6 @@ use_preset_vocabulary: false
 必修科目	compulsory-subject	999
 算用	computation	1279
 算定	computation	1278
-电脑	computer	2076
 電脳	computer	2075
 電算	computer	2075
 算譜	computer	2075
@@ -38243,7 +38187,6 @@ use_preset_vocabulary: false
 コンピュータ化	computerization	554
 コンピューター化	computerization	519
 算譜	computer-program	1279
-电脑	computers	1954
 台数	computers	1953
 計算機	computers	1794
 情報工学	computer-science	999
@@ -41751,7 +41694,6 @@ use_preset_vocabulary: false
 百日せき	cough	939
 百日ぜき	cough	939
 カラ咳	cough	879
-可能	could	2061
 樋	coulisse	1796
 町会	council	1947
 軍議	council	1947
@@ -45854,7 +45796,6 @@ use_preset_vocabulary: false
 自動データ処理	data	1410
 データの先頭	data	1385
 データ解析	data-analysis	624
-資料庫	database	1765
 データビット長	data-bit-length	554
 データ通信	data-communication	624
 データ交換	data-exchange	624
@@ -45868,7 +45809,6 @@ use_preset_vocabulary: false
 切	date	2661
 限	date	2661
 日	date	2660
-日期	date	2146
 納期	date	2145
 期日	date	2145
 日付	date	2145
@@ -45907,7 +45847,6 @@ use_preset_vocabulary: false
 付	date-of-effect	1798
 付け	date-of-effect	1218
 棗椰子	date-palm	1119
-日期	dates	1280
 円光	dating	1674
 先日付	dating	1515
 先日付け	dating	1335
@@ -45960,7 +45899,6 @@ use_preset_vocabulary: false
 剛胆	dauntless	1278
 豪胆	dauntless	1278
 不撓不屈	dauntlessness	998
-大卫	david	1888
 油をうる	dawdle	938
 油を売る	dawdle	938
 あぶらを売る	dawdle	768
@@ -46530,7 +46468,6 @@ use_preset_vocabulary: false
 難聴	deafness	1278
 聾者	deaf-person	1279
 ろう者	deaf-person	1059
-交易	deal	1757
 本物	deal	1755
 恩人	deal	1755
 沢山	deal	1753
@@ -46636,7 +46573,6 @@ use_preset_vocabulary: false
 取組み	dealing-with	1058
 取り組み	dealing-with	938
 解放	deallocation	1276
-交易	deals	1888
 舎監	dean	1279
 学監	dean	1279
 長老	dean	1277
@@ -46936,7 +46872,6 @@ use_preset_vocabulary: false
 不良貸し付け	debts	769
 処女	debut	1277
 出初め	debut	1059
-十二月	dec	1852
 一昔	decade	1278
 ひと昔	decade	1058
 頽廃	decadence	1278
@@ -48003,7 +47938,6 @@ use_preset_vocabulary: false
 穢れ	defilement	1218
 汚れ	defilement	1218
 冒とく	defilement	1057
-語	defined	1
 確報	definite	1279
 確答	definite	1279
 明確	definite	1278
@@ -48203,7 +48137,6 @@ use_preset_vocabulary: false
 憂うつ	dejection	1058
 意気消沈	dejection	998
 意気銷沈	dejection	998
-删除	del	1230
 削除	del	1230
 遅配	delay	1279
 遅延	delay	1279
@@ -49243,7 +49176,6 @@ use_preset_vocabulary: false
 映しだす	describe	936
 映し出す	describe	936
 書き表わす	describe	803
-語	described	1
 道行	describing	1277
 自称	describing	1276
 道行き	describing	1057
@@ -49891,7 +49823,6 @@ use_preset_vocabulary: false
 申命記	deuteronomy	1119
 うの花	deutzia	1057
 卯の花	deutzia	1057
-开发	dev	1527
 開発	dev	1527
 天	deva	1795
 二王	deva	1279
@@ -50010,7 +49941,6 @@ use_preset_vocabulary: false
 装置制御	device	1358
 電荷結合素子	device	1188
 装置制御	device-control-character	999
-語	devices	1
 悪魔	devil	1279
 魔風	devil	1279
 魔神	devil	1279
@@ -53563,7 +53493,6 @@ use_preset_vocabulary: false
 記録映画	documentary	999
 荷為替	documentary-bill	1119
 記録映画	documentary-film	999
-語	documentation	1
 通	documents	2280
 資料	documents	1760
 外す	dodge	1212
@@ -53800,14 +53729,12 @@ use_preset_vocabulary: false
 てるてる坊主	doll	769
 照る照る坊主	doll	769
 弗	dollar	1799
-美元	dollar	1280
 黄金万能	dollar	999
 ドル札	dollar	879
 米ドル	dollar	879
 ドル記号	dollar	759
 ドル札	dollar-bill	879
 仏法僧	dollarbird	1117
-美元	dollars	1280
 ドル記号	dollar-sign	759
 お粧し	dolling	1058
 御粧し	dolling	1058
@@ -54964,13 +54891,11 @@ use_preset_vocabulary: false
 暗い	down-in-the-dumps	1216
 昏い	down-in-the-dumps	1216
 冥い	down-in-the-dumps	1216
-下载	download	2074
 落す	download	1995
 堕とす	download	1835
 落とす	download	1835
 墜とす	download	1835
 割れ	downloading	1217
-下载	downloads	1914
 頭	down-payment	1790
 頭金	down-payment	1279
 大雨	downpour	1278
@@ -57079,9 +57004,7 @@ use_preset_vocabulary: false
 かけ布団	duvet	939
 掛け布団	duvet	939
 掛けぶとん	duvet	804
-光盘	dvd	2045
 光盤	dvd	2045
-光盘	dvds	1511
 光盤	dvds	1511
 朱儒	dwarf	1279
 侏儒	dwarf	1279
@@ -58225,7 +58148,6 @@ use_preset_vocabulary: false
 軒下	eaves	1279
 軒先	eaves	1279
 雁木	eaves	1277
-易趣	ebay	2058
 干満	ebb	1279
 満干	ebb	1279
 引潮	ebb	1279
@@ -58569,7 +58491,6 @@ use_preset_vocabulary: false
 詔書	edict	1279
 公示	edict	1278
 啓発	edification	1278
-編集	edit	1899
 定本	edited	1277
 編集	editing	1279
 編輯	editing	1279
@@ -60361,7 +60282,6 @@ use_preset_vocabulary: false
 乳剤	emulsion	1279
 乳濁	emulsion	1279
 乳濁液	emulsion	1119
-启用	enable	1280
 有効化	enable	1120
 非許容	enabled	1119
 立回る	enact	1054
@@ -61512,7 +61432,6 @@ use_preset_vocabulary: false
 少尉	ensign	1278
 軍旗	ensign	1277
 奴	enslavement	1794
-語	ensure	1
 確保	ensuring	1278
 絡めとる	entangle	937
 絡め取る	entangle	937
@@ -61871,7 +61790,6 @@ use_preset_vocabulary: false
 嘆願	entreaty	1279
 歎願	entreaty	1279
 哀願	entreaty	1278
-条目	entries	1280
 項目	entries	1280
 任す	entrust	1219
 委す	entrust	1219
@@ -61897,7 +61815,6 @@ use_preset_vocabulary: false
 依托	entrustment	1279
 依託	entrustment	1279
 入	entry	2366
-条目	entry	1848
 項目	entry	1848
 記入	entry	1847
 進入	entry	1847
@@ -62382,7 +62299,6 @@ use_preset_vocabulary: false
 誤字	erratum	1277
 僻	erroneous	1798
 謬	error	2401
-错误	error	1882
 誤差	error	1881
 誤写	error	1881
 僻目	error	1880
@@ -62406,7 +62322,6 @@ use_preset_vocabulary: false
 受信エラー	error	1226
 伝送エラー	error	1226
 誤写	error-in-copying	1279
-错误	errors	1280
 誤り	errors	1220
 摸造	ersatz	1277
 模造	ersatz	1277
@@ -62599,7 +62514,6 @@ use_preset_vocabulary: false
 柄	essential-qualities	1796
 骨子	essentials	1278
 要領	essentials	1278
-語	est	1
 置く	establish	1217
 成す	establish	1216
 興す	establish	1216
@@ -62769,7 +62683,6 @@ use_preset_vocabulary: false
 穢多	eta	1279
 他	et-al	1794
 外	et-al	1794
-語	etc	1
 等	et-cetera	1799
 抔	et-cetera	1799
 云々	et-cetera	1278
@@ -62871,7 +62784,6 @@ use_preset_vocabulary: false
 忌み言葉	euphemism	938
 婉曲	euphemistic	1279
 音便	euphony	1279
-欧元	eur	1824
 貛	eurasian	1798
 鷦鷯	eurasian	1279
 穴熊	eurasian	1278
@@ -63226,8 +63138,8 @@ use_preset_vocabulary: false
 それ以来	ever	1573
 果たして	ever	1571
 世々限りなく	ever	1404
-世々限り無く	ever	1404
 世世限りなく	ever	1404
+世々限り無く	ever	1404
 世世限り無く	ever	1404
 無常	ever-changing	1277
 変幻自在	ever-changing	997
@@ -67876,7 +67788,6 @@ use_preset_vocabulary: false
 伝奇	fantasy-fiction	1279
 空想科学小説	fantasy-fiction	828
 伝奇小説	fantasy-novel	999
-常見問題	faq	1662
 迄	far	2410
 上	far	2403
 極東	far	1894
@@ -68644,7 +68555,6 @@ use_preset_vocabulary: false
 取り巻く	fawn	937
 令色	fawning	1279
 令色	fawning-look	1279
-传真	fax	1971
 耕地	fazenda	1277
 ヘ音記号	f-clef	759
 虞	fear	1799
@@ -68743,7 +68653,6 @@ use_preset_vocabulary: false
 採り上げる	feature	1280
 取りあげる	feature	1280
 取り上げる	feature	1280
-精选	featured	1770
 注目	featured	1770
 特徴抽出	feature-extraction	999
 長編	feature-length	1278
@@ -68765,7 +68674,6 @@ use_preset_vocabulary: false
 やさ男	features	1799
 顔かたち	features	1680
 特徴量	feature-value	1119
-二月	feb	1934
 ２月	february	1976
 二月	february	1976
 糞	feces	1797
@@ -69214,7 +69122,6 @@ use_preset_vocabulary: false
 気おくれ	feeling-timid	938
 歯切れ	feel-when-biting	1059
 着心地	feel-when-wearing-something	1119
-费用	fees	1632
 加工賃	fees	1521
 教材費	fees	1521
 呎	feet	2221
@@ -70165,8 +70072,8 @@ use_preset_vocabulary: false
 両刀	fields	1518
 野外	fields	1517
 段々畑	fields	1359
-段段畑	fields	1359
 段々畠	fields	1359
+段段畑	fields	1359
 あぜ道	fields	1299
 八面六臂	fields	1239
 きつね火	fields	1179
@@ -70523,7 +70430,6 @@ use_preset_vocabulary: false
 鑢	file	2606
 列	file	2605
 綴	file	2605
-文件	file	2087
 卒伍	file	2086
 同列	file	2085
 雑兵	file	2085
@@ -70542,7 +70448,6 @@ use_preset_vocabulary: false
 皮剝	filefish	1279
 皮剥ぎ	filefish	1059
 皮剝ぎ	filefish	1059
-文件	files	1973
 書類	files	1933
 ファイル分離キャラクタ	file-separator	414
 出願書類	file-wrapper	998
@@ -70645,8 +70550,8 @@ use_preset_vocabulary: false
 飲みこむ	filled	934
 飲み込む	filled	934
 戦々兢々	filled-with-trepidation	998
-戦戦兢兢	filled-with-trepidation	998
 戦々恐々	filled-with-trepidation	998
+戦戦兢兢	filled-with-trepidation	998
 戦戦恐恐	filled-with-trepidation	998
 付髪	filler	1278
 繋ぎ	filler	1216
@@ -72473,7 +72378,6 @@ use_preset_vocabulary: false
 落ち着く	fit	1190
 普遍妥当性	fit	1125
 斑	fitfulness	1794
-語	fitness	1
 疳癪	fit-of-anger	1278
 癇癪	fit-of-anger	1278
 癇しゃく	fit-of-anger	938
@@ -73413,7 +73317,6 @@ use_preset_vocabulary: false
 花模様	floral-pattern	1119
 詞藻	florid	1279
 詩藻	florid	1279
-佛罗里达	florida	1591
 詞藻	florid-expression	1279
 詩藻	florid-expression	1279
 花屋	florist	1279
@@ -74618,7 +74521,6 @@ use_preset_vocabulary: false
 下足料	footwear-checking-charge	1119
 伊達男	fop	1118
 だて男	fop	1058
-為	for	2698
 為に	for	2068
 久しく	for-a-good-while	1058
 そうかと言って	for-all-that	732
@@ -74913,7 +74815,6 @@ use_preset_vocabulary: false
 念の為	for-confirmation	1058
 念のため	for-confirmation	938
 便宜上	for-convenience	1119
-福特	ford	1534
 命辛々	for-dear-life	1119
 命辛辛	for-dear-life	1119
 一生懸命	for-dear-life	997
@@ -75986,11 +75887,9 @@ use_preset_vocabulary: false
 止め	forty-five-degree-angle	1217
 忠臣蔵	forty-seven	1119
 忠臣蔵	forty-seven-r-nin	1119
-论坛	forum	2093
 土俵	forum	2091
 広場	forum	2090
 掲示板	forum	1933
-论坛	forums	2017
 掲示板	forums	1857
 食用	for-use-as-food	1279
 子供用	for-use-by-children	1119
@@ -76536,7 +76435,6 @@ use_preset_vocabulary: false
 佛國	france	1921
 南仏	france	1921
 加盟店	franchisee	1117
-語	francisco	1
 鷓鴣	francolin	1279
 端的	frank	1279
 率直	frank	1279
@@ -76992,7 +76890,6 @@ use_preset_vocabulary: false
 心気	fretfulness	1277
 辛気	fretfulness	1277
 金曜日	fri	1627
-星期五	fri	1627
 修院	friary	1279
 摩擦音	fricative	1119
 漣	friction	1796
@@ -77283,7 +77180,6 @@ use_preset_vocabulary: false
 蛙の子はカエル	frog	493
 カエルの子はカエル	frog	423
 巫山戯る	frolic	934
-自	from	2693
 畑違い	from-a-different-mother	1058
 畑ちがい	from-a-different-mother	938
 遥々	from-afar	1279
@@ -78120,7 +78016,6 @@ use_preset_vocabulary: false
 原音	fundamental-tone	1279
 原理	fundamental-truth	1278
 原振動	fundamental-vibration	1119
-語	funding	1
 褌	fundoshi	1799
 犢鼻褌	fundoshi	1119
 募金	fundraising	1279
@@ -78623,7 +78518,6 @@ use_preset_vocabulary: false
 胆嚢	gallbladder	1279
 胆囊	gallbladder	1279
 胆のう	gallbladder	1059
-語	galleries	1
 画廊	gallery	2025
 傍聴席	gallery	1865
 聾桟敷	gallery	1863
@@ -79756,8 +79650,6 @@ use_preset_vocabulary: false
 幾何学	geometry	1119
 平面幾何学	geometry	864
 地球物理学	geophysics	864
-乔治	george	1739
-語	georgia	1
 静止軌道	geostationary	999
 静止衛星	geostationary	999
 静止軌道	geostationary-orbit	999
@@ -81328,7 +81220,6 @@ use_preset_vocabulary: false
 健啖	gluttony	1279
 ト長調	g-major	879
 ト短調	g-minor	879
-格林威治	gmt	1378
 切歯	gnashing	1277
 歯切り	gnashing	1059
 切歯	gnashing-of-teeth	1277
@@ -81976,7 +81867,6 @@ use_preset_vocabulary: false
 金印	gold-seal	1279
 金歯	gold-tooth	1279
 金時計	gold-watch	1119
-高尔夫	golf	1719
 ゴルフ場	golf	1358
 接待ゴルフ	golf	1223
 ゴルフ倶楽部	golf	1188
@@ -82566,7 +82456,6 @@ use_preset_vocabulary: false
 佳酒	good-wine	1279
 佳言	good-words	1279
 嘉言	good-words	1279
-谷歌	google	1865
 呉音	go-on	1279
 雁	goose	1799
 鴈	goose	1799
@@ -83240,7 +83129,6 @@ use_preset_vocabulary: false
 草子	graphic-novel	1277
 冊子	graphic-novel	1277
 双紙	graphic-novel	1277
-語	graphics	1
 黒鉛	graphite	1279
 組む	grapple	1215
 取組む	grapple	1059
@@ -85070,7 +84958,6 @@ use_preset_vocabulary: false
 手びき	guidance	1059
 手引き	guidance	1059
 個人指導	guidance	999
-指南	guide	2066
 凡例	guide	2064
 教典	guide	2064
 手引	guide	2064
@@ -85110,9 +84997,7 @@ use_preset_vocabulary: false
 心得	guideline	1277
 防止指針	guideline	999
 自主指針	guideline	999
-語	guidelines	1
 道標	guidepost	1279
-指南	guides	1721
 善知識	guides	1560
 善智識	guides	1560
 訓点	guiding	1279
@@ -87095,7 +86980,6 @@ use_preset_vocabulary: false
 解りにくい	hard-to-understand	804
 判りにくい	hard-to-understand	804
 分かりにくい	hard-to-understand	769
-硬件	hardware	1862
 硬水	hard-water	1279
 冷語	hard-words	1279
 刻苦	hard-work	1279
@@ -91696,7 +91580,6 @@ use_preset_vocabulary: false
 内務省	home-ministry	1119
 内務省	home-office	1118
 同相	homeomorphism	1277
-主页	homepage	1809
 母港	home-port	1279
 定位置	home-position	1119
 持上る	homeroom	1055
@@ -92470,7 +92353,6 @@ use_preset_vocabulary: false
 激戦	hot-contest	1278
 劇戦	hot-contest	1278
 宿	hotel	2628
-酒店	hotel	2110
 安宿	hotel	2109
 宿舎	hotel	2108
 泊り賃	hotel	1889
@@ -92478,7 +92360,6 @@ use_preset_vocabulary: false
 赤プリ	hotel	1709
 品プリ	hotel	1709
 泊り賃	hotel-charges	1059
-酒店	hotels	2103
 熱苦しい	hot-looking	937
 暑苦しい	hot-looking	937
 掛	hot-noodles-in-broth	1790
@@ -93059,7 +92940,6 @@ use_preset_vocabulary: false
 使用方法	how-to-use	999
 使いよう	how-to-use	939
 総統	hrer	1277
-网页	html	1808
 網頁	html	1808
 ハッブル望遠鏡	hubble	554
 ハッブル望遠鏡	hubble-telescope	554
@@ -93846,7 +93726,6 @@ use_preset_vocabulary: false
 同前	ibid	1278
 同上	ibid	1278
 同書	ibid	1278
-語	ibm	1
 的	ical	1799
 氷	ice	2050
 冰	ice	2050
@@ -94306,7 +94185,6 @@ use_preset_vocabulary: false
 眼中に無い	ignoring	802
 信号無視	ignoring-a-traffic-light	999
 様に	i-hope	1215
-語	iii	1
 後生	i-implore-you	1277
 花	ikebana	1794
 華	ikebana	1794
@@ -94433,7 +94311,6 @@ use_preset_vocabulary: false
 私通	illicit-love-affair	1279
 道ならぬ恋	illicit-love-affair	804
 密売	illicit-sale	1279
-語	illinois	1
 瞽	illiteracy	1798
 盲	illiteracy	1798
 文盲	illiteracy	1279
@@ -94568,11 +94445,11 @@ use_preset_vocabulary: false
 佛	image	2573
 画	image	2572
 絵	image	2572
-画像	image	2055
 倒像	image	2054
 仏師	image	2054
 仏座	image	2054
 画調	image	2054
+画像	image	2054
 画質	image	2054
 機影	image	2054
 偶像	image	2054
@@ -94607,7 +94484,6 @@ use_preset_vocabulary: false
 画像処理装置	image-processing-equipment	829
 画質	image-quality	1279
 座	images	2462
-画像	images	1952
 仏工	images	1951
 両像	images	1951
 虚数	imaginary	1279
@@ -95930,7 +95806,6 @@ use_preset_vocabulary: false
 天賦	inborn	1278
 先天的	inborn	1119
 真性	inborn-nature	1279
-公司	inc	1719
 陣中	in-camp	1279
 呪術	incantation	1278
 呪文	incantation	1278
@@ -96074,7 +95949,6 @@ use_preset_vocabulary: false
 動もすれば	inclined	803
 動ともすれば	inclined	768
 傾斜面	inclined-plane	1119
-包含	include	2024
 含む	include	1981
 銜む	include	1981
 含める	include	1823
@@ -96107,7 +95981,6 @@ use_preset_vocabulary: false
 保証付き	included	1549
 含まれない	included	1415
 限り	included-in	1210
-包含	includes	1928
 含む	includes	1838
 粒	including	2584
 共	including	2582
@@ -96850,7 +96723,6 @@ use_preset_vocabulary: false
 個別化	individualization	1119
 個々に	individually	1059
 個個に	individually	1059
-語	individuals	1
 不分割	indivisibility	1119
 割りきれない	indivisible	769
 割り切れない	indivisible	769
@@ -97503,7 +97375,6 @@ use_preset_vocabulary: false
 口利き	influential-person	1056
 流感	influenza	1279
 流行性感冒	influenza	864
-情報	info	2127
 冠省	inform	1279
 断る	inform	1216
 報せる	inform	1058
@@ -97563,10 +97434,10 @@ use_preset_vocabulary: false
 縁	information	2681
 曝	information	2680
 晒	information	2680
-情報	information	2164
 報知	information	2163
 垂教	information	2163
 見聞	information	2163
+情報	information	2163
 情機	information	2163
 一報	information	2163
 奥付	information	2162
@@ -100107,7 +99978,6 @@ use_preset_vocabulary: false
 凄み	intimidation	1217
 脅迫罪	intimidation	1119
 どう喝	intimidation	1059
-入	into	2642
 中へ	into	2032
 堪らない	intolerable	939
 目に余る	intolerable	939
@@ -100817,7 +100687,6 @@ use_preset_vocabulary: false
 辛気	irritation	1276
 刺激性	irritativeness	1119
 刺戟性	irritativeness	1119
-书号	isbn	1580
 書号	isbn	1580
 せざるを得ない	is-compelled-to-do	733
 二宮	ise	1279
@@ -101345,7 +101214,6 @@ use_preset_vocabulary: false
 詰め込む	jam	938
 杏ジャム	jam	759
 牙買加	jamaica	1119
-詹姆斯	james	1676
 詰る	jammed	1208
 詰まる	jammed	1048
 混みあう	jammed	938
@@ -101364,7 +101232,6 @@ use_preset_vocabulary: false
 鮨詰め	jam-packed	1059
 すし詰め	jam-packed	939
 寿司詰め	jam-packed	939
-一月	jan	2129
 守衛	janitor	1278
 門番	janitor	1277
 １月	january	2115
@@ -102006,7 +101873,6 @@ use_preset_vocabulary: false
 黄だん	jaundice	1059
 物見遊山	jaunt	999
 颯爽	jaunty	1278
-語	java	1
 鑓	javelin	1798
 槍	javelin	1798
 鎗	javelin	1798
@@ -102088,7 +101954,6 @@ use_preset_vocabulary: false
 水母	jellyfish	1279
 ぴくぴく動く	jerk	769
 ピクピク動く	jerk	529
-語	jersey	1
 洒落	jest	1278
 戯ける	jest	1059
 戲ける	jest	1059
@@ -102128,7 +101993,6 @@ use_preset_vocabulary: false
 玉露	jewel-like	1278
 玉露	jewel-like-dewdrop	1278
 宝石	jewelry	1812
-珠宝	jewelry	1812
 剣璽	jewels	1279
 三宝	jewels	1279
 双壁	jewels	1278
@@ -102147,7 +102011,6 @@ use_preset_vocabulary: false
 芇	jigo	1799
 持碁	jigo	1279
 振る	jilt	1214
-吉姆	jim	1230
 神武	jimmu	1279
 神代	jimmu	1277
 神世	jimmu	1277
@@ -102229,11 +102092,9 @@ use_preset_vocabulary: false
 求人	job-vacancy	1278
 求人口	job-vacancy	1119
 騎手	jockey	1278
-约翰	john	2006
 股引	johns	1278
 股引き	johns	1058
 もも引き	johns	938
-约翰逊	johnson	1070
 結合	join	2029
 中次	join	2029
 中継	join	2029
@@ -102480,7 +102341,6 @@ use_preset_vocabulary: false
 揺れ	jolt	1218
 揺	jolting	1798
 揺り	jolting	1218
-琼斯	jones	1230
 ダウ平均株価	jones	589
 黄水仙	jonquil	1119
 定石	joseki	1277
@@ -102707,7 +102567,6 @@ use_preset_vocabulary: false
 棗	jujube	1799
 柔術	jujutsu	1278
 塾	juku	1798
-七月	jul	1887
 ７月	july	2013
 七月	july	2013
 玉石混交	jumble	998
@@ -102857,7 +102716,6 @@ use_preset_vocabulary: false
 決起	jumping-to-ones-feet	1278
 蹶起	jumping-to-ones-feet	1278
 欣喜雀躍	jump-up-for-joy	999
-六月	jun	1881
 分岐駅	junction	1119
 三叉路	junction	1119
 三差路	junction	1119
@@ -103449,7 +103307,6 @@ use_preset_vocabulary: false
 関西弁	kansai-dialect	1119
 関西辯	kansai-dialect	1119
 上方	kansai-region	1278
-堪萨斯	kansas	1070
 関東	kant	1279
 関東弁	kant	1119
 邯鄲の歩み	kantan	804
@@ -103912,8 +103769,6 @@ use_preset_vocabulary: false
 打鍵	keystroke	1279
 打けん	keystroke	1059
 緊要地形	key-terrain	999
-关键字	keyword	1070
-关键字	keywords	1436
 南都	k-fuku-ji	1278
 錫杖	khakkhara	1279
 紅白	k-haku-uta-gassen	1277
@@ -106080,7 +105935,6 @@ use_preset_vocabulary: false
 仔虫	larva	1279
 喉頭	larynx	1279
 こう頭	larynx	1059
-語	las	1
 淫事	lascivious	1279
 淫乱	lascivious	1278
 徒者	lascivious	1277
@@ -108295,7 +108149,6 @@ use_preset_vocabulary: false
 らい病	leprosy	1059
 ライ病	leprosy	879
 ハンセン病	leprosy	624
-女同性戀	lesbian	1468
 不敬罪	lese	1119
 不敬罪	lese-majesty	1119
 病巣	lesion	1278
@@ -110322,7 +110175,6 @@ use_preset_vocabulary: false
 安価	link	2081
 連絡	link	2078
 聯絡	link	2078
-链接	link	2036
 繋ぎ	link	2025
 結ぶ	link	2024
 江に	link	2023
@@ -110354,7 +110206,6 @@ use_preset_vocabulary: false
 合流	linking	1276
 合流	linking-up	1276
 連結	links	2124
-链接	links	2074
 リノール酸	linoleic	624
 リノール酸	linoleic-acid	624
 亜麻仁油	linseed	999
@@ -110367,7 +110218,6 @@ use_preset_vocabulary: false
 冠木	lintel	1279
 鴨居	lintel	1279
 Linux系	linux	1387
-Linux系统	linux	1352
 魹	lion	1799
 海馬	lion	1279
 胡獱	lion	1279
@@ -110458,7 +110308,6 @@ Linux系统	linux	1352
 表	list	2662
 掛	list	2653
 懸	list	2653
-列表	list	2144
 定価	list	2143
 番付	list	2143
 番附	list	2143
@@ -110558,8 +110407,6 @@ Linux系统	linux	1352
 上場	listing	2048
 羅列	listing	2047
 記載	listing	2046
-列表	listing	1999
-列表	listings	1823
 怠い	listless	1218
 懶い	listless	1218
 懈い	listless	1218
@@ -110569,7 +110416,6 @@ Linux系统	linux	1352
 目録	list-of-betrothal-presents	1277
 明細書	list-of-particulars	1117
 定価	list-price	1279
-列表	lists	1713
 外字	lists	1710
 明々	lit	1279
 明明	lit	1279
@@ -111081,7 +110927,6 @@ Linux系统	linux	1352
 襟巻蜥蜴	lizard	999
 襟巻き蜥蜴	lizard	804
 半夏生	lizard's	1119
-公司	llc	1477
 鰌	loach	1799
 泥鰌	loach	1279
 柳川鍋	loach	1119
@@ -111485,13 +111330,11 @@ Linux系统	linux	1352
 質	logical-quality	1796
 論理回路	logic-device	999
 論理演算	logic-operation	999
-登录	login	2000
 成長曲線	logistic	999
 成長曲線	logistic-curve	999
 兵站	logistics	1279
 兵站学	logistics	1119
 兵たん	logistics	1059
-標誌	logo	1797
 褒め合い	logrolling	939
 褒め合い	logrolling-tactics	939
 粗木	logs	1279
@@ -112534,7 +112377,6 @@ Linux系统	linux	1352
 主意	lord's	1276
 主の祈り	lord's	939
 主の晩餐	lord's	939
-洛杉矶	los	1612
 刺々	lose	1277
 刺刺	lose	1277
 苛々	lose	1277
@@ -112976,7 +112818,6 @@ Linux系统	linux	1352
 泣き喚く	loudly	938
 泣きわめく	loudly	803
 大声	loud-voice	1279
-路易斯	louis	1070
 喫茶	lounge	1277
 喫茶店	lounge	1118
 応接セット	lounge	624
@@ -113707,7 +113548,6 @@ Linux系统	linux	1352
 菱形	lozenge	1278
 ひし形	lozenge	1058
 律	l-shi	1796
-有限公司	ltd	1442
 潤滑油	lube	1118
 滑沢剤	lubricant	1119
 給油	lubricating	1278
@@ -114193,7 +114033,6 @@ Linux系统	linux	1352
 お姉さん	ma'am	936
 御姐さん	ma'am	936
 御姉さん	ma'am	936
-語	mac	1
 割栗	macadam	1278
 割栗石	macadam	1118
 割り栗	macadam	1058
@@ -114650,7 +114489,6 @@ Linux系统	linux	1352
 集配人	mail-carrier	1118
 郵便屋	mail-carrier	1118
 郵便配達	mail-carrier	997
-邮件	mailing	1674
 郵送	mailing	1674
 投函	mailing	1673
 住所録	mailing	1512
@@ -116852,7 +116690,6 @@ Linux系统	linux	1352
 鋪	maps	2275
 舗	maps	2275
 模型	maquette	1278
-三月	mar	1924
 大理石	marble	1119
 笠子	marbled	1278
 笠子	marbled-rockfish	1278
@@ -117172,7 +117009,6 @@ Linux系统	linux	1352
 相場	market-price	1279
 市場改革	market-reform	999
 市場調査	market-research	999
-語	markets	1
 市場の飽和状態	market-saturation	734
 市場規模	market-scale	999
 市場区分	market-segment	999
@@ -117386,7 +117222,6 @@ Linux系统	linux	1352
 軍律	martial-law	1279
 戒厳令	martial-law	1119
 火星人	martian	1119
-語	martin	1
 殉教者	martyr	1119
 殉難	martyrdom	1279
 元服	marumage	1278
@@ -117394,7 +117229,6 @@ Linux系统	linux	1352
 奇跡	marvel	1278
 奇蹟	marvel	1278
 神妙	marvellous	1275
-玛丽	mary	1628
 男性	masculine	1278
 硬派	masculine	1277
 男性	masculine-gender	1278
@@ -118078,7 +117912,6 @@ Linux系统	linux	1352
 喰い下がる	mawashi	799
 食いさがる	mawashi	799
 食い下がる	mawashi	799
-語	max	1
 句	maxim	1794
 最大化	maximization	1119
 極大	maximum	1719
@@ -120143,8 +119976,6 @@ Linux系统	linux	1352
 見合い	miai	1057
 雲母	mica	1279
 鼠害	mice	1279
-迈克尔	michael	1663
-語	michigan	1
 天神	michizane	1278
 微生物	microbe	1119
 微生物学	microbiology	999
@@ -120157,11 +119988,9 @@ Linux系统	linux	1352
 微小	microscopic	1279
 顕微	microscopic	1279
 微視的	microscopic	1119
-微软	microsoft	1920
 マイクロ波	microwave	624
 電子レンジ	microwave	624
 電子レンジ	microwave-oven	624
-中	mid	1750
 お八つ	mid-afternoon	1058
 御八つ	mid-afternoon	1058
 お八つ	mid-afternoon-snack	1058
@@ -120463,7 +120292,6 @@ Linux系统	linux	1352
 天照大神	mikami	999
 天照大御神	mikami	864
 天照皇大神	mikami	864
-迈克	mike	1565
 密教	mikky	1277
 神子	miko	1279
 巫女	miko	1279
@@ -120951,7 +120779,6 @@ Linux系统	linux	1352
 物まね	mimicry	1058
 人マネ	mimicry	879
 擬態語	mimics	1118
-語	min	1
 源氏	minamoto	1278
 刻む	mince	1219
 餃子	minced	1278
@@ -121165,7 +120992,6 @@ Linux系统	linux	1352
 入り混じる	mingled	803
 入り交じる	mingled	803
 雨混じりの雪	mingled	769
-語	mini	1
 龕	miniature	1798
 厨子	miniature	1279
 廚子	miniature	1279
@@ -121379,7 +121205,6 @@ Linux系统	linux	1352
 陰極	minus-terminal	1278
 分	minute	2044
 許	minute	2038
-分鐘	minute	1525
 １分	minute	1524
 半分	minute	1524
 分針	minute	1524
@@ -121411,7 +121236,6 @@ Linux系统	linux	1352
 詳しく	minutely	1058
 事細かに	minutely	939
 こと細かに	minutely	804
-分鐘	minutes	1904
 十分	minutes	1903
 記録	minutes	1902
 記錄	minutes	1902
@@ -122235,7 +122059,6 @@ Linux系统	linux	1352
 法	model	2539
 範	model	2539
 則	model	2539
-模型	model	2022
 車種	model	2021
 雛形	model	2021
 雛型	model	2021
@@ -122244,6 +122067,7 @@ Linux系统	linux	1352
 軌範	model	2021
 機種	model	2021
 旧型	model	2021
+模型	model	2021
 師表	model	2021
 手本	model	2021
 私淑	model	2021
@@ -122290,7 +122114,6 @@ Linux系统	linux	1352
 型番	model-number	1279
 機種	model-of-aircraft	1278
 作例	model-of-writing	1279
-模型	models	1873
 例文	model-sentence	1278
 優等生	model-student	1118
 モデムの設定	modem	529
@@ -122418,7 +122241,6 @@ Linux系统	linux	1352
 振幅変調	modulation	999
 周波変調	modulation	999
 周波数変調	modulation	864
-語	module	1
 手口	modus	1279
 手口	modus-operandi	1279
 メディア王	mogul	624
@@ -122889,7 +122711,6 @@ Linux系统	linux	1352
 雑種	mongrel	1278
 一元論	monism	1119
 一元的	monistic	1119
-語	monitor	1
 監視	monitoring	1529
 僧	monk	1799
 桑門	monk	1279
@@ -124568,7 +124389,6 @@ Linux系统	linux	1352
 令閨	mrs	1278
 令夫人	mrs	1119
 某氏	mr-so-and-so	1278
-微软网	msn	1432
 比叡山	mt-hiei	1119
 丈	much	2602
 程	much	2597
@@ -127085,8 +126905,6 @@ Linux系统	linux	1352
 神経回路網	network	1661
 人工ニューラルネットワーク	network	1156
 疎結合ニューラルネットワーク	network	1156
-語	networking	1
-語	networks	1
 ノイマン形	neumann	624
 ノイマン型	neumann	624
 神経回路網	neural	864
@@ -127517,7 +127335,6 @@ Linux系统	linux	1352
 子	new-share	1791
 末	new-shoots	1799
 会報	newsletter	1883
-通讯	newsletter	1883
 ニュース媒体	news-media	589
 悲報	news-of-a-death	1278
 凶報	news-of-a-death	1278
@@ -128375,7 +128192,6 @@ Linux系统	linux	1352
 五月蝿い	noisy	939
 五月蠅い	noisy	939
 喧々ごうごう	noisy	767
-诺基亚	nokia	1577
 不好き	no-liking-for	1059
 最早	no-longer	1278
 流浪者	nomad	1119
@@ -128420,7 +128236,6 @@ Linux系统	linux	1352
 丈	no-more-than	1797
 高が	no-more-than	1217
 に過ぎない	no-more-than	804
-非	non	2524
 非可換群	non-abelian	999
 非可換ゲージ理論	non-abelian	519
 非可換ゲージ理論	non-abelian-gauge-theory	519
@@ -129672,7 +129487,6 @@ Linux系统	linux	1352
 形容動詞	noun	999
 滋養	nourishment	1279
 人工栄養	nourishment	998
-十一月	nov	1815
 新星	nova	1279
 小説	novel	1279
 新奇	novel	1279
@@ -130979,7 +130793,6 @@ Linux系统	linux	1352
 伍つ	o'clock	1217
 １２時	o'clock	1119
 十二時	o'clock	1119
-十月	oct	1981
 ８角形	octagon	1119
 八辺形	octagon	1119
 八角形	octagon	1119
@@ -131705,7 +131518,6 @@ Linux系统	linux	1352
 布施	offerings	1278
 大麻	offerings	1276
 布施	offerings-to-a-priest	1278
-优惠	offers	1949
 代願人	offers	1838
 奉献頌	offertory	1119
 構外	off-grounds	1279
@@ -132124,7 +131936,6 @@ Linux系统	linux	1352
 お彈き	ohajiki	1059
 お弾き	ohajiki	1059
 御弾き	ohajiki	1059
-語	ohio	1
 何と	oh-my	1215
 何	oh-no	1790
 仕舞った	oh-no	937
@@ -133038,7 +132849,6 @@ Linux系统	linux	1352
 重ねて	once-more	1059
 いま一度	once-more	939
 一再	once-or-twice	1279
-一	one	2685
 一幕	one-act	1279
 一幕物	one-act	1119
 ひと幕	one-act	1059
@@ -135177,7 +134987,6 @@ Linux系统	linux	1352
 日和見主義	opportunism	864
 蝙蝠	opportunist	1277
 便乗主義者	opportunist	864
-机会	opportunities	1800
 序	opportunity	2248
 折	opportunity	2248
 期	opportunity	2247
@@ -135185,7 +134994,6 @@ Linux系统	linux	1352
 汐	opportunity	2246
 便	opportunity	2244
 縁	opportunity	2244
-机会	opportunity	1729
 好機	opportunity	1728
 機運	opportunity	1728
 契機	opportunity	1728
@@ -135864,7 +135672,6 @@ Linux系统	linux	1352
 テロ組織	organization	1304
 野生動物保護団体	organization	1304
 組織的	organizational	1118
-語	organizations	1
 設ける	organize	1057
 幹事	organizer	1278
 主催	organizing	1278
@@ -139251,10 +139058,8 @@ Linux系统	linux	1352
 詰め合わせる	pack	1148
 ウソ八百	pack	1138
 ガキ大将	pack	1138
-包	package	2358
 荷物	package	1836
 紙包み	package	1617
-包	packages	2105
 梱包	packaging	1278
 こん包	packaging	1058
 折	packed	1792
@@ -140831,7 +140636,6 @@ Linux系统	linux	1352
 取引先	partner	1501
 取り引き先	partner	1186
 悪友	partner-in-crime	1277
-語	partners	1
 乗合	partnership	1278
 合資会社	partnership	999
 偕老同穴	partnership	999
@@ -141852,7 +141656,6 @@ Linux系统	linux	1352
 パターン認識	pattern-recognition	589
 井桁	pattern-resembling-the-symbol	1278
 千代紙	patterns	1119
-保罗	paul	1819
 桐	paulownia	1799
 間合	pause	1279
 句切	pause	1279
@@ -142155,9 +141958,7 @@ Linux系统	linux	1352
 リボ払い	payments	699
 リボルビング払い	payments	459
 保険金	payout	1119
-贝宝	paypal	1695
 居候	pays	1279
-文档	pdf	1772
 文書	pdf	1772
 豆	pea	1798
 荳	pea	1798
@@ -144772,7 +144573,6 @@ Linux系统	linux	1352
 愛犬	pet-dog	1279
 飼犬	pet-dog	1279
 飼い犬	pet-dog	1059
-語	peter	1
 餌	pet-food	1798
 小柄	petite	1278
 小がら	petite	1058
@@ -144882,7 +144682,6 @@ Linux系统	linux	1352
 事相	phenomenon	1278
 異変	phenomenon	1278
 擬態語	phenomime	1119
-芬特明	phentermine	1440
 瓶	phial	1797
 壜	phial	1797
 罎	phial	1797
@@ -144917,7 +144716,6 @@ Linux系统	linux	1352
 鵬翼	phoenix	1279
 不死鳥	phoenix	1119
 鵬翼	phoenix-wings	1279
-电话	phone	2095
 電話	phone	2095
 内線	phone	2094
 単音	phone	2093
@@ -144931,7 +144729,6 @@ Linux系统	linux	1352
 内線	phone-extension	1279
 音素	phoneme	1279
 音韻	phoneme	1279
-电话	phones	1783
 電話	phones	1783
 宛字	phonetic	1279
 音価	phonetic	1279
@@ -144972,7 +144769,6 @@ Linux系统	linux	1352
 黄りん	phosphorus	1059
 黄リン	phosphorus	879
 要	photinia	1796
-照片	photo	2079
 合判	photo	2077
 間判	photo	2077
 相判	photo	2077
@@ -145033,7 +144829,6 @@ Linux系统	linux	1352
 写真屋	photo-processing-shop	1117
 焼増し	photo-reprint	1059
 焼き増し	photo-reprint	939
-照片	photos	2029
 写真版	photostat	1119
 写真館	photo-studio	1119
 写真屋	photo-studio	1119
@@ -145044,7 +144839,6 @@ Linux系统	linux	1352
 写真植字	phototypesetting	999
 光電池	photovoltaic	1119
 光電池	photovoltaic-cell	1119
-脚本	php	1601
 句	phrase	1797
 心	phrase	1797
 事	phrase	1791
@@ -145185,7 +144979,6 @@ Linux系统	linux	1352
 筋骨	physique	1278
 骨格	physique	1277
 骨骼	physique	1277
-图片	pic	1280
 鶴嘴	pick	1278
 精鋭	pick	1278
 拾う	pick	1219
@@ -145326,7 +145119,6 @@ Linux系统	linux	1352
 選り好み	picky	938
 五月蝿い	picky	934
 五月蠅い	picky	934
-图片	pics	1842
 絵文字	pictogram	1117
 絵もじ	pictogram	1057
 象形	pictograph	1278
@@ -148300,7 +148092,6 @@ Linux系统	linux	1352
 突っこむ	poke	929
 突っ込む	poke	929
 掻きまわす	poke	803
-扑克	poker	1980
 波蘭	poland	1279
 極地	polar	1279
 極冠	polar	1279
@@ -148435,8 +148226,6 @@ Linux系统	linux	1352
 警視	police-superintendent	1279
 婦警	policewoman	1279
 警察官	policewoman	1118
-政策	policies	1876
-政策	policy	2133
 得策	policy	2132
 悪策	policy	2132
 凡策	policy	2132
@@ -151728,7 +151517,6 @@ Linux系统	linux	1352
 可成り	pretty	1427
 愛らしい	pretty	1309
 可愛らしい	pretty	1173
-前	prev	2149
 漲る	prevail	1215
 行渡る	prevail	1058
 行き渡る	prevail	938
@@ -152938,11 +152726,9 @@ Linux系统	linux	1352
 手術	procedure	1278
 順序	procedure	1278
 方法	procedure	1277
-程序	procedure	1230
 正攻法	procedure	1117
 手続き	procedure	1059
 手前	procedures	1605
-程序	procedures	1563
 赴く	proceed	1218
 趨く	proceed	1218
 趣く	proceed	1218
@@ -152975,7 +152761,6 @@ Linux系统	linux	1352
 売り上げ	proceeds	938
 掛	process	2550
 懸	process	2550
-过程	process	2037
 過程	process	2037
 工程	process	2036
 手順	process	2036
@@ -153011,7 +152796,6 @@ Linux系统	linux	1352
 加工紙	processed	1119
 加工品	processed-goods	1119
 加工紙	processed-paper	1119
-过程	processes	1280
 過程	processes	1280
 処理	processing	1686
 加工費	processing	1526
@@ -153439,7 +153223,6 @@ Linux系统	linux	1352
 帯	program	2628
 帶	program	2628
 冠	program	2625
-程序	program	2114
 出物	program	2113
 番組	program	2113
 算譜	program	2113
@@ -153482,7 +153265,6 @@ Linux系统	linux	1352
 プログラム言語	programming	910
 プログラム言語	programming-language	554
 式次第	program-of-a-ceremony	1119
-程序	programs	1999
 番組	programs	1949
 歩	progress	2124
 急進	progress	1607
@@ -153571,7 +153353,6 @@ Linux系统	linux	1352
 禁煙	prohibition-of-smoking	1278
 使用禁止	prohibition-of-use	999
 親日	pro-japanese	1279
-項目	project	2084
 企画	project	2082
 企劃	project	2082
 事業	project	2080
@@ -153622,7 +153403,6 @@ Linux系统	linux	1352
 出っぱり	projection	939
 出っ張り	projection	939
 映写機	projector	1119
-項目	projects	1893
 企画	projects	1843
 脱出	prolapse	1277
 下層階級	proletariat	999
@@ -154465,7 +154245,6 @@ Linux系统	linux	1352
 箴言	proverb	1279
 成句	proverb	1277
 箴言	proverbs	1277
-提供	provide	2042
 養う	provide	1980
 設える	provide	1821
 備える	provide	1820
@@ -154499,10 +154278,7 @@ Linux系统	linux	1352
 天佑	providential-help	1278
 天祐	providential-help	1278
 命冥加	providential-protection	1119
-提供者	provider	1364
 大黒柱	provider	1361
-提供者	providers	1120
-提供	provides	1938
 提供	providing	1708
 邦	province	1795
 国	province	1795
@@ -154700,7 +154476,6 @@ Linux系统	linux	1352
 超能力	psi	1118
 乾癬	psoriasis	1279
 乾せん	psoriasis	1059
-太平洋时间	pst	1149
 精神医学者	psychiatrist	864
 精神科	psychiatry	1119
 心霊手術	psychic	999
@@ -161658,7 +161433,6 @@ Linux系统	linux	1352
 継走	relay-race	1279
 宿場	relay-station	1279
 中継所	relay-station	1119
-发布	release	1972
 出獄	release	1971
 放免	release	1971
 解放	release	1971
@@ -161691,7 +161465,6 @@ Linux系统	linux	1352
 出処	release-from-prison	1276
 出所	release-from-prison	1276
 仮出所	release-on-bail	1119
-发布	releases	1779
 公開	releases	1729
 発表	releasing	1275
 仮釈放	releasing	1119
@@ -162392,7 +162165,6 @@ Linux系统	linux	1352
 借りる	rent	1416
 裂け目	rent	1416
 住居手当	rent	1357
-租赁	rental	1806
 借賃	rental	1805
 １泊	rental	1804
 賃金	rental	1804
@@ -162404,7 +162176,6 @@ Linux系统	linux	1352
 住居手当	rent-allowance	999
 賃金	rental-payment	1278
 賃銀	rental-payment	1278
-租赁	rentals	1742
 借家	rented	1279
 借屋	rented	1279
 湯槽	rented	1278
@@ -162711,8 +162482,6 @@ Linux系统	linux	1352
 補給	replenishment	1278
 充実	replenishment	1275
 反復	replication	1277
-回复	replies	1529
-回复	reply	2046
 勅答	reply	2045
 返辞	reply	2045
 返答	reply	2045
@@ -162743,7 +162512,6 @@ Linux系统	linux	1352
 届	report	2625
 報	report	2624
 噂	report	2624
-报告	report	2106
 報告	report	2106
 報導	report	2105
 報道	report	2105
@@ -162826,7 +162594,6 @@ Linux系统	linux	1352
 訃音	report-of-a-death	1279
 欠勤届	report-of-an-absence	1119
 欠勤届け	report-of-an-absence	939
-报告	reports	1953
 報告	reports	1953
 上申	report-to-a-superior	1279
 上奏	report-to-the-emperor	1279
@@ -163119,7 +162886,6 @@ Linux系统	linux	1352
 必要	requirement	1276
 必用	requirement	1276
 臨機応変	requirements	1625
-語	requires	1
 必須	requisite	1278
 冲和	requisite	1276
 錯和	requisite	1276
@@ -163652,7 +163418,6 @@ Linux系统	linux	1352
 伏して	respectfully	1058
 直覧	respectfully-looking-at	1279
 奉読	respectful-reading	1279
-語	respective	1
 何処か	respects	1058
 三拝九拝	respects	997
 何処迄も	respects	934
@@ -163868,7 +163633,6 @@ Linux系统	linux	1352
 食い逃げ	restaurant	1274
 飲み逃げ	restaurant	1274
 会席	restaurant-dinner-tray	1278
-語	restaurants	1
 安まる	rested	1059
 休まる	rested	1059
 平穏	restful	1278
@@ -163976,8 +163740,8 @@ Linux系统	linux	1352
 けん制	restraint	1058
 歯止め	restraint	1056
 侃々諤々	restraint	998
-侃侃諤々	restraint	998
 侃々諤諤	restraint	998
+侃侃諤々	restraint	998
 侃侃諤諤	restraint	998
 伸びのび	restraint	937
 伸び伸び	restraint	937
@@ -164625,7 +164389,6 @@ Linux系统	linux	1352
 帰属	reversion	1276
 擁壁	revetment	1278
 評	review	2641
-評論	review	2123
 査読	review	2122
 寸評	review	2122
 復習	review	2122
@@ -164635,6 +164398,7 @@ Linux系统	linux	1352
 綜説	review	2122
 総説	review	2122
 批評	review	2121
+評論	review	2121
 再審	review	2121
 回顧	review	2120
 見学	review	2120
@@ -164649,7 +164413,6 @@ Linux系统	linux	1352
 復習える	review	1782
 綜説	review-article	1279
 総説	review-article	1279
-評論	reviews	2114
 復習文	review-sentences	1119
 改める	revise	1058
 革める	revise	1058
@@ -165104,7 +164867,6 @@ Linux系统	linux	1352
 百戦練磨	rich	997
 百戦錬磨	rich	997
 玉のこし	rich	938
-語	richard	1
 内福	richer	1279
 内福	richer-than-it-appears	1279
 富	riches	1799
@@ -165757,8 +165519,6 @@ Linux系统	linux	1352
 主謀者	ringleader	1119
 巨かい	ringleader	1059
 五輪	rings	1278
-铃声	ringtone	1280
-铃声	ringtones	1543
 匐行疹	ringworm	1119
 銀盤	rink	1279
 雪ぐ	rinse	1219
@@ -166396,7 +166156,6 @@ Linux系统	linux	1352
 直垂	robe	1279
 墨染め衣	robe	939
 墨染めの衣	robe	804
-罗伯特	robert	1599
 袞竜	robes	1279
 袞龍	robes	1279
 斎服	robes	1279
@@ -166609,8 +166368,8 @@ Linux系统	linux	1352
 堂々巡り	roll-call	937
 堂堂巡り	roll-call	937
 堂々回り	roll-call-vote	937
-堂々巡り	roll-call-vote	937
 堂堂回り	roll-call-vote	937
+堂々巡り	roll-call-vote	937
 堂堂巡り	roll-call-vote	937
 目	rolled	1779
 眼	rolled	1779
@@ -167493,7 +167252,6 @@ Linux系统	linux	1352
 王宮	royal-palace	1279
 王族	royalty	1279
 印税	royalty	1279
-订阅	rss	1913
 擦る	rub	1219
 錯る	rub	1219
 擂る	rub	1219
@@ -169465,7 +169223,6 @@ Linux系统	linux	1352
 輪廻	samsara	1279
 生死	samsara	1278
 行	samskara	1796
-三星	samsung	1280
 作務衣	samue	1119
 裃	samurai	1799
 上下	samurai	1279
@@ -169604,7 +169361,6 @@ Linux系统	linux	1352
 梵字	sanskrit	1279
 梵和辞典	sanskrit-japanese	999
 梵和辞典	sanskrit-japanese-dictionary	999
-圣塔	santa	1230
 三弦	sanxian	1278
 三絃	sanxian	1278
 三途の川	sanzu	939
@@ -169683,7 +169439,6 @@ Linux系统	linux	1352
 刺又	sasumata	1279
 指叉	sasumata	1279
 土曜日	sat	1643
-星期六	sat	1643
 魔王	satan	1279
 悪魔	satan	1277
 胴乱	satchel	1278
@@ -170926,7 +170681,6 @@ Linux系统	linux	1352
 蠍	scorpion	1799
 笠子	scorpionfish	1279
 蘇格蘭	scotland	1119
-語	scott	1
 悪	scoundrel	1798
 悪党	scoundrel	1279
 悪漢	scoundrel	1278
@@ -171559,7 +171313,6 @@ Linux系统	linux	1352
 遊撃	search-and-destroy-mission	1277
 游撃	search-and-destroy-mission	1277
 探求者	searcher	1119
-語	searches	1
 糺明	searching	1279
 糾明	searching	1279
 索敵	searching	1279
@@ -171831,7 +171584,6 @@ Linux系统	linux	1352
 そう類	seaweeds	1059
 ソウ類	seaweeds	879
 凌波性	seaworthiness	1119
-語	sec	1
 割線	secant	1279
 正割	secant	1279
 割線	secant-line	1279
@@ -172641,7 +172393,6 @@ Linux系统	linux	1352
 誘惑	seduction	1277
 悩ましい	seductive	939
 色仕掛け	seductive	939
-見	see	2679
 見る	see	2099
 嫩	seed	1799
 種	seed	1799
@@ -173188,7 +172939,6 @@ Linux系统	linux	1352
 売りはらう	sell	1516
 売り飛ばす	sell	1516
 取りあつかう	sell	1476
-卖家	seller	1978
 売手	seller	1977
 市人	seller	1977
 出品者	seller	1817
@@ -173197,7 +172947,6 @@ Linux系统	linux	1352
 売り手	seller	1757
 切符売り	seller	1637
 くだもの屋	seller	1501
-卖家	sellers	1801
 別売	selling	1566
 分売	selling	1566
 分譲	selling	1566
@@ -173791,7 +173540,6 @@ Linux系统	linux	1352
 情緒纏綿	sentiments	999
 情緒纒綿	sentiments	999
 情緒てんめん	sentiments	769
-九月	sep	1933
 局	separate	1798
 別	separate	1797
 別便	separate	1279
@@ -174258,8 +174006,6 @@ Linux系统	linux	1352
 会席料理	served	999
 ちゃんこ料理	served	769
 鯖	server	2530
-服务器	server	1852
-服务器	servers	1120
 茶番	serves	1278
 乗艦	serves	1278
 様みろ	serves	1059
@@ -175511,7 +175257,6 @@ Linux系统	linux	1352
 かね尺	shaku	1058
 尺八	shakuhachi	1279
 怪しい	shaky	1051
-应	shall	2522
 可	shall	2472
 浅薄	shallow	1279
 浅海	shallow	1279
@@ -176474,7 +176219,6 @@ Linux系统	linux	1352
 七宝	shipp-pattern	1277
 号	ships	2210
 號	ships	2210
-船	ships	2166
 黒船	ships	1695
 来航	ships	1695
 船団	ships	1694
@@ -176775,7 +176519,6 @@ Linux系统	linux	1352
 噴き出す	shoots	934
 鋪	shop	2585
 舗	shop	2585
-商店	shop	2066
 閉店	shop	2065
 店長	shop	2065
 店鋪	shop	2065
@@ -176787,6 +176530,7 @@ Linux系统	linux	1352
 暖簾	shop	2065
 肉屋	shop	2065
 傘屋	shop	2065
+商店	shop	2065
 商舗	shop	2065
 他店	shop	2065
 店主	shop	2064
@@ -176855,7 +176599,6 @@ Linux系统	linux	1352
 繁華街	shopping-center	1117
 商店街	shopping-district	1119
 商業街	shopping-street	1119
-商店	shops	1280
 店頭	shopwindow	1278
 店晒し	shopworn	1059
 棚晒し	shopworn	1059
@@ -178323,7 +178066,6 @@ Linux系统	linux	1352
 裏	signed	1785
 内	signed	1785
 中	signed	1785
-署名	signed	1280
 手形	signed	1276
 手形	signed-hand-print	1276
 印環	signet	1279
@@ -179349,12 +179091,10 @@ Linux系统	linux	1352
 実地	site	2161
 現場	site	2161
 斎場	site	2161
-站点	site	2113
 候補地	site	2002
 協議所	site	2002
 事業所	site	2001
 工事現場	site	1882
-站点	sites	2009
 座り込み	sit-in	939
 鳧	sitting	1797
 鴨	sitting	1797
@@ -181320,7 +181060,6 @@ Linux系统	linux	1352
 柔やか	smiling	1059
 笑顔	smiling-face	1279
 似非笑い	smirk	939
-語	smith	1
 鍛冶	smithery	1278
 鍛治	smithery	1278
 合槌	smiths	1277
@@ -182403,7 +182142,6 @@ Linux系统	linux	1352
 可溶	soluble	1279
 溶け易い	soluble	938
 溶けやすい	soluble	803
-解决	solution	1818
 解決	solution	1818
 解法	solution	1817
 溶液	solution	1817
@@ -182418,7 +182156,6 @@ Linux系统	linux	1352
 希釈液	solution	1657
 割切る	solution	1597
 割り切る	solution	1477
-解决	solutions	1930
 解決	solutions	1930
 解集合	solution-set	1119
 解く	solve	1215
@@ -182544,7 +182281,6 @@ Linux系统	linux	1352
 なんとは無しに	somehow-or-other	733
 一	some-kind-of	1794
 一つ	some-kind-of	1214
-某人	someone	1827
 他	someone-else	1795
 外	someone-else	1795
 別人	someone-else	1278
@@ -182645,7 +182381,6 @@ Linux系统	linux	1352
 とんぼ帰り	somersault	804
 トンボ返り	somersault	564
 トンボ帰り	somersault	564
-某物	something	1984
 景品	something-additional	1277
 平	something-broad-and-flat	1799
 供託物	something-deposited	1119
@@ -182925,7 +182660,6 @@ Linux系统	linux	1352
 弟息子	sons	1119
 嫡孫	son's	1279
 子女	sons-and-daughters	1279
-索尼	sony	1866
 直	soon	2350
 傍	soon	2346
 側	soon	2346
@@ -183698,7 +183432,6 @@ Linux系统	linux	1352
 下仕事	spade-work	1119
 下準備	spade-work	1118
 予備工作	spade-work	999
-語	spain	1
 命数	span	1279
 人寿	span	1279
 天寿	span	1279
@@ -185171,7 +184904,6 @@ Linux系统	linux	1352
 世話人	sponsor	1119
 主催者	sponsor	1119
 保証人	sponsor	1118
-赞助	sponsored	1830
 提供	sponsoring	1276
 主催国	sponsoring	1119
 主催国	sponsoring-nation	1119
@@ -187851,7 +187583,6 @@ Linux系统	linux	1352
 活き	stet	1215
 生き	stet	1215
 聴診器	stethoscope	1119
-語	steve	1
 百葉箱	stevenson	1119
 百葉箱	stevenson-screen	1119
 鍋	stew	1797
@@ -191081,7 +190812,6 @@ Linux系统	linux	1352
 発泡スチロール	styrofoam	554
 発砲スチロール	styrofoam	554
 円転滑脱	suave	999
-語	sub	1
 亜寒帯	subarctic	1119
 亜寒帯	subarctic-zone	1119
 出張所	sub-branch	1118
@@ -197200,7 +196930,6 @@ Linux系统	linux	1352
 茶筌	tea-whisk	1279
 茶筅	tea-whisk	1279
 茶せん	tea-whisk	1059
-科技	tech	1895
 高専	technical	1921
 伎能	technical	1921
 技能	technical	1921
@@ -197275,7 +197004,6 @@ Linux系统	linux	1352
 技術革新	technological	999
 技術革新	technological-innovation	999
 技術力	technological-prowess	1117
-語	technologies	1
 技術	technology	2084
 新技術	technology	1924
 技術移転	technology	1804
@@ -197307,7 +197035,6 @@ Linux系统	linux	1352
 倦怠	tedium	1277
 飽き	tedium	1218
 厭き	tedium	1218
-青少年	teen	1826
 児	teenager	1798
 子	teenager	1798
 十代	teens	1803
@@ -197350,7 +197077,6 @@ Linux系统	linux	1352
 鋸歯	teeth-of-a-saw	1279
 第希蘭	tehran	1119
 競艇	tei	1279
-語	tel	1
 テレビ放送	telecast	624
 交信	telecommunications	1279
 郵政省	telecommunications	1119
@@ -197707,8 +197433,8 @@ Linux系统	linux	1352
 揉み上げ	temple	939
 願ほどき	temple	939
 堂々回り	temple	938
-堂堂回り	temple	938
 堂々巡り	temple	938
+堂堂回り	temple	938
 堂堂巡り	temple	938
 天の邪鬼	temple	936
 天ん邪鬼	temple	936
@@ -198306,8 +198032,8 @@ Linux系统	linux	1352
 段段畑	terraced	1119
 だんだん畑	terraced	804
 段々畑	terraced-fields	1119
-段段畑	terraced-fields	1119
 段々畠	terraced-fields	1119
+段段畑	terraced-fields	1119
 だんだん畑	terraced-fields	804
 黒土	terracotta	1279
 地形	terrain	1279
@@ -198391,7 +198117,6 @@ Linux系统	linux	1352
 テロ攻撃	terrorist-attack	759
 テロ組織	terrorist-organization	759
 三級	tertiary	1278
-测试	test	2013
 試験	test	2013
 試煉	test	2012
 試練	test	2012
@@ -198457,7 +198182,6 @@ Linux系统	linux	1352
 力合わせ	test-of-strength	939
 試料	test-piece	1278
 試作	test-piece	1278
-测试	tests	1540
 試験	tests	1540
 丸太	test-subject	1277
 試験管	test-tube	1119
@@ -198715,7 +198439,6 @@ Linux系统	linux	1352
 有難う御座います	thank-you	699
 有り難うございます	thank-you	664
 ありがとう御座います	thank-you	629
-那	that	2647
 其れ	that	2097
 其れ丈	that-alone	1057
 其れだけ	that-alone	937
@@ -198831,7 +198554,6 @@ Linux系统	linux	1352
 雪解け	thawing-of-snow	1059
 雪溶け	thawing-of-snow	1059
 雪融け	thawing-of-snow	1059
-其	the	2650
 其の	the	2120
 右	the-above	1797
 上	the-above	1794
@@ -200675,7 +200397,6 @@ Linux系统	linux	1352
 三十三所	thirty-three	999
 三〇年戦争	thirty-years'-war	864
 三十年戦争	thirty-years'-war	864
-此	this	2646
 此れ	this	2096
 兎や角	this-and-that	1059
 何やかや	this-and-that	939
@@ -200796,7 +200517,6 @@ Linux系统	linux	1352
 本年	this-year	1279
 今年	this-year	1279
 東北	t-hoku	1278
-托马斯	thomas	1557
 緒	thong	1798
 胸腔	thorax	1279
 刺	thorn	1799
@@ -201956,7 +201676,6 @@ Linux系统	linux	1352
 たたき付ける	thrust	766
 南蛮	thrusting	1273
 木曜日	thu	1582
-星期四	thu	1582
 雲助	thug	1278
 蜘蛛助	thug	1118
 くも助	thug	1058
@@ -219768,7 +219487,6 @@ Linux系统	linux	1352
 物体ない	too-good	938
 物体無い	too-good	938
 惜しい	too-good-for	1055
-取	took	2246
 取った	took	1506
 具	tool	2285
 道具	tool	1765
@@ -220673,8 +220391,8 @@ Linux系统	linux	1352
 話	topic	2523
 噺	topic	2523
 語	topic	2523
-話題	topic	2006
 本題	topic	2005
+話題	topic	2005
 議題	topic	2005
 地雷	topic	2004
 題目	topic	2004
@@ -220758,7 +220476,6 @@ Linux系统	linux	1352
 拾い上げる	to-pick-up	804
 挟み上げる	to-pick-up	804
 議題	topic-of-discussion	1279
-話題	topics	1901
 切り組む	to-piece-together	939
 刺す	to-pierce	1219
 螫す	to-pierce	1219
@@ -229682,9 +229399,9 @@ Linux系统	linux	1352
 毒科学	toxicology	1119
 鉛毒	toxic-substance-in-lead	1279
 毒素	toxin	1279
-玩具	toy	1280
 歯固	toy	1279
 笹舟	toy	1279
+玩具	toy	1279
 弄る	toy	1217
 竹蜻蛉	toy	1119
 ささ舟	toy	1059
@@ -229735,7 +229452,6 @@ Linux系统	linux	1352
 翫弄	toying-with	1279
 翻弄	toying-with	1278
 飜弄	toying-with	1278
-玩具	toys	1880
 曲りくねる	to-zigzag	803
 曲がりくねる	to-zigzag	768
 痕	trace	1799
@@ -229869,14 +229585,13 @@ Linux系统	linux	1352
 貌	trademark	1789
 顏	trademark	1789
 顔	trademark	1789
-商標	trademark	1280
+商標	trademark	1279
 目標	trademark	1277
 目印	trademark	1277
 商標権	trademark	1119
 登録商標	trademark	999
 目じるし	trademark	937
 商標権	trademark-rights	1119
-商標	trademarks	1650
 取引先	trade-partner	1117
 取り引き先	trade-partner	802
 貿易港	trade-port	1119
@@ -231302,8 +231017,8 @@ Linux系统	linux	1352
 戦慄	trembling-with-fear	1278
 りつ然	trembling-with-fear	1058
 戦々兢々	trembling-with-fear	999
-戦々恐々	trembling-with-fear	999
 戦戦兢兢	trembling-with-fear	999
+戦々恐々	trembling-with-fear	999
 戦戦恐恐	trembling-with-fear	999
 豪雪	tremendous	1279
 絶大	tremendous	1279
@@ -232384,7 +232099,6 @@ Linux系统	linux	1352
 仕舞い込む	tuck	803
 まくり上げる	tuck	769
 火曜日	tue	1594
-星期二	tue	1594
 火曜	tuesday	1797
 火曜日	tuesday	1637
 火木土	tue-thurs-sat	1119
@@ -236288,14 +236002,10 @@ Linux系统	linux	1352
 替り	upcoming-program	1210
 代わり	upcoming-program	1050
 替わり	upcoming-program	1050
-更新	update	1916
 修正	update	1912
 沙汰	update	1906
-更新済	updated	1729
-更新	updates	1624
 素直	upfront	1276
 更新	upgrade	1280
-升级	upgrade	1280
 激動	upheaval	1277
 変革	upheaval	1276
 隆起	upheaval	1275
@@ -236724,7 +236434,6 @@ Linux系统	linux	1352
 小水	urine	1279
 ふん尿	urine	1059
 ション便	urine	759
-網址	url	1917
 泌尿器科	urology	999
 刺草	urtica	1279
 蕁麻	urtica	1279
@@ -236761,7 +236470,6 @@ Linux系统	linux	1352
 米軍	us-armed-forces	1279
 米陸軍	us-army	1119
 在日米陸軍	us-army-japan	864
-語	usb	1
 米議会	us-congress	1119
 米ドル	us-dollar	879
 詮	use	2677
@@ -236958,7 +236666,6 @@ Linux系统	linux	1352
 屁をひって尻すぼめ	use	1544
 屁をひって尻つぼめ	use	1544
 落花枝に帰らず破鏡再び照らさず	use	1418
-用	used	2619
 使用済み	used	1749
 古手	used-article	1279
 御古	used-article	1279
@@ -237047,7 +236754,6 @@ Linux系统	linux	1352
 運筆	use-of-a-pen	1278
 実力行使	use-of-force	999
 武力行使	use-of-force	999
-用户	user	2119
 住人	user	2116
 固定	user	2113
 遣い	user	2052
@@ -237057,10 +236763,8 @@ Linux系统	linux	1352
 消費者	user	1957
 遣い手	user	1898
 使い手	user	1898
-用户名	username	1120
 利用者名	username	1000
 固定	user-name	1274
-用户	users	2007
 利用者	users	1847
 取説	user's	1279
 取り説	user's	1059
@@ -237165,7 +236869,6 @@ Linux系统	linux	1352
 米海兵隊	us-marine-corps	999
 米海軍	us-navy	1119
 仏頂尊勝	usnisavijaya	999
-用户	usr	1734
 米上院	us-senate	1119
 海苔	usu	1278
 漫才	usu	1278
@@ -237650,7 +237353,6 @@ Linux系统	linux	1352
 蟲	valve-core	1793
 弁座	valve-seat	1279
 吸血鬼	vampire	1119
-語	van	1
 晩香波	vancouver	1119
 晩香坡	vancouver	1119
 先陣	vanguard	1279
@@ -237942,7 +237644,6 @@ Linux系统	linux	1352
 織姫	vega	1278
 おり姫	vega	1058
 織り姫	vega	1058
-語	vegas	1
 畑	vegetable	1798
 畠	vegetable	1798
 実	vegetable	1797
@@ -238911,12 +238612,11 @@ Linux系统	linux	1352
 勝負	victory-or-defeat	1279
 凱歌	victory-song	1279
 面	video	2639
-動画	video	2128
+動画	video	2127
 映像	video	2126
 テレビ電話	video	1471
 テレビ電話	video-call	623
 テレビ電話	videophone	624
-動画	videos	1898
 大威徳明王	vidya-raja	864
 降三世明王	vidya-raja	864
 競う	vie	1218
@@ -239342,7 +239042,6 @@ Linux系统	linux	1352
 未通女	virgin	1117
 未開墾地	virgin	999
 自然林	virgin-forest	1119
-弗吉尼亚	virginia	1497
 童貞	virginity	1279
 未開墾地	virgin-soil	999
 乙女座	virgo	1119
@@ -239865,7 +239564,6 @@ Linux系统	linux	1352
 虚ろ	void	1218
 反古にする	void	803
 反故にする	void	803
-卷	vol	2045
 険悪	volatile	1277
 揮発油	volatile	1117
 揮発物質	volatile	999
@@ -239991,8 +239689,8 @@ Linux系统	linux	1352
 信任投票	vote	1434
 一国一票	vote	1434
 堂々回り	vote	1372
-堂々巡り	vote	1372
 堂堂回り	vote	1372
+堂々巡り	vote	1372
 堂堂巡り	vote	1372
 不信任投票	vote	1299
 反対票	vote-against	1119
@@ -240590,7 +240288,6 @@ Linux系统	linux	1352
 饂飩	wantan	1278
 雲呑	wantan	1278
 募集	wanted	1704
-需要	wanted	1704
 指名手配	wanted	1473
 指名手配人	wanted	1338
 世話をやく	wanted	1276
@@ -242712,10 +242409,7 @@ Linux系统	linux	1352
 巣	web	2671
 栖	web	2671
 魚拓	web	2153
-網站	website	2089
-網站	websites	1280
 水曜日	wed	1619
-星期三	wed	1619
 式	wedding	2247
 婚儀	wedding	1733
 花燭	wedding	1732
@@ -243308,7 +243002,6 @@ Linux系统	linux	1352
 葱	welsh-onion	1799
 神主	welsh-onion	1277
 擬宝珠	welsh-onion-flower	1118
-去	went	2258
 行った	went	1518
 宛ら	were	2087
 為る	were	2071
@@ -245154,7 +244847,6 @@ Linux系统	linux	1352
 我がまま	willful	937
 勝手に	willfully	1057
 謀殺	willful-murder	1278
-語	william	1
 成手	willing	1279
 なり手	willing	1059
 成り手	willing	1059
@@ -245411,7 +245103,6 @@ Linux系统	linux	1352
 窓枠	window-frame	1279
 盲壁	windowless	1279
 盲壁	windowless-wall	1279
-視窗	windows	2029
 網戸	window-screen	1279
 冷かす	window-shop	1056
 素見す	window-shop	1056
@@ -245657,7 +245348,6 @@ Linux系统	linux	1352
 有線	wired	1279
 番線	wire-gauge	1278
 金網	wire-gauze	1278
-无线	wireless	1869
 無線	wireless	1869
 無線技術	wireless	1588
 無線技術	wireless-technology	999
@@ -245823,7 +245513,6 @@ Linux系统	linux	1352
 狩り	witch-hunt	1214
 赤狩り	witch-hunt	1059
 アカ狩り	witch-hunt	699
-与	with	2696
 共に	with	2076
 戛然	with-a-clang	1279
 仄々	with-a-faint-light	1278
@@ -246169,8 +245858,8 @@ Linux系统	linux	1352
 無銭遊興	without	1792
 夜郎自大	without	1792
 侃々諤々	without	1791
-侃侃諤々	without	1791
 侃々諤諤	without	1791
+侃侃諤々	without	1791
 侃侃諤諤	without	1791
 写真結婚	without	1791
 虚心坦懐	without	1791
@@ -248774,7 +248463,6 @@ Linux系统	linux	1352
 倒	wrong-way-round	1797
 逆様	wrong-way-round	1277
 逆さま	wrong-way-round	1057
-語	wrote	1
 気がたつ	wrought	939
 気が立つ	wrought	939
 呉越	wu-and-yue	1279
@@ -248787,15 +248475,12 @@ Linux系统	linux	1352
 五行	wu-xing	1278
 第２次大戦	wwii	863
 第二次大戦	wwii	863
-万维网	www	1327
-游戏机	xbox	1328
 ゲーム機	xbox	938
 乾生植物	xerophyte	999
 新	xin	1796
 新	xin-dynasty	1796
 五行	xing	1278
 匈奴	xiongnu	1279
-标记	xml	1654
 無手順	xon-xoff	1119
 Ｘ線	x-ray	1279
 エックス線	x-ray	624
@@ -248812,7 +248497,6 @@ Linux系统	linux	1352
 八幡の藪知らず	yabushirazu	734
 櫓	yagura	1796
 矢倉	yagura	1276
-雅虎	yahoo	2014
 焼餅	yakimochi	1278
 焼き餅	yakimochi	1058
 焼き餠	yakimochi	1058
@@ -250339,7 +250023,6 @@ Linux系统	linux	1352
 同人雑誌	zine	998
 百日草	zinnia	1119
 圧縮	zip	1752
-压缩	zip	1752
 東	zither	1796
 吾妻	zither	1276
 吾嬬	zither	1276

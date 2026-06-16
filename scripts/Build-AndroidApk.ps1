@@ -147,6 +147,8 @@ if (Test-Path $dataManager) {
         if (!custom.exists() || !existingCustom.contains("kanji_en_jp") || existingCustom.contains("luna_pinyin")) {
             custom.writeText(SCHEMA_LIST_CUSTOM_PATCH.trimIndent())
         }
+
+        userDataDir.resolve("build").deleteRecursively()
 '@
   $text = [regex]::Replace(
     $text,
