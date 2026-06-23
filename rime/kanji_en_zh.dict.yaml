@@ -151,7 +151,6 @@ use_preset_vocabulary: false
 世博	abbr	1519
 室颤	abbr	1519
 四化	abbr	1519
-台股	abbr	1519
 台盟	abbr	1519
 天外	abbr	1519
 同济	abbr	1519
@@ -281,7 +280,6 @@ use_preset_vocabulary: false
 劫	abbr	1194
 共	abbr	1193
 动	abbr	1192
-平	abbr	1192
 参	abbr	1189
 反	abbr	1187
 方	abbr	1185
@@ -477,7 +475,6 @@ B超	abbr	817
 吧	abbr-for	1196
 入	abbr-for	1196
 化	abbr-for	1194
-平	abbr-for	1192
 北二外	abbr-for	1179
 朝中社	abbr-for	1179
 城运会	abbr-for	1179
@@ -860,7 +857,6 @@ B超	abbr-for-b-b	817
 佛系	about	2607
 刚一	about	2607
 个把	about	2607
-咕攘	about	2607
 挂虑	about	2607
 挂念	about	2607
 何如	about	2607
@@ -1244,7 +1240,6 @@ B超	abbr-for-b-b	817
 吸收剂量	absorbed-dose	1009
 吸水	absorbent	1519
 吸附剂	absorbent	1179
-吸湿性	absorbent	1179
 吸热	absorption	1519
 吸声	absorption	1519
 暗星云	absorption	1179
@@ -1768,6 +1763,7 @@ B超	abbr-for-b-b	817
 按照	according	2251
 包工	according	2251
 包活	according	2251
+比照	according	2251
 大桥	according	2251
 地脉	according	2251
 根据	according	2251
@@ -1823,6 +1819,7 @@ B超	abbr-for-b-b	817
 按	according	1544
 据此	accordingly	1519
 因应	accordingly	1519
+比照	according-to	1519
 根据	according-to	1519
 依据	according-to	1519
 据	according-to	1199
@@ -2777,6 +2774,7 @@ AB制	actors	478
 实报实销	actual	1343
 实际参数	actual	1343
 实际情况	actual	1343
+时间差攻击	actual	1073
 实际控制人	actual	1073
 实际控制线	actual	1073
 三七二十一	actual	1071
@@ -3023,6 +3021,7 @@ IP剧	adaptation	479
 外搭程式	add-on-software	1009
 地址	address	2536
 敬称	address	2536
+客官	address	2536
 母后	address	2536
 内详	address	2536
 娘子	address	2536
@@ -3119,9 +3118,9 @@ IP剧	adaptation	479
 代办	a-diplomatic-representative	1516
 挽歌	a-dirge	1519
 传人	a-disciple	1517
-杀菌剂	a-disinfectant	1179
 太爷	a-district-magistrate	1515
 劙	a-divide-to-partition	1199
+密接	adjacent	1519
 旁边	adjacent	1519
 栈道	adjacent	1518
 挨	adjacent	1198
@@ -3132,6 +3131,7 @@ IP剧	adaptation	479
 分音符	adjacent	1177
 布莱德湖	adjacent	1009
 平安北道	adjacent	1009
+密接	adjacent-in-close-proximity	1519
 形容词短语	adjectival	829
 形容词短语	adjectival-phrase	829
 价	adjective	1199
@@ -3143,12 +3143,12 @@ IP剧	adaptation	479
 坒	adjoin	1199
 堧	adjoin	1199
 守	adjoining	1193
-伴矩阵	adjoint	1179
-伴矩阵	adjoint-matrix	1179
+伴随矩阵	adjoint	1009
 休会	adjourn	1519
 休庭	adjourn	1519
 押后	adjourn	1519
 散会	adjourn	1518
+伴随矩阵	adjugate	1009
 兼任	adjunct	1518
 地	adjunct	1198
 修饰语	adjunct	1177
@@ -3630,6 +3630,7 @@ A片	adult-movie-pornography	819
 一边倒	advantage	1179
 捞稻草	advantage	1178
 捞一把	advantage	1178
+时间差	advantage	1177
 吃豆腐	advantage	1176
 占便宜	advantage	1176
 不无小补	advantage	1009
@@ -4909,6 +4910,7 @@ A片	adult-movie-pornography	819
 房牙子	agent	1681
 枯叶剂	agent	1681
 凝固剂	agent	1681
+杀菌剂	agent	1681
 升压剂	agent	1681
 施事者	agent	1681
 填充剂	agent	1681
@@ -4982,7 +4984,6 @@ A片	adult-movie-pornography	819
 委委屈屈	aggrieved	1009
 愤愤不平	aggrieved	1008
 怵目惊心	a-ghastly-sight	1007
-代写	a-ghost-writer	1518
 人中龙凤	a-giant-among-men	1009
 可人	a-gifted-person	1516
 利落	agile	1519
@@ -5006,7 +5007,6 @@ A片	adult-movie-pornography	819
 慅	agitated	1199
 愮	agitated	1199
 彸	agitated	1199
-忪	agitated	1198
 伀	agitated	1198
 方寸大乱	agitated	1009
 心烦气躁	agitated	1009
@@ -5305,6 +5305,7 @@ A片	adult-movie-pornography	819
 料峭	air	2460
 扑空	air	2460
 人防	air	2460
+杀气	air	2460
 望洋	air	2460
 悬空	air	2460
 印航	air	2460
@@ -5374,6 +5375,7 @@ A片	adult-movie-pornography	819
 战机	aircraft	1518
 主机	aircraft	1518
 专机	aircraft	1518
+机位	aircraft	1517
 机	aircraft	1198
 攻击机	aircraft	1179
 停机坪	aircraft	1179
@@ -5384,6 +5386,7 @@ A片	adult-movie-pornography	819
 核动力航空母舰	aircraft	689
 垂直和短距起落飞机	aircraft	549
 停机坪	aircraft-parking-ground	1179
+机位	aircraft-parking-position	1517
 布宜诺斯艾利斯	aires	689
 机场	airfield	1519
 机体	airframe	1518
@@ -5396,6 +5399,7 @@ A片	adult-movie-pornography	819
 机票	airline	1519
 廉航	airline	1519
 改签	airline	1518
+机位	airline	1518
 大韩航空	airline	1009
 国泰航空	airline	1009
 协和飞机	airliner	1009
@@ -5409,6 +5413,7 @@ A片	adult-movie-pornography	819
 中国东方航空	airlines	759
 中国联合航空	airlines	759
 中华航空公司	airlines	759
+机位	airline-seat-seat-reservation	1518
 傲气	air-of-arrogance	1519
 劫机	air-piracy	1518
 坠机	airplane	1519
@@ -6442,11 +6447,9 @@ A咖	a-list-top-tier	819
 全才	all-rounder	1519
 多面手	all-rounder	1179
 三光政策	alls	1009
-兵不厌诈	all's	1007
 平时不烧香，临时抱佛脚	all's	409
 慧眼	all-seeing	1519
 利落	all-settled	1517
-兵不厌诈	all's-fair-in-war	1007
 四面	all-sides	1519
 各方	all-sides	1518
 方方面面	all-sides-all-aspects	1009
@@ -6874,7 +6877,6 @@ A咖	a-list-top-tier	819
 嵞山	also-written	1518
 五鬼	also-written	1518
 叶韵	also-written	1518
-月分	also-written	1518
 保祐	also-written	1517
 二黄	also-written	1517
 偷闲	also-written	1517
@@ -6894,7 +6896,6 @@ A咖	a-list-top-tier	819
 元勋	also-written	1516
 嚎哭	also-written	1515
 明了	also-written	1515
-囊揣	also-written	1515
 囊膪	also-written	1515
 序文	also-written	1515
 摩擦	also-written	1514
@@ -6905,7 +6906,6 @@ A咖	a-list-top-tier	819
 嵞	also-written	1198
 凄	also-written	1192
 奥利安	also-written	1178
-本征值	also-written	1178
 哺乳类	also-written	1178
 撑竿跳	also-written	1178
 单一码	also-written	1178
@@ -6916,9 +6916,7 @@ A咖	a-list-top-tier	819
 哈里发	also-written	1178
 机关枪	also-written	1178
 吉迪恩	also-written	1178
-夹肢窝	also-written	1178
 卷层云	also-written	1178
-拉拉队	also-written	1178
 来福枪	also-written	1178
 来复枪	also-written	1178
 廿八躔	also-written	1178
@@ -6928,12 +6926,10 @@ A咖	a-list-top-tier	819
 十六国	also-written	1178
 思嘉丽	also-written	1178
 松化石	also-written	1178
-微中子	also-written	1178
 戊五醇	also-written	1178
 星象图	also-written	1178
 叙拉古	also-written	1178
 正蓝旗	also-written	1178
-中微子	also-written	1178
 奥斯丁	also-written	1177
 布朗士	also-written	1177
 利他灵	also-written	1177
@@ -6942,7 +6938,6 @@ A咖	a-list-top-tier	819
 卡秋莎	also-written	1176
 昂山素季	also-written	1008
 北京周报	also-written	1008
-本征向量	also-written	1008
 撑竿跳高	also-written	1008
 岗仁波齐	also-written	1008
 格雷茅斯	also-written	1008
@@ -7720,7 +7715,9 @@ A咖	a-list-top-tier	819
 模数	analog-to-digital	1519
 模数转换器	analog-to-digital	829
 模数转换器	analog-to-digital-converter	829
+比方	analogy	1519
 映衬	analogy	1517
+比拟	analogy	1516
 比喻	analogy	1516
 喻	analogy	1198
 反	analogy	1189
@@ -7732,6 +7729,7 @@ A咖	a-list-top-tier	819
 分析	analysis	2410
 分析学	analysis	1951
 实分析	analysis	1951
+比色分析	analysis	1771
 定量分析	analysis	1771
 定性分析	analysis	1771
 光谱分析	analysis	1771
@@ -8217,11 +8215,11 @@ A咖	a-list-top-tier	819
 惹怒	anger	1519
 作色	anger	1519
 七情	anger	1518
+杀气	anger	1518
 息怒	anger	1518
 毒气	anger	1517
 怒火	anger	1517
 撒气	anger	1517
-杀气	anger	1517
 奰	anger	1199
 忿	anger	1199
 怫	anger	1199
@@ -8952,6 +8950,7 @@ A咖	a-list-top-tier	819
 别称	another-name	1519
 外省	another-province	1519
 代收	another's	1519
+接棒	another's	1518
 取经	another's	1518
 喁	another's	1199
 不分彼此	another's	1009
@@ -9195,6 +9194,7 @@ A咖	a-list-top-tier	819
 排满	anti-manchu	1519
 三合会	anti-manchu	1178
 反物质	antimatter	1179
+杀菌剂	antimicrobial	1179
 反弹导弹	antimissile	1009
 反导	anti-missile	1519
 反导弹	anti-missile	1179
@@ -9252,7 +9252,6 @@ A咖	a-list-top-tier	819
 反舰导弹	anti-ship	1009
 反舰导弹	anti-ship-missile	1009
 止滑	anti-slip	1518
-孤僻	antisocial	1519
 戾气	antisocial	1517
 反社会	antisocial	1179
 反社会行为	antisocial	829
@@ -9376,6 +9375,7 @@ A咖	a-list-top-tier	819
 揪心扒肝	anxious	1009
 人心惶惶	anxious	1009
 忐忑不安	anxious	1009
+心怀忐忑	anxious	1009
 惴惴不安	anxious	1008
 惶惑	anxious-and-perplexed	1519
 忐忑不安	anxious-in-turmoil	1009
@@ -10235,7 +10235,6 @@ A咖	a-list-top-tier	819
 恰如其分	appropriate	1596
 因时制宜	appropriate	1596
 占为己有	appropriate	1596
-对症发药	appropriate	1595
 对症下药	appropriate	1595
 名正言顺	appropriate	1591
 好	appropriate	1535
@@ -10478,6 +10477,7 @@ A咖	a-list-top-tier	819
 巠	archaic	1198
 㐖毒	archaic	1169
 之乎者也	archaic	1008
+之乎者也	archaic-expressions	1008
 㐖毒	archaic-name-for-india	1169
 弌	archaic-variant-of	1199
 巠	archaic-variant-of	1198
@@ -10892,6 +10892,7 @@ PA部	areas	1246
 博斗	argue	1519
 巧辩	argue	1519
 嚷嚷	argue	1519
+比烂	argue	1518
 嚼舌	argue	1518
 明言	argue	1518
 抬杠	argue	1518
@@ -10955,6 +10956,7 @@ PA部	areas	1246
 后院起火	arises	1009
 此起彼伏	arises	1008
 一波未平，一波又起	arises	549
+时间差	arising	1177
 崛地而起	arising	1009
 枝节横生	arising	1009
 世家	aristocratic	1518
@@ -10990,6 +10992,7 @@ PA部	areas	1246
 挽	arm	1195
 掰手腕	arm	1179
 掰腕子	arm	1179
+比腕力	arm	1179
 机械臂	arm	1179
 人马臂	arm	1179
 三折肱	arm	1179
@@ -11084,7 +11087,6 @@ PA部	areas	1246
 暗疔	armpit	1518
 副乳	armpit	1518
 夹	armpit	1196
-夹肢窝	armpit	1179
 暗疔	armpit-boil	1518
 扶手	armrest	1518
 抱臂	arms	1519
@@ -11130,6 +11132,7 @@ PA部	areas	1246
 不即不离	arm's	1008
 掰手腕	arm-wrestling	1179
 掰腕子	arm-wrestling	1179
+比腕力	arm-wrestling	1179
 把总	army	2010
 兵痞	army	2010
 兵站	army	2010
@@ -11286,7 +11289,6 @@ PA部	areas	1246
 传开	around	2476
 打箍	around	2476
 勾搭	around	2476
-咕攘	around	2476
 好惹	around	2476
 合围	around	2476
 急转	around	2476
@@ -11823,6 +11825,7 @@ PA部	areas	1246
 涂家	artist	2223
 村上隆	artist	1764
 化妆师	artist	1764
+拉布布	artist	1764
 李连杰	artist	1764
 小畑健	artist	1764
 查克·诺里斯	artist	1224
@@ -11851,6 +11854,7 @@ PA部	areas	1246
 料理	art-of-cooking	1515
 权术	art-of-politics	1519
 兵法	art-of-war	1519
+比武	arts	2371
 方术	arts	2371
 工艺	arts	2371
 国术	arts	2371
@@ -12083,7 +12087,6 @@ PA部	areas	1246
 亚细亚洲	asia	1491
 中亚细亚	asia	1491
 鳤	asia	1431
-佤	asia	1431
 亚	asia	1431
 巴克特里亚	asia	1221
 帕米尔高原	asia	1221
@@ -12899,7 +12902,6 @@ PA部	areas	1246
 一身	a-suit-of-clothes	1516
 传唤	a-summons	1519
 款子	a-sum-of-money	1519
-款项	a-sum-of-money	1518
 亚松森	asunci	1179
 垫高	a-support	1519
 修罗	asuras	1519
@@ -12930,6 +12932,7 @@ PA部	areas	1246
 任便	as-you-see-fit	1519
 慕士塔格峰	ata	829
 戒忌	a-taboo	1519
+堕云雾中	at-a-complete-loss	1008
 歪	at-a-crooked-angle	1198
 日暮途穷	at-a-dead-end	1008
 一览	at-a-glance	1519
@@ -13291,6 +13294,7 @@ A圈儿	at-symbol	479
 攻击力	attack	1179
 下毒手	attack	1179
 攻击线	attack	1178
+时间差	attack	1178
 不喜勿喷	attack	1009
 乘胜追击	attack	1009
 大张挞伐	attack	1009
@@ -13310,6 +13314,7 @@ A圈儿	at-symbol	479
 心肌梗死	attack	1008
 对号入座	attack	1007
 借刀杀人	attack	1007
+时间差攻击	attack	829
 心脏病发作	attack	829
 中间人攻击	attack	829
 拒绝服务攻击	attack	759
@@ -13323,6 +13328,7 @@ A圈儿	at-symbol	479
 前腰	attacking	1519
 怒气攻心	attacking	1009
 围魏救赵	attacking	1008
+时间差攻击	attacking	829
 夹攻	attack-on-a-flank	1516
 夹击	attack-on-a-flank	1516
 夹攻	attacks	1515
@@ -13448,7 +13454,6 @@ A圈儿	at-symbol	479
 提及	attention	2009
 心神	attention	2009
 凝固	attention	2008
-密切	attention	2006
 博眼球	attention	1551
 不经意	attention	1551
 不去理	attention	1551
@@ -13462,7 +13467,6 @@ A圈儿	at-symbol	479
 大鸣大放	attention	1371
 大声疾呼	attention	1371
 放在眼里	attention	1371
-密切注意	attention	1371
 全神贯注	attention	1371
 惹人注目	attention	1371
 惹人注意	attention	1371
@@ -13798,9 +13802,7 @@ A圈儿	at-symbol	479
 大姨妈	aunt-flo	1178
 互惠生	au-pair	1179
 佛光	aura	1518
-杀气	aura	1518
 不怒而威	aura	1009
-杀气	aura-of-death	1518
 斯坦因	aurel	1178
 奥里里亚	aurelia	1009
 奥里里亚	aurelia-a-hypothetical-planet	1009
@@ -14506,6 +14508,7 @@ A圈儿	at-symbol	479
 平均剂量	average	1722
 平均收入	average	1722
 偏	average	1658
+平	average	1657
 年均增长率	average	1452
 普通老百姓	average	1451
 年均增长率	average-annual-growth-rate	829
@@ -14514,6 +14517,7 @@ A圈儿	at-symbol	479
 平均剂量	average-dose	1009
 平均收入	average-income	1009
 平均	average-on-average	1519
+平	average-ordinary	1194
 普通老百姓	average-people	828
 一般人	average-person	1179
 均价	average-price	1519
@@ -15791,6 +15795,7 @@ N久	a-very-long-time	819
 不便险	baggage	1179
 寄物柜	baggage	1179
 寄物柜	baggage-locker	1179
+比尔博	baggins	1179
 吊裆裤	baggy	1179
 吊裆裤	baggy-pants	1179
 巴格达	baghdad	1179
@@ -16069,6 +16074,7 @@ N久	a-very-long-time	819
 交际舞	ballroom-dance	1178
 交谊舞	ballroom-dancing	1178
 大球	balls	1519
+卵蛋	balls	1519
 抟饭	balls	1519
 小球	balls	1519
 丸子	balls	1518
@@ -17226,6 +17232,7 @@ U盾	banking	819
 厨卫	bathrooms	1519
 拔示巴	bathsheba	1179
 巴特纳	batna	1179
+接棒	baton	1519
 接力棒	baton	1179
 指挥棒	baton	1179
 巴吞鲁日	baton	1009
@@ -17376,6 +17383,7 @@ U盾	banking	819
 月桂叶	bay	1818
 月桂树	bay	1817
 柏克莱	bay	1816
+比斯开湾	bay	1638
 栗斑杜鹃	bay	1638
 孟加拉湾	bay	1638
 月桂树叶	bay	1638
@@ -17405,6 +17413,7 @@ U盾	banking	819
 月桂	bay-leaf	1517
 月桂叶	bay-leaf-laurel-leaf	1179
 孟加拉湾	bay-of-bengal	1009
+比斯开湾	bay-of-biscay	1009
 坎塔布连海	bay-of-biscay	829
 刺刀	bayonet	1519
 对刺	bayonet	1519
@@ -17766,6 +17775,8 @@ K人	beat	819
 五刑	beating	1518
 挨板子	beating	1179
 挨打受气	beating	1009
+比翼齐飞	beating	1008
+比翼双飞	beating	1008
 三天不打，上房揭瓦	beating	549
 挨打受骂	beatings	1009
 杖刑	beating-with-wooden-staves	1519
@@ -17866,6 +17877,7 @@ K人	beat	819
 殊色	beautiful-girl	1519
 暶	beautiful-good-looking	1198
 内外兼修	beautiful-inside-and-out	1009
+佳人才子	beautiful-lady-gifted-scholar	1009
 字正腔圆	beautifully	1009
 标致	beautiful-pretty	1519
 姐妹花	beautiful-sisters	1179
@@ -17898,6 +17910,7 @@ K人	beat	819
 冰肌玉骨	beauty	1674
 成人之美	beauty	1674
 国色天香	beauty	1674
+九天仙女	beauty	1674
 容华绝代	beauty	1674
 审美眼光	beauty	1674
 太平公主	beauty	1674
@@ -18479,6 +18492,7 @@ BP机	beeper-pager	479
 岁初	beginning-of-the-year	1519
 初期	beginning-period	1518
 初学者	beginning-student	1179
+入春	begins	1519
 一元复始	begins	1009
 千里之行，始于足下	begins	549
 恋家	begrudge	1517
@@ -18493,6 +18507,7 @@ BP机	beeper-pager	479
 代收	behalf	1519
 代书	behalf	1519
 代为	behalf	1519
+代写	behalf	1519
 代行	behalf	1519
 嘴替	behalf	1519
 代办	behalf	1518
@@ -18946,7 +18961,6 @@ BP机	beeper-pager	479
 噌	bells	1199
 叮当响	bells	1178
 叮叮当当	bells	1008
-囊揣	belly	1519
 囊膪	belly	1519
 捧腹	belly	1519
 收腹	belly	1519
@@ -19809,6 +19823,7 @@ BP机	beeper-pager	479
 出乎	beyond	2041
 五方	beyond	2041
 以外	beyond	2037
+出校门	beyond	1583
 小孩哥	beyond	1583
 小孩姐	beyond	1583
 斩杀线	beyond	1582
@@ -19866,6 +19881,8 @@ BP机	beeper-pager	479
 比亚韦斯托克	bia	759
 扁鹊	bian	1519
 卞	bian	1199
+比氏鹟莺	bianchi's	1009
+比氏鹟莺	bianchi's-warbler	1009
 林彪	biao	1519
 刘表	biao	1519
 国标码	biao	1179
@@ -20194,9 +20211,11 @@ word姐	big	899
 两侧对称	bilateral	1009
 两国之间	bilateral	1009
 两侧对称	bilateral-symmetry	1009
+比尔博	bilbo	1179
 图片报	bild-zeitung	1179
 哔哩哔哩	bilibili	1009
 B站	bilibili	819
+比尔	bill	2349
 换单	bill	2349
 汇票	bill	2349
 两讫	bill	2349
@@ -20215,6 +20234,7 @@ B站	bilibili	819
 卿卿我我	bill	1709
 权利法案	bill	1709
 单	bill	1649
+比尔·盖茨	bill	1439
 AA制	bill	1189
 AB制	bill	1189
 广告牌	billboard	1179
@@ -20406,6 +20426,7 @@ AB制	bill	1189
 嘤	birds	1199
 喿	birds	1199
 啁	birds	1199
+比翼双飞	birds	1009
 佛法僧目	birds	1009
 恐龙总目	birds	1009
 如鸟兽散	birds	1009
@@ -20512,6 +20533,7 @@ AB制	bill	1189
 出生率	birth-rate	1179
 比如县	biru	1179
 希洪	biscay	1519
+比斯开湾	biscay	1009
 坎塔布连海	biscay	829
 奶酥	biscuit	1519
 平分	bisect	1518
@@ -20521,9 +20543,14 @@ AB制	bill	1189
 主教	bishop	1519
 柏克莱	bishop	1178
 俾斯麦	bismarck	1179
+比绍	bissau	1519
+比索	bissau	1519
+比绍	bissau-capital-of-guinea-bissau	1519
+比索	bissau-capital-of-guinea-bissau	1519
 小酒馆	bistro	1179
 半点	bit	2293
 半分	bit	2293
+比特	bit	2293
 丁点	bit	2293
 奉劝	bit	2293
 嘎了	bit	2293
@@ -20576,6 +20603,7 @@ AB制	bill	1189
 撕逼	bitch	1517
 叫苦不迭	bitch	1009
 杀千刀的	bitch	1009
+比特币	bitcoin	1179
 位元币	bitcoin	1179
 噬咬	bite	1519
 咬钩	bite	1519
@@ -20678,6 +20706,8 @@ AB制	bill	1189
 冷话	bitter-remarks	1517
 怨毒	bitter-resentment-rancor	1519
 惨笑	bitter-smile	1519
+比特纳	bittner	1179
+比特纳	bittner-or-b-ttner	1179
 二价	bivalent	1517
 文蛤	bivalve	1518
 文蛤	bivalve-mollusk-many-spp	1518
@@ -21103,6 +21133,7 @@ AB制	bill	1189
 封盖	blocked	1515
 此路不通	blocked	1009
 封盖	blocked-shot	1515
+时间差攻击	blocker	829
 木头	blockhead	1518
 傻叉	blockhead	1518
 梼	blockhead	1198
@@ -21110,6 +21141,7 @@ AB制	bill	1189
 榆木脑壳	blockhead	1009
 榆木疙瘩	blockhead	1008
 木头	blockhead-dolt	1518
+榆木疙瘩	blockhead-dunce	1008
 大写	block-letters	1517
 剞劂	block-print	1518
 刻本	block-printed-edition	1519
@@ -21993,6 +22025,7 @@ B超	b-mode-ultrasonography	819
 手抄本	book	2100
 小人书	book	2100
 畅销书	book	2099
+小红书	book	2099
 备忘录	book	2098
 本本主义	book	1920
 出埃及记	book	1920
@@ -23660,7 +23693,6 @@ O型腿	bow-legs-bow-leggedness	479
 孵化	breeding	1519
 冏牧	breeding	1519
 冏卿	breeding	1519
-冏寺	breeding	1519
 教养	breeding	1518
 孵	breeding	1199
 北洋军	breeding	1179
@@ -24890,13 +24922,13 @@ CP值	buck	479
 峨眉山	buddhism	1179
 噶当派	buddhism	1179
 格鲁派	buddhism	1179
+喇嘛教	buddhism	1179
 摩揭陀	buddhism	1179
 上座部	buddhism	1179
 天台山	buddhism	1179
 天台宗	buddhism	1179
 唯识宗	buddhism	1179
 悉达多	buddhism	1179
-喇嘛教	buddhism	1178
 喇嘛庙	buddhism	1178
 人间佛教	buddhism	1009
 善男信女	buddhism	1009
@@ -25230,6 +25262,7 @@ CP值	buck	479
 公牛	bull	1519
 升市	bull	1518
 印玺	bull	1517
+比特犬	bull	1179
 多头市场	bull	1009
 叭啦狗	bulldog	1179
 推土机	bulldozer	1179
@@ -26350,6 +26383,7 @@ CP值	buck	479
 刚巧	by-good-luck	1517
 可巧	by-happy-coincidence	1519
 城管	bylaw	1519
+会章	bylaws	1519
 推而广之	by-logical-extension	1008
 恰好	by-lucky-coincidence	1518
 凭藉	by-means-of	1517
@@ -26985,6 +27019,7 @@ CP值	buck	479
 冷静	calm	1519
 平抚	calm	1519
 平复	calm	1519
+平静	calm	1519
 坦然	calm	1519
 提提	calm	1519
 恬波	calm	1519
@@ -27000,7 +27035,7 @@ CP值	buck	479
 从容	calm	1517
 安	calm	1199
 恬	calm	1198
-平	calm	1194
+平	calm	1193
 不动声色	calm	1009
 不慌不忙	calm	1009
 不愠不火	calm	1009
@@ -27023,6 +27058,8 @@ CP值	buck	479
 心平气和	calmly	1009
 平常心	calmness	1178
 安	calm-peaceful	1199
+平	calm-peaceful	1193
+平静	calm-tranquil-serene	1519
 不慌不忙	calm-unhurried-composed	1009
 恬波	calm-waters	1519
 卡	calorie	1193
@@ -27081,6 +27118,8 @@ CP值	buck	479
 暗袋	camera	2320
 暗箱	camera	2320
 出镜	camera	2320
+机位	camera	2320
+前摄	camera	2320
 卡片机	camera	1860
 抢镜头	camera	1860
 摄像机	camera	1860
@@ -27097,6 +27136,7 @@ CP值	buck	479
 暗箱	camera-bellows	1519
 摄影师	cameraman	1179
 暗箱	camera-obscura	1518
+机位	camera-position	1519
 相机	cameras	2199
 奥林巴斯	cameras	1558
 卡梅伦	cameron	1179
@@ -27250,7 +27290,7 @@ CP值	buck	479
 小辫子	can	2147
 据我看	can	2146
 杯酒解怨	can	1968
-兵不厌诈	can	1968
+比比皆是	can	1968
 不破不立	can	1968
 大相径庭	can	1968
 对酒当歌	can	1968
@@ -27416,6 +27456,7 @@ CP值	buck	479
 有得一比	can-be-compared	1009
 可分	can-be-divided	1519
 可望	can-be-expected	1519
+比比皆是	can-be-found-everywhere	1009
 堪称	can-be-rated-as	1519
 堪培拉	canberra	1179
 坎培拉	canberra	1179
@@ -27424,6 +27465,7 @@ CP值	buck	479
 可作	can-be-used-for	1519
 坎昆	canc	1519
 康康舞	cancan	1179
+撤销	cancel	1519
 取消	cancel	1519
 抵消	cancel	1518
 对消	cancel	1518
@@ -27987,6 +28029,8 @@ K线图	candlestick-chart	479
 北京	capital	2233
 本金	capital	2233
 本钱	capital	2233
+比绍	capital	2233
+比索	capital	2233
 伯恩	capital	2233
 卜宅	capital	2233
 昌原	capital	2233
@@ -28623,6 +28667,7 @@ TF卡	card	1321
 保重	care	2516
 打理	care	2516
 带娃	care	2516
+个护	care	2516
 厚爱	care	2516
 寄养	care	2516
 加护	care	2516
@@ -28757,6 +28802,7 @@ TF卡	card	1321
 工整	carefully	1518
 思虑	carefully	1518
 周备	carefully	1518
+密切	carefully	1517
 叮咛	carefully	1516
 嫈	carefully	1198
 审	carefully	1197
@@ -28966,6 +29012,7 @@ TF卡	card	1321
 便携	carry	1518
 带病	carry	1518
 怀胎	carry	1518
+接棒	carry	1518
 履行	carry	1518
 佩带	carry	1518
 失责	carry	1518
@@ -29536,6 +29583,7 @@ TF卡	card	1321
 学区房	catchment	1179
 口号	catchphrase	1518
 口头禅	catchphrase	1178
+抓耳	catchy	1519
 朗朗上口	catchy	1007
 儿茶素	catechin	1179
 新慕道团	catechumenal	1009
@@ -30019,6 +30067,7 @@ T型台	catwalk	479
 天人	celestial	1518
 仙气	celestial	1518
 仙人	celestial	1518
+九天仙女	celestial	1009
 天兵天将	celestial	1009
 天球赤道	celestial	1009
 天体力学	celestial	1009
@@ -31308,7 +31357,6 @@ T型台	catwalk	479
 敖广	character	2093
 傲骨	character	2093
 本字	character	2093
-别字	character	2093
 初文	character	2093
 带种	character	2093
 单字	character	2093
@@ -31402,6 +31450,7 @@ T型台	catwalk	479
 假借义	character	1633
 假借字	character	1633
 检字表	character	1633
+拉布布	character	1633
 林黛玉	character	1633
 俗体字	character	1633
 孙悟空	character	1633
@@ -31617,7 +31666,6 @@ T型台	catwalk	479
 带电	charged	1519
 冏牧	charged	1519
 冏卿	charged	1519
-冏寺	charged	1519
 免票	charged	1519
 操刀手	charged	1179
 太仆寺	charged	1179
@@ -31760,6 +31808,7 @@ T型台	catwalk	479
 K线图	chart	479
 包乘	charter	1519
 包船	charter	1519
+会章	charter	1519
 宪章	charter	1519
 包机	charter	1518
 包租	charter	1518
@@ -32076,9 +32125,7 @@ K线图	chart	479
 杀君马者道旁儿	cheering	688
 欢呼雀跃	cheering-excitedly	1009
 啦啦队长	cheerleader	1009
-拉拉队	cheerleading	1179
 啦啦队	cheerleading	1179
-拉拉队	cheerleading-squad	1179
 啦啦队	cheerleading-squad	1179
 冷清	cheerless	1519
 冷清清	cheerless	1176
@@ -32520,6 +32567,7 @@ K线图	chart	479
 问客杀鸡	chicken	1009
 指鸡骂狗	chicken	1009
 左宗棠鸡	chicken	1009
+比翼双飞	chicken	1007
 杀鸡给猴看	chicken	829
 割鸡焉用牛刀	chicken	759
 手无缚鸡之力	chicken	759
@@ -33129,7 +33177,6 @@ K线图	chart	479
 佧	china	1710
 嗕	china	1710
 杉	china	1710
-佤	china	1710
 夷	china	1710
 塬	china	1710
 中	china	1710
@@ -34339,7 +34386,6 @@ U盾	chinese	1432
 基民党	christian	1725
 倪柝声	christian	1725
 大斋节	christian	1724
-基督教	christian	1724
 基督教派	christian	1545
 基督教徒	christian	1545
 中原大学	christian	1545
@@ -34373,10 +34419,10 @@ U盾	chinese	1432
 哥伦布	christopher	1179
 克里斯托弗	christopher	829
 克利斯朵夫	christopher	829
+染色质	chromatin	1179
 橙黄	chrome	1519
 橙黄色	chrome	1179
 染色体	chromosome	1179
-染色质	chromosome	1179
 常染色体	chromosome	1009
 多线染色体	chromosome	829
 宿疾	chronic	1519
@@ -36572,7 +36618,6 @@ U盾	chinese	1432
 克莱尔	claire	1179
 千里眼	clairvoyance	1179
 文蛤	clam	1519
-大文蛤	clam	1179
 女神蛤	clam	1178
 攀升	clamber	1519
 攀登	clamber	1517
@@ -36843,6 +36888,7 @@ U盾	chinese	1432
 山水诗	classical	1179
 文言文	classical	1179
 拙政园	classical	1179
+伴随矩阵	classical	1009
 古典文学	classical	1009
 古典音乐	classical	1009
 古典语言	classical	1009
@@ -37121,6 +37167,7 @@ U盾	chinese	1432
 条文	clause	1519
 子句	clause	1519
 但书	clause	1518
+款项	clause	1518
 句	clause	1198
 条	clause	1196
 所	clause	1195
@@ -37427,7 +37474,6 @@ V沟	cleavage	819
 乖	clever	1198
 快	clever	1192
 机灵鬼	clever	1179
-有心眼	clever	1179
 小聪明	clever	1178
 有本事	clever	1178
 妒能害贤	clever	1009
@@ -37718,6 +37764,7 @@ V沟	cleavage	819
 拉近	close	2375
 六亲	close	2375
 弥合	close	2375
+密接	close	2375
 密切	close	2375
 密实	close	2375
 密友	close	2375
@@ -37743,7 +37790,6 @@ V沟	cleavage	819
 合围	close	2374
 家亲	close	2374
 就近	close	2374
-密接	close	2374
 戚谊	close	2374
 收官	close	2374
 收口	close	2374
@@ -37767,12 +37813,12 @@ V沟	cleavage	819
 带上门	close	1915
 两步路	close	1914
 不离儿	close	1913
+比翼双飞	close	1735
 唇齿相依	close	1735
 抵足而眠	close	1735
 后院起火	close	1735
 交情匪浅	close	1735
 密密麻麻	close	1735
-密切注意	close	1735
 情同骨肉	close	1735
 情同手足	close	1735
 死不瞑目	close	1735
@@ -37830,11 +37876,11 @@ V沟	cleavage	819
 友好	close-friend	1518
 挚友	close-friend	1518
 戚谊	close-friendship	1518
+密切	close-intimate	1519
 懿亲	close-kin	1519
 昵爱	close-love	1517
 嫡亲	closely	1519
 叮问	closely	1519
-密接	closely	1519
 密排	closely	1519
 密织	closely	1519
 平头	closely	1519
@@ -37844,14 +37890,11 @@ V沟	cleavage	819
 攒簇	closely	1519
 戚戚	closely	1518
 审察	closely	1518
-密切	closely	1516
+密切	closely	1517
 壁垒森严	closely	1009
 唇齿相依	closely	1009
 寸步不离	closely	1009
 动见观瞻	closely	1009
-密切相关	closely	1009
-密切相连	closely	1009
-密切注视	closely	1009
 息息相关	closely	1009
 桴鼓相应	closely	1008
 密密层层	closely	1008
@@ -37862,11 +37905,10 @@ V沟	cleavage	819
 拉锯战	closely-fought	1178
 拉锯战	closely-fought-contest	1178
 壁垒森严	closely-guarded	1009
+密切	closely-intently-carefully	1517
 桴鼓相应	closely-interrelated	1008
 密密层层	closely-layered	1008
 戚戚	closely-related	1518
-密切相关	closely-related	1009
-密切相连	closely-related	1008
 嫡亲	closely-related-by-blood	1519
 密织	closely-woven	1519
 仔密	closely-woven-tightly-knitted	1519
@@ -38491,6 +38533,7 @@ QR扣	code	1370
 孙逸仙	co-founder	1179
 孙中山	co-founder	1179
 扎克伯格	co-founder	1009
+比尔·盖茨	co-founder	829
 埃隆·马斯克	co-founder	759
 伊隆·马斯克	co-founder	759
 史蒂夫·乔布斯	co-founder	689
@@ -39182,6 +39225,8 @@ V沟	collet	818
 多彩	colorful	1519
 光艳	colorful	1519
 富色彩	colorful	1179
+比色分析	colorimetric	1009
+比色分析	colorimetric-analysis	1009
 化学比色法	colorimetry	829
 平铺直叙	colorless	1009
 彩色笔	color-marker	1178
@@ -39342,6 +39387,7 @@ V沟	collet	818
 挨打	come	2451
 成丁	come	2451
 成真	come	2451
+抽穗	come	2451
 出场	come	2451
 出伏	come	2451
 出柜	come	2451
@@ -39974,6 +40020,7 @@ B站	comments	1846
 咬舌自尽	commit	1009
 付之一炬	commit	1008
 口无遮拦	commit	1007
+时间差攻击	commit	829
 兑现	commitment	1518
 夙诺	commitment	1518
 承诺	commitment	1517
@@ -40428,6 +40475,7 @@ P民	commoner	818
 交换	commute	1515
 易科罚金	commute	1009
 死缓	commuted	1518
+免单	comp	1519
 光盘	compact	1519
 密致	compact	1519
 微缩	compact	1519
@@ -40593,9 +40641,12 @@ P民	commoner	818
 有一拼	comparable-on-a-par	1179
 交浅言深	comparative	1009
 比价	compare	2484
+比烂	compare	2484
+比拟	compare	2484
 比喻	compare	2484
 对标	compare	2484
 切磋	compare	2484
+比为	compare	2483
 比作	compare	2483
 比做	compare	2483
 对照	compare	2483
@@ -40619,6 +40670,7 @@ P民	commoner	818
 比对	comparison	1519
 对照	comparison	1517
 戏说	comparison	1515
+比拟	comparison	1514
 比一比	comparison	1179
 对照表	comparison	1179
 拟于不伦	comparison	1009
@@ -40726,6 +40778,7 @@ P民	commoner	818
 出场	compete	1518
 出战	compete	1518
 攀比	compete	1518
+比武	compete	1517
 卷	compete	1197
 摽	compete	1196
 夺	compete	1196
@@ -40748,6 +40801,7 @@ P民	commoner	818
 来得	competent	1517
 人才济济	competent	1008
 拉练	competing	1518
+比武	competition	1519
 完赛	competition	1519
 奥数	competition	1518
 参赛	competition	1518
@@ -40982,7 +41036,7 @@ P民	commoner	818
 不理不睬	completely	1009
 废寝忘食	completely	1009
 夹七夹八	completely	1009
-剖肝沥胆	completely	1009
+披肝沥胆	completely	1009
 全神贯注	completely	1009
 全无准备	completely	1009
 同符合契	completely	1009
@@ -41067,9 +41121,9 @@ P民	commoner	818
 困扰	complications	1517
 并发症	complications	1179
 多一事不如少一事	complications	618
+恭维	compliment	1519
 回奉	compliment	1519
 回敬	compliment	1519
-恭维	compliment	1517
 哪里	compliment	1514
 基操勿6	compliment	309
 口彩	complimentary	1519
@@ -41109,7 +41163,6 @@ P民	commoner	818
 器件	component	1518
 元件	component	1518
 模块	component	1517
-成份	component	1515
 丷	component	1199
 丌	component	1199
 丂	component	1199
@@ -41196,7 +41249,6 @@ P民	commoner	818
 合成数	composite-number	1179
 构词	composite-word	1519
 成分	composition	1519
-成份	composition	1519
 成章	composition	1519
 构图	composition	1519
 乐曲	composition	1519
@@ -41579,6 +41631,7 @@ P民	commoner	818
 一唱三叹	concise	1009
 一字褒贬	concise	1008
 中国小说史略	concise	759
+一字褒贬	concise-and-powerful-wording	1008
 定约	conclude	1519
 断定	conclude	1519
 归结	conclude	1519
@@ -42188,6 +42241,7 @@ P民	commoner	818
 惛	confused	1199
 慁	confused	1199
 愦	confused	1199
+懵	confused	1199
 晕	confused	1199
 棼	confused	1198
 乱	confused	1198
@@ -42203,7 +42257,10 @@ P民	commoner	818
 找不着北	confused	1009
 丢轮扯炮	confused	1008
 晕头转向	confused-and-disoriented	1009
+懵懂	confused-ignorant	1519
+懵	confused-ignorant	1199
 暗	confused-ignorant	1196
+懵懵懂懂	confused-ignorant-muddle-headed	1009
 恍然	confused-vague-distracted	1518
 本末倒置	confusing	1009
 扑朔迷离	confusing	1008
@@ -42356,7 +42413,6 @@ P民	commoner	818
 搭	connect	1314
 接	connect	1314
 交通	connected	1519
-密接	connected	1519
 森罗	connected	1519
 在线	connected	1519
 局外	connected	1518
@@ -42849,6 +42905,7 @@ P民	commoner	818
 属	constitute	1189
 太和殿	constitute	1179
 伦理观	constitutes	1179
+会章	constitution	1519
 五院	constitution	1519
 宪法	constitution	1519
 修宪	constitution	1519
@@ -42869,6 +42926,7 @@ P民	commoner	818
 宪政主义	constitutionalism	1009
 合宪性	constitutionality	1179
 君主立宪	constitutional-monarchy	1009
+会章	constitution-bylaws-charter	1519
 压抑	constrain	1519
 拘	constrain	1197
 妨功害能	constrain	1009
@@ -43211,6 +43269,7 @@ OK镜	contact	1436
 比拼	contest	1518
 得标	contest	1518
 对决	contest	1518
+比武	contest	1517
 博弈	contest	1517
 征选	contest	1516
 擂	contest	1199
@@ -43461,6 +43520,7 @@ U凸内裤	contour-pouch-brief	309
 反观	contrast	1519
 映衬	contrast	1519
 哪像	contrast	1518
+比照	contrast	1517
 对比度	contrast	1179
 对比色	contrast	1179
 反差	contrast-discrepancy	1519
@@ -46477,7 +46537,6 @@ OK镜	cornea	479
 后院	court	2417
 宦官	court	2417
 奸臣	court	2417
-冏寺	court	2417
 廊庙	court	2417
 内廷	court	2417
 俳优	court	2417
@@ -47082,11 +47141,13 @@ K书	cram	819
 塑像	created	2293
 㓥房	created	1944
 克苏鲁	created	1834
+拉布布	created	1834
 官二代	created	1833
 主旋律	created	1832
 东坡肘子	created	1654
 抖音	creating	1519
 业配	creating	1519
+时间差攻击	creating	829
 创世	creation	1519
 小品	creation	1519
 创作	creation	1518
@@ -47387,6 +47448,7 @@ K书	cram	819
 反人类罪	crimes-against-humanity	1009
 案发现场	crime-scene	1009
 案底	criminal	1519
+比捕	criminal	1519
 锉尸	criminal	1519
 悍匪	criminal	1519
 控罪	criminal	1519
@@ -47553,6 +47615,7 @@ C罗	cristiano	819
 危重	critically-ill	1519
 危重病人	critically-ill-patient	1009
 先机	critical-opportunity	1519
+千钧一发	critical-perilous	1008
 急难	critical-situation	1516
 夹当	critical-time	1518
 报批	criticism	1519
@@ -48790,6 +48853,7 @@ C罗	cristiano	819
 出菜	customer	2485
 店堂	customer	2485
 客服	customer	2485
+客官	customer	2485
 客户	customer	2485
 客诉	customer	2485
 免单	customer	2485
@@ -50188,6 +50252,9 @@ C罗	cristiano	819
 槜李	day	2581
 包拯	day	2580
 晨昏	day	2580
+初二	day	2580
+初三	day	2580
+初一	day	2580
 忌日	day	2580
 暨今	day	2580
 交九	day	2580
@@ -50524,6 +50591,7 @@ V沟	d-collet	818
 冥钞	dead	2056
 末路	dead	2056
 仆街	dead	2056
+枪崩	dead	2056
 枪杀	dead	2056
 入殓	dead	2056
 射杀	dead	2056
@@ -50806,7 +50874,6 @@ V沟	d-collet	818
 假死	death	2297
 弄死	death	2297
 掐死	death	2297
-杀气	death	2297
 死节	death	2297
 死命	death	2297
 死囚	death	2297
@@ -51043,7 +51110,6 @@ V沟	d-collet	818
 巧诈	deceitful	1519
 奸猾	deceitful	1517
 桀贪骜诈	deceitful	1009
-兵不厌诈	deceitful	1008
 哄瞒	deceive	1519
 哄骗	deceive	1519
 欺蒙	deceive	1519
@@ -53241,6 +53307,7 @@ Q弹	dente	817
 冤家	destined	1517
 有缘无分	destined	1009
 命中注定	destined	1008
+定命	destiny	1519
 命运	destiny	1519
 应运	destiny	1519
 历数	destiny	1518
@@ -54199,6 +54266,7 @@ Q弹	dente	817
 差额	difference	2006
 分别	difference	2006
 差异性	difference	1548
+时间差	difference	1548
 分至点	difference	1547
 爱憎分明	difference	1368
 别无二致	difference	1368
@@ -54406,6 +54474,7 @@ Q弹	dente	817
 孤掌难鸣	difficult	1339
 佶	difficult	1281
 掯	difficult	1280
+比登天还难	difficult	1070
 一个巴掌拍不响	difficult	888
 只要功夫深，铁杵磨成针	difficult	530
 交困	difficulties	1519
@@ -54756,6 +54825,7 @@ Q弹	dente	817
 接风	dinner	1519
 晚餐	dinner	1519
 尾牙	dinner	1519
+夜饭	dinner	1519
 晚饭	dinner	1518
 晚宴	dinner	1518
 围炉	dinner	1518
@@ -54774,6 +54844,7 @@ Q弹	dente	817
 宴会	dinner-party	1517
 出菜秀	dinner-show	1179
 上菜秀	dinner-show	1179
+夜饭	dinner-supper	1519
 恐龙	dinosaur	1519
 寐龙	dinosaur	1519
 暴龙科	dinosaur	1179
@@ -55014,13 +55085,14 @@ Q弹	dente	817
 定州市	directly	1690
 有一说一	directly	1510
 扑面而来	directly	1509
-径	directly	1446
+径	directly	1449
 中央直辖市	directly	1238
 正对	directly-facing	1519
 对面	directly-in-front	1517
 扑面	directly-in-ones-face	1518
 扑面而来	directly-in-ones-face	1008
 正比	directly-proportional	1518
+径	directly-straight	1198
 厂长	director	2368
 崔嵬	director	2368
 副理	director	2368
@@ -55656,6 +55728,7 @@ Q弹	dente	817
 夫妻肺片	dish	1009
 干煸豆角	dish	1009
 左宗棠鸡	dish	1009
+比翼双飞	dish	1007
 君子报仇，十年不晚	dish	548
 失和	disharmony	1519
 挑拨	disharmony	1519
@@ -55693,7 +55766,6 @@ Q弹	dente	817
 懒得	disinclined	1519
 杀毒	disinfect	1519
 杀菌	disinfect	1518
-杀菌剂	disinfectant	1179
 冰消瓦解	disintegrate	1008
 断断续续	disjointed	1004
 扇区	disk	1519
@@ -57446,6 +57518,7 @@ DNA鉴定	dna-test-dna-testing	129
 摺线	dog	2269
 串串狗	dog	1811
 导盲犬	dog	1811
+工作犬	dog	1811
 墨脱县	dog	1811
 上犬式	dog	1811
 搜救犬	dog	1811
@@ -58551,7 +58624,6 @@ DNA鉴定	dna-test-dna-testing	129
 所托非人	down	1876
 天翻地覆	down	1876
 投笔从戎	down	1876
-投井下石	down	1876
 拖家带口	down	1876
 下箭头键	down	1876
 偃旗息鼓	down	1876
@@ -58607,6 +58679,7 @@ DNA鉴定	dna-test-dna-testing	129
 栽	down	1813
 低	down	1812
 夷	down	1812
+平	down	1809
 扮猪吃老虎	down	1606
 唐氏综合症	down	1606
 天安门开了	down	1606
@@ -58957,6 +59030,7 @@ DNA鉴定	dna-test-dna-testing	129
 中签	draw	1519
 抓阄	draw	1519
 作画	draw	1519
+比拟	draw	1518
 抽签	draw	1518
 抽血	draw	1518
 得中	draw	1518
@@ -59330,7 +59404,6 @@ DNA鉴定	dna-test-dna-testing	129
 掉点儿	drip	1179
 挥汗成雨	drip	1009
 挥汗如雨	drip	1009
-披肝沥胆	drip	1009
 掉点儿	drip-of-rain	1179
 四溢	dripping	1518
 嘀	dripping	1199
@@ -59884,6 +59957,8 @@ USB手指	drive	764
 呆若木鸡	dumb	1009
 有嘴没舌	dumb	1009
 揣着明白装糊涂	dumb	688
+傻屌	dumbass	1519
+傻卵	dumbass	1519
 哑铃	dumbbell	1519
 呆住	dumbfounded	1519
 傻眼	dumbfounded	1519
@@ -59931,6 +60006,7 @@ USB手指	drive	764
 屎蚵螂	dung-beetle	1179
 地牢	dungeon	1518
 副本	dungeon	1518
+地下城	dungeon	1179
 敦化市	dunhua	1179
 敦煌市	dunhuang	1179
 敦煌石窟	dunhuang	1009
@@ -60469,6 +60545,7 @@ AA制	dutch	479
 杜甫	dynasty	1519
 杜牧	dynasty	1519
 仿宋	dynasty	1519
+乶下	dynasty	1519
 妇好	dynasty	1519
 复明	dynasty	1519
 改朝	dynasty	1519
@@ -60559,7 +60636,6 @@ AA制	dutch	479
 周代	dynasty	1519
 朱熹	dynasty	1519
 左思	dynasty	1519
-乶下	dynasty	1519
 伯颜	dynasty	1518
 大匠	dynasty	1518
 定海	dynasty	1518
@@ -60907,6 +60983,7 @@ AA制	dutch	479
 伊戈尔斯	eagles	1009
 采耳	ear	1519
 侧耳	ear	1519
+抽穗	ear	1519
 果穗	ear	1519
 木耳	ear	1519
 内耳	ear	1519
@@ -61040,6 +61117,7 @@ AA制	dutch	479
 早	early	1653
 初	early	1652
 夙	early	1652
+时间差攻击	early	1443
 唐初四大家	early	1443
 古今韵会举要	early	1353
 弗兰西斯·培根	early	1263
@@ -61127,6 +61205,7 @@ AA制	dutch	479
 掏耳勺	ear-pick	1179
 挖耳勺	ear-pick	1179
 刺耳	ear-piercing	1519
+抽穗	ears	1519
 塞耳	ears	1519
 吐穗	ears	1519
 做眼	ears	1518
@@ -61705,6 +61784,7 @@ AA制	dutch	479
 易	easy	1712
 好	easy	1709
 一抓一大把	easy	1502
+比登天还难	easy	1500
 不费吹灰之力	easy	1412
 既来之，则安之	easy	1322
 从善如登，从恶如崩	easy	1142
@@ -61872,7 +61952,6 @@ AA制	dutch	479
 乖僻	eccentric	1518
 怪人	eccentric	1518
 奇士	eccentric	1518
-孤僻	eccentric	1517
 古怪	eccentric	1517
 怪物	eccentric	1517
 各别	eccentric	1516
@@ -62899,7 +62978,6 @@ AB制	either	1190
 元素	element	1519
 单元	element	1518
 加演	element	1518
-成份	element	1516
 价	element	1198
 不定元	element	1179
 单位元	element	1179
@@ -62962,11 +63040,9 @@ AB制	either	1190
 大笨象	elephant	1179
 多瓣蒜	elephant	1179
 女神蛤	elephant	1178
-大文蛤	elephant	1177
 合眼摸象	elephant	1009
 人心不足蛇吞象	elephant	689
 女神蛤	elephant-trunk-clam	1178
-大文蛤	elephant-trunk-clam	1177
 抬举	elevate	1518
 提升	elevate	1517
 升	elevate	1198
@@ -62995,6 +63071,7 @@ AB制	either	1190
 十一月	eleventh-month	1178
 仙童	elf	1519
 小精灵	elf	1179
+拉布布	elf-like	1179
 以利亚敬	eliakim	1009
 一呼百应	elict	1009
 役男	eligible	1519
@@ -63026,7 +63103,7 @@ OK镜	eliminate	479
 四谛	eliminating	1519
 劣汰	elimination	1519
 末位淘汰	elimination	1008
-劣汰	elimination-of-the-weakest	1519
+劣汰	elimination-of-the-weak	1519
 吞音	elision	1519
 公学	elite	1519
 劲卒	elite	1519
@@ -63096,6 +63173,7 @@ OK镜	eliminate	479
 代劳	else	2343
 代填	else	2343
 代为	else	2343
+代写	else	2343
 代罪	else	2343
 拼房	else	2343
 他人	else	2343
@@ -63824,6 +63902,7 @@ OK镜	eliminate	479
 半瓶水响叮当	empty	758
 天低吴楚，眼空无物	empty	549
 一瓶子不响，半瓶子晃荡	empty	408
+人去楼空	empty-deserted	1008
 两手空空	empty-handed	1009
 妙手空空	empty-handed	1008
 一无所获	empty-handed	1008
@@ -64990,6 +65069,7 @@ OK镜	eliminate	479
 出家	enter	2400
 列装	enter	2400
 入场	enter	2400
+入春	enter	2400
 入道	enter	2400
 入定	enter	2400
 入关	enter	2400
@@ -65017,6 +65097,7 @@ OK镜	eliminate	479
 回车	enter	2398
 抗辩	enter	2392
 出入境	enter	1940
+出校门	enter	1940
 回车键	enter	1940
 入场券	enter	1940
 入学率	enter	1940
@@ -65653,7 +65734,6 @@ OK镜	eliminate	479
 对应词	equivalent	1179
 希拉蕊	equivalent	1179
 中联办	equivalent	1179
-唔好睇	equivalent	1178
 富可敌国	equivalent	1009
 格洛纳斯	equivalent	1009
 剂量当量	equivalent	1009
@@ -66807,7 +66887,6 @@ OK镜	eliminate	479
 佩兰	eupatorium-fortunei	1517
 婉称	euphemism	1519
 婉词	euphemism	1519
-下体	euphemism	1518
 回扣	euphemism	1517
 委婉词	euphemism	1179
 委婉语	euphemism	1179
@@ -66815,7 +66894,6 @@ OK镜	eliminate	479
 断袖之癖	euphemism	1009
 岛国动作片	euphemism	829
 回扣	euphemism-for-a-bribe	1517
-下体	euphemism-for-genitals	1518
 委婉	euphemistic	1518
 比	euphemistic	1199
 小日子	euphemistic	1178
@@ -66870,6 +66948,7 @@ OK镜	eliminate	479
 欧里庇得斯	euripides	829
 欧分	euro	1519
 欧元	euro	1519
+欧	euro	1198
 欧分	euro-cent	1519
 木卫二	europa	1179
 欧罗巴	europa	1178
@@ -66911,6 +66990,7 @@ OK镜	eliminate	479
 欧洲联盟	european	1642
 欧洲山杨	european	1642
 欧洲议会	european	1642
+欧	european	1581
 欧盟委员会	european	1372
 欧洲共同体	european	1372
 欧洲航天局	european	1372
@@ -66942,6 +67022,7 @@ OK镜	eliminate	479
 欧斑鸠	european-turtle-dove	1179
 欧洲电视	european-tv	1009
 欧盟	european-union	1519
+欧	european-union	1198
 欧洲联盟	european-union	1009
 欧洲刑警组织	europol	759
 欧洲之星	eurostar	1009
@@ -67080,12 +67161,14 @@ OK镜	eliminate	479
 均	even	1829
 匀	even	1829
 更	even	1828
+平	even	1828
 也	even	1828
 即	even	1823
 便	even	1821
 却	even	1821
 就	even	1818
 八字没一撇	even	1619
+比登天还难	even	1619
 我也是醉了	even	1619
 媳妇熬成婆	even	1619
 得便宜卖乖	even	1618
@@ -67673,6 +67756,7 @@ OK镜	eliminate	479
 弥漫	everywhere	1516
 四方	everywhere	1516
 普	everywhere	1197
+比比皆是	everywhere	1009
 大街小巷	everywhere	1009
 口碑载道	everywhere	1009
 挑三窝四	everywhere	1009
@@ -68071,6 +68155,7 @@ OK镜	eliminate	479
 例子	example	2423
 样板	example	2422
 感化	example	2421
+比方说	example	1965
 比如说	example	1965
 之所以	example	1964
 有本事	example	1963
@@ -68179,8 +68264,10 @@ OK镜	eliminate	479
 奂	excellent	1470
 嘉	excellent	1470
 优	excellent	1470
+夯	excellent	1468
 崭	excellent	1465
 卓尔不群	excellent-and-unrivaled	1008
+夯	excellent-exceptionally-good	1197
 杠杠的	excellent-great	1179
 妙计	excellent-plan-brilliant-scheme	1519
 名优	excellent-quality	1519
@@ -68215,6 +68302,7 @@ OK镜	eliminate	479
 三头六臂	exceptional	1008
 分外	exceptionally	1519
 拔群	exceptionally	1518
+夯	exceptionally	1197
 小人精	exceptionally	1179
 冰雪聪明	exceptionally	1009
 天赋异禀	exceptionally	1008
@@ -68283,7 +68371,6 @@ OK镜	eliminate	479
 三包	exchange	2270
 上证	exchange	2270
 收汇	exchange	2270
-台股	exchange	2270
 套汇	exchange	2270
 替换	exchange	2270
 团拜	exchange	2270
@@ -69224,6 +69311,7 @@ OK镜	eliminate	479
 可乘之机	exploit	1009
 有机可乘	exploit	1009
 吃干抹净	exploit	1008
+时间差	exploitable	1177
 剥削	exploitation	1518
 吃人	exploitative	1519
 人矿	exploited	1519
@@ -69848,6 +69936,7 @@ OK镜	eliminate	479
 了不起	extraordinary	1177
 不含糊	extraordinary	1170
 咄咄怪事	extraordinary	1009
+九天仙女	extraordinary	1009
 力大无穷	extraordinary	1009
 奇能异士	extraordinary	1009
 俗世奇人	extraordinary	1009
@@ -69892,6 +69981,7 @@ OK镜	eliminate	479
 天花乱坠	extravagant	1008
 一掷千金	extravagant	1008
 挥金如土	extravagant	1007
+天花乱坠	extravagant-embellishments-hype	1008
 噇	extravagantly	1199
 大吃二喝	extravagantly	1009
 挥霍无度	extravagantly	1009
@@ -70007,9 +70097,13 @@ OK镜	eliminate	479
 土到不行	extremely	1008
 形影相吊	extremely	1008
 一毛不拔	extremely	1008
+比登天还难	extremely	828
 愤愤	extremely-angry	1519
 揪心扒肝	extremely-anxious	1009
 愧汗	extremely-ashamed	1518
+如临深渊	extremely-cautious	1008
+如履薄冰	extremely-cautious	1008
+弱不禁风	extremely-delicate-fragile	1008
 千难万难	extremely-difficult	1009
 千差万别	extremely-diverse	1009
 极为	extremely-exceedingly	1519
@@ -70032,10 +70126,12 @@ OK镜	eliminate	479
 形影相吊	extremely-sad-and-lonely	1008
 极小	extremely-small	1518
 极细小	extremely-small	1179
+一毛不拔	extremely-stingy	1008
 奇丑	extremely-ugly	1518
 奇丑无比	extremely-ugly	1009
 急如星火	extremely-urgent	1008
 富可敌国	extremely-wealthy	1008
+寝食难安	extremely-worried-and-troubled	1008
 极北	extreme-north	1519
 极点	extreme-point	1519
 家贫如洗	extreme-poverty-destitute	1009
@@ -70751,11 +70847,11 @@ e人	extroverted-person	819
 投机取巧	fair	1427
 光明正大	fair	1426
 天网恢恢	fair	1426
-兵不厌诈	fair	1425
 圩	fair	1367
 允	fair	1366
 妵	fair	1365
 庙	fair	1364
+平	fair	1364
 墟	fair	1364
 方	fair	1363
 公	fair	1362
@@ -70767,6 +70863,7 @@ e人	extroverted-person	819
 公平竞争	fair-competition	1009
 公平交易	fair-dealing	1009
 怜香惜玉	fairer	1009
+平	fair-impartial	1196
 整流罩	fairing	1179
 对得起	fairly	1178
 二一添作五	fairly	828
@@ -71015,7 +71112,6 @@ A货	fake	819
 败柳残花	fallen	1009
 残花败柳	fallen	1009
 前仆后继	fallen	1009
-投井下石	fallen	1009
 倒木	fallen-tree	1519
 替身	fall-guy	1514
 替死鬼	fall-guy	1178
@@ -71169,7 +71265,6 @@ A货	fake	819
 家当	familial-property	1519
 故地	familiar	1519
 厮熟	familiar	1519
-密切	familiar	1518
 接头	familiar	1517
 昵	familiar	1199
 不即不离	familiar	1009
@@ -71676,6 +71771,7 @@ A货	fake	819
 方妮	fanny	1519
 果粉	fan-of-apple-products	1519
 歌迷	fan-of-a-singer	1519
+宠粉	fans	1519
 掉粉	fans	1519
 吸粉	fans	1519
 圈粉	fans	1518
@@ -71776,6 +71872,7 @@ A货	fake	819
 到目前为止	far	1424
 天高皇帝远	far	1424
 天涯若比邻	far	1423
+比登天还难	far	1422
 哈巴罗夫斯克	far	1334
 一传十，十传百	far	1244
 拔根汗毛比腰粗	far	1243
@@ -71996,7 +72093,6 @@ A货	fake	819
 快退	fast-rewind	1519
 板油	fat	2059
 低脂	fat	2059
-囊揣	fat	2059
 囊膪	fat	2059
 副乳	fat	2058
 乳脂	fat	2058
@@ -72013,6 +72109,7 @@ A货	fake	819
 一棍子打死	fatal	829
 宿命论	fatalism	1179
 宿命论	fatalistic	1178
+定命	fate	1519
 改运	fate	1519
 国运	fate	1519
 劫数	fate	1519
@@ -72261,6 +72358,7 @@ A货	fake	819
 一百一	faultless	1179
 攻讦	faults	1519
 揭短	faults	1519
+比烂	faults	1518
 将功补过	faults	1009
 文过饰非	faults	1009
 夫子自道	faults	1008
@@ -74032,7 +74130,6 @@ B站	featuring	819
 断袖之癖	fig	1009
 堆案盈几	fig	1009
 对酒当歌	fig	1009
-对症发药	fig	1009
 对症下药	fig	1009
 多钱善贾	fig	1009
 扼襟控咽	fig	1009
@@ -74125,10 +74222,10 @@ B站	featuring	819
 按图索骥	fig	1008
 暗渡陈仓	fig	1008
 掰开揉碎	fig	1008
-半路出家	fig	1008
 宝刀不老	fig	1008
 暴虎冯河	fig	1008
 北叟失马	fig	1008
+比翼双飞	fig	1008
 兵贵神速	fig	1008
 兵强马壮	fig	1008
 不寒而栗	fig	1008
@@ -74138,7 +74235,6 @@ B站	featuring	819
 不痛不痒	fig	1008
 不亦乐乎	fig	1008
 不醉不归	fig	1008
-布帛菽粟	fig	1008
 才子佳人	fig	1008
 残羹剩饭	fig	1008
 残垣败壁	fig	1008
@@ -74148,22 +74244,14 @@ B站	featuring	819
 曾经沧海	fig	1008
 姹紫嫣红	fig	1008
 柴门小户	fig	1008
-柴米油盐	fig	1008
-唱空城计	fig	1008
 朝生暮死	fig	1008
-朝饔夕飧	fig	1008
 尘埃落定	fig	1008
 成败得失	fig	1008
-成千上万	fig	1008
 惩一儆百	fig	1008
 吃大锅饭	fig	1008
-吃喝嫖赌	fig	1008
-吃喝玩乐	fig	1008
 吃香喝辣	fig	1008
-抽丝剥茧	fig	1008
 楚河汉界	fig	1008
 吹灯拔蜡	fig	1008
-春暖花开	fig	1008
 此路不通	fig	1008
 厝火积薪	fig	1008
 打草惊蛇	fig	1008
@@ -74173,11 +74261,9 @@ B站	featuring	819
 大动干戈	fig	1008
 戴盆望天	fig	1008
 单刀赴会	fig	1008
-单枪匹马	fig	1008
 刀光剑影	fig	1008
 刀枪不入	fig	1008
 刀山火海	fig	1008
-倒持泰阿	fig	1008
 得陇望蜀	fig	1008
 东施效颦	fig	1008
 东兔西乌	fig	1008
@@ -74186,26 +74272,19 @@ B站	featuring	819
 断壁颓垣	fig	1008
 断垣残壁	fig	1008
 对牛弹琴	fig	1008
-多如牛毛	fig	1008
-堕云雾中	fig	1008
 扼喉抚背	fig	1008
 二十四史	fig	1008
 反裘负刍	fig	1008
-方枘圆凿	fig	1008
 分道扬镳	fig	1008
 俯拾皆是	fig	1008
-歌舞升平	fig	1008
 功高盖主	fig	1008
 孤军奋战	fig	1008
-固若金汤	fig	1008
 拐弯抹角	fig	1008
 光天化日	fig	1008
 光耀门楣	fig	1008
 害群之马	fig	1008
 含饴弄孙	fig	1008
-喝西北风	fig	1008
 桁杨刀锯	fig	1008
-侯门似海	fig	1008
 后车之鉴	fig	1008
 厚死薄生	fig	1008
 呼风唤雨	fig	1008
@@ -74217,31 +74296,20 @@ B站	featuring	819
 昏天黑地	fig	1008
 急嘴急舌	fig	1008
 夹起尾巴	fig	1008
-佳人才子	fig	1008
 家徒四壁	fig	1008
 剑走偏锋	fig	1008
 剑走蜻蛉	fig	1008
-井底之蛙	fig	1008
-九牛一毛	fig	1008
 居高临下	fig	1008
 卷土重来	fig	1008
 刻骨铭心	fig	1008
 扣屎盔子	fig	1008
 枯木逢春	fig	1008
-来龙去脉	fig	1008
-来踪去迹	fig	1008
-乐昌破镜	fig	1008
 冷血动物	fig	1008
 梨花带雨	fig	1008
 历久弥新	fig	1008
 梁上君子	fig	1008
-两虎相争	fig	1008
-两肋插刀	fig	1008
-令行禁止	fig	1008
-柳绿花红	fig	1008
 履险如夷	fig	1008
 埋天怨地	fig	1008
-梦寐以求	fig	1008
 名落孙山	fig	1008
 明察秋毫	fig	1008
 明日黄花	fig	1008
@@ -74256,34 +74324,23 @@ B站	featuring	819
 排山倒海	fig	1008
 抛砖引玉	fig	1008
 披荆斩棘	fig	1008
-披沙拣金	fig	1008
 品头论足	fig	1008
 剖腹藏珠	fig	1008
 七窍生烟	fig	1008
 七折八扣	fig	1008
-欺霜傲雪	fig	1008
-杞人忧天	fig	1008
-杞人之忧	fig	1008
-千钧一发	fig	1008
-前车之鉴	fig	1008
-强弩之末	fig	1008
 巧舌如簧	fig	1008
 切磋琢磨	fig	1008
 切中要害	fig	1008
-寝食难安	fig	1008
 倾国倾城	fig	1008
 晴天霹雳	fig	1008
 曲肱而枕	fig	1008
 曲突徙薪	fig	1008
-屈指可数	fig	1008
 圈圈点点	fig	1008
 拳打脚踢	fig	1008
 惹火烧身	fig	1008
 人喊马嘶	fig	1008
 人迹罕至	fig	1008
 人间地狱	fig	1008
-人面兽心	fig	1008
-人去楼空	fig	1008
 人走茶凉	fig	1008
 任重道远	fig	1008
 日薄崦嵫	fig	1008
@@ -74295,70 +74352,45 @@ B站	featuring	819
 如簧之舌	fig	1008
 如假包换	fig	1008
 如临大敌	fig	1008
-如临深渊	fig	1008
-如履薄冰	fig	1008
-如鸟兽散	fig	1008
-如泣如诉	fig	1008
 如蛆附骨	fig	1008
 如日中天	fig	1008
-如丧考妣	fig	1008
 如数家珍	fig	1008
-如影随形	fig	1008
 如坐针毡	fig	1008
 乳臭未干	fig	1008
-入境随俗	fig	1008
-弱不禁风	fig	1008
-弱肉强食	fig	1008
 塞翁失马	fig	1008
 三顾茅庐	fig	1008
 三教九流	fig	1008
-三头六臂	fig	1008
 三旬九食	fig	1008
-丧家之犬	fig	1008
 僧多粥少	fig	1008
-杀鸡儆猴	fig	1008
 杀鸡取卵	fig	1008
-杀人如麻	fig	1008
 山明水秀	fig	1008
 山清水秀	fig	1008
 上天入地	fig	1008
 上下其手	fig	1008
-少见多怪	fig	1008
 升堂入室	fig	1008
-尸山血海	fig	1008
 十赌九输	fig	1008
 实事求是	fig	1008
-始作俑者	fig	1008
 事无巨细	fig	1008
-噬脐莫及	fig	1008
-收旗卷伞	fig	1008
 手不释卷	fig	1008
 手到拈来	fig	1008
 手舞足蹈	fig	1008
-束手就擒	fig	1008
 树大招风	fig	1008
 死不瞑目	fig	1008
 四面楚歌	fig	1008
 天崩地裂	fig	1008
 天兵天将	fig	1008
 天地悬隔	fig	1008
-天花乱坠	fig	1008
-天壤之别	fig	1008
 天网恢恢	fig	1008
 天旋地转	fig	1008
 天衣无缝	fig	1008
 投袂而起	fig	1008
 投石问路	fig	1008
-图穷匕见	fig	1008
-兔死狗烹	fig	1008
 拖人下水	fig	1008
 外圆内方	fig	1008
 亡羊补牢	fig	1008
 惘然若失	fig	1008
-望而却步	fig	1008
 望梅止渴	fig	1008
 望女成凤	fig	1008
-望洋兴叹	fig	1008
 围魏救赵	fig	1008
 尾大不掉	fig	1008
 味同嚼蜡	fig	1008
@@ -74366,18 +74398,12 @@ B站	featuring	819
 问道于盲	fig	1008
 问客杀鸡	fig	1008
 嬉笑怒骂	fig	1008
-喜怒哀乐	fig	1008
-先斩后奏	fig	1008
 小鸟依人	fig	1008
 小人得志	fig	1008
 卸磨杀驴	fig	1008
-惺惺相惜	fig	1008
-形影相随	fig	1008
-凶多吉少	fig	1008
 喧宾夺主	fig	1008
 悬崖勒马	fig	1008
 寻花问柳	fig	1008
-扬幡招魂	fig	1008
 摇身一变	fig	1008
 摇尾乞怜	fig	1008
 夜郎自大	fig	1008
@@ -74388,46 +74414,34 @@ B站	featuring	819
 一锤定音	fig	1008
 一蹴即至	fig	1008
 一见高低	fig	1008
-一举两得	fig	1008
 一鳞半爪	fig	1008
 一落千丈	fig	1008
-一毛不拔	fig	1008
 一木难支	fig	1008
-一诺千金	fig	1008
 一盘散沙	fig	1008
 一清如水	fig	1008
 一日之雅	fig	1008
 一网打尽	fig	1008
-一夕数惊	fig	1008
 一叶障目	fig	1008
 一叶知秋	fig	1008
 一针见血	fig	1008
 一枝独秀	fig	1008
 一柱擎天	fig	1008
-一字褒贬	fig	1008
 寅吃卯粮	fig	1008
 引狗入寨	fig	1008
 引鬼上门	fig	1008
-引狼入室	fig	1008
 引玉之砖	fig	1008
 樱桃小嘴	fig	1008
 庸人自扰	fig	1008
 有的放矢	fig	1008
 有子存焉	fig	1008
-榆木疙瘩	fig	1008
 冤家路窄	fig	1008
-原封不动	fig	1008
 月下花前	fig	1008
-债多不愁	fig	1008
-斩钉截铁	fig	1008
 掌上明珠	fig	1008
 招兵买马	fig	1008
-招蜂引蝶	fig	1008
 折冲樽俎	fig	1008
 折戟沉沙	fig	1008
 枕戈待旦	fig	1008
 枕戈寝甲	fig	1008
-之乎者也	fig	1008
 指鸡骂狗	fig	1008
 指桑骂槐	fig	1008
 栉风沐雨	fig	1008
@@ -74453,16 +74467,12 @@ B站	featuring	819
 一鼻孔出气	fig	829
 周瑜打黄盖	fig	829
 八字没一撇	fig	828
-大旱望云霓	fig	828
+比登天还难	fig	828
 大意失荆州	fig	828
 好酒沉瓮底	fig	828
-何不食肉糜	fig	828
 恨铁不成钢	fig	828
 君子远庖厨	fig	828
 女大十八变	fig	828
-山不转路转	fig	828
-山不转水转	fig	828
-四两拨千斤	fig	828
 天高皇帝远	fig	828
 天上下刀子	fig	828
 媳妇熬成婆	fig	828
@@ -74479,7 +74489,6 @@ B站	featuring	819
 家丑不可外传	fig	759
 八字还没一撇	fig	758
 半瓶水响叮当	fig	758
-拆东墙补西墙	fig	758
 吃不了兜着走	fig	758
 出淤泥而不染	fig	758
 东风压倒西风	fig	758
@@ -74493,12 +74502,9 @@ B站	featuring	819
 屁股决定脑袋	fig	758
 前怕狼后怕虎	fig	758
 强扭的瓜不甜	fig	758
-三折肱为良医	fig	758
 上有老下有小	fig	758
 柿子挑软的捏	fig	758
-手无缚鸡之力	fig	758
 死马当活马医	fig	758
-五十步笑百步	fig	758
 一口吃个胖子	fig	758
 一山不容二虎	fig	758
 一条路走到黑	fig	758
@@ -74517,7 +74523,6 @@ B站	featuring	819
 不看僧面看佛面	fig	688
 不怕官，只怕管	fig	688
 不识庐山真面目	fig	688
-柴米油盐酱醋茶	fig	688
 出头的椽子先烂	fig	688
 初生牛犊不怕虎	fig	688
 初生之犊不畏虎	fig	688
@@ -74526,7 +74531,6 @@ B站	featuring	819
 大树底下好乘凉	fig	688
 大水冲了龙王庙	fig	688
 丁是丁，卯是卯	fig	688
-对着和尚骂贼秃	fig	688
 妇女能顶半边天	fig	688
 好马不吃回头草	fig	688
 家花没有野花香	fig	688
@@ -74540,11 +74544,9 @@ B站	featuring	819
 手心手背都是肉	fig	688
 树挪死，人挪活	fig	688
 树欲静而风不止	fig	688
-死猪不怕开水烫	fig	688
 太阳从西边出来	fig	688
 剃头挑子一头热	fig	688
 偷鸡不成蚀把米	fig	688
-兔子不吃窝边草	fig	688
 咬人的狗不露齿	fig	688
 咬人狗儿不露齿	fig	688
 一不做，二不休	fig	688
@@ -74552,7 +74554,6 @@ B站	featuring	819
 一个将军一个令	fig	688
 一个萝卜一个坑	fig	688
 一口吃不成胖子	fig	688
-一哭二闹三上吊	fig	688
 一是一，二是二	fig	688
 一条绳上的蚂蚱	fig	688
 有钱能使鬼推磨	fig	688
@@ -74584,20 +74585,15 @@ B站	featuring	819
 成则为王，败则为寇	fig	548
 城门失火，殃及池鱼	fig	548
 吃别人嚼过的馍不香	fig	548
-吃屎都赶不上热乎的	fig	548
 尺有所短，寸有所长	fig	548
 打一巴掌，给个甜枣	fig	548
-分久必合，合久必分	fig	548
 和尚打伞，无法无天	fig	548
 君子报仇，十年不晚	fig	548
-两虎相争，必有一伤	fig	548
 明修栈道，暗渡陈仓	fig	548
 宁做鸡头，不做凤尾	fig	548
-千里之堤，溃于蚁穴	fig	548
 千里之行，始于足下	fig	548
 前不着村，后不着店	fig	548
 人为财死，鸟为食亡	fig	548
-人为刀俎，我为鱼肉	fig	548
 人有失手，马有失蹄	fig	548
 日出而作，日入而息	fig	548
 三天打鱼，两天晒网	fig	548
@@ -74605,8 +74601,6 @@ B站	featuring	819
 上有天堂，下有苏杭	fig	548
 司马昭之心路人皆知	fig	548
 天网恢恢，疏而不漏	fig	548
-天要下雨，娘要嫁人	fig	548
-一人得道，鸡犬升天	fig	548
 一手交钱，一手交货	fig	548
 以眼还眼，以牙还牙	fig	548
 以子之矛，攻子之盾	fig	548
@@ -74622,23 +74616,18 @@ B站	featuring	819
 不怕不识货，就怕货比货	fig	408
 不怕不识货，只怕货比货	fig	408
 明知山有虎，偏向虎山行	fig	408
-平时不烧香，临时抱佛脚	fig	408
 任凭风浪起，稳坐钓鱼台	fig	408
 是骡子是马，牵出来遛遛	fig	408
 死了张屠夫，不吃混毛猪	fig	408
-天下无难事，只怕有心人	fig	408
-一朝被蛇咬，十年怕井绳	fig	408
 一瓶子不响，半瓶子晃荡	fig	408
 在家千日好，出门一时难	fig	408
 只要功夫深，铁杵磨成针	fig	408
-千里马常有，而伯乐不常有	fig	338
 三个臭皮匠，合成一个诸葛亮	fig	269
 三个臭皮匠，赛过一个诸葛亮	fig	269
 吃人家的嘴软，拿人家的手短	fig	268
 又要马儿跑，又要马儿不吃草	fig	268
 你走你的阳关道，我过我的独木桥	fig	198
 书中自有黄金屋，书中自有颜如玉	fig	198
-一寸光阴一寸金，寸金难买寸光阴	fig	198
 有意栽花花不发，无心插柳柳成阴	fig	198
 如簧之舌	fig-a-glib-tongue	1008
 喉咽	fig-a-key-position	1518
@@ -74651,7 +74640,6 @@ B站	featuring	819
 司马昭之心路人皆知	fig-an-open-secret	548
 桁杨	fig-any-punishment-equipment	1518
 桁杨刀锯	fig-any-punishment-equipment	1008
-之乎者也	fig-archaic-expressions	1008
 梁上君子	fig-a-thief	1008
 拱璧	fig-a-treasure	1518
 如假包换	fig-authentic	1008
@@ -74659,7 +74647,6 @@ B站	featuring	819
 姹紫嫣红	fig-beautiful-flowers	1008
 天仙	fig-beautiful-woman	1515
 掌上明珠	fig-beloved-person	1008
-榆木疙瘩	fig-blockhead-dunce	1008
 崖限	fig-brick-wall	1518
 屠伯	fig-brutal-killer	1518
 周瑜打黄盖	fig-by-mutual-consent	828
@@ -74670,7 +74657,6 @@ B站	featuring	819
 上下其手	fig-conspiring-to-defraud	1008
 拘挛	fig-constrained	1517
 果实累累	fig-countless-accomplishments	1007
-千钧一发	fig-critical-perilous	1008
 小鸟依人	fig-cute-and-helpless-looking	1008
 暮气	fig-declining-spirits	1518
 恶浪	fig-depraved-force	1517
@@ -74685,8 +74671,6 @@ B站	featuring	819
 反手	fig-easily-done	1517
 一蹴即至	fig-easily-done	1008
 手到拈来	fig-easy-to-do	1008
-喜怒哀乐	fig-emotions	1008
-人去楼空	fig-empty-deserted	1008
 山明水秀	fig-enchanting-scenery	1008
 山清水秀	fig-enchanting-scenery	1008
 得陇望蜀	fig-endless-greed	1008
@@ -74696,10 +74680,7 @@ B站	featuring	819
 刀山火海	fig-extreme-danger	1008
 杜鹃啼血	fig-extreme-grief	1008
 不亦乐乎	fig-extremely-awfully	1008
-如临深渊	fig-extremely-cautious	1008
-如履薄冰	fig-extremely-cautious	1008
-弱不禁风	fig-extremely-delicate-fragile	1008
-一毛不拔	fig-extremely-stingy	1008
+比登天还难	fig-extremely-difficult	828
 假面具	fig-false-fa-ade	1178
 如蛆附骨	fig-fixed-on-sth	1008
 天衣无缝	fig-flawless	1008
@@ -74712,7 +74693,6 @@ B站	featuring	819
 排山倒海	fig-gigantic	1008
 嘴皮子	fig-glib-talk	1178
 七折八扣	fig-greatly-reduced	1008
-杞人之忧	fig-groundless-fears	1008
 木人石心	fig-heartless	1008
 太阳从西边出来	fig-hell-freezes-over	688
 厝火积薪	fig-hidden-danger	1008
@@ -74870,19 +74850,13 @@ B站	featuring	819
 张飞打岳飞	fights	829
 打戏	fight-scene	1519
 急性病	fig-impetuous	1178
-方枘圆凿	fig-incompatible	1008
-如丧考妣	fig-inconsolable-distraught	1008
 倒悬	fig-in-dire-straits	1518
 刽子手	fig-indiscriminate-murderer	1176
 心尖	fig-innermost-feelings	1518
 擢发难数	fig-innumerable	1008
-多如牛毛	fig-innumerable-countless	1008
-形影相随	fig-inseparable	1008
 带路人	fig-instructor	1178
 刀光剑影	fig-intense-conflict	1008
 刀枪不入	fig-invulnerable	1008
-柴米油盐	fig-life's-daily-necessities	1008
-柴米油盐酱醋茶	fig-life's-daily-necessities	688
 小气候	fig-local-situation	1178
 低谷	fig-low-point	1517
 大动脉	fig-main-highway	1178
@@ -74891,7 +74865,6 @@ B站	featuring	819
 幻觉	figment	1517
 幻觉	figment-of-ones-imagination	1517
 丁是丁，卯是卯	fig-meticulous	688
-如泣如诉	fig-mournful	1008
 屠夫	fig-murderous-dictator	1518
 柴门小户	fig-my-humble-house	1008
 新颖	fig-new-and-original	1518
@@ -74906,7 +74879,6 @@ B站	featuring	819
 明日黄花	fig-outdated	1008
 春晖	fig-parental-love	1518
 光天化日	fig-peace-and-prosperity	1008
-天下无难事，只怕有心人	fig-persistence-will-overcome	408
 保护伞	fig-person-affording-protection	1178
 昏天黑地	fig-pitch-dark	1008
 忆苦饭	fig-poor-tasting-meal	1178
@@ -74930,9 +74902,7 @@ B站	featuring	819
 择日不如撞日	fig-seize-the-occasion	758
 小算盘	fig-selfish-calculations	1178
 枝节	fig-side-issue	1518
-单枪匹马	fig-single-handed-unaccompanied	1008
 小虾米	fig-small-fry	1178
-强弩之末	fig-spent-force	1008
 小公主	fig-spoiled-girl	1178
 刺儿	fig-sth-wrong	1517
 天兵天将	fig-superior-forces	1008
@@ -74943,14 +74913,12 @@ B站	featuring	819
 败战	fig-the-loser	1518
 最低潮	fig-the-lowest-point	1178
 天上下刀子	fig-the-sky-crumbles	828
-一寸光阴一寸金，寸金难买寸光阴	fig-time-is-precious	198
 历久弥新	fig-timeless-unfading	1008
 日落西山	fig-time-of-decline	1008
 合流	fig-to-act-alike	1517
 亡羊补牢	fig-to-act-belatedly	1008
 反裘负刍	fig-to-act-stupidly	1007
 夹起尾巴	fig-to-back-down	1008
-望而却步	fig-to-be-deterred	1008
 一碗水端平	fig-to-be-impartial	828
 挂羊头卖狗肉	fig-to-cheat	758
 吐苦水	fig-to-complain-bitterly	1178
@@ -74965,7 +74933,6 @@ B站	featuring	819
 拍马	fig-to-encourage	1518
 挦	fig-to-extract	1196
 收兵	fig-to-finish-work	1516
-招蜂引蝶	fig-to-flirt	1008
 寻花问柳	fig-to-frequent-brothels	1008
 卺饮	fig-to-get-married	1518
 打退堂鼓	fig-to-give-up	1008
@@ -75081,7 +75048,6 @@ B站	featuring	819
 兵马俑	figurines	1179
 始作俑者	figurines	1009
 外圆内方	fig-velvet-glove	1008
-屈指可数	fig-very-few	1008
 家徒四壁	fig-very-poor	1008
 天崩地裂	fig-violent-revolution	1008
 冷暖	fig-well-being	1518
@@ -75209,6 +75175,7 @@ B站	featuring	819
 上座率	filled	1179
 棺材板	filled	1178
 恶贯满盈	filled	1009
+心怀忐忑	filled	1009
 幸甚至哉	filled	1009
 挤满	filled-to-overflowing	1518
 内装	filled-with	1519
@@ -75332,6 +75299,7 @@ B站	featuring	819
 排翅	fin	1519
 尾鳍	fin	1519
 大考	final	2347
+定稿	final	2347
 定论	final	2347
 儿化	final	2347
 后段	final	2347
@@ -75401,13 +75369,16 @@ B站	featuring	819
 末日	final-days	1517
 归宿	final-destination	1517
 压场	finale	1518
+大结局	finale	1179
 压台戏	finale	1178
+大结局	finale-grand-finale	1179
 大考	final-exam	1519
 期末考	final-exam	1179
 最终幻想	final-fantasy	1009
 末代	final-generation	1519
 末篇	final-installment	1519
 入围者	finalist	1179
+定稿	finalize	1519
 定型	finalize	1519
 杀青	finalize	1518
 敲定	finalize	1516
@@ -75446,6 +75417,7 @@ B站	featuring	819
 垂死挣扎	final-struggle	1008
 最后期限	final-time-limit	1008
 最终	final-ultimate	1519
+定稿	final-version	1518
 末愿	final-vows	1519
 末叶	final-years	1519
 汇金	finance	2344
@@ -75552,7 +75524,6 @@ B站	featuring	819
 爱不释手	find	1946
 吃闭门羹	find	1946
 得道多助	find	1946
-对症发药	find	1946
 对症下药	find	1946
 另请高明	find	1946
 情投意合	find	1946
@@ -75800,7 +75771,7 @@ B站	featuring	819
 杉	fir	1199
 火	fire	7601
 火灾	fire	7541
-炎	fire	3791
+炎	fire	6861
 冰火	fire	2300
 打炮	fire	2300
 打枪	fire	2300
@@ -76646,6 +76617,7 @@ Q弹	firm	1304
 一锤定音	fix	1009
 固执	fixate	1517
 偏执	fixated	1519
+固氮	fixation	1519
 心魔	fixation	1519
 常俸	fixed	2065
 定编	fixed	2065
@@ -76738,9 +76710,7 @@ Q弹	firm	1304
 傻眼	flabbergasted	1519
 傻爆眼	flabbergasted	1179
 大吃一惊	flabbergasted	1009
-囊揣	flabby	1516
 囊膪	flabby	1516
-囊揣	flabby-person	1516
 囊膪	flabby-person	1516
 救生圈	flab-spare-tire	1178
 彩旗	flag	1519
@@ -76989,10 +76959,12 @@ USB手指	flash	619
 加菲猫	flat-faced	1178
 加菲猫	flat-faced-persian-type-cat	1178
 扁平足	flat-feet	1179
+比目鱼	flatfish	1179
 坝	flatland	1199
 埫	flat-land	1199
 平板	flat-level	1518
 幵	flat-level	1199
+平	flat-level-smooth	1199
 一口	flatly	1518
 扁桃	flat-peach	1517
 木片	flat-piece-of-wood	1519
@@ -77299,6 +77271,7 @@ USB手指	flash	619
 扫地	floor	2111
 拖地	floor	2111
 吸地	floor	2111
+席地	floor	2111
 地上	floor	2110
 桥面	floor	2110
 展位	floor	2110
@@ -77369,6 +77342,7 @@ USB手指	flash	619
 旋覆花	flos-inulae	1178
 拔丝	floss	1518
 左口鱼	flounder	1179
+比目鱼	flounder	1178
 年糕	flour	1519
 干面	flour	1518
 橡子面	flour	1179
@@ -77610,6 +77584,7 @@ USB手指	flash	619
 卂	fly	1199
 毒蝇伞	fly	1179
 暴跳如雷	fly	1009
+比翼齐飞	fly	1009
 别树一旗	fly	1009
 别树一帜	fly	1009
 勃然大怒	fly	1009
@@ -77638,6 +77613,7 @@ USB手指	flash	619
 李广	flying	1519
 幽浮	flying	1518
 塕	flying	1199
+比翼双飞	flying	1009
 悍然不顾	flying	1009
 健步如飞	flying	1009
 十面埋伏	flying	1008
@@ -77838,7 +77814,6 @@ USB手指	flash	619
 后车之鉴	follow	1592
 嫁鸡随鸡	follow	1592
 克绍箕裘	follow	1592
-如法泡制	follow	1592
 如法炮制	follow	1592
 入境随俗	follow	1592
 入乡随俗	follow	1592
@@ -78838,6 +78813,7 @@ USB手指	flash	619
 序文	foreword	1518
 刊首语	foreword	1179
 比如说	for-example	1179
+比方说	for-example-for-instance	1179
 唯恐	for-fear-that	1519
 断送	forfeit	1519
 丧失	forfeit	1518
@@ -78889,7 +78865,6 @@ USB手指	flash	619
 乐不思蜀	forget	1009
 数典忘祖	forget	1009
 忘恩负义	forget	1009
-忘乎所以	forget	1008
 吃水不忘掘井人	forget	689
 好了伤疤忘了疼	forget	689
 前事不忘，后事之师	forget	549
@@ -78930,6 +78905,7 @@ USB手指	flash	619
 三不朽	forgotten	1179
 好饭不怕晚	forgotten	829
 呜	for-humming-or-whimpering	1199
+比方	for-instance	1517
 叉头	fork	1519
 叉子	fork	1519
 岔路	fork	1519
@@ -78988,6 +78964,7 @@ USB手指	flash	619
 打千	form	2497
 代填	form	2497
 格式	form	2497
+客官	form	2497
 厘金	form	2497
 母后	form	2497
 娘子	form	2497
@@ -79463,6 +79440,7 @@ USB手指	flash	619
 嘉峪关城	fort	1009
 拿手好戏	forte	1007
 摆弄	forth	1519
+抽穗	forth	1519
 创新	forth	1519
 接送	forth	1519
 揭示	forth	1519
@@ -79731,7 +79709,6 @@ USB手指	flash	619
 抚育	foster	1517
 培养	foster	1517
 提挈	foster	1517
-密切	foster	1515
 慉	foster	1199
 毓	foster	1199
 寄	foster	1197
@@ -79773,6 +79750,7 @@ USB手指	flash	619
 建树	found	2519
 招财猫	found	2061
 不见了	found	2059
+比比皆是	found	1881
 不见经传	found	1881
 失物认领	found	1881
 到处可见	found	1879
@@ -80405,7 +80383,6 @@ USB手指	flash	619
 写意画	freehand	1179
 徒手画	freehand-drawing	1179
 抱抱团	free-hugs-campaign	1179
-任意球	free-kick	1179
 接活	freelance	1518
 威客	freelancer	1519
 吃白食	freeload	1178
@@ -81000,6 +80977,7 @@ USB手指	flash	619
 前轮	front	2355
 前门	front	2355
 前排	front	2355
+前摄	front	2355
 前庭	front	2355
 前头	front	2355
 前线	front	2355
@@ -81057,6 +81035,7 @@ USB手指	flash	619
 前置	frontal	1518
 前置	frontal-leading	1518
 前后	front-and-rear	1516
+前摄	front-camera	1519
 庭除	front-court	1519
 前庭	front-courtyard	1519
 前院	front-courtyard	1519
@@ -82308,7 +82287,6 @@ USB手指	flash	619
 托里拆利	galileo	1009
 伽利略·伽利雷	galileo	689
 有脸	gall	1515
-披肝沥胆	gall	1009
 吃熊心豹子胆	gall	759
 文康	gallant	1519
 儿女英雄传	gallant	829
@@ -82613,6 +82591,7 @@ USB手指	flash	619
 少间	gap	1517
 口子	gap	1516
 垫	gap	1195
+时间差	gap	1179
 忘年交	gap	1179
 忘年恋	gap	1179
 信息差	gap	1179
@@ -82671,7 +82650,6 @@ USB手指	flash	619
 客西马尼园	garden	1489
 桃园三结义	garden	1489
 北宋四大部书	garden	1399
-客西马尼花园	garden	1399
 库肯霍夫公园	garden	1399
 家花没有野花香	garden	1309
 有意栽花花不发，无心插柳柳成阴	garden	679
@@ -82682,7 +82660,6 @@ USB手指	flash	619
 旱金莲	garden-nasturtium	1179
 伊甸园	garden-of-eden	1179
 客西马尼园	garden-of-gethsemane	829
-客西马尼花园	garden-of-gethsemane	759
 园圃	garden-plot	1519
 园林	gardens	1519
 拙政园	gardens	1179
@@ -82821,6 +82798,7 @@ USB手指	flash	619
 叩关	gate	1519
 山门	gate	1519
 下闸	gate	1519
+校门	gate	1519
 旋闸	gate	1519
 夷门	gate	1519
 影壁	gate	1519
@@ -82841,6 +82819,7 @@ USB手指	flash	619
 守门人	gatekeeper	1179
 墩	gate-pillar	1198
 月城	gates	1519
+比尔·盖茨	gates	829
 城门失火，殃及池鱼	gates	549
 出入口	gateway	1179
 桥头堡	gateway	1176
@@ -83328,6 +83307,7 @@ USB手指	flash	619
 核发电	generation	1179
 夹心族	generation	1179
 下一代	generation	1179
+小辈子	generation	1179
 新生代	generation	1179
 新一代	generation	1179
 中生代	generation	1179
@@ -83437,7 +83417,6 @@ Z世代	generation-z-zoomers	479
 基因治疗	gene-therapy	1009
 优生	genetic	1517
 基因码	genetic	1179
-染色质	genetic	1178
 基因改造	genetic	1009
 基因工程	genetic	1009
 基因突变	genetic	1009
@@ -83446,7 +83425,6 @@ Z世代	generation-z-zoomers	479
 基改	genetically-modified-gm	1519
 基因码	genetic-code	1179
 基因工程	genetic-engineering	1009
-染色质	genetic-material-of-chromosome	1178
 基因修改	genetic-modification	1009
 基因改造	genetic-modification-gm	1009
 基因突变	genetic-mutation	1009
@@ -83474,7 +83452,6 @@ Z世代	generation-z-zoomers	479
 女性割礼	genital	1009
 下身	genitalia	1518
 下阴	genitals	1519
-下体	genitals	1518
 势	genitals	1188
 尖锐湿疣	genital-wart	1009
 属格	genitive	1519
@@ -83640,7 +83617,6 @@ Z世代	generation-z-zoomers	479
 李建成	geodesy	1178
 大地测量学	geodesy	829
 女神蛤	geoduck	1179
-大文蛤	geoduck	1178
 杰夫	geoff	1519
 乔叟	geoffrey	1519
 杰弗里·乔叟	geoffrey	759
@@ -83880,6 +83856,8 @@ Z世代	generation-z-zoomers	479
 柏林工业大学	germany	1331
 德意志联邦共和国	germany	1151
 北莱茵·威斯特法伦州	germany	971
+杀菌剂	germicide	1179
+杀菌剂	germicide-antimicrobial-agent	1179
 复萌	germinate	1519
 催芽	germination	1519
 性细胞	germline	1178
@@ -84208,7 +84186,6 @@ Z世代	generation-z-zoomers	479
 刻鹄类鹜	get	1953
 另谋高就	get	1953
 扭亏为盈	get	1953
-弄懂弄通	get	1953
 抛砖引玉	get	1953
 刨根问底	get	1953
 批郤导窾	get	1953
@@ -84326,7 +84303,6 @@ Z世代	generation-z-zoomers	479
 去你的	get-along-with-you	1179
 快点	get-a-move-on	1517
 客西马尼园	gethsemane	829
-客西马尼花园	gethsemane	759
 揥	get-rid-of	1199
 人球	gets	2060
 实干家	gets	1601
@@ -84390,7 +84366,6 @@ Z世代	generation-z-zoomers	479
 幽魂	ghost	1519
 冤魂	ghost	1519
 撞鬼	ghost	1519
-代写	ghost	1518
 幽灵	ghost	1517
 做鬼	ghost	1516
 伥	ghost	1199
@@ -84427,7 +84402,6 @@ Z世代	generation-z-zoomers	479
 楠	giant	1197
 大草鹛	giant	1179
 大蝾螈	giant	1179
-大文蛤	giant	1179
 大熊猫	giant	1179
 大雁塔	giant	1179
 大噪鹛	giant	1179
@@ -84442,7 +84416,6 @@ Z世代	generation-z-zoomers	479
 人中龙凤	giant	1009
 中国大蝾螈	giant	829
 大草鹛	giant-babax	1179
-大文蛤	giant-clam	1179
 巨兽	giant-creature-huge-animal	1519
 巨型	giant-enormous	1519
 巨擘	giant-industry-powerhouse	1518
@@ -85303,7 +85276,6 @@ JK制服	girl	980
 好吃	gluttonous	1519
 嘴馋	gluttonous	1519
 嚵	gluttonous	1199
-二甘醇	glycerin	1178
 丙三醇	glycerine	1179
 动物淀粉	glycogen	1009
 二醇	glycol	1519
@@ -85403,6 +85375,7 @@ JK制服	girl	980
 傩神	god	1519
 日神	god	1519
 山神	god	1519
+上苍	god	1519
 上帝	god	1519
 上天	god	1519
 寿星	god	1519
@@ -85821,6 +85794,7 @@ JK制服	girl	980
 忠心	good	2567
 姿色	good	2567
 拔群	good	2566
+比肩	good	2566
 伯乐	good	2566
 不及	good	2566
 不赖	good	2566
@@ -85900,6 +85874,7 @@ JK制服	girl	980
 下午好	good	2107
 一般般	good	2107
 印象分	good	2107
+有心眼	good	2107
 有眼光	good	2107
 早上好	good	2107
 招财猫	good	2107
@@ -85994,6 +85969,7 @@ JK制服	girl	980
 囍	good	1866
 整	good	1866
 安	good	1865
+夯	good	1865
 佳	good	1865
 弱	good	1865
 早	good	1865
@@ -86655,6 +86631,7 @@ A货	good-quality-fake	819
 出师	graduate	1968
 卒业	graduate	1968
 成军	graduate	1964
+出校门	graduate	1509
 应届生	graduate	1509
 应届毕业生	graduate	1058
 复读	graduated	1519
@@ -86761,6 +86738,7 @@ A货	good-quality-fake	819
 大钢琴	grand	1678
 大公国	grand	1678
 大奖赛	grand	1678
+大结局	grand	1678
 大满贯	grand	1678
 恭亲王	grand	1678
 古纤道	grand	1678
@@ -88010,6 +87988,7 @@ A货	good-quality-fake	819
 擂茶	ground	2172
 平毁	ground	2172
 土鳖	ground	2172
+席地	ground	2172
 校场	ground	2172
 刑场	ground	2172
 夷平	ground	2172
@@ -88089,6 +88068,7 @@ A货	good-quality-fake	819
 劈空扳害	groundless	1009
 杞人忧天	groundless	1008
 杞人之忧	groundless	1008
+杞人之忧	groundless-fears	1008
 土层	ground-level	1518
 基面	ground-plane	1519
 地面气压	ground-pressure	1009
@@ -88261,6 +88241,7 @@ A货	good-quality-fake	819
 图西族	group	2099
 土家族	group	2099
 团体行	group	2099
+小组赛	group	2099
 一拨儿	group	2099
 乙氨基	group	2099
 有限群	group	2099
@@ -88360,6 +88341,8 @@ A货	good-quality-fake	819
 伙	groups	1710
 国内安全保卫局	groups	1323
 套件	groupset	1518
+小组赛	group-stage	1179
+小组赛	group-stage-group-stage-match	1179
 团体行	group-travel	1179
 松鸡	grouse	1519
 榛鸡	grouse	1519
@@ -88872,6 +88855,7 @@ G弦裤	g-string	479
 官客	guest	2125
 嘉宾	guest	2125
 客房	guest	2125
+客官	guest	2125
 客室	guest	2125
 来宾	guest	2125
 来客	guest	2125
@@ -89062,6 +89046,8 @@ G弦裤	g-string	479
 新不列颠岛	guinea	829
 巴布亚纽几内亚	guinea	689
 巴布亚新几内亚	guinea	689
+比绍	guinea-bissau	1519
+比索	guinea-bissau	1519
 几内亚比绍	guinea-bissau	829
 几内亚比索	guinea-bissau	829
 天竺鼠	guinea-pig	1179
@@ -89881,8 +89867,8 @@ U型池	half-pipe	479
 哈马尔	hamar	1179
 哈马斯	hamas	1179
 刈包	hamburger	1519
-咸镜	hamgyeong	1519
 乶下	hamgyeong	1519
+咸镜	hamgyeong	1519
 吉州郡	hamgyeong	1179
 咸镜道	hamgyeong	1179
 咸镜北道	hamgyeong	1009
@@ -91073,6 +91059,7 @@ U型池	half-pipe	479
 动脉硬化	hardening-of-the-arteries	1009
 加大力度	harder	1009
 加大努力	harder	1009
+比登天还难	harder	829
 恶斗	hard-fighting	1519
 恶战	hard-fighting	1519
 恶仗	hard-fighting	1519
@@ -91452,7 +91439,6 @@ U型池	half-pipe	479
 事过境迁	has	1966
 事危累卵	has	1966
 天网恢恢	has	1966
-投井下石	has	1966
 推心置腹	has	1966
 托运行李	has	1966
 星移斗转	has	1966
@@ -91873,6 +91859,7 @@ U型池	half-pipe	479
 作主	have	2610
 座谈	have	2610
 做梦	have	2610
+比烂	have	2609
 必得	have	2609
 勃起	have	2609
 不必	have	2609
@@ -92011,6 +91998,7 @@ U型池	half-pipe	479
 有的是	have	2150
 有没有	have	2150
 有气质	have	2150
+有心眼	have	2150
 有眼光	have	2150
 有一手	have	2150
 有一套	have	2150
@@ -93044,6 +93032,8 @@ H桥	h-bridge	819
 心律	heart-rhythm	1519
 收拢人心	hearts	1009
 心心相印	hearts	1009
+比翼齐飞	hearts	1008
+比翼双飞	hearts	1008
 心有灵犀一点通	hearts	689
 放情	heart's	1519
 心血	heart's	1519
@@ -93065,6 +93055,7 @@ H桥	h-bridge	819
 败毒	heat	1519
 败火	heat	1519
 伴热	heat	1519
+比热	heat	1519
 传热	heat	1519
 大热	heat	1519
 地热	heat	1519
@@ -93225,6 +93216,7 @@ H桥	h-bridge	819
 两仪	heaven-and-earth	1519
 天地	heaven-and-earth	1519
 天理难容	heaven-cannot-tolerate-this	1009
+上苍	heaven-god	1519
 吉人自有天相	heaven-helps-the-worthy	759
 天公作美	heaven-is-cooperating	1009
 天公不作美	heaven-is-not-cooperating	829
@@ -93281,6 +93273,7 @@ H桥	h-bridge	819
 天呀	heavens	1519
 星空	heavens	1519
 昂首天外	heavens	1009
+九天仙女	heavens	1009
 埋天怨地	heavens	1009
 天要下雨，娘要嫁人	heavens	549
 天理	heaven's	1519
@@ -94294,6 +94287,7 @@ OK镜	helps	479
 大侠	hero	1516
 杰	hero	1199
 侠	hero	1197
+比尔博	hero	1179
 唱红脸	hero	1179
 大蛇丸	hero	1179
 格萨尔	hero	1179
@@ -94346,6 +94340,8 @@ OK镜	helps	479
 夜鹭	heron	1519
 暗公鸟	heron	1179
 暗光鸟	heron	1179
+大笨鸟	heron	1179
+地瓜鸟	heron	1179
 棕夜鹭	heron	1179
 主人翁	hero-or-heroine	1177
 单纯疱疹	herpes	1009
@@ -94364,7 +94360,6 @@ OK镜	helps	479
 士为知己者死，女为悦己者容	herself	269
 好时	hershey's	1519
 塞拉耶佛	herzegovina	1009
-投井下石	he's	1008
 徒有其名	he's	1008
 徒有虚名	he's	1008
 打落水狗	he's	1007
@@ -94776,6 +94771,7 @@ JK制服	high	1224
 最高等	highest	1570
 最高音	highest	1570
 九重霄	highest	1569
+九天仙女	highest	1390
 托木尔峰	highest	1390
 位极人臣	highest	1390
 专美于前	highest	1388
@@ -94834,7 +94830,6 @@ JK制服	high	1224
 器重	highly	1988
 天珠	highly	1988
 尊尚	highly	1988
-恭维	highly	1987
 敬仰	highly	1987
 妙手	highly	1987
 强人	highly	1987
@@ -95580,6 +95575,7 @@ JK制服	high	1224
 上榜	hit	2103
 回车	hit	2102
 命中率	hit	1645
+任意球	hit	1645
 打棍子	hit	1644
 有本事	hit	1643
 别出心裁	hit	1465
@@ -95594,7 +95590,6 @@ JK制服	high	1224
 一语中的	hit	1465
 正中要害	hit	1465
 打得火热	hit	1464
-投井下石	hit	1464
 一拍即合	hit	1464
 一炮而红	hit	1464
 一语道破	hit	1464
@@ -95667,6 +95662,7 @@ K人	hit	1405
 哑	hoarse	1198
 嘶哑声	hoarse	1179
 哑	hoarse-husky	1198
+比尔博	hobbit	1179
 哈比人	hobbit	1179
 步履蹒跚	hobble	1009
 一瘸一拐	hobble	1008
@@ -96388,7 +96384,7 @@ P民	hoi-polloi	817
 方	honest	1196
 不务正业	honest	1009
 木讷寡言	honest	1009
-剖肝沥胆	honest	1009
+披肝沥胆	honest	1009
 勤政廉政	honest	1009
 一尘不染	honest	1009
 作风正派	honest	1009
@@ -96468,6 +96464,7 @@ P民	hoi-polloi	817
 公仔面	hong	1179
 尖沙咀	hong	1179
 九龙城	hong	1179
+拉布布	hong	1179
 李嘉诚	hong	1179
 李嘉欣	hong	1179
 李丽珊	hong	1179
@@ -96910,7 +96907,6 @@ P民	hoi-polloi	817
 家马	horse	2154
 冏牧	horse	2154
 冏卿	horse	2154
-冏寺	horse	2154
 勒马	horse	2154
 六畜	horse	2154
 木马	horse	2154
@@ -98123,6 +98119,7 @@ PA部	hotel	1389
 仁政	humane-government	1518
 人情	human-emotions	1519
 大粪	human-excrement	1519
+人面兽心	human-face-beastly-heart	1009
 人肉搜索引擎	human-flesh-search-engine	759
 人形	human-form	1519
 人类基因组计划	human-genome-project	689
@@ -98252,6 +98249,7 @@ PA部	hotel	1389
 休氏旋木雀	hume's-treecreeper	829
 壑谷	humid	1519
 加湿器	humidifier	1179
+比湿	humidity	1519
 批斗	humiliate	1519
 欺凌	humiliate	1519
 欺辱	humiliate	1519
@@ -98719,6 +98717,7 @@ PA部	hotel	1389
 公筷母匙	hygiene	1009
 明厨亮灶	hygiene	1009
 兵库	hy-go	1519
+吸湿性	hygroscopic	1179
 安眠酮	hyminal	1178
 凯歌	hymn	1519
 偈	hymn	1199
@@ -98747,11 +98746,12 @@ PA部	hotel	1389
 摄护腺肿大	hypertrophy	829
 杠	hyphen	1192
 杠	hyphen-dash	1192
-催眠	hypnosis	1519
 催眠状态	hypnosis	1009
 梅斯梅尔	hypnosis	1008
 催眠术	hypnotherapy	1178
 催眠术	hypnotism	1179
+催眠师	hypnotist	1179
+催眠	hypnotize	1518
 次	hypo	1188
 次溴酸	hypobromous	1179
 次溴酸	hypobromous-acid-hobr	1179
@@ -98936,9 +98936,7 @@ PA部	hotel	1389
 冰原	ice-field	1519
 冰钓	ice-fishing	1519
 不冻港	ice-free	1179
-不冻港口	ice-free	1009
 不冻港	ice-free-port	1179
-不冻港口	ice-free-port	1009
 冰壑	ice-gully	1519
 冰球	ice-hockey	1519
 冰球场	ice-hockey-rink	1179
@@ -99247,6 +99245,7 @@ PA部	hotel	1389
 俭腹	ignorant	1519
 倥侗	ignorant	1519
 怐愗	ignorant	1519
+懵懂	ignorant	1519
 妄人	ignorant	1519
 愚陋	ignorant	1519
 愚昧	ignorant	1519
@@ -99256,19 +99255,19 @@ PA部	hotel	1389
 愚弱	ignorant	1519
 愚顽	ignorant	1519
 大愚	ignorant	1518
-懵懂	ignorant	1518
 匹夫	ignorant	1518
 侗	ignorant	1199
 倥	ignorant	1199
+懵	ignorant	1199
 暗	ignorant	1196
 不辨菽麦	ignorant	1009
 不学无术	ignorant	1009
 孤陋寡闻	ignorant	1009
+懵懵懂懂	ignorant	1009
 如堕烟雾	ignorant	1009
 一无所知	ignorant	1009
 愚昧无知	ignorant	1009
 坐井观天	ignorant	1009
-懵懵懂懂	ignorant	1008
 一团漆黑	ignorant	1008
 兼听则明，偏信则暗	ignorant	549
 三个臭皮匠，顶个诸葛亮	ignorant	409
@@ -99477,7 +99476,6 @@ PA部	hotel	1389
 死症	illness	1518
 急性病	illness	1179
 必死之症	illness	1009
-对症发药	illness	1009
 对症下药	illness	1009
 多愁多病	illness	1009
 久病成医	illness	1009
@@ -99879,6 +99877,7 @@ PA部	hotel	1389
 客观	impartial	1518
 平明	impartial	1517
 中中	impartial	1517
+平	impartial	1196
 不偏斜	impartial	1178
 不偏不倚	impartial	1009
 明镜高悬	impartial	1009
@@ -99967,7 +99966,6 @@ PA部	hotel	1389
 及第	imperial	1519
 冏牧	imperial	1519
 冏卿	imperial	1519
-冏寺	imperial	1519
 廊庙	imperial	1519
 六宫	imperial	1519
 密诏	imperial	1519
@@ -100362,7 +100360,7 @@ PA部	hotel	1389
 受胎	impregnated	1517
 强征	impress	1518
 打肿脸充胖子	impress	759
-不敢恭维	impressed	1008
+不敢恭维	impressed	1009
 感觉	impression	1519
 取模	impression	1519
 印痕	impression	1519
@@ -101001,6 +100999,7 @@ PA部	hotel	1389
 不一致字	inconsistent-words	1009
 欲绝	inconsolable	1518
 如丧考妣	inconsolable	1008
+如丧考妣	inconsolable-distraught	1008
 日新	in-constant-progress	1519
 不争	incontestable	1518
 尿失禁	incontinence	1179
@@ -101664,6 +101663,7 @@ PA部	hotel	1389
 夹娃娃	induce	1179
 堕胎	induced	1518
 感生	induced	1518
+时间差攻击	induced	829
 堕胎	induced-abortion	1518
 催生婆	induces	1179
 感应	inductance	1514
@@ -102138,6 +102138,7 @@ PA部	hotel	1389
 大家	influential-family	1518
 势要	influential-figure	1519
 权贵	influential-officials	1519
+乙流	influenza	1519
 情報	info	2567
 信息图	infographic	1179
 信息图形	infographic	1009
@@ -102340,7 +102341,6 @@ PA部	hotel	1389
 俏	in-great-demand	1197
 成分	ingredient	1519
 底料	ingredient	1519
-成份	ingredient	1517
 分	ingredient	1197
 二汤	ingredients	1519
 干锅	ingredients	1519
@@ -102862,6 +102862,7 @@ PA部	hotel	1389
 数以亿计	innumerable	1008
 擢发难数	innumerable	1008
 更仆难数	innumerable	1007
+多如牛毛	innumerable-countless	1008
 层出不穷	innumerable-succession	1008
 接种	inoculated	1518
 执政	in-office	1518
@@ -103042,9 +103043,9 @@ PA部	hotel	1389
 密不可分	inseparable	1008
 如影随形	inseparable	1008
 形影相随	inseparable	1008
+比翼齐飞	inseparable	1007
 不可分割	inseparable	1007
 死党	inseparable-sidekick	1518
-密接	inseparably	1519
 挨次	in-sequence	1519
 插播	insert	1519
 插进	insert	1519
@@ -103282,6 +103283,7 @@ PA部	hotel	1389
 例如	instance	1519
 一审	instance	1519
 案件	instance	1518
+比方	instance	1518
 副本	instance	1518
 个例	instance	1518
 例子	instance	1518
@@ -103289,6 +103291,7 @@ PA部	hotel	1389
 实例	instance	1515
 故	instance	1198
 例	instance	1195
+比方说	instance	1179
 夹生饭	instance	1178
 棒喝	instant	1519
 即食	instant	1519
@@ -103844,6 +103847,7 @@ PA部	hotel	1389
 司马昭之心路人皆知	intentions	549
 又想当婊子又想立牌坊	intentions	478
 凝睇	intently	1519
+密切	intently	1517
 一心一意	intently	1006
 下葬	inter	1518
 中介	inter	1516
@@ -104600,6 +104604,7 @@ PA部	hotel	1389
 往后	in-the-future	1518
 今后	in-the-future	1517
 以后	in-the-future	1514
+比照	in-the-light-of	1518
 依	in-the-light-of	1196
 准	in-the-light-of	1196
 按	in-the-light-of	1191
@@ -104636,11 +104641,11 @@ PA部	hotel	1389
 哦	intimacy	1199
 爱昵	intimate	1519
 把袂	intimate	1519
+密切	intimate	1519
 昵比	intimate	1519
 戚戚	intimate	1519
 梯己	intimate	1519
 挚友	intimate	1519
-密切	intimate	1517
 同袍	intimate	1516
 密	intimate	1198
 昵	intimate	1198
@@ -105758,6 +105763,7 @@ i人	introverted-person	819
 意式	italian-style	1519
 斜体	italics	1519
 斜体字	italics	1179
+比萨	italy	2169
 巴勒莫	italy	1709
 拉奎拉	italy	1709
 拉文纳	italy	1709
@@ -105796,6 +105802,7 @@ i人	introverted-person	819
 摆设	item	2547
 东东	item	2547
 极品	item	2547
+款项	item	2547
 事项	item	2547
 文具	item	2547
 一斑	item	2547
@@ -105820,6 +105827,7 @@ i人	introverted-person	819
 事	item	1846
 一物降一物	item	1637
 数点	itemize	1518
+款项	item-of-a-clause	1518
 文具	item-of-stationery	1518
 报幕	items	2560
 出清	items	2560
@@ -106416,6 +106424,7 @@ i人	introverted-person	819
 山茱萸	japanese	1635
 手嶌葵	japanese	1635
 桃太郎	japanese	1635
+天理教	japanese	1635
 味之素	japanese	1635
 五针松	japanese	1635
 小日本	japanese	1635
@@ -107623,9 +107632,9 @@ i人	introverted-person	819
 博尔赫斯	jorge-luis-borges	1009
 尤里斯·伊文思	joris	689
 定式	joseki	1519
+乶下	joseon	1519
 咸镜	joseon	1519
 忠清	joseon	1519
-乶下	joseon	1519
 平安道	joseon	1179
 庆尚道	joseon	1179
 全罗道	joseon	1179
@@ -108342,6 +108351,7 @@ i人	introverted-person	819
 引	justification	1189
 师出无名	justification	1008
 有理	justified	1518
+兵不厌诈	justified	1009
 名正言顺	justifies	1009
 对齐	justify	1518
 分诉	justify	1517
@@ -108579,6 +108589,7 @@ K歌	karaoke	819
 克什米尔	kashmir	1009
 巴控克什米尔	kashmir	759
 卡西莫夫	kasimov	1009
+拉布布	kasing	1179
 楮	kasinoki	1199
 卡巴斯基	kaspersky	1009
 春日部	kasukabe	1179
@@ -108598,7 +108609,6 @@ K歌	karaoke	819
 可爱岛	kaua	1179
 噶玛兰	kavalan	1179
 噶玛兰族	kavalan	1009
-佤	kawa	1199
 佧佤族	kawa	1179
 川端康成	kawabata	1009
 卡瓦格博峰	kawakarpo	829
@@ -110232,6 +110242,7 @@ U盾	key	1730
 孔尚任	kong	1179
 孔乙己	kong	1179
 孔颖达	kong	1179
+拉布布	kong	1179
 李嘉诚	kong	1179
 李嘉欣	kong	1179
 李丽珊	kong	1179
@@ -110784,6 +110795,7 @@ K房	ktv-ktv-room	819
 拉拉	labrador-retriever	1518
 拉卜楞寺	labrang	1009
 上唇	labrum	1518
+拉布布	labubu	1179
 拉冈	lacan	1519
 榔榆	lacebark	1519
 划伤	lacerate	1517
@@ -110976,6 +110988,7 @@ K房	ktv-ktv-room	819
 延迟	lag	1515
 掉	lag	1197
 几进宫	lag	1179
+时间差	lag	1179
 不甘后人	lag	1008
 不甘人后	lag	1008
 匏	lagenaria	1198
@@ -111063,6 +111076,7 @@ K房	ktv-ktv-room	819
 数码港	lam	1179
 喇嘛	lama	1519
 喇嘛教	lamaism	1179
+喇嘛教	lamaism-tibetan-buddhism	1179
 布达拉宫	lamas	1009
 喇嘛庙	lamasery	1179
 小羊	lamb	1519
@@ -113149,6 +113163,7 @@ K房	ktv-ktv-room	819
 出口	leave	2240
 残余	leave	2238
 出入境	leave	1784
+出校门	leave	1784
 工伤假	leave	1784
 不去理	leave	1783
 安土重迁	leave	1604
@@ -113747,9 +113762,9 @@ OK镜	lens	479
 明天见	less	1980
 差不多	less	1979
 不啻天渊	less	1801
+不敢恭维	less	1801
 或多或少	less	1801
 块儿八毛	less	1801
-不敢恭维	less	1800
 多多少少	less	1800
 多少有些	less	1800
 少	less	1740
@@ -113813,6 +113828,7 @@ OK镜	lens	479
 以内	less-than	1518
 之下	less-than	1517
 不到	less-than	1516
+不敢恭维	less-than-impressed-underwhelmed	1009
 唯恐	lest	1518
 摆烂	let	2438
 别说	let	2438
@@ -114125,8 +114141,8 @@ A菜	lettuce	819
 抓大放小	level	1858
 升堂入室	level	1856
 幵	level	1798
+平	level	1798
 侹	level	1798
-平	level	1797
 圢	level	1797
 峰	level	1796
 坦	level	1796
@@ -114851,6 +114867,8 @@ A菜	lettuce	819
 柴米油盐酱醋茶	life's	688
 救生	life-saving	1518
 恩同再造	life-saving	1009
+柴米油盐	life's-daily-necessities	1008
+柴米油盐酱醋茶	life's-daily-necessities	688
 人寿	lifespan	1519
 寿元	lifespan	1519
 延寿	lifespan	1519
@@ -114971,6 +114989,7 @@ A菜	lettuce	819
 元勋	light	2415
 月蓝	light	2415
 棕黄	light	2415
+比照	light	2414
 壁灯	light	2414
 抖搂	light	2414
 揭发	light	2414
@@ -115299,6 +115318,7 @@ A菜	lettuce	819
 同道者	like-minded	1179
 兔死狐悲	like-minded	1009
 志同道合	like-minded	1009
+比为	liken	1519
 比作	liken	1519
 比做	liken	1519
 比喻	liken	1518
@@ -116071,7 +116091,6 @@ Linux系统	linux	487
 拔茅连茹	lit	1009
 掰开揉碎	lit	1009
 摆花架子	lit	1009
-半路出家	lit	1009
 宝刀不老	lit	1009
 抱薪救火	lit	1009
 暴虎冯河	lit	1009
@@ -116079,6 +116098,7 @@ Linux系统	linux	487
 杯水车薪	lit	1009
 北叟失马	lit	1009
 本末倒置	lit	1009
+比翼双飞	lit	1009
 俾夜作昼	lit	1009
 敝帚千金	lit	1009
 别树一旗	lit	1009
@@ -116103,7 +116123,6 @@ Linux系统	linux	487
 不亦乐乎	lit	1009
 不知轻重	lit	1009
 不醉不归	lit	1009
-布帛菽粟	lit	1009
 才子佳人	lit	1009
 残垣败壁	lit	1009
 残垣断壁	lit	1009
@@ -116112,28 +116131,21 @@ Linux系统	linux	487
 插翅难飞	lit	1009
 姹紫嫣红	lit	1009
 拆东补西	lit	1009
-柴米油盐	lit	1009
 畅所欲言	lit	1009
-唱空城计	lit	1009
 朝三暮四	lit	1009
 朝生暮死	lit	1009
 朝闻夕改	lit	1009
-朝饔夕飧	lit	1009
 彻头彻尾	lit	1009
 尘埃落定	lit	1009
 晨钟暮鼓	lit	1009
 成败得失	lit	1009
 成千成万	lit	1009
 成千累万	lit	1009
-成千上万	lit	1009
 惩前毖后	lit	1009
 惩一儆百	lit	1009
 吃大锅饭	lit	1009
-吃喝嫖赌	lit	1009
-吃喝玩乐	lit	1009
 吃香喝辣	lit	1009
 叱咤风云	lit	1009
-抽丝剥茧	lit	1009
 出入平安	lit	1009
 初露头角	lit	1009
 楚河汉界	lit	1009
@@ -116143,7 +116155,6 @@ Linux系统	linux	487
 吹毛求疵	lit	1009
 垂帘听政	lit	1009
 春风化雨	lit	1009
-春暖花开	lit	1009
 唇齿相依	lit	1009
 唇亡齿寒	lit	1009
 厝火积薪	lit	1009
@@ -116157,12 +116168,10 @@ Linux系统	linux	487
 呆若木鸡	lit	1009
 戴盆望天	lit	1009
 单刀赴会	lit	1009
-单枪匹马	lit	1009
 弹冠相庆	lit	1009
 刀光剑影	lit	1009
 刀枪不入	lit	1009
 刀山火海	lit	1009
-倒持泰阿	lit	1009
 倒打一耙	lit	1009
 倒悬之急	lit	1009
 倒悬之苦	lit	1009
@@ -116188,35 +116197,27 @@ Linux系统	linux	487
 堆金积玉	lit	1009
 对酒当歌	lit	1009
 对牛弹琴	lit	1009
-对症发药	lit	1009
 对症下药	lit	1009
-多如牛毛	lit	1009
-堕云雾中	lit	1009
 扼喉抚背	lit	1009
 恶贯满盈	lit	1009
 反客为主	lit	1009
 反裘负刍	lit	1009
-方枘圆凿	lit	1009
 分道扬镳	lit	1009
 桴鼓相应	lit	1009
 俯拾皆是	lit	1009
 富国强兵	lit	1009
-歌舞升平	lit	1009
 功高盖主	lit	1009
 功亏一篑	lit	1009
 孤军奋战	lit	1009
 孤身只影	lit	1009
-固若金汤	lit	1009
 拐弯抹角	lit	1009
 光风霁月	lit	1009
 果实累累	lit	1009
 害群之马	lit	1009
 含饴弄孙	lit	1009
-喝西北风	lit	1009
 和盘托出	lit	1009
 桁杨刀锯	lit	1009
 横眉怒目	lit	1009
-侯门似海	lit	1009
 后车之鉴	lit	1009
 厚积薄发	lit	1009
 厚死薄生	lit	1009
@@ -116231,7 +116232,6 @@ Linux系统	linux	487
 急如星火	lit	1009
 急嘴急舌	lit	1009
 几次三番	lit	1009
-佳人才子	lit	1009
 家给人足	lit	1009
 家徒四壁	lit	1009
 假途灭虢	lit	1009
@@ -116241,8 +116241,6 @@ Linux系统	linux	487
 将错就错	lit	1009
 借花献佛	lit	1009
 借尸还魂	lit	1009
-井底之蛙	lit	1009
-九牛一毛	lit	1009
 居高临下	lit	1009
 卷土重来	lit	1009
 崛地而起	lit	1009
@@ -116257,20 +116255,13 @@ Linux系统	linux	487
 哭笑不得	lit	1009
 愧不敢当	lit	1009
 来鸿去燕	lit	1009
-来龙去脉	lit	1009
-来踪去迹	lit	1009
-乐昌破镜	lit	1009
 梨花带雨	lit	1009
 李代桃僵	lit	1009
 历久弥新	lit	1009
 梁上君子	lit	1009
-两虎相争	lit	1009
-两肋插刀	lit	1009
 两袖清风	lit	1009
 另起炉灶	lit	1009
-令行禁止	lit	1009
 柳暗花明	lit	1009
-柳绿花红	lit	1009
 柳烟花雾	lit	1009
 捋臂揎拳	lit	1009
 屡教不改	lit	1009
@@ -116278,7 +116269,6 @@ Linux系统	linux	487
 履险如夷	lit	1009
 埋天怨地	lit	1009
 扪心无愧	lit	1009
-梦寐以求	lit	1009
 名垂青史	lit	1009
 名落孙山	lit	1009
 明察秋毫	lit	1009
@@ -116302,9 +116292,7 @@ Linux系统	linux	487
 排山倒海	lit	1009
 攀高结贵	lit	1009
 抛砖引玉	lit	1009
-披肝沥胆	lit	1009
 披荆斩棘	lit	1009
-披沙拣金	lit	1009
 劈头盖脸	lit	1009
 屁颠屁颠	lit	1009
 品头论足	lit	1009
@@ -116312,27 +116300,19 @@ Linux系统	linux	487
 扑面而来	lit	1009
 七窍生烟	lit	1009
 七折八扣	lit	1009
-欺霜傲雪	lit	1009
 奇文共赏	lit	1009
 旗鼓相当	lit	1009
 旗开得胜	lit	1009
-杞人忧天	lit	1009
-杞人之忧	lit	1009
 千方百计	lit	1009
 千金一掷	lit	1009
-千钧一发	lit	1009
 千千万万	lit	1009
-前车之鉴	lit	1009
-强弩之末	lit	1009
 敲打锣鼓	lit	1009
 巧舌如簧	lit	1009
 切磋琢磨	lit	1009
-寝食难安	lit	1009
 倾国倾城	lit	1009
 晴天霹雳	lit	1009
 曲肱而枕	lit	1009
 曲突徙薪	lit	1009
-屈指可数	lit	1009
 取长补短	lit	1009
 去芜存菁	lit	1009
 拳打脚踢	lit	1009
@@ -116341,15 +116321,12 @@ Linux系统	linux	487
 人给家足	lit	1009
 人喊马嘶	lit	1009
 人迹罕至	lit	1009
-人面兽心	lit	1009
-人去楼空	lit	1009
 人声鼎沸	lit	1009
 人走茶凉	lit	1009
 日薄崦嵫	lit	1009
 日晒雨淋	lit	1009
 柔肠寸断	lit	1009
 柔能克刚	lit	1009
-如法泡制	lit	1009
 如法炮制	lit	1009
 如鲠在喉	lit	1009
 如虎添翼	lit	1009
@@ -116357,52 +116334,34 @@ Linux系统	linux	487
 如狼似虎	lit	1009
 如雷贯耳	lit	1009
 如临大敌	lit	1009
-如临深渊	lit	1009
-如履薄冰	lit	1009
-如鸟兽散	lit	1009
-如泣如诉	lit	1009
 如蛆附骨	lit	1009
 如日中天	lit	1009
-如丧考妣	lit	1009
 如数家珍	lit	1009
-如影随形	lit	1009
 如坐针毡	lit	1009
 乳臭未干	lit	1009
-入境随俗	lit	1009
-弱不禁风	lit	1009
-弱肉强食	lit	1009
 塞翁失马	lit	1009
 三茶六饭	lit	1009
 三顾茅庐	lit	1009
 三天两头	lit	1009
-三头六臂	lit	1009
 三旬九食	lit	1009
 散兵游勇	lit	1009
-丧家之犬	lit	1009
 僧多粥少	lit	1009
-杀鸡儆猴	lit	1009
 杀鸡取卵	lit	1009
-杀人如麻	lit	1009
 杀一儆百	lit	1009
 山高水险	lit	1009
 山明水秀	lit	1009
 山清水秀	lit	1009
 山颓木坏	lit	1009
 上天入地	lit	1009
-少见多怪	lit	1009
 升堂入室	lit	1009
-尸山血海	lit	1009
 师出无名	lit	1009
 师出有名	lit	1009
 十赌九输	lit	1009
 实事求是	lit	1009
-始作俑者	lit	1009
 事危累卵	lit	1009
 事无巨细	lit	1009
 拭目以待	lit	1009
 是非曲直	lit	1009
-噬脐莫及	lit	1009
-收旗卷伞	lit	1009
 手不释卷	lit	1009
 手到拈来	lit	1009
 手无寸铁	lit	1009
@@ -116410,7 +116369,6 @@ Linux系统	linux	487
 手下留情	lit	1009
 守口如瓶	lit	1009
 守株待兔	lit	1009
-束手就擒	lit	1009
 束手无策	lit	1009
 树碑立传	lit	1009
 树大招风	lit	1009
@@ -116421,9 +116379,7 @@ Linux系统	linux	487
 昙花一现	lit	1009
 啼笑皆非	lit	1009
 天地悬隔	lit	1009
-天花乱坠	lit	1009
 天经地义	lit	1009
-天壤之别	lit	1009
 天网恢恢	lit	1009
 天衣无缝	lit	1009
 天造地设	lit	1009
@@ -116434,11 +116390,9 @@ Linux系统	linux	487
 投袂而起	lit	1009
 投石问路	lit	1009
 投鼠忌器	lit	1009
-图穷匕见	lit	1009
 土阶茅茨	lit	1009
 土阶茅屋	lit	1009
 吐故纳新	lit	1009
-兔死狗烹	lit	1009
 兔死狐悲	lit	1009
 拖人下水	lit	1009
 外圆内方	lit	1009
@@ -116446,11 +116400,9 @@ Linux系统	linux	487
 亡羊补牢	lit	1009
 惘然若失	lit	1009
 望尘莫及	lit	1009
-望而却步	lit	1009
 望梅止渴	lit	1009
 望女成凤	lit	1009
 望文生义	lit	1009
-望洋兴叹	lit	1009
 望子成龙	lit	1009
 威凤一羽	lit	1009
 围魏救赵	lit	1009
@@ -116464,9 +116416,7 @@ Linux系统	linux	487
 吴头楚尾	lit	1009
 五福临门	lit	1009
 嬉笑怒骂	lit	1009
-喜怒哀乐	lit	1009
 喜新厌旧	lit	1009
-先斩后奏	lit	1009
 小惩大诫	lit	1009
 小肚鸡肠	lit	1009
 小鸟依人	lit	1009
@@ -116480,10 +116430,7 @@ Linux系统	linux	487
 心旷神怡	lit	1009
 心猿意马	lit	1009
 星移斗转	lit	1009
-惺惺相惜	lit	1009
-形影相随	lit	1009
 幸灾乐祸	lit	1009
-凶多吉少	lit	1009
 修炼成仙	lit	1009
 喧宾夺主	lit	1009
 悬崖勒马	lit	1009
@@ -116492,7 +116439,6 @@ Linux系统	linux	487
 寻花问柳	lit	1009
 掩耳盗铃	lit	1009
 偃旗息鼓	lit	1009
-扬幡招魂	lit	1009
 扬清激浊	lit	1009
 仰屋著书	lit	1009
 吆五喝六	lit	1009
@@ -116508,12 +116454,9 @@ Linux系统	linux	487
 一蹴即至	lit	1009
 一见高低	lit	1009
 一箭双雕	lit	1009
-一举两得	lit	1009
 一鳞半爪	lit	1009
 一落千丈	lit	1009
-一毛不拔	lit	1009
 一木难支	lit	1009
-一诺千金	lit	1009
 一拍即合	lit	1009
 一盘散沙	lit	1009
 一窍不通	lit	1009
@@ -116523,14 +116466,12 @@ Linux系统	linux	487
 一手遮天	lit	1009
 一网打尽	lit	1009
 一五一十	lit	1009
-一夕数惊	lit	1009
 一叶障目	lit	1009
 一叶知秋	lit	1009
 一针见血	lit	1009
 一枝独秀	lit	1009
 一掷千金	lit	1009
 一柱擎天	lit	1009
-一字褒贬	lit	1009
 以卵击石	lit	1009
 因噎废食	lit	1009
 吟风弄月	lit	1009
@@ -116538,7 +116479,6 @@ Linux系统	linux	487
 引狗入寨	lit	1009
 引鬼上门	lit	1009
 引经据典	lit	1009
-引狼入室	lit	1009
 引蛇出洞	lit	1009
 引水入墙	lit	1009
 引玉之砖	lit	1009
@@ -116550,26 +116490,19 @@ Linux系统	linux	487
 有名亡实	lit	1009
 有名无实	lit	1009
 有手有脚	lit	1009
-榆木疙瘩	lit	1009
 冤家路窄	lit	1009
-原封不动	lit	1009
 怨声载道	lit	1009
 怨天载道	lit	1009
 月下花前	lit	1009
-债多不愁	lit	1009
 债台高筑	lit	1009
-斩钉截铁	lit	1009
 张冠李戴	lit	1009
-张三李四	lit	1009
 掌上明珠	lit	1009
 招兵买马	lit	1009
-招蜂引蝶	lit	1009
 折冲樽俎	lit	1009
 折戟沉沙	lit	1009
 枕戈待旦	lit	1009
 枕戈寝甲	lit	1009
 振聋发聩	lit	1009
-之乎者也	lit	1009
 支与流裔	lit	1009
 指鸡骂狗	lit	1009
 指桑骂槐	lit	1009
@@ -116596,13 +116529,12 @@ Linux系统	linux	487
 不让须眉	lit	1007
 成百上千	lit	1007
 八字没一撇	lit	829
+比登天还难	lit	829
 不打不相识	lit	829
 吃软不吃硬	lit	829
-大旱望云霓	lit	829
 大意失荆州	lit	829
 二一添作五	lit	829
 好酒沉瓮底	lit	829
-何不食肉糜	lit	829
 恨铁不成钢	lit	829
 君子远庖厨	lit	829
 快刀断乱麻	lit	829
@@ -116611,9 +116543,6 @@ Linux系统	linux	487
 抹一鼻子灰	lit	829
 女大十八变	lit	829
 杀鸡给猴看	lit	829
-山不转路转	lit	829
-山不转水转	lit	829
-四两拨千斤	lit	829
 天高皇帝远	lit	829
 天上下刀子	lit	829
 媳妇熬成婆	lit	829
@@ -116633,7 +116562,6 @@ Linux系统	linux	487
 不登大雅之堂	lit	759
 不可同日而语	lit	759
 不显山不露水	lit	759
-拆东墙补西墙	lit	759
 吃不了兜着走	lit	759
 出淤泥而不染	lit	759
 打肿脸充胖子	lit	759
@@ -116650,10 +116578,8 @@ Linux系统	linux	487
 屁股决定脑袋	lit	759
 前怕狼后怕虎	lit	759
 强扭的瓜不甜	lit	759
-三折肱为良医	lit	759
 上有老下有小	lit	759
 柿子挑软的捏	lit	759
-手无缚鸡之力	lit	759
 死马当活马医	lit	759
 天机不可泄漏	lit	759
 天机不可泄露	lit	759
@@ -116672,7 +116598,6 @@ Linux系统	linux	487
 不看僧面看佛面	lit	689
 不怕官，只怕管	lit	689
 不识庐山真面目	lit	689
-柴米油盐酱醋茶	lit	689
 出头的椽子先烂	lit	689
 初生牛犊不怕虎	lit	689
 初生之犊不畏虎	lit	689
@@ -116681,7 +116606,6 @@ Linux系统	linux	487
 大树底下好乘凉	lit	689
 大水冲了龙王庙	lit	689
 丁是丁，卯是卯	lit	689
-对着和尚骂贼秃	lit	689
 好马不吃回头草	lit	689
 家花没有野花香	lit	689
 敬酒不吃吃罚酒	lit	689
@@ -116699,11 +116623,9 @@ Linux系统	linux	487
 手心手背都是肉	lit	689
 树挪死，人挪活	lit	689
 树欲静而风不止	lit	689
-死猪不怕开水烫	lit	689
 太阳从西边出来	lit	689
 剃头挑子一头热	lit	689
 偷鸡不成蚀把米	lit	689
-兔子不吃窝边草	lit	689
 咬人的狗不露齿	lit	689
 咬人狗儿不露齿	lit	689
 一不做，二不休	lit	689
@@ -116711,7 +116633,6 @@ Linux系统	linux	487
 一个将军一个令	lit	689
 一个萝卜一个坑	lit	689
 一口吃不成胖子	lit	689
-一哭二闹三上吊	lit	689
 一是一，二是二	lit	689
 一条绳上的蚂蚱	lit	689
 有钱能使鬼推磨	lit	689
@@ -116737,25 +116658,20 @@ Linux系统	linux	487
 成也萧何，败也萧何	lit	549
 成则为王，败则为寇	lit	549
 吃别人嚼过的馍不香	lit	549
-吃屎都赶不上热乎的	lit	549
 吃着碗里，看着锅里	lit	549
 尺有所短，寸有所长	lit	549
 打一巴掌，给个甜枣	lit	549
-分久必合，合久必分	lit	549
 和尚打伞，无法无天	lit	549
 家累千金，坐不垂堂	lit	549
 君子报仇，十年不晚	lit	549
-两虎相争，必有一伤	lit	549
 明枪好躲，暗箭难防	lit	549
 明枪易躲，暗箭难防	lit	549
 明修栈道，暗渡陈仓	lit	549
 宁做鸡头，不做凤尾	lit	549
-千里之堤，溃于蚁穴	lit	549
 千里之行，始于足下	lit	549
 前不着村，后不着店	lit	549
 前车之覆，后车之鉴	lit	549
 人为财死，鸟为食亡	lit	549
-人为刀俎，我为鱼肉	lit	549
 人有失手，马有失蹄	lit	549
 日出而作，日入而息	lit	549
 三天打鱼，两天晒网	lit	549
@@ -116763,8 +116679,6 @@ Linux系统	linux	487
 上有天堂，下有苏杭	lit	549
 司马昭之心路人皆知	lit	549
 天网恢恢，疏而不漏	lit	549
-天要下雨，娘要嫁人	lit	549
-一人得道，鸡犬升天	lit	549
 一手交钱，一手交货	lit	549
 一言既出，驷马难追	lit	549
 以子之矛，攻子之盾	lit	549
@@ -116781,33 +116695,26 @@ Linux系统	linux	487
 不怕不识货，只怕货比货	lit	409
 好事不出门，恶事传千里	lit	409
 明知山有虎，偏向虎山行	lit	409
-平时不烧香，临时抱佛脚	lit	409
 任凭风浪起，稳坐钓鱼台	lit	409
 三个臭皮匠，顶个诸葛亮	lit	409
 三个臭皮匠，赛过诸葛亮	lit	409
 是骡子是马，牵出来遛遛	lit	409
 死了张屠夫，不吃混毛猪	lit	409
-天下无难事，只怕有心人	lit	409
-一朝被蛇咬，十年怕井绳	lit	409
 一瓶子不响，半瓶子晃荡	lit	409
 在家千日好，出门一时难	lit	409
-千里马常有，而伯乐不常有	lit	339
 吃人家的嘴软，拿人家的手短	lit	269
 三个臭皮匠，合成一个诸葛亮	lit	269
 三个臭皮匠，赛过一个诸葛亮	lit	269
 又要马儿跑，又要马儿不吃草	lit	269
 你走你的阳关道，我过我的独木桥	lit	199
 书中自有黄金屋，书中自有颜如玉	lit	199
-一寸光阴一寸金，寸金难买寸光阴	lit	199
 有意栽花花不发，无心插柳柳成阴	lit	199
 嗣响	lit-a-following-echo	1519
-之乎者也	lit-and	1009
 大鳄	lit-big-crocodile	1519
 博友	lit-blog-friend	1519
 支与流裔	lit-branches-and-descendants	1009
 樱桃小嘴	lit-cherry-mouth	1009
 闷葫芦	lit-closed-gourd	1179
-欺霜傲雪	lit-cold-resistant	1009
 曲直	lit-crooked-and-straight	1519
 切磋琢磨	lit-cutting-and-polishing	1009
 干杯	lit-dry-cup	1515
@@ -116926,7 +116833,6 @@ Linux系统	linux	487
 春晖	lit-spring-sunshine	1519
 桁杨	lit-stocks-and-knives	1519
 桁杨刀锯	lit-stocks-and-knives	1009
-丧家之犬	lit-stray-dog	1009
 乱麻	lit-tangled-skein	1519
 垫脚	litter	1519
 垫圈	litter	1519
@@ -116995,6 +116901,7 @@ Linux系统	linux	487
 一点点	little	2027
 一抿子	little	2027
 有一点	little	2027
+小红书	little	2026
 小祖宗	little	2026
 有点儿	little	2026
 坏包儿	little	2025
@@ -117084,7 +116991,6 @@ Linux系统	linux	487
 东归	lit-to-return-east	1519
 后尘	lit-trailing-dust	1519
 正教	lit-true-religion	1519
-两虎相争	lit-two-tigers-fighting	1009
 挡风墙	lit-windbreak	1179
 柴门	lit-woodcutter's-family	1519
 尊驾	lit-your-honored-carriage	1519
@@ -117293,7 +117199,6 @@ Linux系统	linux	487
 实况照片	live-photo-motion-photo	1009
 五脏	liver	1519
 吴孟超	liver	1179
-披肝沥胆	liver	1009
 实况录音	live-recording	1009
 实况转播	live-relay	1008
 利物浦	liverpool	1179
@@ -118272,6 +118177,7 @@ N久	long	1831
 企望	look	2471
 切盼	look	2471
 人球	look	2471
+杀气	look	2471
 审谛	look	2471
 审视	look	2471
 侍弄	look	2471
@@ -118684,6 +118590,7 @@ N久	long	1831
 失而复得	lose	1009
 十赌九输	lose	1009
 晚节不保	lose	1009
+忘乎所以	lose	1009
 威信扫地	lose	1009
 因小失大	lose	1009
 有得有失	lose	1009
@@ -119419,7 +119326,6 @@ V沟	low	1785
 下腹部	lower-abdomen	1179
 低等动物	lower-animal	1009
 后腰	lower-back	1519
-下体	lower-body	1519
 下半身	lower-body	1178
 下界	lower-bound	1519
 下限	lower-bound	1519
@@ -119726,6 +119632,7 @@ V沟	low	1785
 庐江县	lujiang	1179
 巴尼亚卢卡	luka	829
 不温不火	lukewarm	1009
+催眠	lull	1519
 暂息	lull	1519
 扮猪吃老虎	lull	829
 催眠曲	lullaby	1179
@@ -119782,6 +119689,9 @@ V沟	low	1785
 正朔	lunar	1519
 正月	lunar	1519
 嫦娥	lunar	1518
+初二	lunar	1518
+初三	lunar	1518
+初一	lunar	1518
 守岁	lunar	1518
 朔望	lunar	1518
 朔月	lunar	1518
@@ -119833,6 +119743,7 @@ V沟	low	1785
 弦月窗	lunette	1178
 底气	lung	1519
 书肺	lung	1519
+拉布布	lung	1179
 底气	lung-capacity-lung-power	1519
 弓箭步	lunge	1179
 核四	lungmen	1518
@@ -120392,6 +120303,7 @@ V沟	low	1785
 怨女	maiden	1519
 女郎	maiden	1518
 娘家姓	maiden	1179
+九天仙女	maiden	1009
 娘家姓	maiden-name	1179
 乙女	maiden-young-lady	1519
 伴娘	maid-of-honor	1518
@@ -120819,6 +120731,7 @@ AB制	main	1334
 包月	make	2575
 报复	make	2575
 备耕	make	2575
+比耶	make	2575
 拨空	make	2575
 不分	make	2575
 擦边	make	2575
@@ -121303,6 +121216,7 @@ AB制	main	1334
 旌	make	1874
 掯	make	1874
 勉	make	1874
+平	make	1874
 巡	make	1874
 噪	make	1874
 拜	make	1873
@@ -121414,7 +121328,6 @@ AB制	main	1334
 妆	makeup	1198
 化妆品	makeup	1178
 涂脂抹粉	makeup	1009
-成份	make-up	1518
 化妆师	make-up	1179
 杀马特	make-up	1179
 妆造	makeup-and-styling	1519
@@ -121466,7 +121379,11 @@ AB制	main	1334
 利隆圭	malawi	1179
 峇峇娘惹	malay	1009
 怡保	malayan	1519
+大笨鸟	malayan	1179
+地瓜鸟	malayan	1179
 怡保市	malayan	1179
+大笨鸟	malayan-night-heron	1179
+地瓜鸟	malayan-night-heron	1179
 巫裔	malays	1519
 板面	malaysia	1519
 布城	malaysia	1519
@@ -121966,7 +121883,6 @@ AB制	main	1334
 揾	mandarin	1198
 喺	mandarin	1198
 普通话	mandarin	1179
-唔好睇	mandarin	1178
 塑料普通话	mandarin	829
 揾食	mandarin-equivalent	1518
 喥	mandarin-equivalent	1198
@@ -121975,7 +121891,6 @@ AB制	main	1334
 嘅	mandarin-equivalent	1198
 揾	mandarin-equivalent	1198
 喺	mandarin-equivalent	1198
-唔好睇	mandarin-equivalent	1178
 桂鱼	mandarin-fish	1519
 橘	mandarin-orange	1199
 天命	mandate	1519
@@ -122601,6 +122516,7 @@ AB制	main	1334
 市值	market	2463
 收盘	market	2463
 收市	market	2463
+台股	market	2463
 推销	market	2463
 问市	market	2463
 休市	market	2463
@@ -122905,6 +122821,7 @@ AB制	main	1334
 大润发	mart	1179
 峨嵋鹟莺	martens's	1009
 峨嵋鹟莺	martens's-warbler	1009
+比武	martial	1519
 查拳	martial	1519
 国术	martial	1519
 戒严	martial	1519
@@ -122951,6 +122868,7 @@ AB制	main	1334
 武侠	martial-arts-chivalry	1519
 武林	martial-arts-circles	1519
 武坛	martial-arts-circles	1519
+比武	martial-arts-competition	1519
 武功	martial-arts-feats	1517
 兵器术	martial-arts-involving-weapons	1179
 拳棒	martial-arts-kung-fu	1519
@@ -123264,6 +123182,7 @@ AB制	main	1334
 增田	masuda	1519
 床笫	mat	1519
 垫子	mat	1519
+席地	mat	1519
 枕席	mat	1519
 棕绷	mat	1519
 棕垫	mat	1519
@@ -123282,9 +123201,11 @@ AB制	main	1334
 媲美	match	2110
 战报	match	2110
 作合	match	2110
+比肩	match	2109
 搭配	match	2109
 匹配	match	2109
 周瑜	match	2109
+比拟	match	2108
 敌手	match	2108
 对骂	match	2108
 弃权	match	2108
@@ -123295,6 +123216,7 @@ AB制	main	1334
 大风吹	match	1650
 揭幕战	match	1650
 取灯儿	match	1650
+小组赛	match	1650
 友谊赛	match	1650
 比不了	match	1649
 对抗赛	match	1649
@@ -123408,7 +123330,6 @@ AB制	main	1334
 填塞物	material	1889
 下脚料	material	1889
 原物料	material	1889
-染色质	material	1888
 残留物	material	1887
 实质性	material	1887
 参考材料	material	1709
@@ -123569,7 +123490,7 @@ AB制	main	1334
 模型	matrix	1517
 母体	matrix	1517
 模	matrix	1197
-伴矩阵	matrix	1179
+伴随矩阵	matrix	1009
 喜娘	matron	1519
 伴娘	matron	1517
 婆	matron	1198
@@ -124124,6 +124045,7 @@ E仔	mdma	819
 投机取巧	means	1729
 想方设法	means	1729
 各尽所能	means	1728
+径	means	1669
 以	means	1668
 务	means	1664
 条条大路通罗马	means	1278
@@ -124200,7 +124122,6 @@ E仔	mdma	819
 吃斋	meat	1519
 冻肉	meat	1519
 割肉	meat	1519
-囊揣	meat	1519
 囊膪	meat	1519
 榛仁	meat	1518
 剔	meat	1199
@@ -124446,7 +124367,6 @@ E仔	mdma	819
 中西医	medicine	1736
 中医学	medicine	1736
 传统医药	medicine	1556
-对症发药	medicine	1556
 对症下药	medicine	1556
 分子医学	medicine	1556
 核子医学	medicine	1556
@@ -124871,6 +124791,7 @@ E仔	mdma	819
 成员国	member	2084
 会员国	member	2084
 李大钊	member	2084
+小辈子	member	2084
 一把手	member	2084
 张太雷	member	2084
 回族人	member	2083
@@ -125026,7 +124947,9 @@ E仔	mdma	819
 心急吃不了热豆腐	men	1292
 威胁	menace	1519
 恐吓	menace	1518
+杀气	menacing	1519
 咄咄逼人	menacing	1006
+杀气	menacing-air-murderous-look	1519
 人马	men-and-horses	1519
 初潮	menarche	1519
 孟尝君	menchang	1179
@@ -125577,6 +125500,7 @@ PO文	message	1409
 包拯	metaphor	1518
 借指	metaphor	1518
 比喻	metaphor	1517
+比拟	metaphor	1515
 喻	metaphor	1196
 寓意	metaphorical	1514
 单方	metaphorically	1514
@@ -125604,6 +125528,7 @@ PO文	message	1409
 土方	meter	1519
 仪表	meter	1517
 尺	meter	1198
+平	meter	1190
 方	meter	1185
 查水表	meter	1179
 平方米	meter	1179
@@ -125943,6 +125868,7 @@ TF卡	microsd-card	479
 微睡眠	microsleep	1179
 微软	microsoft	2360
 微软公司	microsoft	1719
+比尔·盖茨	microsoft	1449
 微软	microsoft-corporation	1519
 微软公司	microsoft-corporation	1009
 微粒体	microsome	1179
@@ -127325,7 +127251,6 @@ TF卡	microsd-card	479
 味噌汤	miso-soup	1179
 丢失	misplace	1519
 掖咕	misplace	1518
-别字	mispronounced	1519
 一字之师	misread	1009
 曲解	misrepresent	1519
 歪曲	misrepresent	1518
@@ -127962,6 +127887,8 @@ P挡	mode	1521
 吸湿	moisture	1519
 墒	moisture	1198
 五劳七伤	moisture	1009
+吸湿性	moisture-absorbing	1179
+吸湿性	moisture-absorbing-hygroscopic	1179
 保湿	moisturize	1519
 保湿	moisturizing	1518
 墨江哈尼族自治县	mojiang	619
@@ -128217,6 +128144,7 @@ P挡	mode	1521
 巨款	money	2489
 捐款	money	2489
 刻剥	money	2489
+款项	money	2489
 款子	money	2489
 捞本	money	2489
 捞女	money	2489
@@ -128250,7 +128178,6 @@ P挡	mode	1521
 出血	money	2488
 出资	money	2488
 挤提	money	2488
-款项	money	2488
 俩钱	money	2488
 敛财	money	2488
 乱花	money	2488
@@ -128658,7 +128585,6 @@ CP值	money	1329
 元月	month	2407
 月初	month	2407
 月底	month	2407
-月分	month	2407
 月份	month	2407
 月工	month	2407
 月杪	month	2407
@@ -128674,6 +128600,9 @@ CP值	money	1329
 中旬	month	2407
 仲秋	month	2407
 八月	month	2406
+初二	month	2406
+初三	month	2406
+初一	month	2406
 单月	month	2406
 二月	month	2406
 九月	month	2406
@@ -130372,7 +130301,6 @@ Q劲	mouthfeel	819
 打法	move	2239
 动作	move	2239
 俯仰	move	2239
-咕攘	move	2239
 僵住	move	2239
 律动	move	2239
 死棋	move	2239
@@ -130670,7 +130598,6 @@ A片	movie	1756
 爱财如命	much	1886
 爱莫能助	much	1886
 半斤八两	much	1886
-兵不厌诈	much	1886
 不如人意	much	1886
 不怎么样	much	1886
 大吃大喝	much	1886
@@ -130740,6 +130667,7 @@ A片	movie	1756
 天然呆	muddleheaded	1178
 昏聩	muddle-headed	1519
 昏	muddle-headed	1199
+懵懵懂懂	muddle-headed	1009
 傻头傻脑	muddle-headed	1009
 樶	muddy	1198
 拖泥带水	muddy	1009
@@ -131102,7 +131030,6 @@ A片	movie	1756
 口蜜腹剑	murderous	1009
 杀气腾腾	murderous-looking	1008
 下毒手	murderously	1179
-杀气	murderous-spirit	1519
 凶器	murder-weapon	1518
 地方性斑疹伤寒	murine	689
 地方性斑疹伤寒	murine-typhus-fever	689
@@ -131293,6 +131220,7 @@ A片	movie	1756
 埃隆·马斯克	musk	759
 伊隆·马斯克	musk	759
 亚伯	muslim	1518
+回教徒	muslim	1179
 侯赛因	muslim	1178
 伊斯兰国	muslim	1009
 伊斯兰国	muslim-countries	1009
@@ -131476,7 +131404,6 @@ A片	movie	1756
 掸邦	myanmar	1519
 垒固	myanmar	1519
 怒江	myanmar	1518
-佤	myanmar	1199
 彬马那	myanmar	1179
 勃固河	myanmar	1179
 佧佤族	myanmar	1179
@@ -132020,6 +131947,7 @@ OK镜	myopia	479
 恢复名誉	name	1942
 家喻户晓	name	1942
 南箕北斗	name	1942
+比翼双飞	name	1941
 并	name	1883
 嶓	name	1883
 僰	name	1883
@@ -133822,7 +133750,6 @@ N挡	neutral	819
 从来没	never	1986
 不打紧	never	1983
 不要紧	never	1983
-兵不厌诈	never	1806
 不绝于耳	never	1806
 从来没有	never	1806
 功高不赏	never	1806
@@ -134416,6 +134343,7 @@ N挡	neutral	819
 报摊	newsstand	1519
 报亭	newsstand	1518
 报刊摊	newsstand	1179
+报刊亭	newsstand	1179
 新星	new-star-rising-star	1518
 新海峡时报	new-strait-times	829
 新生	new-student	1512
@@ -134642,6 +134570,7 @@ N挡	neutral	819
 天龙国	nickname	1179
 小赤壁	nickname	1179
 光头强	nickname	1178
+小红书	nickname	1178
 喀秋莎	nickname	1177
 卡秋莎	nickname	1177
 人间天堂	nickname	1008
@@ -134768,8 +134697,10 @@ C罗	nickname	819
 暗光鸟	night	1961
 打通宵	night	1961
 大半夜	night	1961
+大笨鸟	night	1961
 大晚上	night	1961
 大夜班	night	1961
+地瓜鸟	night	1961
 后半夜	night	1961
 平安夜	night	1961
 前半夜	night	1961
@@ -135089,9 +135020,11 @@ C罗	nickname	819
 亚硝酸钠	nitrite	1009
 亚硝酸盐	nitrite	1009
 亚硝酸异戊酯	nitrite	759
+固氮	nitrogen	1519
 有机氮	nitrogen	1179
 二氧化氮	nitrogen	1009
 二氧化氮	nitrogen-dioxide	1009
+固氮	nitrogen-fixation	1519
 亚硝胺	nitrosamine	1179
 亚硝酸	nitrous	1179
 亚硝酸	nitrous-acid	1179
@@ -136890,7 +136823,6 @@ C罗	nickname	819
 一刀两断	nothing	1614
 一事无成	nothing	1614
 一无所获	nothing	1614
-兵不厌诈	nothing	1613
 不分伯仲	nothing	1613
 不过尔尔	nothing	1613
 不了了之	nothing	1613
@@ -139249,7 +139181,6 @@ L照	nude-picture	819
 换届	office	2539
 会所	office	2539
 交卸	office	2539
-冏寺	office	2539
 就任	office	2539
 就职	office	2539
 内勤	office	2539
@@ -139829,6 +139760,7 @@ L照	nude-picture	819
 喔	oh-i-see	1199
 啊	oh-it's-you	1195
 欧姆	ohm	1519
+欧	ohm	1199
 啊呀	oh-my	1518
 哎呦	oh-my	1518
 噢买嘎	oh-my-god	1179
@@ -140383,7 +140315,6 @@ L照	nude-picture	819
 姥	old	1795
 戮	old	1795
 慜	old	1795
-欧	old	1795
 圱	old	1795
 搔	old	1795
 埽	old	1795
@@ -140404,6 +140335,7 @@ L照	nude-picture	819
 傤	old	1794
 拐	old	1793
 柬	old	1793
+欧	old	1793
 唐	old	1793
 斗	old	1792
 抚	old	1792
@@ -140918,7 +140850,6 @@ L照	nude-picture	819
 堇	old-variant-of	1198
 戮	old-variant-of	1198
 慜	old-variant-of	1198
-欧	old-variant-of	1198
 圱	old-variant-of	1198
 搔	old-variant-of	1198
 埽	old-variant-of	1198
@@ -140935,6 +140866,7 @@ L照	nude-picture	819
 攴	old-variant-of	1197
 傤	old-variant-of	1197
 柬	old-variant-of	1196
+欧	old-variant-of	1196
 唐	old-variant-of	1196
 斗	old-variant-of	1195
 合	old-variant-of	1190
@@ -141194,6 +141126,7 @@ L照	nude-picture	819
 后车之鉴	once-bitten-twice-shy	1006
 上一次当，学一次乖	once-bitten-twice-shy	548
 前车之覆，后车之鉴	once-bitten-twice-shy	547
+一朝被蛇咬，十年怕井绳	once-bitten-twice-shy	408
 故地	once-familiar-places	1519
 偶而	once-in-a-while	1518
 偶尔	once-in-a-while	1518
@@ -141210,6 +141143,7 @@ L照	nude-picture	819
 守门	on-duty-as-gatekeeper	1518
 一	one	1905
 每逢	on-each-occasion	1518
+一举两得	one-action-two-gains	1009
 次第	one-after-another	1517
 一递一个	one-after-another	1009
 一个半	one-and-a-half	1179
@@ -141336,6 +141270,7 @@ L照	nude-picture	819
 反省	oneself	1519
 分身	oneself	1519
 伏惟	oneself	1519
+个人	oneself	1519
 横心	oneself	1519
 挤入	oneself	1519
 孑身	oneself	1519
@@ -141424,7 +141359,6 @@ L照	nude-picture	819
 创练	oneself	1517
 分诉	oneself	1517
 奉承	oneself	1517
-个人	oneself	1517
 假扮	oneself	1517
 冒充	oneself	1517
 勉力	oneself	1517
@@ -141575,7 +141509,6 @@ L照	nude-picture	819
 束手待毙	oneself	1008
 同归于尽	oneself	1008
 妄自菲薄	oneself	1008
-忘乎所以	oneself	1008
 望梅止渴	oneself	1008
 下不来台	oneself	1008
 掩耳盗铃	oneself	1008
@@ -141683,7 +141616,6 @@ L照	nude-picture	819
 本分	ones-role	1518
 份子	ones-share-of-expenses	1519
 成分	ones-social-status	1518
-成份	ones-social-status	1514
 拿手好戏	ones-specialty	1008
 桃李	ones-students	1519
 尊长	ones-superior	1519
@@ -142150,7 +142082,6 @@ U盾	online	1892
 光明磊落	open	1885
 康庄大道	open	1885
 明察暗访	open	1885
-披肝沥胆	open	1885
 四通八达	open	1885
 呼之欲出	open	1884
 栉风沐雨	open	1884
@@ -142217,6 +142148,7 @@ U盾	online	1892
 始业式	opening	1179
 入场式	opening	1178
 就业机会	opening	1008
+时间差攻击	opening	829
 封闭性开局	opening	828
 揭幕式	opening-ceremony	1179
 揭幕战	opening-game-opening-match	1179
@@ -143124,6 +143056,7 @@ OK镜	order	1401
 庶	ordinary	1199
 庸	ordinary	1199
 恒	ordinary	1195
+平	ordinary	1194
 拉家常	ordinary	1179
 普通人	ordinary	1179
 普信男	ordinary	1179
@@ -143556,7 +143489,6 @@ OK镜	order	1401
 原址	original-location	1519
 冏牧	originally	1519
 冏卿	originally	1519
-冏寺	originally	1519
 宣纸	originally	1519
 原本	originally	1519
 原定	originally	1519
@@ -143717,6 +143649,7 @@ OK镜	orthokeratology	479
 振荡	oscillation	1518
 晶振	oscillator	1519
 振荡器	oscillator	1179
+密切	osculate	1516
 切触	osculation	1519
 奥司他韦	oseltamivir	1009
 奥什	osh	1519
@@ -143989,6 +143922,7 @@ AB制	other	1443
 株治	others	2385
 助人	others	2385
 嘴替	others	2385
+比烂	others	2384
 出示	others	2384
 倒粪	others	2384
 合群	others	2384
@@ -145403,6 +145337,7 @@ AB制	other	1443
 会期	over	2581
 兼并	over	2581
 交运	over	2581
+接棒	over	2581
 接替	over	2581
 介怀	over	2581
 咀嚼	over	2581
@@ -145906,6 +145841,7 @@ B站	overlaid	819
 对火	own	2521
 反间	own	2521
 拊髀	own	2521
+个人	own	2521
 孤征	own	2521
 孩奴	own	2521
 己见	own	2521
@@ -146490,6 +146426,7 @@ BP机	pager	479
 对	pair	1188
 互惠生	pair	1179
 一对儿	pair	1179
+比翼双飞	pair	1009
 千碱基对	pair	1009
 才子佳人	pair	1008
 佳人才子	pair	1008
@@ -146504,6 +146441,7 @@ BP机	pager	479
 互文	paired-phrases	1519
 对幺	pair-of-aces	1519
 对子	pair-of-antithetical-phrases	1519
+佳人才子	pair-of-ideal-lovers	1008
 对刺	pairs	1519
 搭配	pairs	1517
 付	pairs	1197
@@ -147066,6 +147004,7 @@ BP机	pager	479
 并行	parallel	1519
 排偶	parallel	1519
 平行	parallel	1519
+比拟	parallel	1518
 并行口	parallel	1179
 平行线	parallel	1179
 并行不悖	parallel	1009
@@ -147340,6 +147279,7 @@ P挡	park	1736
 夏威夷火山国家公园	park	1166
 八婆	parker	1518
 柏悦	park-hyatt	1519
+机位	parking	1517
 存车处	parking	1179
 停车场	parking	1179
 停车格	parking	1179
@@ -147447,6 +147387,7 @@ P挡	park	1736
 戏眼	part	2550
 下焦	part	2550
 下身	part	2550
+下体	part	2550
 小头	part	2550
 依恋	part	2550
 依依	part	2550
@@ -148454,6 +148395,7 @@ P挡	park	1736
 另起炉灶	path	1384
 塍	path	1326
 嶝	path	1326
+径	path	1326
 拦	path	1326
 榃	path	1326
 埇	path	1326
@@ -148768,7 +148710,6 @@ P挡	park	1736
 御用	pay	2418
 参见	pay	2417
 暖房	pay	2416
-密切	pay	2415
 不去理	pay	1960
 不在意	pay	1960
 敷汤药	pay	1960
@@ -148784,7 +148725,6 @@ P挡	park	1736
 放在眼里	pay	1780
 分期付款	pay	1780
 挂在嘴上	pay	1780
-密切注意	pay	1780
 慎终追远	pay	1780
 停薪留职	pay	1780
 同工同酬	pay	1780
@@ -150224,7 +150164,6 @@ P挡	park	1736
 拜	performing	1196
 因公殉职	performing	1009
 优伶	performing-artist	1519
-原唱	performs	1518
 棻	perfume	1198
 口齿生香	perfume	1009
 塞责	perfunctorily	1519
@@ -150663,6 +150602,7 @@ P挡	park	1736
 持久	persistence	1513
 一口吃不成胖子	persistence	688
 天下无难事，只怕有心人	persistence	408
+天下无难事，只怕有心人	persistence-will-overcome	408
 壁癌	persistent	1519
 坚毅	persistent	1519
 执着	persistent	1519
@@ -150672,13 +150612,11 @@ P挡	park	1736
 圣	persistent	1199
 持久性毒剂	persistent	829
 持续性植物状态	persistent	689
-持续性植物人状态	persistent	619
 持久性毒剂	persistent-agent	829
 一味	persistently	1519
 一个劲	persistently	1178
 一味	persistently-stubbornly-blindly	1519
 持续性植物状态	persistent-vegetative-state	689
-持续性植物人状态	persistent-vegetative-state	619
 坚苦卓绝	persisting	1009
 多行不义必自毙	persisting	689
 人	person	8343
@@ -150876,7 +150814,6 @@ P挡	park	1736
 古人	person	2439
 吉士	person	2439
 梁木	person	2439
-囊揣	person	2439
 囊膪	person	2439
 排骨	person	2439
 人精	person	2438
@@ -151043,7 +150980,6 @@ P挡	park	1736
 冷血动物	person	1801
 树大招风	person	1801
 同性恋者	person	1801
-投井下石	person	1801
 土耳其人	person	1801
 问罪之师	person	1801
 先知先觉	person	1801
@@ -151103,6 +151039,8 @@ i人	person	1742
 五鬼闹判	personage	1009
 操守	personal	2506
 大秘	personal	2506
+个护	personal	2506
+个人	personal	2506
 个税	personal	2506
 个资	personal	2506
 换帖	personal	2506
@@ -151125,7 +151063,6 @@ i人	person	1742
 嫡系	personal	2505
 动产	personal	2505
 服饰	personal	2505
-个人	personal	2505
 人身	personal	2505
 手书	personal	2505
 大名	personal	2504
@@ -151170,6 +151107,7 @@ i人	person	1742
 个人数字助理	personal	1506
 如人饮水，冷暖自知	personal	1235
 人身攻击	personal-attack	1009
+个护	personal-care	1519
 人格魅力	personal-charm	1009
 个人电脑	personal-computer-pc	1009
 个人数字助理	personal-digital-assistant	759
@@ -151367,6 +151305,7 @@ i人	person	1742
 性变态	pervert	1178
 有色无胆	perverted	1008
 啰唆	pesky	1518
+比索	peso	1519
 披索	peso	1519
 子宫托	pessary	1179
 悲观	pessimistic	1519
@@ -152373,7 +152312,6 @@ P图	picture	1709
 杀猪宰羊	pigs	1009
 人怕出名猪怕壮	pigs	689
 太阳从西边出来	pigs	687
-囊揣	pig's	1519
 囊膪	pig's	1519
 太阳从西边出来	pigs-can-fly	687
 彐	pig-snout	1199
@@ -152795,6 +152733,7 @@ U型枕	pillow	479
 仿冒品	pirated-goods	1176
 大补帖	pirated-software	1176
 倭寇	pirates	1519
+比萨	pisa	1519
 十二宫	pisces	1179
 南鱼座	piscis	1179
 南鱼座	piscis-austrinus	1179
@@ -152828,6 +152767,7 @@ U型枕	pillow	479
 坑	pit	1199
 坜	pit	1199
 凼	pit	1198
+比特犬	pit	1179
 采石场	pit	1179
 五步蛇	pit	1179
 别苗头	pit	1178
@@ -152836,6 +152776,7 @@ U型枕	pillow	479
 圆面饼	pita	1178
 口袋饼	pita-bread	1179
 圆面饼	pita-bread	1178
+比特犬	pit-bull	1179
 亚当斯敦	pitcairn	1009
 安营	pitch	1519
 低调	pitch	1519
@@ -152978,6 +152919,7 @@ U型枕	pillow	479
 吊装	place	2514
 对赌	place	2514
 夺魁	place	2514
+乶下	place	2514
 垓下	place	2514
 个位	place	2514
 各处	place	2514
@@ -153044,7 +152986,6 @@ U型枕	pillow	479
 栈恋	place	2514
 柘砚	place	2514
 槜李	place	2514
-乶下	place	2514
 安放	place	2513
 安分	place	2513
 本处	place	2513
@@ -153288,7 +153229,6 @@ U型枕	pillow	479
 平和	placid	1516
 抓周	placing	1519
 指战员	pla-commanders-and-fighters	1179
-代写	plagiarism	1517
 借花献佛	plagiarism	1008
 文抄公	plagiarist	1179
 抄袭	plagiarize	1519
@@ -153437,7 +153377,6 @@ U型枕	pillow	479
 心里有谱	plan	1819
 依计行事	plan	1819
 权宜之策	plan	1818
-如法泡制	plan	1818
 拟	plan	1759
 划	plan	1756
 图	plan	1753
@@ -153637,7 +153576,6 @@ U型枕	pillow	479
 山柰	plants	1519
 榛榛	plants	1519
 株距	plants	1518
-下体	plants	1517
 屮	plants	1199
 卉	plants	1199
 棵	plants	1199
@@ -153891,6 +153829,7 @@ OK绷	plaster	479
 吃鸡	play	2444
 串烧	play	2444
 折腾	play	2444
+比杆赛	play	1987
 唱白脸	play	1987
 唱黑脸	play	1987
 唱红脸	play	1987
@@ -155137,6 +155076,7 @@ C罗	player	1633
 多礼	polite	1519
 敬词	polite	1519
 敬辞	polite	1519
+客官	polite	1519
 客气	polite	1519
 客套	polite	1519
 套话	polite	1519
@@ -155866,7 +155806,6 @@ A片	pornography	819
 威海卫	port	1815
 布什尔	port	1814
 停靠站	port	1813
-不冻港口	port	1635
 不来梅港	port	1635
 布林迪西	port	1635
 敦刻尔克	port	1635
@@ -155988,6 +155927,7 @@ C罗	portuguese	819
 官职	position	2313
 后手	position	2313
 怀禄	position	2313
+机位	position	2313
 加仓	position	2313
 晋升	position	2313
 居官	position	2313
@@ -157441,6 +157381,7 @@ U凸内裤	pouch	309
 女真	predecessor	1519
 前人	predecessor	1519
 前任	predecessor	1519
+接棒	predecessor	1518
 前身	predecessor	1518
 上任	predecessor	1517
 后车之鉴	predecessor	1008
@@ -157453,6 +157394,7 @@ U凸内裤	pouch	309
 定分	predestination	1519
 宿命	predestination	1519
 夫妻相	predestination	1178
+定命	predestined	1519
 劫数	predestined	1519
 命定	predestined	1519
 情缘	predestined	1519
@@ -157466,6 +157408,7 @@ U凸内裤	pouch	309
 前缘未了	predestined	1009
 不是一家人不进一家门	predestined	478
 劫数	predestined-fate	1519
+定命	predestined-fate-destiny	1519
 寿数	predestined-length-of-life	1519
 情缘	predestined-love	1519
 宿分	predestined-relationship	1519
@@ -158138,7 +158081,6 @@ B超	prenatal-ultrasound-scan	818
 前瞻	prescient	1518
 下药	prescribe	1519
 对症	prescribe	1518
-对症发药	prescribe	1009
 对症下药	prescribe	1009
 剂量	prescribed	1518
 仙方	prescribed	1517
@@ -159465,7 +159407,6 @@ B超	prenatal-ultrasound-scan	818
 古惑仔	problem	1973
 抱薪救火	problem	1795
 朝核问题	problem	1795
-对症发药	problem	1795
 对症下药	problem	1795
 攻坚克难	problem	1795
 救焚益薪	problem	1795
@@ -160618,10 +160559,12 @@ UP主	pronounced	478
 倡导者	proponent	1179
 提倡者	proponent	1179
 比例	proportion	1519
+比率	proportion	1519
 占比	proportion	1519
 可决率	proportion	1179
 少部分	proportion	1179
 投票率	proportion	1179
+忘乎所以	proportion	1009
 反比	proportional	1519
 正比	proportional	1518
 成反比	proportional	1178
@@ -161159,6 +161102,7 @@ UP主	pronounced	478
 大和	province	1519
 大邱	province	1519
 奉天	province	1519
+乶下	province	1519
 垓下	province	1519
 唝吥	province	1519
 孤山	province	1519
@@ -161191,7 +161135,6 @@ UP主	pronounced	478
 元山	province	1519
 忠清	province	1519
 槜李	province	1519
-乶下	province	1519
 光州	province	1518
 康巴	province	1518
 新塘	province	1518
@@ -161515,6 +161458,7 @@ UP主	pronounced	478
 引火线	proximate	1178
 导火线	proximate-cause	1178
 引火线	proximate-cause	1178
+密接	proximity	1519
 大树底下好乘凉	proximity	688
 代理	proxy	1518
 代销	proxy	1517
@@ -162660,6 +162604,7 @@ PA部	public	1405
 摒挡	put	2393
 叉腰	put	2393
 掺和	put	2393
+抽穗	put	2393
 出局	put	2393
 储值	put	2393
 打整	put	2393
@@ -162903,6 +162848,7 @@ PA部	public	1405
 劳	put	1689
 咒	put	1688
 推	put	1687
+平	put	1686
 一切向钱看	put	1483
 有奶便是娘	put	1481
 今日事今日毕	put	1393
@@ -163645,6 +163591,7 @@ QR扣	qr-code	479
 弹压	quell	1518
 平息	quell	1518
 息怒	quell	1518
+平	quell	1192
 望梅止渴	quench	1009
 昆汀	quentin	1519
 昆廷	quentin	1519
@@ -163800,6 +163747,7 @@ QR扣	qr-code	479
 敏	quick-witted	1198
 机	quick-witted	1195
 机灵鬼	quick-witted	1179
+有心眼	quick-witted	1179
 思路敏捷	quick-witted	1009
 思维敏捷	quick-witted	1009
 文不加点	quick-witted	1008
@@ -164027,6 +163975,7 @@ QR扣	qr-code	479
 恐水症	rabies	1179
 悲惨世界	rables	1009
 季军	race	2095
+接棒	race	2095
 人种	race	2095
 完赛	race	2095
 内卷	race	2094
@@ -164976,6 +164925,7 @@ U型池	ramp	479
 塔尾树鹊	ratchet-tailed	1009
 塔尾树鹊	ratchet-tailed-treepie	1009
 包饭	rate	2502
+比率	rate	2502
 工价	rate	2502
 汇价	rate	2502
 汇率	rate	2502
@@ -165076,6 +165026,7 @@ U型池	ramp	479
 信用评级	rating	1862
 收视率	ratings	1735
 标准普尔	ratings	1555
+比率	ratio	1519
 比值	ratio	1519
 正比	ratio	1519
 比价	ratio	1518
@@ -165123,6 +165074,7 @@ U型池	ramp	479
 合理化	rationalize	1179
 有理数	rational-number	1179
 干粮	rations	1519
+比率	ratio-rate-proportion	1519
 三七开	ratio-seventy-to-thirty	1179
 宝生佛	ratnasambhava	1179
 宝生佛	ratnasambhava-buddha	1179
@@ -165289,6 +165241,7 @@ U型池	ramp	479
 不到	reaching	1518
 囊中取物	reaching	1009
 一步登天	reaching	1009
+比登天还难	reaching	829
 不到长城非好汉	reaching	689
 影响面	reach-of-influence	1179
 前移式叉车	reach-truck	829
@@ -166096,7 +166049,6 @@ U型池	ramp	479
 受体拮抗剂	receptor	829
 受体拮抗剂	receptor-antagonist	829
 凹槽	recess	1519
-休惜	recess	1519
 旮旯	recess	1517
 山旮旯	recess	1179
 凹入	recessed	1519
@@ -166115,7 +166067,6 @@ U型池	ramp	479
 几进宫	recidivist	1179
 方剂	recipe	1518
 做法	recipe	1516
-如法泡制	recipe	1009
 如法炮制	recipe	1009
 刘涓子鬼遗方	recipes	759
 得主	recipient	1519
@@ -166208,7 +166159,7 @@ U型池	ramp	479
 家里蹲	recluse	1179
 小隐隐于林，大隐隐于市	recluse	409
 小隐隐于野，大隐隐于市	recluse	409
-孤僻	reclusive	1518
+孤僻	reclusive	1519
 佚	reclusive	1198
 哀荣	recognition	1519
 承认	recognition	1516
@@ -166584,6 +166535,7 @@ U型池	ramp	479
 小熊猫	red	1975
 巴德尔	red	1974
 大观园	red	1974
+小红书	red	1974
 喀秋莎	red	1973
 卡秋莎	red	1973
 勃然大怒	red	1795
@@ -167664,9 +167616,7 @@ U型池	ramp	479
 搭界	relate	1518
 有关	relate	1518
 系	relate	1198
-密切相连	relate	1009
 嫡亲	related	2520
-密接	related	2520
 有缘	related	2520
 园区	related	2520
 做亲	related	2520
@@ -167680,9 +167630,7 @@ U型池	ramp	479
 合义复词	related	1880
 互为因果	related	1880
 互相联系	related	1880
-密切相关	related	1880
 息息相关	related	1880
-密切相连	related	1879
 休戚相关	related	1879
 支与流裔	related	1878
 左邻右舍	related	1878
@@ -167865,6 +167813,7 @@ U型池	ramp	479
 宽松	relaxed-free-of-worry	1517
 传告	relay	1519
 传述	relay	1519
+接棒	relay	1519
 接力	relay	1519
 中继	relay	1519
 传达	relay	1517
@@ -168014,6 +167963,8 @@ U型池	ramp	479
 外教	religion	1515
 教	religion	1198
 多神教	religion	1179
+天理教	religion	1179
+巫毒教	religion	1179
 一神教	religion	1179
 宗教徒	religion	1179
 正教真诠	religion	1009
@@ -168673,7 +168624,6 @@ U型池	ramp	479
 以直报怨，以德报德	repay	549
 催讨	repayment	1519
 月供	repayment	1519
-撤销	repeal	1519
 废止	repeal	1519
 废除	repeal	1517
 复读	repeat	1519
@@ -169276,6 +169226,7 @@ AB制	replacing	478
 以德报怨	requite	1008
 改期	reschedule	1519
 展期	reschedule	1518
+撤销	rescind	1519
 取消	rescind	1519
 御批	rescript	1519
 搭救	rescue	1519
@@ -169379,6 +169330,7 @@ AB制	replacing	478
 怨	resentment-hatred-grudge	1198
 冤气	resentment-over-unfair-treatment	1519
 改签	reservation	1519
+机位	reservation	1518
 保留区	reservation	1179
 保留价	reservation	1178
 中央分车带	reservation	828
@@ -170092,7 +170044,6 @@ OK镜	reshape	479
 恓惶	restless	1519
 好动	restless	1518
 不安	restless	1515
-忪	restless	1199
 伀	restless	1199
 彸	restless	1199
 不安分	restless	1179
@@ -170816,9 +170767,9 @@ V沟	reveals	819
 扬幡招魂	revive	1008
 保甲	revived	1519
 枯木逢春	revived	1007
+撤销	revoke	1519
 取消	revoke	1519
 撤回	revoke	1518
-撤销	revoke	1518
 吊销	revoke	1518
 收回	revoke	1515
 平叛	revolt	1519
@@ -170882,6 +170833,7 @@ V沟	reveals	819
 嫌恶	revulsion	1516
 令人发指	revulsion	1009
 报酬	reward	1519
+宠粉	reward	1519
 打赏	reward	1519
 好报	reward	1519
 厚报	reward	1519
@@ -171422,7 +171374,6 @@ V沟	reveals	819
 不是味儿	right	1901
 不恤人言	right	1901
 动辄得咎	right	1901
-对症发药	right	1901
 对症下药	right	1901
 反正一样	right	1901
 各行其是	right	1901
@@ -172888,7 +172839,6 @@ K房	room	1775
 字根	root	1971
 根本	root	1970
 根由	root	1970
-下体	root	1970
 原因	root	1970
 根底	root	1968
 板蓝根	root	1512
@@ -173789,7 +173739,6 @@ K房	room	1775
 亘	running	1552
 团团转	running-around-in-circles	1178
 对开	running-in-opposite-direction	1519
-径流	runoff	1519
 打跑	run-off	1517
 侧锋	runs	1519
 末伏	runs	1519
@@ -174293,7 +174242,6 @@ T型台	runway-catwalk	479
 山颓木坏	sage	1008
 前贤	sages	1519
 传道	sages	1518
-囊揣	sagging	1518
 囊膪	sagging	1518
 下垂	sagging	1516
 吊裆裤	sagging	1178
@@ -174585,7 +174533,6 @@ T型台	runway-catwalk	479
 假音	same	2523
 兼顾	same	2523
 交加	same	2523
-冏寺	same	2523
 拉平	same	2523
 利事	same	2523
 两样	same	2523
@@ -174694,7 +174641,6 @@ T型台	runway-catwalk	479
 一时	same	2518
 招数	same	2518
 便是	same	2517
-成份	same	2517
 不贰过	same	2063
 大同乡	same	2063
 对口径	same	2063
@@ -174732,7 +174678,6 @@ T型台	runway-catwalk	479
 不大离	same	2060
 差不多	same	2060
 出风头	same	2060
-大文蛤	same	2060
 不共戴天	same	1883
 不约而同	same	1883
 大不相同	same	1883
@@ -174774,7 +174719,6 @@ T型台	runway-catwalk	479
 大麻里乡	same	1882
 反袁运动	same	1882
 分身乏术	same	1882
-如法泡制	same	1882
 投影几何	same	1882
 未置可否	same	1882
 在此之际	same	1882
@@ -174783,6 +174727,7 @@ T型台	runway-catwalk	479
 和	same	1823
 岱	same	1822
 同	same	1822
+平	same	1821
 栀	same	1821
 兼	same	1820
 枧	same	1820
@@ -174839,7 +174784,6 @@ T型台	runway-catwalk	479
 推衍	same-as	1516
 木醇	same-as	1515
 招数	same-as	1514
-成份	same-as	1513
 巓	same-as	1199
 岱	same-as	1198
 栀	same-as	1197
@@ -174859,7 +174803,6 @@ T型台	runway-catwalk	479
 同甘苦	same-as	1177
 不大离	same-as	1176
 出风头	same-as	1176
-大文蛤	same-as	1176
 概而言之	same-as	1009
 宁缺勿滥	same-as	1009
 反袁运动	same-as	1008
@@ -176190,6 +176133,7 @@ B超	scan	818
 校徽	school	2564
 校刊	school	2564
 校历	school	2564
+校门	school	2564
 校名	school	2564
 校闹	school	2564
 校庆	school	2564
@@ -176237,6 +176181,7 @@ B超	scan	818
 本因坊	school	2104
 成绩单	school	2104
 成实宗	school	2104
+出校门	school	2104
 复读生	school	2104
 格鲁派	school	2104
 工学院	school	2104
@@ -176331,6 +176276,7 @@ JK制服	school	1224
 学风	school-discipline	1517
 学区	school-district	1519
 干校	school-for-cadres	1519
+校门	school-gate	1519
 女生	schoolgirl	1519
 太妹	schoolgirl	1517
 太妹	schoolgirl-tough	1517
@@ -176541,6 +176487,7 @@ JK制服	school	1224
 报分	score	2234
 报怨	score	2234
 比分	score	2234
+比数	score	2234
 得分	score	2234
 乐谱	score	2234
 取胜	score	2234
@@ -177278,6 +177225,7 @@ B站	scrolled	819
 垫圈	seat	1518
 府城	seat	1518
 划位	seat	1518
+机位	seat	1518
 位子	seat	1518
 坐垫	seat	1518
 归位	seat	1517
@@ -178798,6 +178746,7 @@ U盾	security	1820
 危机感	sense	1639
 幽默感	sense	1639
 有道理	sense	1639
+有心眼	sense	1639
 有意义	sense	1639
 感觉到	sense	1638
 引申义	sense	1638
@@ -178813,6 +178762,7 @@ U盾	security	1820
 怙恶不悛	sense	1459
 令人发指	sense	1459
 恬不知耻	sense	1459
+忘乎所以	sense	1459
 不知轻重	sense	1456
 不知所谓	sense	1456
 意	sense	1399
@@ -179175,12 +179125,12 @@ U盾	security	1820
 偶然性	serendipity	1177
 安详	serene	1519
 安祥	serene	1519
+平静	serene	1519
 恬美	serene	1519
 幽深	serene	1519
 幽雅	serene	1519
 春风	serene	1518
 安舒	serene	1517
-平静	serene	1517
 娴雅	serene	1516
 幽	serene	1196
 心广体胖	serene	1009
@@ -179895,6 +179845,7 @@ U盾	security	1820
 安家	settle	1519
 安居	settle	1519
 成家	settle	1519
+定稿	settle	1519
 定居	settle	1519
 定亲	settle	1519
 付账	settle	1519
@@ -181279,7 +181230,6 @@ U盾	security	1820
 剡	sharp	1199
 屖	sharp	1198
 快	sharp	1191
-有心眼	sharp	1178
 小聪明	sharp	1177
 宝刀不老	sharp	1009
 成败利钝	sharp	1009
@@ -182346,6 +182296,7 @@ P民	shitizen	819
 一日为师，终身为父	should	1304
 到什么山上，唱什么歌	should	1214
 人往高处走，水往低处流	should	1123
+比肩	shoulder	1519
 搭膊	shoulder	1519
 担负	shoulder	1519
 担荷	shoulder	1519
@@ -182580,6 +182531,7 @@ P民	shitizen	819
 敬而远之	show	1890
 敬贤礼士	show	1890
 愧悔无地	show	1890
+披肝沥胆	show	1890
 旗帜鲜明	show	1890
 敲山震虎	show	1890
 人五人六	show	1890
@@ -182673,6 +182625,7 @@ P民	shitizen	819
 敏捷	shrewd	1517
 乖觉	shrewd	1516
 乖	shrewd	1197
+有心眼	shrewd	1179
 心计	shrewdness	1518
 机谋	shrewdness	1517
 凶悍	shrewish	1517
@@ -183470,6 +183423,7 @@ P民	shitizen	819
 佛洛伊德	sigmund	1007
 报班	sign	2526
 报名	sign	2526
+比耶	sign	2526
 标记	sign	2526
 标牌	sign	2526
 标志	sign	2526
@@ -183782,6 +183736,7 @@ P民	shitizen	819
 同样	similar	2399
 形似	similar	2399
 刈包	similar	2399
+比烂	similar	2398
 仿佛	similar	2398
 仿如	similar	2398
 机场	similar	2398
@@ -184011,7 +183966,7 @@ P民	shitizen	819
 悾	sincere	1198
 愫	sincere	1198
 好言好语	sincere	1009
-剖肝沥胆	sincere	1009
+披肝沥胆	sincere	1009
 情真意切	sincere	1009
 朴实	sincere-and-honest	1515
 情真意切	sincere-heartfelt	1009
@@ -184145,6 +184100,7 @@ P民	shitizen	819
 布兰妮·斯皮尔斯	singer	619
 埃尔维斯·普雷斯利	singer	549
 曲高和寡	singers	1009
+唱作人	singer-songwriter	1179
 方大同	singer-songwriter	1179
 孙燕姿	singer-songwriter	1179
 唱法	singing	1519
@@ -184310,6 +184266,7 @@ P民	shitizen	819
 单手	single-handed	1518
 单枪匹马	single-handed	1008
 单人匹马	single-handedly	1009
+单枪匹马	single-handed-unaccompanied	1008
 单院制	single-house	1178
 单院制	single-house-system	1178
 单项	single-item	1519
@@ -184354,6 +184311,7 @@ P民	shitizen	819
 单稳	single-side-stable	1518
 单点登录	single-sign-on	1009
 单一登入	single-sign-on	1009
+单枪匹马	single-spear-and-horse	1009
 单速车	single-speed	1179
 单层塔	single-storied	1179
 单层塔	single-storied-pagoda	1179
@@ -185226,6 +185184,7 @@ word姐	sister	129
 一手遮天	sky	1009
 一柱擎天	sky	1009
 坐井观天	sky	1009
+比登天还难	sky	829
 天高皇帝远	sky	829
 天上掉馅饼	sky	829
 天上下刀子	sky	829
@@ -185460,6 +185419,7 @@ word姐	sister	129
 安息	sleep	1519
 安枕	sleep	1519
 抱睡	sleep	1519
+催眠	sleep	1519
 分房	sleep	1519
 昏睡	sleep	1519
 就寝	sleep	1519
@@ -185869,7 +185829,6 @@ word姐	sister	129
 卡顿	slow-unresponsive	1519
 愚钝	slow-witted	1518
 伹	slow-witted	1198
-小毛虫	slug	1179
 懒蛋	sluggard	1518
 冷涩	sluggish	1519
 拖沓	sluggish	1519
@@ -186181,6 +186140,9 @@ word姐	sister	129
 小货车	small-truck-light-truck	1179
 小白兔	small-white-rabbit	1179
 寮	small-window	1197
+聪明	smart	7520
+机灵	smart	7120
+聪慧	smart	7070
 妙招	smart	1519
 俏皮	smart	1519
 成精	smart	1518
@@ -186357,6 +186319,7 @@ word姐	sister	129
 圆润	smooth	1517
 捋	smooth	1199
 抿	smooth	1199
+平	smooth	1199
 掭	smooth	1199
 畅	smooth	1197
 坦	smooth	1196
@@ -186695,7 +186658,6 @@ C罗	soccer	819
 制服	social	2430
 交流	social	2429
 攀附	social	2429
-成份	social	2428
 交际花	social	1973
 交际舞	social	1973
 交谊舞	social	1973
@@ -186848,7 +186810,6 @@ C罗	soccer	819
 所多玛与蛾摩拉	sodom-and-gomorrah	689
 好容易	so-easy	1177
 抓大放小	soes	1009
-囊揣	soft	1519
 囊膪	soft	1519
 嫩绿	soft	1519
 柔滑	soft	1519
@@ -187264,7 +187225,6 @@ C罗	soccer	819
 有解	solvable	1519
 侦破	solve	1518
 攻克	solve	1516
-对症发药	solve	1009
 对症下药	solve	1009
 排难解纷	solve	1009
 按下葫芦浮起瓢	solve	689
@@ -187391,6 +187351,7 @@ C罗	soccer	819
 后翻筋斗	somersault	1009
 某物	something	2424
 什么	something-anything	1518
+天要下雨，娘要嫁人	some-things-are-inevitable	548
 人所共知	something-that-everybody-knows	1009
 某时	sometime	1519
 日后	sometime	1519
@@ -188185,6 +188146,7 @@ C罗	soccer	819
 咕噜肉	sour	1179
 古老肉	sour	1179
 嗳气酸腐	sour	1009
+比翼双飞	sour	1007
 吃不到葡萄说葡萄酸	sour	549
 嗳酸	sour-belching	1519
 本事	source	2480
@@ -188363,7 +188325,6 @@ C罗	soccer	819
 忠清北道	south	1884
 忠清南道	south	1884
 南	south	1824
-佤	south	1824
 比勒陀利亚	south	1614
 大邱广域市	south	1614
 大田广域市	south	1614
@@ -188408,7 +188369,6 @@ C罗	soccer	819
 木栅	southeast	1519
 南洋	southeast	1519
 钦奈	southeast	1519
-佤	southeast	1199
 卑南乡	southeast	1179
 成功镇	southeast	1179
 大麻里	southeast	1179
@@ -188660,10 +188620,8 @@ C罗	soccer	819
 不劳而获	sowing	1009
 小春	sown	1517
 坐享其成	sown	1009
-囊揣	sow's	1518
 囊膪	sow's	1518
 朽木不可雕	sow's	828
-囊揣	sow's-sagging-teats	1518
 囊膪	sow's-sagging-teats	1518
 拌面	soy	1519
 晒油	soy	1519
@@ -188955,7 +188913,6 @@ C罗	soccer	819
 出声	speak	1518
 多嘴	speak	1518
 哽噎	speak	1518
-恭维	speak	1518
 囔囔	speak	1518
 嘴软	speak	1518
 出口	speak	1517
@@ -189064,6 +189021,7 @@ C罗	soccer	819
 以子之矛，攻子之盾	spear	549
 刀枪剑戟	spears	1009
 布兰妮·斯皮尔斯	spears	619
+宠粉	special	2528
 宠幸	special	2528
 恩宠	special	2528
 个案	special	2528
@@ -189245,7 +189203,9 @@ C罗	soccer	819
 丹尼索瓦人	species	1093
 克氏黑鳍鳈	species	1093
 椆苕	species-of-tree	1519
+比热	specific	2374
 比容	specific	2374
+比湿	specific	2374
 币别	specific	2374
 定档	specific	2374
 分则	specific	2374
@@ -189281,6 +189241,8 @@ C罗	soccer	819
 包工	specifications	1519
 币别	specific-currency	1519
 个例	specific-example	1519
+比热	specific-heat	1519
+比湿	specific-humidity	1519
 子目	specific-item	1518
 分则	specific-provisions	1519
 专责	specific-responsibility	1519
@@ -189508,6 +189470,7 @@ C罗	soccer	819
 乏燃料棒	spent	1009
 强弩之末	spent	1008
 人困马乏	spent	1006
+强弩之末	spent-force	1008
 乏燃料	spent-fuel	1179
 乏燃料棒	spent-fuel-rods	1009
 捐精	sperm	1519
@@ -189626,7 +189589,6 @@ C罗	soccer	819
 厉鬼	spirit	1519
 情态	spirit	1519
 三魂	spirit	1519
-杀气	spirit	1519
 山精	spirit	1519
 尚武	spirit	1519
 亡灵	spirit	1519
@@ -190131,6 +190093,7 @@ AB制	split	479
 散播	spread	1519
 摊开	spread	1519
 推及	spread	1519
+席地	spread	1519
 宣扬	spread	1519
 延烧	spread	1519
 延伸	spread	1519
@@ -190230,6 +190193,7 @@ AB制	split	479
 六经	spring	2204
 年味	spring	2204
 年下	spring	2204
+入春	spring	2204
 三春	spring	2204
 四季	spring	2204
 四起	spring	2204
@@ -190436,7 +190400,6 @@ Q劲	springy-mouthfeel	819
 仪队	squad	1518
 伍	squad	1199
 敢死队	squad	1179
-拉拉队	squad	1179
 啦啦队	squad	1179
 别动队	squad	1177
 伍	squad-of-five-soldiers	1199
@@ -190505,6 +190468,7 @@ Q劲	springy-mouthfeel	819
 圭	square	1312
 棱	square	1312
 枋	square	1311
+平	square	1303
 平方反比律	square	1102
 平方平均数	square	1102
 天安门广场	square	1102
@@ -190531,6 +190495,7 @@ Q劲	springy-mouthfeel	819
 正视	squarely	1519
 拦腰	squarely-in-the-middle	1519
 平米	square-meter	1519
+平	square-meter	1190
 平方米	square-meter	1179
 原点	square-one	1518
 方顶	square-roof	1519
@@ -190801,6 +190766,7 @@ PA部	staff	1289
 二级头	stage	1638
 口欲期	stage	1638
 上面级	stage	1638
+小组赛	stage	1638
 性蕾期	stage	1638
 性器期	stage	1638
 一级头	stage	1638
@@ -191865,7 +191831,6 @@ C盘	startup	819
 国内安全保卫局	state	1492
 抗震救灾指挥部	state	1492
 中国中央电视台	state	1492
-持续性植物人状态	state	1402
 国家广播电视总局	state	1402
 国务院新闻办公室	state	1402
 中国船舶工业集团	state	1402
@@ -192115,7 +192080,6 @@ C盘	startup	819
 扶正	status	2417
 待遇	status	2416
 制服	status	2416
-成份	status	2414
 攀高枝	status	1959
 三不管	status	1959
 亚健康	status	1959
@@ -192349,7 +192313,6 @@ C盘	startup	819
 仔姜	stem	1519
 出乎	stem	1518
 出于	stem	1518
-下体	stem	1517
 枝条	stem	1517
 本	stem	1199
 柯	stem	1199
@@ -192482,7 +192445,6 @@ C盘	startup	819
 土阶茅茨	steps	1009
 土阶茅屋	steps	1009
 大步流星	steps	1008
-对症发药	steps	1008
 对症下药	steps	1008
 三脚两步	steps	1008
 横步	step-sideways	1518
@@ -192959,7 +192921,6 @@ C盘	startup	819
 梦寐以求	sth	1009
 勉力而为	sth	1009
 名从主人	sth	1009
-弄懂弄通	sth	1009
 努力以赴	sth	1009
 偶一为之	sth	1009
 刨根问底	sth	1009
@@ -193488,6 +193449,7 @@ OK绷	sticking	479
 抄底	stocks	1519
 桁杨	stocks	1519
 枷锁	stocks	1519
+台股	stocks	1519
 仙股	stocks	1519
 桁杨刀锯	stocks	1009
 售完即止	stocks	1009
@@ -193582,7 +193544,6 @@ OK绷	sticking	479
 嶅	stones	1199
 垒	stones	1197
 打水漂	stones	1179
-投井下石	stones	1009
 摸石头过河	stones	829
 崔嵬	stony	1519
 岜	stony	1199
@@ -194032,7 +193993,7 @@ OK绷	sticking	479
 侹	straight	1199
 挺	straight	1199
 正	straight	1199
-径	straight	1196
+径	straight	1198
 手里剑	straight	1179
 同花顺	straight	1179
 单刀直入	straight	1009
@@ -194320,6 +194281,7 @@ OK绷	sticking	479
 偏	stray	1194
 岔	stray	1193
 丧家之犬	stray	1009
+丧家之犬	stray-dog	1009
 划过	streak	1519
 斑纹	streak	1518
 条痕	streak	1518
@@ -194481,6 +194443,7 @@ OK绷	sticking	479
 强身	strengthen	1519
 壮大	strengthen	1519
 加固	strengthen	1518
+密切	strengthen	1518
 增强	strengthen	1518
 壮	strengthen	1199
 棐	strengthen	1198
@@ -194843,6 +194806,7 @@ OK绷	sticking	479
 横	stroke	1196
 划	stroke	1194
 提	stroke	1194
+比杆赛	stroke	1179
 横斜钩	stroke	1179
 捋虎须	stroke	1179
 一刀切	stroke	1179
@@ -194860,6 +194824,7 @@ OK绷	sticking	479
 八字还没一撇儿	stroke	689
 意存笔先，画尽意在	stroke	549
 横斜钩	stroke-in-chinese-characters	1179
+比杆赛	stroke-play	1179
 字画	strokes	1519
 冗笔	strokes	1518
 写意	strokes	1518
@@ -195165,7 +195130,6 @@ OK绷	sticking	479
 公畜	stud	1519
 冏牧	stud	1519
 冏卿	stud	1519
-冏寺	stud	1519
 梭哈	stud	1519
 公马	stud	1517
 摁扣儿	stud	1179
@@ -195342,7 +195306,6 @@ OK绷	sticking	479
 岩石学	study	1988
 半工半读	study	1810
 晨钟暮鼓	study	1810
-对症发药	study	1810
 对症下药	study	1810
 格物致知	study	1810
 古文运动	study	1810
@@ -195474,7 +195437,6 @@ K书	study	1750
 呆	stupid	1199
 戆	stupid	1199
 怚	stupid	1199
-懵	stupid	1199
 愚	stupid	1199
 蠢	stupid	1198
 嚚	stupid	1198
@@ -196048,7 +196010,6 @@ K书	study	1750
 代课	substitute	1519
 代入	substitute	1519
 代糖	substitute	1519
-代写	substitute	1519
 代行	substitute	1519
 枪替	substitute	1519
 替班	substitute	1519
@@ -196879,6 +196840,7 @@ K书	study	1750
 巨额	sum	1519
 巨富	sum	1519
 巨款	sum	1519
+款项	sum	1519
 款子	sum	1519
 拢共	sum	1519
 拢总	sum	1519
@@ -196887,7 +196849,6 @@ K书	study	1750
 合共	sum	1518
 加和	sum	1518
 巨资	sum	1518
-款项	sum	1518
 欠债	sum	1518
 数额	sum	1518
 五毛	sum	1518
@@ -197428,6 +197389,7 @@ K书	study	1750
 不逮捕特权	supervisory	829
 仰卧	supine	1519
 偃	supine	1199
+夜饭	supper	1519
 晚饭	supper	1517
 朝饔夕飧	supper	1009
 最后晚餐	supper	1009
@@ -197674,6 +197636,7 @@ K书	study	1750
 抹杀	suppress	1514
 戡	suppress	1198
 捺	suppress	1198
+平	suppress	1192
 扶正压邪	suppress	1009
 款冬	suppressant	1519
 抑制剂	suppressant	1179
@@ -198165,7 +198128,6 @@ K书	study	1750
 加	surname	1198
 井	surname	1198
 明	surname	1198
-欧	surname	1198
 杞	surname	1198
 商	surname	1198
 台	surname	1198
@@ -198175,6 +198137,7 @@ K书	study	1750
 巴	surname	1197
 梁	surname	1197
 宁	surname	1197
+欧	surname	1197
 夏	surname	1197
 新	surname	1197
 傿	surname	1197
@@ -198342,7 +198305,7 @@ K书	study	1750
 宁	surname-ning	1197
 殴	surname-ou	1199
 区	surname-ou	1199
-欧	surname-ou	1198
+欧	surname-ou	1197
 怕	surname-pa	1199
 尨	surname-pang	1199
 彭	surname-peng	1199
@@ -199061,6 +199024,7 @@ K书	study	1750
 楚楚可怜	sweet	1009
 嘴甜心苦	sweet	1009
 卿卿我我	sweet	1008
+比翼双飞	sweet	1007
 强扭的瓜不甜	sweet	759
 打一巴掌，给个甜枣	sweet	549
 娇媚	sweet-and-charming	1517
@@ -199826,6 +199790,7 @@ T字帐	t-account	479
 婉辞	tactful-expression	1519
 几谏	tactfully	1519
 婉拒	tactfully	1519
+时间差攻击	tactic	829
 技战术	tactical	1179
 战术导弹	tactical	1009
 战术核武器	tactical	829
@@ -200002,7 +199967,6 @@ T字帐	t-account	479
 树林	taipei	1519
 松山	taipei	1519
 台北	taipei	1519
-台股	taipei	1519
 五股	taipei	1519
 新店	taipei	1519
 新庄	taipei	1519
@@ -200187,6 +200151,7 @@ T字帐	t-account	479
 台谍	taiwan	1519
 台东	taiwan	1519
 台独	taiwan	1519
+台股	taiwan	1519
 台南	taiwan	1519
 台西	taiwan	1519
 台资	taiwan	1519
@@ -200228,6 +200193,7 @@ T字帐	t-account	479
 柏树	taiwan	1518
 堡子	taiwan	1518
 北竿	taiwan	1518
+比捕	taiwan	1518
 便秘	taiwan	1518
 布袋	taiwan	1518
 刺棱	taiwan	1518
@@ -200272,6 +200238,7 @@ T字帐	t-account	479
 宝山	taiwan	1517
 北斗	taiwan	1517
 比及	taiwan	1517
+比肩	taiwan	1517
 比年	taiwan	1517
 朝鲜	taiwan	1517
 成熟	taiwan	1517
@@ -200700,6 +200667,7 @@ T字帐	t-account	479
 几米	taiwanese	1519
 山胞	taiwanese	1519
 台菜	taiwanese	1519
+台股	taiwanese	1519
 台客	taiwanese	1519
 台商	taiwanese	1519
 台语	taiwanese	1519
@@ -200748,6 +200716,7 @@ A菜	taiwanese	819
 巴刹	taiwan-pr	1518
 柏树	taiwan-pr	1518
 堡子	taiwan-pr	1518
+比捕	taiwan-pr	1518
 便秘	taiwan-pr	1518
 刺棱	taiwan-pr	1518
 带累	taiwan-pr	1518
@@ -200781,6 +200750,7 @@ A菜	taiwanese	819
 中看	taiwan-pr	1518
 姊姊	taiwan-pr	1518
 比及	taiwan-pr	1517
+比肩	taiwan-pr	1517
 比年	taiwan-pr	1517
 朝鲜	taiwan-pr	1517
 成熟	taiwan-pr	1517
@@ -201085,6 +201055,7 @@ A菜	taiwanese	819
 加以	take	2537
 嫁人	take	2537
 接班	take	2537
+接棒	take	2537
 接单	take	2537
 接管	take	2537
 接过	take	2537
@@ -201444,7 +201415,6 @@ A菜	taiwanese	819
 不二法门	take	1896
 不厌其烦	take	1896
 吃干抹净	take	1896
-对症发药	take	1896
 对症下药	take	1896
 放在心上	take	1896
 刮目相看	take	1896
@@ -202451,6 +202421,7 @@ AB制	take	1376
 吃力不讨好	task	829
 工作管理员	task	829
 任务管理器	task	829
+比登天还难	task	827
 只要功夫深，铁杵磨成针	task	408
 工作列	taskbar	1179
 任务栏	taskbar	1179
@@ -202979,7 +202950,6 @@ PA部	tasked	479
 促狭	teasing-mischievous	1519
 奶头	teat	1518
 擦碗布	tea-towel	1178
-囊揣	teats	1518
 囊膪	teats	1518
 戊唑醇	tebuconazole	1179
 科技	tech	2335
@@ -203660,6 +203630,7 @@ PA部	tasked	479
 保龄球	ten-pin-bowling	1179
 地滚球	ten-pin-bowling	1179
 天理教	tenrikyo	1179
+天理教	tenrikyo-a-japanese-religion	1179
 十位	tens	1519
 数万	tens	1519
 成千成万	tens	1009
@@ -204035,6 +204006,8 @@ DNA鉴定	test	842
 久经考验	tested	1009
 卵精巢	testes	1179
 旬课	test-every-ten-day	1519
+卵蛋	testicle	1519
+卵蛋	testicle-balls	1519
 卵子	testicles	1519
 卵	testicles	1198
 指证	testify	1519
@@ -204219,6 +204192,7 @@ DNA鉴定	testing	528
 保不住	than	2124
 半数以上	than	1946
 不啻天渊	than	1946
+不敢恭维	than	1946
 不过尔尔	than	1946
 不过如此	than	1946
 出人意外	than	1946
@@ -204250,7 +204224,6 @@ DNA鉴定	testing	528
 有害无利	than	1946
 有害无益	than	1946
 有惊无险	than	1946
-不敢恭维	than	1945
 不止一次	than	1945
 大有文章	than	1945
 挂一漏万	than	1945
@@ -204266,6 +204239,7 @@ DNA鉴定	testing	528
 乎	than	1882
 似	than	1880
 胜	than	1878
+比登天还难	than	1676
 不以人废言	than	1676
 小别胜新婚	than	1676
 哀莫大于心死	than	1586
@@ -205228,7 +205202,6 @@ DNA鉴定	testing	528
 有没有	there	2137
 爱莫能助	there	1958
 别无他法	there	1958
-兵不厌诈	there	1958
 不平则鸣	there	1958
 不破不立	there	1958
 此起彼伏	there	1958
@@ -205803,6 +205776,7 @@ DNA鉴定	testing	528
 一波未平，一波又起	thing	1074
 事物	thing-object	1519
 明日黄花	thing-of-the-past	1007
+比烂	things	2444
 常情	things	2444
 崇洋	things	2444
 储物	things	2444
@@ -205970,6 +205944,7 @@ DNA鉴定	testing	528
 步子太大，容易扯着蛋	things	1083
 曾经沧海难为水，除却巫山不是云	things	723
 有意栽花花不发，无心插柳柳成阴	things	723
+分久必合，合久必分	things-are-constantly-changing	548
 此道	things-like-this	1518
 世事	things-of-the-world	1518
 暗想	think	2511
@@ -206276,7 +206251,6 @@ T字裤	thong	479
 彻	thorough	1199
 到	thorough	1195
 周	thorough	1190
-弄懂弄通	thorough	1009
 有条不紊	thorough	1009
 半间不界	thorough	1008
 康衢	thoroughfare	1518
@@ -207154,6 +207128,7 @@ T字裤	thong	479
 搭	throw	1191
 拿架子	throw	1179
 抛媚眼	throw	1179
+任意球	throw	1179
 掷骰子	throw	1179
 从中作梗	throw	1009
 大手大脚	throw	1009
@@ -207165,7 +207140,6 @@ T字裤	thong	479
 千金一掷	throw	1009
 三军用命	throw	1009
 投怀送抱	throw	1009
-投井下石	throw	1009
 一掷千金	throw	1009
 一哭二闹三上吊	throw	688
 撱	throw-away	1197
@@ -207501,6 +207475,7 @@ U盘	thumb	819
 九龙县	tibetan	1179
 久治县	tibetan	1179
 康定市	tibetan	1179
+喇嘛教	tibetan	1179
 木格措	tibetan	1179
 囊谦县	tibetan	1179
 壤塘县	tibetan	1179
@@ -207515,7 +207490,6 @@ U盘	thumb	819
 卓尼县	tibetan	1179
 宗喀巴	tibetan	1179
 棕草鹛	tibetan	1179
-喇嘛教	tibetan	1178
 喇嘛庙	tibetan	1178
 德令哈市	tibetan	1009
 格尔木市	tibetan	1009
@@ -207534,7 +207508,6 @@ U盘	thumb	819
 天祝藏族自治县	tibetan	689
 大柴旦行政委员会	tibetan	619
 棕草鹛	tibetan-babax	1179
-喇嘛教	tibetan-buddhism	1178
 噶隆	tibetan-government-official	1519
 噶伦	tibetan-government-official	1519
 噶布伦	tibetan-government-official	1179
@@ -207662,7 +207635,7 @@ U盘	thumb	819
 捆	tie	1198
 系	tie	1197
 和	tie	1196
-平	tie	1196
+平	tie	1195
 束线带	tie	1179
 延音线	tie	1179
 喜结连理	tie	1009
@@ -207698,7 +207671,6 @@ U盘	thumb	819
 攀亲	ties	1519
 断交	ties	1518
 割席	ties	1518
-密切	ties	1515
 拉交情	ties	1179
 恩断义绝	ties	1008
 割袍断义	ties	1008
@@ -208046,6 +208018,7 @@ U盘	thumb	819
 森林浴	time	2142
 时不时	time	2142
 时光机	time	2142
+时间差	time	2142
 时间点	time	2142
 时间囊	time	2142
 时间轴	time	2142
@@ -208273,6 +208246,7 @@ N久	time	1902
 时日无多	time-is-limited	1009
 一寸光阴一寸金	time-is-precious	689
 寸金难买寸光阴	time-is-precious	688
+一寸光阴一寸金，寸金难买寸光阴	time-is-precious	198
 十二时辰	timekeeping	1009
 时差	time-lag	1518
 定时摄影	time-lapse	1009
@@ -208464,10 +208438,13 @@ N久	time	1902
 怯意	timidity	1519
 时序	timing	1519
 正时	timing	1519
+时间差	timing	1179
 时效性	timing	1179
 定时钟	timing	1178
 来得早不如来得巧	timing	618
 定时钟	timing-clock	1178
+时间差	timing-gap	1178
+时间差	timing-gap-attack	1178
 帝力	timor	1519
 帝汶岛	timor	1179
 帝汶海	timor	1179
@@ -210137,6 +210114,7 @@ N久	time	1902
 想不开	to-be-depressed	1176
 嗔狂	to-be-deranged	1519
 执意	to-be-determined-to	1519
+望而却步	to-be-deterred	1008
 对准	to-be-directed-at	1516
 不争气	to-be-disappointing	1179
 心存不满	to-be-discontented	1009
@@ -210500,6 +210478,7 @@ N久	time	1902
 右袒	to-be-partial-to	1518
 左袒	to-be-partial-to	1518
 左右袒	to-be-partial-to	1178
+债多不愁	to-be-past-worrying	1008
 待定	to-be-pending	1518
 不名一钱	to-be-penniless	1009
 一文不名	to-be-penniless	1009
@@ -210658,7 +210637,6 @@ N久	time	1902
 在所难免	to-be-unavoidable	1009
 吃不准	to-be-uncertain	1178
 依然故我	to-be-unchanged	1008
-不敢恭维	to-be-underwhelmed	1009
 妄自菲薄	to-be-unduly-humble	1009
 对不住	to-be-unfair	1178
 偷吃	to-be-unfaithful	1517
@@ -212101,10 +212079,12 @@ N久	time	1902
 密语	to-communicate-in-private	1518
 交换	to-commute	1515
 压实	to-compact	1518
+比拟	to-compare	1519
 比喻	to-compare	1519
 对照	to-compare	1518
 比	to-compare	1199
 拟	to-compare	1195
+比为	to-compare-to	1518
 比作	to-compare-to	1518
 比做	to-compare-to	1518
 强逼	to-compel	1519
@@ -212160,6 +212140,7 @@ N久	time	1902
 丧尽	to-completely-lose	1519
 做完	to-complete-the-task	1518
 完成	to-complete-to-accomplish	1519
+恭维	to-compliment-to-praise	1519
 依顺	to-comply	1519
 从命	to-comply	1518
 服从	to-comply	1518
@@ -213862,7 +213843,6 @@ K书	to-cram-to-study	819
 挽	to-draw	1198
 拉	to-draw	1196
 划	to-draw	1195
-平	to-draw	1195
 打成平手	to-draw	1009
 不分胜负	to-draw	1006
 圈圈	to-draw-a-circle	1519
@@ -213870,6 +213850,7 @@ K书	to-cram-to-study	819
 抽气	to-draw-air-out	1519
 吸取教训	to-draw-a-lesson	1009
 划线	to-draw-a-line	1518
+比拟	to-draw-a-parallel	1518
 抽奖	to-draw-a-prize	1519
 摸牌	to-draw-a-tile	1519
 彰显	to-draw-attention-to	1518
@@ -214018,6 +213999,7 @@ K书	to-cram-to-study	819
 居住	to-dwell	1518
 栖	to-dwell	1197
 庉	to-dwell-together	1198
+染色	to-dye	1519
 上色	to-dye	1518
 染	to-dye	1199
 擩	to-dye	1198
@@ -214347,6 +214329,7 @@ K书	to-cram-to-study	819
 心怀	to-entertain	1517
 存有	to-entertain	1516
 傧	to-entertain	1198
+杞人忧天	to-entertain-groundless-fears	1008
 入伍	to-enter-the-army	1519
 出场	to-enter-the-scene	1517
 下海	to-enter-the-sea	1518
@@ -215318,6 +215301,7 @@ K书	to-cram-to-study	819
 弹	to-flip	1193
 撩骚	to-flirt	1519
 吊膀子	to-flirt	1179
+招蜂引蝶	to-flirt	1008
 掠过	to-flit-across	1519
 一闪而过	to-flit-by	1008
 悬浮	to-float	1519
@@ -215444,7 +215428,6 @@ K书	to-cram-to-study	819
 忘却	to-forget	1519
 忘	to-forget	1199
 失态	to-forget-oneself	1518
-忘乎所以	to-forget-oneself	1008
 忘词	to-forget-ones-lines	1519
 失态	to-forget-ones-manners	1519
 忘餐	to-forget-ones-meals	1519
@@ -215496,7 +215479,6 @@ K书	to-cram-to-study	819
 培养	to-foster	1517
 提挈	to-foster	1517
 慉	to-foster	1199
-密切	to-foster-close-ties	1515
 搞砸	to-foul-up	1518
 成军	to-found	1517
 建立	to-found	1517
@@ -215695,7 +215677,6 @@ K书	to-cram-to-study	819
 复合	to-get-back-together	1518
 好起来	to-get-better	1179
 喝断片	to-get-blackout-drunk	1179
-忘乎所以	to-get-carried-away	1009
 挂住	to-get-caught	1519
 挨近	to-get-close-to	1518
 一亲芳泽	to-get-close-to	1009
@@ -215821,6 +215802,7 @@ K书	to-cram-to-study	819
 挨肩擦背	together	1697
 把酒言欢	together	1697
 抱成一团	together	1697
+比翼双飞	together	1697
 朝夕相处	together	1697
 抵足而眠	together	1697
 官私合营	together	1697
@@ -217025,6 +217007,7 @@ K书	to-cram-to-study	819
 伤和气	to-hurt-sb's-feelings	1178
 抢生意	to-hustle	1178
 架走	to-hustle-sb-away	1519
+催眠	to-hypnotize	1518
 冰封	to-ice-over	1518
 指认	to-identify	1519
 分列	to-identify-subcategories	1518
@@ -218242,6 +218225,7 @@ U盾	token	819
 喜	to-like	1198
 悀	to-like	1198
 爱漂亮	to-like-looking-attractive	1179
+比为	to-liken-to	1519
 比作	to-liken-to	1519
 比做	to-liken-to	1519
 比喻	to-liken-to	1518
@@ -218284,6 +218268,7 @@ U盾	token	819
 栖身	to-live-in	1518
 埋名	to-live-incognito	1518
 单过	to-live-independently	1519
+一夕数惊	to-live-in-fear	1008
 和睦相处	to-live-in-harmony	1009
 乘坚策肥	to-live-in-luxury	1009
 往生	to-live-in-paradise	1518
@@ -218300,6 +218285,7 @@ U盾	token	819
 实践	to-live-up-to	1517
 偷生	to-live-without-purpose	1519
 托尔金	tolkien	1179
+比尔博	tolkien's	1179
 榷	toll	1198
 死亡人数	toll	1008
 做一天和尚撞一天钟	toll	549
@@ -218542,6 +218528,7 @@ U盾	token	819
 安娜·卡列尼娜	tolstoy	689
 列夫·托尔斯泰	tolstoy	689
 拖雷	tolui	1519
+催眠	to-lull-to-sleep	1519
 放电	to-lure	1518
 引诱	to-lure	1518
 挑逗	to-lure	1517
@@ -218888,6 +218875,7 @@ U盾	token	819
 媲美	to-match	1519
 搭配	to-match	1518
 匹配	to-match	1518
+比拟	to-match	1517
 协调	to-match	1516
 媲	to-match	1199
 搭	to-match	1193
@@ -219226,7 +219214,6 @@ U盾	token	819
 感召	to-move-and-appeal	1519
 感发	to-move-and-inspire	1519
 搬动	to-move-around	1519
-咕攘	to-move-around	1518
 倒	to-move-around	1195
 挪开	to-move-aside	1519
 他迁	to-move-elsewhere	1518
@@ -219620,7 +219607,6 @@ U盾	token	819
 想不开	too	2012
 不划算	too	2011
 爱不忍释	too	1834
-兵不厌诈	too	1834
 不即不离	too	1834
 不疾不徐	too	1834
 不堪设想	too	1834
@@ -219782,6 +219768,7 @@ U盾	token	819
 械	tool	1504
 不及	too-late	1517
 后悔不迭	too-late-for-regrets	1009
+噬脐莫及	too-late-for-regrets	1008
 兔爸	toolbar	1519
 工具栏	toolbar	1179
 工具条	toolbar	1179
@@ -219891,6 +219878,7 @@ U盾	token	819
 定向	to-orientate	1519
 来源于	to-originate-in	1179
 摆动	to-oscillate	1516
+密切	to-osculate	1516
 撕毁	too-shred	1517
 嘟	toot	1199
 拔牙	tooth	1519
@@ -220231,8 +220219,6 @@ U盾	token	819
 来访	to-pay-a-visit	1519
 偿付	to-pay-back	1519
 吃大亏	to-pay-bitterly	1177
-密切	to-pay-close-attention	1514
-密切注意	to-pay-close-attention	1009
 吃苦头	to-pay-dearly	1177
 垫上	to-pay-for-sb	1519
 垫	to-pay-for-sb	1194
@@ -220804,7 +220790,6 @@ PO文	to-post-a-message	479
 厉行节约	to-practice-strict-economy	1009
 打太极	to-practice-tai-chi	1179
 参禅	to-practice-zen-meditation	1518
-恭维	to-praise	1519
 揄扬	to-praise	1519
 吹拂	to-praise	1517
 嘉	to-praise	1197
@@ -221979,7 +221964,6 @@ A咖	top-tier	819
 复兴	to-rejuvenate	1518
 复发	to-relapse	1517
 叙述	to-relate	1519
-密切相连	to-relate-closely	1009
 有关	to-relate-to	1518
 系	to-relate-to	1198
 搭界	to-relate-with	1518
@@ -222199,7 +222183,6 @@ A咖	top-tier	819
 了债	to-repay-ones-debt	1519
 报偿	to-repay-to-recompense	1519
 偿还	to-repay-to-reimburse	1519
-撤销	to-repeal	1519
 废止	to-repeal	1519
 废除	to-repeal	1517
 中继	to-repeat	1518
@@ -222604,7 +222587,6 @@ A咖	top-tier	819
 复兴	to-revive	1519
 回潮	to-revive	1518
 撤回	to-revoke	1518
-撤销	to-revoke	1518
 吊销	to-revoke	1518
 收回	to-revoke	1515
 反叛	to-revolt	1518
@@ -222984,6 +222966,7 @@ A咖	top-tier	819
 攀越	to-scale	1517
 攀登	to-scale	1516
 扫描	to-scan	1519
+比萨	toscana	1519
 刷脸	to-scan-ones-face	1519
 吓唬	to-scare	1519
 吓人	to-scare	1519
@@ -223541,7 +223524,6 @@ A咖	top-tier	819
 打哆嗦	to-shiver	1178
 凌兢	to-shiver-to-tremble	1518
 凛	to-shiver-with-cold	1198
-枪崩	to-shoot	1519
 抛射	to-shoot	1518
 摄影	to-shoot	1517
 弹射	to-shoot	1516
@@ -223554,6 +223536,7 @@ A咖	top-tier	819
 放枪	to-shoot-a-gun	1518
 拍戏	to-shoot-a-movie	1519
 射箭	to-shoot-an-arrow	1518
+枪崩	to-shoot-dead	1519
 枪杀	to-shoot-dead	1519
 射杀	to-shoot-dead	1519
 击毙	to-shoot-dead	1518
@@ -224035,7 +224018,6 @@ A咖	top-tier	819
 唼	to-speak-evil	1199
 嗫嚅	to-speak-haltingly	1517
 抬举	to-speak-highly	1515
-恭维	to-speak-highly-of	1518
 口不择言	to-speak-incoherently	1009
 有话要说	to-speak-ones-mind	1009
 出言不逊	to-speak-rudely	1009
@@ -224622,6 +224604,7 @@ AB制	to-split-the-bill	479
 分流	to-stream-to-reassign	1518
 强化	to-strengthen	1519
 加固	to-strengthen	1518
+密切	to-strengthen	1518
 增强	to-strengthen	1518
 壮	to-strengthen	1199
 健	to-strengthen	1197
@@ -225186,7 +225169,6 @@ AB制	to-split-the-bill	479
 摄影	to-take-a-photograph	1519
 拍照	to-take-a-picture	1519
 乘机	to-take-a-plane	1518
-对症发药	to-take-appropriate-steps	1008
 对症下药	to-take-appropriate-steps	1008
 偃息	to-take-a-rest	1519
 唞	to-take-a-rest	1199
@@ -225763,10 +225745,10 @@ AB制	to-split-the-bill	479
 整理	to-tidy-up	1518
 整肃	to-tidy-up	1515
 打结	to-tie	1518
-平	to-tie	1196
 不分胜负	to-tie	1007
 打结	to-tie-a-knot	1519
 喜结连理	to-tie-the-knot	1009
+平	to-tie-to-draw	1195
 捆	to-tie-together	1198
 占压	to-tie-up	1519
 拴住	to-tie-up	1518
@@ -226250,7 +226232,7 @@ AB制	to-split-the-bill	479
 并举	to-undertake-concurrently	1518
 妄自菲薄	to-undervalue-oneself	1008
 承销	to-underwrite	1519
-撤销	to-undo	1517
+撤销	to-undo	1518
 宽衣解带	to-undress	1009
 掘出	to-unearth	1518
 摊开	to-unfold	1518
@@ -226390,6 +226372,7 @@ AB制	to-split-the-bill	479
 旅游城市	tourist-city	1009
 大陆客	tourist-from-mainland-china	1179
 小孩堤防	tourists	1009
+比武	tournament	1518
 擂台赛	tournament	1179
 循环赛	tournament	1179
 本因坊	tournament	1178
@@ -226472,8 +226455,8 @@ AB制	to-split-the-bill	479
 换气	to-ventilate	1518
 加气	to-ventilate	1518
 出气	to-vent-ones-anger	1519
+杀气	to-vent-ones-anger	1518
 撒气	to-vent-ones-anger	1517
-杀气	to-vent-ones-anger	1517
 排走	to-vent-out	1518
 不揣冒昧	to-venture-to	1009
 怒骂	to-verbally-abuse	1519
@@ -226723,7 +226706,6 @@ AB制	to-split-the-bill	479
 伺	to-watch	1199
 候	to-watch	1197
 㗂	to-watch	846
-密切注视	to-watch-closely	1009
 干瞪眼	to-watch-helplessly	1179
 提神	to-watch-out	1517
 守候	to-watch-over	1516
@@ -227019,6 +227001,7 @@ AB制	to-split-the-bill	479
 挺	to-withstand	1194
 堡子	town	2324
 北港	town	2324
+比萨	town	2324
 成功	town	2324
 城市	town	2324
 城镇	town	2324
@@ -227373,7 +227356,6 @@ AB制	to-split-the-bill	479
 拼搏	to-wrestle	1518
 摔跤	to-wrestle	1518
 搏击	to-wrestle	1517
-咕攘	to-wriggle-about	1519
 揝	to-wring	1198
 扭	to-wring	1197
 扼腕	to-wring-ones-hands	1519
@@ -227440,6 +227422,7 @@ AB制	to-split-the-bill	479
 不倒翁	toy	1179
 健慰器	toy	1179
 九连环	toy	1179
+拉布布	toy	1179
 扳不倒儿	toy	1009
 情趣玩具	toy	1009
 智力玩具	toy	1009
@@ -227545,7 +227528,7 @@ AB制	to-split-the-bill	479
 后车之鉴	track	1746
 塑胶跑道	track	1746
 人迹罕至	track	1745
-径	track	1685
+径	track	1686
 场地自行车	track	1476
 场地自行车	track-bike	829
 场地自行车	track-cycling	828
@@ -228201,6 +228184,7 @@ AB制	to-split-the-bill	479
 噻	transliteration	1199
 吩	transliteration	1198
 弗	transliteration	1198
+欧	transliteration	1197
 爱死病	transliteration	1179
 梵汉对音	transliteration	1009
 威氏注音法	transliteration	829
@@ -228623,6 +228607,7 @@ U型枕	travel-pillow	479
 三论宗	treatise	1179
 唐太宗李卫公问对	treatise	619
 八法	treatment	2323
+宠粉	treatment	2323
 从优	treatment	2323
 待遇	treatment	2323
 感遇	treatment	2323
@@ -228966,6 +228951,7 @@ U型枕	travel-pillow	479
 拉风	trendy-eye-catching-flashy	1519
 屏营	trepidation	1519
 惶	trepidation	1199
+心怀忐忑	trepidation	1009
 心惊肉跳	trepidation	1009
 心有余悸	trepidation	1008
 战战兢兢	trepidation	1008
@@ -229691,7 +229677,6 @@ U型枕	travel-pillow	479
 前备箱	trunk	1179
 主干线	trunk	1179
 女神蛤	trunk	1178
-大文蛤	trunk	1177
 干渠	trunk-canal	1519
 干线	trunk-line	1518
 主干线	trunk-line	1179
@@ -229911,6 +229896,7 @@ T恤	t-shirt	819
 朝鲜海峡	tsushima-strait	1008
 恙虫病	tsutsugamushi	1179
 学生t检验	t-test	129
+比特纳	ttner	1179
 团风县	tuanfeng	1179
 图阿雷格	tuareg	1009
 杅	tub	1198
@@ -230601,6 +230587,7 @@ AB制	turns	478
 唧啾	twittering-of-birds	1518
 啁	twittering-of-birds	1199
 推友	twitter-user	1519
+比烂	two	2580
 大桥	two	2580
 冻容	two	2580
 二侧	two	2580
@@ -230713,6 +230700,8 @@ AB制	turns	478
 一心二用	two	1940
 只言片语	two	1940
 指腹为婚	two	1940
+比翼齐飞	two	1939
+比翼双飞	two	1939
 对口相声	two	1939
 孤掌难鸣	two	1939
 夹心饼干	two	1939
@@ -230833,6 +230822,7 @@ AB制	two	1419
 京二胡	two-stringed	1179
 坠胡	two-stringed-bowed-instrument	1519
 对号	two-things-match-up	1516
+两虎相争	two-tigers-fighting	1009
 劈腿	two-timing	1518
 丱	two-tufts-of-hair	1199
 两回事	two-unrelated-matters	1178
@@ -230874,6 +230864,7 @@ AB制	two	1419
 样式	type	2541
 一类	type	2541
 一种	type	2541
+乙流	type	2541
 乙型	type	2541
 乙种	type	2541
 大钱	type	2540
@@ -230918,6 +230909,7 @@ AB制	two	1419
 原核细胞型微生物	type	1361
 乙型	type-b	1519
 B型超声	type-b	309
+乙流	type-b-influenza	1519
 B型超声	type-b-ultrasound	309
 丙型	type-c	1519
 仿宋	typeface	1519
@@ -231347,7 +231339,6 @@ B型超声	ultrasound	309
 八苦	unattained	1519
 乏人照顾	unattended	1009
 吃藕	unattractive	1519
-唔好睇	unattractive	1179
 吃藕	unattractive-ugly	1519
 侵入	unauthorized	1515
 AB制	unavailable	478
@@ -231870,7 +231861,6 @@ AB制	unavailable	478
 不求甚解	understanding	1426
 不识时变	understanding	1426
 不识时务	understanding	1426
-弄懂弄通	understanding	1426
 善解人意	understanding	1426
 望文生义	understanding	1426
 心照不宣	understanding	1426
@@ -231978,11 +231968,10 @@ AB制	unavailable	478
 不加掩饰	undisguised	1009
 不周延	undistributed	1179
 恬漠	undisturbed	1519
-平静	undisturbed	1518
 坦然	undisturbed	1518
 安顿	undisturbed	1516
 不二	undivided	1518
-撤销	undo	1517
+撤销	undo	1518
 机关算尽太聪明，反算了卿卿性命	undoing	199
 木已成舟	undone	1008
 明摆着	undoubted	1177
@@ -232012,6 +232001,7 @@ AB制	unavailable	478
 忡	uneasy	1196
 不自在	uneasy	1179
 不舒服	uneasy	1176
+心怀忐忑	uneasy	1009
 惶惑	uneasy-and-confused	1518
 愚昧	uneducated	1519
 冬烘	uneducated	1518
@@ -232424,6 +232414,7 @@ JK制服	uniform	309
 欧洲联盟	union	1612
 喜结良缘	union	1612
 政教合一	union	1612
+欧	union	1551
 会	union	1548
 欧盟委员会	union	1342
 欧洲共同体	union	1342
@@ -233107,6 +233098,7 @@ PA部	unit	1175
 任性	unruly	1517
 刁民	unruly-people	1519
 妙在不言中	unsaid	829
+比烂	unsatisfactory	1519
 欠妥	unsatisfactory	1517
 不如人意	unsatisfactory	1008
 不忿	unsatisfied	1519
@@ -233151,6 +233143,8 @@ PA部	unit	1175
 棺材板	unsmiling	1179
 正言厉色	unsmiling	1009
 正颜厉色	unsmiling	1009
+孤僻	unsociable	1519
+孤僻	unsociable-withdrawn-reclusive	1519
 两袖清风	unsoiled	1007
 两袖清风	unsoiled-by-corrupt-practices	1007
 不请自来	unsolicited	1008
@@ -234203,7 +234197,6 @@ USB手指	usb-flash-drive	129
 哆	used-in	1199
 哚	used-in	1199
 恶	used-in	1199
-仿	used-in	1199
 吩	used-in	1199
 佛	used-in	1199
 匐	used-in	1199
@@ -234447,6 +234440,7 @@ USB手指	usb-flash-drive	129
 哌	used-in-transliteration	1199
 噻	used-in-transliteration	1199
 弗	used-in-transliteration	1198
+欧	used-in-transliteration	1197
 大篆	used-narrowly-for	1518
 惯	used-to	1198
 枯竭	used-up	1519
@@ -235062,6 +235056,7 @@ CP值	value	1323
 暴燥	variant-of	1519
 悲叹	variant-of	1519
 悖缪	variant-of	1519
+比画	variant-of	1519
 扁额	variant-of	1519
 忭舞	variant-of	1519
 标识	variant-of	1519
@@ -235083,6 +235078,7 @@ CP值	value	1323
 朝庭	variant-of	1519
 扯蛋	variant-of	1519
 撤消	variant-of	1519
+成份	variant-of	1519
 侈糜	variant-of	1519
 叱吒	variant-of	1519
 崇庆	variant-of	1519
@@ -235177,6 +235173,7 @@ CP值	value	1323
 挂搭	variant-of	1519
 光采	variant-of	1519
 柜台	variant-of	1519
+国是	variant-of	1519
 含胡	variant-of	1519
 函洞	variant-of	1519
 寒伧	variant-of	1519
@@ -235227,6 +235224,7 @@ CP值	value	1323
 揭密	variant-of	1519
 介蒂	variant-of	1519
 斤斗	variant-of	1519
+径流	variant-of	1519
 居礼	variant-of	1519
 局促	variant-of	1519
 局限	variant-of	1519
@@ -235277,6 +235275,7 @@ CP值	value	1323
 摩娑	variant-of	1519
 抹煞	variant-of	1519
 奶皇	variant-of	1519
+囊揣	variant-of	1519
 内哄	variant-of	1519
 娘泡	variant-of	1519
 凝炼	variant-of	1519
@@ -235404,6 +235403,7 @@ CP值	value	1323
 原故	variant-of	1519
 原由	variant-of	1519
 怨耦	variant-of	1519
+月分	variant-of	1519
 月蚀	variant-of	1519
 月芽	variant-of	1519
 殒落	variant-of	1519
@@ -235951,11 +235951,13 @@ CP值	value	1323
 和得来	variant-of	1179
 划等号	variant-of	1179
 划十字	variant-of	1179
+夹肢窝	variant-of	1179
 叫化子	variant-of	1179
 卷帘门	variant-of	1179
 卷心菜	variant-of	1179
 卡哇依	variant-of	1179
 刊误表	variant-of	1179
+拉拉队	variant-of	1179
 拉拉蛄	variant-of	1179
 楞头青	variant-of	1179
 密司脱	variant-of	1179
@@ -235977,6 +235979,7 @@ CP值	value	1323
 下三烂	variant-of	1179
 压马路	variant-of	1179
 亚麻子	variant-of	1179
+妖蛾子	variant-of	1179
 伊媚儿	variant-of	1179
 怎么了	variant-of	1179
 奥黛莉	variant-of	1178
@@ -236382,7 +236385,6 @@ T裇	variant-of-t	819
 坐吃享福	vegetative	1009
 植物人状态	vegetative	829
 持续性植物状态	vegetative	689
-持续性植物人状态	vegetative	619
 坐吃享福	vegetative-existence	1009
 植物状态	vegetative-state	1009
 植物人状态	vegetative-state	829
@@ -236511,10 +236513,10 @@ T裇	variant-of-t	819
 毒液	venom-poisonous-fluid	1519
 出气	vent	1519
 排走	vent	1518
+杀气	vent	1518
 抒发	vent	1518
 吐气	vent	1518
 撒气	vent	1517
-杀气	vent	1517
 出风口	vent	1179
 排风口	vent	1179
 排气孔	vent	1179
@@ -236708,6 +236710,7 @@ T裇	variant-of-t	819
 文武双全	versed	1009
 吟	verse-song	1198
 格律	versification	1519
+定稿	version	2522
 抖音	version	2522
 丐版	version	2522
 今译	version	2522
@@ -236959,6 +236962,7 @@ N久	very	1861
 寥	very-few	1197
 寥寥可数	very-few	1009
 寥寥无几	very-few	1009
+屈指可数	very-few	1008
 少之又少	very-few-very-little	1009
 恶狠狠	very-fierce	1179
 恶恶实实	very-fierce	1009
@@ -238194,6 +238198,7 @@ B站	video-sharing	819
 巫毒	voodoo	1519
 伏都教	voodoo	1179
 巫毒教	voodoo	1179
+巫毒教	voodoo-religion	1179
 伏罗希洛夫	voroshilov	829
 旋涡	vortex	1516
 投票	vote	2154
@@ -238962,6 +238967,7 @@ B站	video-sharing	819
 小蝗莺	warbler	1179
 暗绿柳莺	warbler	1009
 北短翅莺	warbler	1009
+比氏鹟莺	warbler	1009
 布氏苇莺	warbler	1009
 峨眉柳莺	warbler	1009
 峨嵋鹟莺	warbler	1009
@@ -239412,7 +239418,6 @@ B站	video-sharing	819
 提神	watch	2328
 干瞪眼	watch	1870
 机械表	watch	1870
-密切注视	watch	1690
 明岗暗哨	watch	1690
 人权观察	watch	1690
 拭目倾耳	watch	1690
@@ -239818,7 +239823,6 @@ B站	video-sharing	819
 不二法门	way	1912
 东奔西跑	way	1912
 东奔西走	way	1912
-对症发药	way	1912
 对症下药	way	1912
 封建思想	way	1912
 各奔前程	way	1912
@@ -239853,6 +239857,7 @@ B站	video-sharing	819
 一意孤行	way	1910
 左右逢源	way	1910
 亘	way	1852
+径	way	1852
 呗	way	1851
 僻	way	1851
 样	way	1850
@@ -239924,6 +239929,7 @@ B站	video-sharing	819
 单薄	weak	1519
 殜殜	weak	1519
 乏力	weak	1519
+劣汰	weak	1519
 懦弱	weak	1519
 强弱	weak	1519
 柔弱	weak	1519
@@ -239987,7 +239993,6 @@ B站	video-sharing	819
 不衰	weakening	1518
 再衰三竭	weakening	1009
 弱化	weaker	1518
-劣汰	weakest	1519
 孱	weak-feeble	1199
 弱	weak-feeble	1199
 挼	weak-feeble	1197
@@ -239995,7 +240000,6 @@ B站	video-sharing	819
 弱作用	weak-interaction	1179
 弱相互作用	weak-interaction	829
 孱头	weakling	1519
-囊揣	weakling	1517
 囊膪	weakling	1517
 孱头	weakling-coward	1519
 多愁多病	weakly	1009
@@ -240620,7 +240624,6 @@ B站	website	1828
 了然于胸	well	1927
 名不虚传	well	1927
 人财两空	well	1927
-投井下石	well	1927
 文武双全	well	1927
 心知肚明	well	1927
 早日康复	well	1927
@@ -241216,6 +241219,7 @@ B站	website	1828
 失之东隅，收之桑榆	what	1328
 是骡子是马，牵出来遛遛	what	1148
 只许州官放火，不许百姓点灯	what	969
+比烂	whataboutery	1517
 好意思	what-a-cheek	1178
 巧了	what-a-coincidence	1519
 怎么得了	what-an-awful-mess	1007
@@ -241436,7 +241440,6 @@ B站	website	1828
 度日如年	when	1955
 九九归一	when	1955
 来日方长	when	1955
-投井下石	when	1955
 曾几何时	when	1954
 打落水狗	when	1954
 归根结蒂	when	1953
@@ -241690,6 +241693,7 @@ AB制	where	1405
 不平等条约	which	1690
 怛罗斯之战	which	1690
 大般涅槃经	which	1690
+时间差攻击	which	1690
 单方过失碰撞	which	1600
 中共中央办公厅	which	1510
 中共中央组织部	which	1510
@@ -242077,7 +242081,6 @@ AB制	where	1405
 晚辈	who	2594
 尾生	who	2594
 新丁	who	2594
-原唱	who	2594
 增生	who	2594
 主创	who	2594
 材料	who	2593
@@ -242179,7 +242182,6 @@ AB制	where	1405
 三藏法师	who	1955
 少见多怪	who	1955
 升斗小民	who	1955
-投井下石	who	1955
 外貌协会	who	1955
 斜杠青年	who	1955
 形象大使	who	1955
@@ -243387,6 +243389,7 @@ AB制	where	1405
 榨酒池	winepress	1179
 杏花村	wineshop	1179
 彝	wine-vessel	1199
+比翼	wing	1519
 后翅	wing	1519
 机翼	wing	1519
 前翅	wing	1519
@@ -243397,6 +243400,8 @@ AB制	where	1405
 左派	wing	1518
 挡泥板	wing	1179
 前掠翼	wing	1179
+比翼齐飞	wing	1009
+比翼双飞	wing	1007
 僚机	wingman	1519
 僚机	wingman-aircraft	1519
 奋飞	wings	1519
@@ -243406,6 +243411,7 @@ AB制	where	1405
 插翅难飞	wings	1009
 如虎添翼	wings	1009
 展翅高飞	wings	1009
+比翼	wing-to-wing	1519
 吃喝嫖赌	wining	1009
 挤咕	wink	1519
 挤眼	wink	1519
@@ -243763,6 +243769,7 @@ AB制	where	1405
 拖欧	withdrawing	1519
 撤档	withdrawn	1519
 复出	withdrawn	1519
+孤僻	withdrawn	1519
 不费吹灰之力	with-ease	757
 加重语气	with-emphasis	1008
 凋落	wither	1519
@@ -244345,6 +244352,7 @@ AB制	where	1405
 孤男寡女	woman	1602
 嫁鸡随鸡	woman	1602
 巾帼须眉	woman	1602
+九天仙女	woman	1602
 女生外向	woman	1602
 徐娘半老	woman	1602
 有夫之妇	woman	1602
@@ -245099,6 +245107,7 @@ AB制	where	1405
 功业	work	2576
 合手	work	2576
 换班	work	2576
+接棒	work	2576
 久旷	work	2576
 拉活	work	2576
 拉磨	work	2576
@@ -245370,6 +245379,7 @@ PA部	work	1417
 休闲	working	2441
 工作餐	working	1983
 工作队	working	1983
+工作犬	working	1983
 尼特族	working	1983
 一把手	working	1983
 工作面	working	1982
@@ -245396,6 +245406,7 @@ PA部	work	1417
 工作委员会	working-committee	829
 工况	working-condition	1519
 工作日	working-day	1178
+工作犬	working-dog	1179
 工作组	working-group	1178
 工作时间	working-hours	1009
 上班时间	working-hours-office-hours	1009
@@ -245552,6 +245563,7 @@ PA部	work	1417
 下世	world	2575
 商场	world	2574
 一世	world	2572
+出校门	world	2119
 教育界	world	2119
 李丽珊	world	2119
 刘义庆	world	2119
@@ -245909,6 +245921,7 @@ PA部	work	1417
 歇心	worrying	1518
 放不下心	worrying	1009
 债多不愁	worrying	1008
+比烂	worse	1518
 低落	worse	1518
 失守	worse	1518
 抱薪救火	worse	1009
@@ -246247,6 +246260,7 @@ PA部	work	1417
 摔跤	wrestling	1517
 掰手腕	wrestling	1179
 掰腕子	wrestling	1179
+比腕力	wrestling	1179
 措大	wretch	1518
 丧气鬼	wretch	1179
 可怜虫	wretch	1178
@@ -246266,7 +246280,6 @@ PA部	work	1417
 哀莫大于心死	wretched	756
 惨景	wretched-sight	1519
 惨境	wretched-situation	1519
-咕攘	wriggle	1519
 倒吊蜡烛	wrightia	1009
 倒吊蜡烛	wrightia-tinctoria	1009
 扼腕	wring	1519
@@ -246382,7 +246395,6 @@ PA部	work	1417
 左思	writer	1519
 作手	writer	1519
 作者	writer	1519
-代写	writer	1518
 刘恒	writer	1518
 文豪	writer	1518
 徐星	writer	1518
@@ -246549,7 +246561,6 @@ PA部	work	1417
 书写符号	writing-symbol	1009
 写字板	writing-tablet	1179
 标语	written	2348
-别字	written	2348
 成文	written	2348
 尺牍	written	2348
 尺素	written	2348
@@ -246602,7 +246613,6 @@ PA部	work	1417
 押韵	written	2347
 叶韵	written	2347
 御批	written	2347
-月分	written	2347
 字样	written	2347
 保祐	written	2346
 二黄	written	2346
@@ -246627,7 +246637,6 @@ PA部	work	1417
 元勋	written	2345
 嚎哭	written	2344
 明了	written	2344
-囊揣	written	2344
 囊膪	written	2344
 序文	written	2344
 服侍	written	2343
@@ -246650,7 +246659,6 @@ PA部	work	1417
 尉缭子	written	1888
 战国策	written	1888
 奥利安	written	1887
-本征值	written	1887
 哺乳类	written	1887
 撑竿跳	written	1887
 单一码	written	1887
@@ -246661,10 +246669,8 @@ PA部	work	1417
 哈里发	written	1887
 机关枪	written	1887
 吉迪恩	written	1887
-夹肢窝	written	1887
 借单儿	written	1887
 卷层云	written	1887
-拉拉队	written	1887
 来福枪	written	1887
 来复枪	written	1887
 廿八躔	written	1887
@@ -246674,12 +246680,10 @@ PA部	work	1417
 十六国	written	1887
 思嘉丽	written	1887
 松化石	written	1887
-微中子	written	1887
 戊五醇	written	1887
 星象图	written	1887
 叙拉古	written	1887
 正蓝旗	written	1887
-中微子	written	1887
 奥斯丁	written	1886
 报价单	written	1886
 布朗士	written	1886
@@ -246699,7 +246703,6 @@ PA部	work	1417
 孙子兵法	written	1708
 昂山素季	written	1707
 北京周报	written	1707
-本征向量	written	1707
 撑竿跳高	written	1707
 岗仁波齐	written	1707
 格雷茅斯	written	1707
@@ -246845,7 +246848,6 @@ PA部	work	1417
 冤枉	wronged	1516
 屈	wronged	1198
 克扣	wrongfully	1519
-别字	wrongly	1519
 冤枉	wrongly	1519
 串	wrongly	1197
 口无择言	wrongly	1008
@@ -248956,6 +248958,7 @@ X光	x-ray	819
 堂弟妹	younger	1179
 堂弟媳	younger	1179
 堂妹夫	younger	1179
+小辈子	younger	1179
 小姑子	younger	1179
 小舅子	younger	1179
 小姨子	younger	1179

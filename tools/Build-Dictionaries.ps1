@@ -78,6 +78,35 @@ function Get-CandidateScore([string]$Mode, [string]$English, [string]$Candidate,
   return $score
 }
 
+function Convert-CommentToCodeSuffix([string]$Comment) {
+  if ($Comment -notmatch "^~\((.*)\)$") { return "" }
+
+  $text = $Matches[1]
+  $builder = [System.Text.StringBuilder]::new()
+  foreach ($raw in $text.ToCharArray()) {
+    if ([string]$raw -match "[\u3040-\u30ff]") {
+      [void]$builder.Append($raw)
+      continue
+    }
+    if ($raw -match "\s|,") {
+      [void]$builder.Append("-")
+      continue
+    }
+
+    $normalized = ([string]$raw).Normalize([System.Text.NormalizationForm]::FormD)
+    foreach ($ch in $normalized.ToCharArray()) {
+      $category = [System.Globalization.CharUnicodeInfo]::GetUnicodeCategory($ch)
+      if ($category -eq [System.Globalization.UnicodeCategory]::NonSpacingMark) { continue }
+      if ($ch -notmatch "[A-Za-z0-9]") { continue }
+      [void]$builder.Append([char]::ToLowerInvariant($ch))
+    }
+  }
+
+  $suffix = ($builder.ToString() -replace "-+", "-").Trim("-")
+  if (!$suffix) { return "" }
+  return "~$suffix"
+}
+
 Get-ChildItem -Path $dataPath -Recurse -Filter "*.tsv" | Sort-Object FullName | ForEach-Object {
   $file = $_.FullName
   Get-Content -LiteralPath $file -Encoding UTF8 | ForEach-Object {
@@ -97,6 +126,10 @@ Get-ChildItem -Path $dataPath -Recurse -Filter "*.tsv" | Sort-Object FullName | 
     if ((Split-Path -Leaf $file) -eq "seed.tsv") {
       $weight += 3000
     }
+    $scoreComment = $comment
+    if ((Split-Path -Leaf $file) -eq "common-overrides.tsv" -and $comment -match "^~") {
+      $scoreComment = "common-override $comment"
+    }
 
     if (!$english -or !$candidate) { return }
 
@@ -114,7 +147,7 @@ Get-ChildItem -Path $dataPath -Recurse -Filter "*.tsv" | Sort-Object FullName | 
         English = $english
         Candidate = $candidate
         Weight = $weight
-        Score = Get-CandidateScore $target $english $candidate $weight $comment
+        Score = Get-CandidateScore $target $english $candidate $weight $scoreComment
         Comment = $comment
       })
     }
@@ -124,6 +157,7 @@ Get-ChildItem -Path $dataPath -Recurse -Filter "*.tsv" | Sort-Object FullName | 
 foreach ($mode in $modes.Keys) {
   $name = "kanji_en_$mode"
   $outFile = Join-Path $rimePath "$name.dict.yaml"
+  $readingFile = Join-Path $rimePath "kanjiime_readings_$mode.tsv"
 
   if ($commonRanks.Count -gt 0) {
     $presentEnglish = [System.Collections.Generic.HashSet[string]]::new()
@@ -150,6 +184,7 @@ foreach ($mode in $modes.Keys) {
   }
 
   $lines = [System.Collections.Generic.List[string]]::new()
+  $readingRows = @{}
   $lines.Add("---")
   $lines.Add("name: $name")
   $lines.Add('version: "2026.06.16.2"')
@@ -162,7 +197,12 @@ foreach ($mode in $modes.Keys) {
     if ($row.Score -lt 0) { continue }
     $id = "$($row.English)|$($row.Candidate)"
     if (!$bestRows.ContainsKey($id) -or $row.Score -gt $bestRows[$id].Score) {
+      if ($row.Comment -notmatch "^~" -and $bestRows.ContainsKey($id) -and $bestRows[$id].Comment -match "^~") {
+        $row.Comment = $bestRows[$id].Comment
+      }
       $bestRows[$id] = $row
+    } elseif ($bestRows[$id].Comment -notmatch "^~" -and $row.Comment -match "^~") {
+      $bestRows[$id].Comment = $row.Comment
     }
   }
 
@@ -170,8 +210,22 @@ foreach ($mode in $modes.Keys) {
     Sort-Object English, @{ Expression = "Score"; Descending = $true }, Candidate |
     ForEach-Object {
       $lines.Add("$($_.Candidate)`t$($_.English)`t$($_.Score)")
+      if ($_.Comment -match "^~\((.*)\)$") {
+        $reading = "($($Matches[1]))"
+        if (!$readingRows.ContainsKey($_.Candidate) -or $_.Score -gt $readingRows[$_.Candidate].Score) {
+          $readingRows[$_.Candidate] = [pscustomobject]@{
+            Reading = $reading
+            Score = $_.Score
+          }
+        }
+      }
     }
 
   Set-Content -LiteralPath $outFile -Value $lines -Encoding UTF8
+  $readingRows.GetEnumerator() |
+    Sort-Object Name |
+    ForEach-Object { "$($_.Key)`t$($_.Value.Reading)" } |
+    Set-Content -LiteralPath $readingFile -Encoding UTF8
   Write-Host "Wrote $outFile"
+  Write-Host "Wrote $readingFile"
 }

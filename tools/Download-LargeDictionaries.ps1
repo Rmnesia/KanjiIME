@@ -26,12 +26,82 @@ function Download-File([string]$Url, [string]$OutFile) {
   if ($curl) {
     & $curl.Source -L -k --retry 3 --connect-timeout 30 -o $OutFile $Url
     if ($LASTEXITCODE -eq 0 -and (Test-Path $OutFile) -and (Get-Item $OutFile).Length -gt 0) { return }
+
+    & $curl.Source -L -k --retry 3 --connect-timeout 30 --proxy "http://127.0.0.1:10808" -o $OutFile $Url
+    if ($LASTEXITCODE -eq 0 -and (Test-Path $OutFile) -and (Get-Item $OutFile).Length -gt 0) { return }
   }
 
   Invoke-WebRequest -Uri $Url -OutFile $OutFile
   if (!(Test-Path $OutFile) -or (Get-Item $OutFile).Length -eq 0) {
     throw "Failed to download $Url"
   }
+}
+
+function Convert-PinyinSyllable([string]$Syllable) {
+  $toneMatch = [regex]::Match($Syllable, "^(?<base>[A-Za-z\u00fc\u00dcvV:]+)(?<tone>[1-5])$")
+  if (!$toneMatch.Success) { return $Syllable.ToLowerInvariant() }
+
+  $base = $toneMatch.Groups["base"].Value.ToLowerInvariant()
+  $uUmlaut = [string][char]0x00FC
+  $base = $base -replace "u:", $uUmlaut
+  $base = $base -replace "v", $uUmlaut
+  $tone = [int]$toneMatch.Groups["tone"].Value
+  if ($tone -eq 5) { return $base }
+
+  $toneMarks = @{
+    a = @("a", [string][char]0x0101, [string][char]0x00E1, [string][char]0x01CE, [string][char]0x00E0)
+    e = @("e", [string][char]0x0113, [string][char]0x00E9, [string][char]0x011B, [string][char]0x00E8)
+    i = @("i", [string][char]0x012B, [string][char]0x00ED, [string][char]0x01D0, [string][char]0x00EC)
+    o = @("o", [string][char]0x014D, [string][char]0x00F3, [string][char]0x01D2, [string][char]0x00F2)
+    u = @("u", [string][char]0x016B, [string][char]0x00FA, [string][char]0x01D4, [string][char]0x00F9)
+    $uUmlaut = @($uUmlaut, [string][char]0x01D6, [string][char]0x01D8, [string][char]0x01DA, [string][char]0x01DC)
+  }
+
+  $markIndex = -1
+  foreach ($preferred in @("a", "e")) {
+    $idx = $base.IndexOf($preferred)
+    if ($idx -ge 0) {
+      $markIndex = $idx
+      break
+    }
+  }
+  if ($markIndex -lt 0) {
+    $ouIndex = $base.IndexOf("ou")
+    if ($ouIndex -ge 0) {
+      $markIndex = $ouIndex
+    }
+  }
+  if ($markIndex -lt 0) {
+    for ($i = $base.Length - 1; $i -ge 0; $i--) {
+      if (("aeiou" + $uUmlaut).Contains($base[$i])) {
+        $markIndex = $i
+        break
+      }
+    }
+  }
+  if ($markIndex -lt 0) { return $base }
+
+  $vowel = [string]$base[$markIndex]
+  $marked = $toneMarks[$vowel][$tone]
+  return $base.Substring(0, $markIndex) + $marked + $base.Substring($markIndex + 1)
+}
+
+function Convert-Pinyin([string]$Pinyin) {
+  $syllables = [System.Collections.Generic.List[string]]::new()
+  foreach ($part in ($Pinyin -split "\s+")) {
+    $clean = $part.Trim()
+    if (!$clean) { continue }
+    $syllables.Add((Convert-PinyinSyllable $clean))
+  }
+  return ($syllables -join " ")
+}
+
+function New-ReadingComment([string[]]$Readings) {
+  $items = $Readings |
+    Where-Object { $_ } |
+    Select-Object -Unique -First 3
+  if (!$items) { return "" }
+  return "~(" + (($items -join ",") -replace "`t", " ") + ")"
 }
 
 function Expand-Gzip([string]$Source, [string]$Destination) {
@@ -155,7 +225,8 @@ function Convert-JMdict([string]$InputFile, [string]$OutputFile) {
             $rank++
             foreach ($key in (Get-EnglishKeys $gloss)) {
               foreach ($candidate in ($candidates | Select-Object -First 4)) {
-                if (Add-Row $writer $seen "jp" $key $candidate ([Math]::Max(10, 900 - $rank)) "jmdict") {
+                $comment = New-ReadingComment ([string[]]($rebs | Select-Object -First 3))
+                if (Add-Row $writer $seen "jp" $key $candidate ([Math]::Max(10, 900 - $rank)) $comment) {
                   $count++
                   if ($count -ge $MaxRowsPerMode) { return }
                 }
@@ -190,16 +261,17 @@ function Convert-Cedict([string]$InputFile, [string]$OutputFile) {
       if (!$match.Success) { continue }
       $trad = $match.Groups["trad"].Value
       $simp = $match.Groups["simp"].Value
+      $comment = New-ReadingComment ([string[]]@(Convert-Pinyin $match.Groups["pinyin"].Value))
       $rank = 0
       foreach ($gloss in ($match.Groups["gloss"].Value -split "/")) {
         $rank++
         foreach ($key in (Get-EnglishKeys $gloss)) {
           $weight = [Math]::Max(10, 900 - $rank)
           if ($counts.zh -lt $MaxRowsPerMode) {
-            if (Add-Row $writer $seen "zh" $key $simp $weight "cc-cedict") { $counts.zh++ }
+            if (Add-Row $writer $seen "zh" $key $simp $weight $comment) { $counts.zh++ }
           }
           if ($counts.hk -lt $MaxRowsPerMode) {
-            if (Add-Row $writer $seen "hk" $key $trad $weight "cc-cedict") { $counts.hk++ }
+            if (Add-Row $writer $seen "hk" $key $trad $weight $comment) { $counts.hk++ }
           }
         }
       }

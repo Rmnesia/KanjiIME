@@ -4,3 +4,4 @@ patch:
   style/inline_preedit: true
   style/label_format: "%s."
   style/font_face: "Microsoft YaHei UI"
+  style/comment_font_point: 12
