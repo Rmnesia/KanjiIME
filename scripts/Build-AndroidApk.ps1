@@ -74,6 +74,10 @@ Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_hk.schema.yaml") -Destina
 Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_jp.dict.yaml") -Destination $assetDir -Force
 Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_zh.dict.yaml") -Destination $assetDir -Force
 Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_hk.dict.yaml") -Destination $assetDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/rime.lua") -Destination $assetDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanjiime_readings_jp.tsv") -Destination $assetDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanjiime_readings_zh.tsv") -Destination $assetDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanjiime_readings_hk.tsv") -Destination $assetDir -Force
 Get-ChildItem -LiteralPath $assetDir -Filter "luna*" -ErrorAction SilentlyContinue |
   Remove-Item -Force
 
