@@ -3,7 +3,7 @@
 KanjiIME is a free, open-source, nonprofit English-to-Japanese/Chinese input method for Windows and Android.
 Type an English meaning, then commit Japanese kanji, Simplified Chinese, or Traditional Chinese directly from the candidate list.
 
-The newest version also shows pronunciation hints beside candidates: Japanese entries can show kana readings, while Chinese entries show romanized readings. You still type by meaning, but now you get a small pronunciation reminder before you commit.
+Also, it shows pronunciation hints beside candidates: Japanese entries can show kana readings, while Chinese entries show romanized readings. You still type by meaning, but now you get a small pronunciation reminder before you commit.
 
 <img width="1076" height="90" alt="8c6c14fc7a89240ffcd2ef9c85efa8bf" src="https://github.com/user-attachments/assets/9e5bc6aa-8c2f-4a75-a912-dab3cdca4c59" />
 <img width="1076" height="90" alt="d64370db03e05e046949e5fc0cbe9d85" src="https://github.com/user-attachments/assets/206e5cd4-25de-4f9c-8420-9642de6f2f74" />
