@@ -5,9 +5,10 @@ Type an English meaning, then commit Japanese kanji, Simplified Chinese, or Trad
 
 The newest version also shows pronunciation hints beside candidates: Japanese entries can show kana readings, while Chinese entries show romanized readings. You still type by meaning, but now you get a small pronunciation reminder before you commit.
 
-<img width="1072" height="99" alt="image" src="https://github.com/user-attachments/assets/a6234800-011d-4bd8-ab79-eab3e1e26d45" />
-<img width="954" height="97" alt="image" src="https://github.com/user-attachments/assets/e02214f3-f6de-47ec-a7ea-ed5a2ddbe808" />
-<img width="825" height="106" alt="image" src="https://github.com/user-attachments/assets/d8903b74-8435-496e-981f-f17976aea354" />
+<img width="1076" height="90" alt="8c6c14fc7a89240ffcd2ef9c85efa8bf" src="https://github.com/user-attachments/assets/9e5bc6aa-8c2f-4a75-a912-dab3cdca4c59" />
+<img width="1076" height="90" alt="d64370db03e05e046949e5fc0cbe9d85" src="https://github.com/user-attachments/assets/206e5cd4-25de-4f9c-8420-9642de6f2f74" />
+<img width="1076" height="90" alt="405dac02121a3e271c1eacbf81e34c27" src="https://github.com/user-attachments/assets/13e319d8-bb40-49a5-b6df-97d053436356" />
+
 
 
 No cloud translation, no copy-paste workflow, no browser lookup. It feels like a normal IME, but the lookup key is English.
