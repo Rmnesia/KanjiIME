@@ -960,7 +960,6 @@ use_preset_vocabulary: false
 禁煙	abstaining	1279
 禁烟	abstaining-from-smoking	1279
 禁煙	abstaining-from-smoking	1279
-禁欲的	abstemious	1119
 棄権	abstention	1279
 不干渉	abstention	1119
 禁酒	abstinence	1279
@@ -1921,6 +1920,7 @@ use_preset_vocabulary: false
 見付ける	across	1487
 見附ける	across	1487
 全般的に	across	1487
+視付ける	across	1487
 巡り逢う	across	1487
 巡り合う	across	1487
 巡り会う	across	1487
@@ -2769,7 +2769,7 @@ use_preset_vocabulary: false
 整える	adjust	1053
 引合せる	adjust	937
 引き合せる	adjust	802
-引合わせる	adjust	802
+引きあわせる	adjust	767
 引き合わせる	adjust	767
 加減抵抗器	adjustable	863
 加減抵抗器	adjustable-resistor	863
@@ -2954,8 +2954,10 @@ use_preset_vocabulary: false
 警める	admonish	1058
 言聞かす	admonish	937
 申聞かせる	admonish	802
+言いきかす	admonish	802
 言い聞かす	admonish	802
 言聞かせる	admonish	802
+云い聞かす	admonish	802
 申し聞かせる	admonish	767
 言いきかせる	admonish	767
 言い聞かせる	admonish	767
@@ -3374,8 +3376,10 @@ use_preset_vocabulary: false
 禁める	advise	1058
 言聞かす	advise	938
 申聞かせる	advise	803
+言いきかす	advise	803
 言い聞かす	advise	803
 言聞かせる	advise	803
+云い聞かす	advise	803
 申し聞かせる	advise	768
 言いきかせる	advise	768
 言い聞かせる	advise	768
@@ -3502,6 +3506,7 @@ use_preset_vocabulary: false
 我が事	affair	1059
 事がら	affair	1058
 火遊び	affair	1056
+通じる	affair	1042
 恋愛関係	affair	999
 我がこと	affair	939
 火あそび	affair	936
@@ -4231,6 +4236,7 @@ use_preset_vocabulary: false
 矯めなおす	again	1533
 遣りなおす	again	1533
 またと無い	again	1531
+聞きかえす	again	1531
 呉れ呉れも	again	1530
 生まれかわる	again	1498
 生まれ変わる	again	1498
@@ -4255,6 +4261,7 @@ use_preset_vocabulary: false
 依托	against	2002
 依託	against	2002
 安保	against	2001
+対峠	against	2001
 対峙	against	2001
 引合	against	1999
 防ぐ	against	1943
@@ -4358,10 +4365,6 @@ use_preset_vocabulary: false
 組み合せる	against	1526
 組み合わす	against	1526
 組合わせる	against	1526
-喰いさがる	against	1523
-喰い下がる	against	1523
-食いさがる	against	1523
-食い下がる	against	1523
 こすり付ける	against	1493
 たたき付ける	against	1493
 つばぜり合い	against	1493
@@ -5492,7 +5495,6 @@ use_preset_vocabulary: false
 同視	alike	1279
 瓜二つ	alike	1059
 うり二つ	alike	939
-辛口	a-liking-for-sake	1278
 扶養料	alimony	1119
 漸	a-little	1799
 稍	a-little	1799
@@ -7078,12 +7080,12 @@ use_preset_vocabulary: false
 八方丸く治まる	amicably	734
 八方丸くおさまる	amicably	699
 中	amid	1793
-本願	amida	1279
+本願	amida	1278
 念仏	amida	1278
 南無阿弥陀仏	amida	829
 南無阿弥陀佛	amida	829
 南無阿弥陀彿	amida	829
-本願	amida-buddha's-original-vow	1279
+本願	amida-buddha's-original-vow	1278
 アミノ酸	amino	759
 アミノ酸	amino-acid	759
 イ短調	a-minor	879
@@ -8176,8 +8178,6 @@ use_preset_vocabulary: false
 本字	another	2049
 否や	another	1990
 交す	another	1988
-極り	another	1985
-決り	another	1985
 代り	another	1984
 替り	another	1984
 別世界	another	1891
@@ -8209,8 +8209,6 @@ use_preset_vocabulary: false
 何とか	another	1828
 交わす	another	1828
 繰出す	another	1828
-極まり	another	1825
-決まり	another	1825
 代わり	another	1824
 替わり	another	1824
 追込み	another	1824
@@ -10582,8 +10580,8 @@ use_preset_vocabulary: false
 駈け回る	around	1697
 散らかす	around	1697
 堂々回り	around	1697
-堂々巡り	around	1697
 堂堂回り	around	1697
+堂々巡り	around	1697
 堂堂巡り	around	1697
 逃げ回る	around	1697
 引き回す	around	1697
@@ -10729,14 +10727,10 @@ use_preset_vocabulary: false
 案配	arrangement	1274
 成立	arrangement	1274
 塩梅	arrangement	1274
-極り	arrangement	1216
-決り	arrangement	1216
 一輪挿	arrangement	1118
 並べ方	arrangement	1059
 計らい	arrangement	1059
 仕組み	arrangement	1058
-極まり	arrangement	1056
-決まり	arrangement	1056
 一輪挿し	arrangement	938
 手筈	arrangements	1279
 布石	arrangements	1277
@@ -11653,6 +11647,7 @@ use_preset_vocabulary: false
 元どおり	as-it-was-originally	938
 謂わば	as-it-were	1058
 言わば	as-it-were	1058
+云わば	as-it-were	1058
 訪う	ask	1870
 問う	ask	1870
 正す	ask	1870
@@ -11694,6 +11689,7 @@ use_preset_vocabulary: false
 誘い掛ける	ask	1455
 申しつける	ask	1454
 申し付ける	ask	1454
+聞きかえす	ask	1454
 問いただす	ask	1454
 聞いた	asked	1554
 不問	asking	1279
@@ -12152,14 +12148,10 @@ use_preset_vocabulary: false
 品揃え	assortment	1059
 盛合せ	assortment	1059
 仕分け	assortment	1057
-詰合せる	assortment	939
 品ぞろえ	assortment	939
 盛り合せ	assortment	939
 盛合わせ	assortment	939
-詰め合せる	assortment	804
-詰合わせる	assortment	804
 盛り合わせ	assortment	804
-詰め合わせる	assortment	769
 仕分	assortment-journalizing	1277
 仕訳	assortment-journalizing	1277
 仕分け	assortment-journalizing	1057
@@ -14509,10 +14501,6 @@ use_preset_vocabulary: false
 引きさがる	back	1668
 引き下がる	back	1668
 振りかえる	back	1668
-喰いさがる	back	1667
-喰い下がる	back	1667
-食いさがる	back	1667
-食い下がる	back	1667
 引き下げる	back	1665
 元のもくあみ	back	1635
 ふんぞり返る	back	1634
@@ -14756,6 +14744,7 @@ use_preset_vocabulary: false
 地雷	bad	1897
 悪し	bad	1840
 惡い	bad	1840
+病い	bad	1839
 倒れ	bad	1838
 祟る	bad	1838
 痼り	bad	1836
@@ -14868,6 +14857,7 @@ use_preset_vocabulary: false
 病気	bad-habit	1277
 病氣	bad-habit	1277
 持病	bad-habit	1277
+病い	bad-habit	1218
 悪習慣	bad-habit	1119
 凶作	bad-harvest	1279
 悪影響	bad-influence	1119
@@ -15317,9 +15307,11 @@ use_preset_vocabulary: false
 軍楽手	bandsman	1119
 俄	bandwagon	1794
 俄か	bandwagon	1214
+仁和加	bandwagon	1114
 仁輪加	bandwagon	1114
 俄	bandwagon-fan	1794
 俄か	bandwagon-fan	1214
+仁和加	bandwagon-fan	1114
 仁輪加	bandwagon-fan	1114
 帯域	bandwidth	1277
 帯域幅	bandwidth	1119
@@ -16848,7 +16840,6 @@ use_preset_vocabulary: false
 厭きる	become	1739
 揺らぐ	become	1739
 感じる	become	1738
-感ずる	become	1738
 詰まる	become	1738
 仕込み	become	1738
 遠のく	become	1738
@@ -17573,6 +17564,7 @@ use_preset_vocabulary: false
 世に立つ	begin	1239
 聞きだす	begin	1239
 聞き出す	begin	1239
+訊き出す	begin	1239
 様になる	begin	1239
 抜け出す	begin	1238
 脱け出す	begin	1238
@@ -18466,7 +18458,7 @@ use_preset_vocabulary: false
 破る	below	1935
 氷点下	below	1842
 未丁年	below	1842
-一枚下	below	1841
+一枚下	below	1842
 水面下	below	1840
 入り浜	below	1782
 下方に	below	1782
@@ -18566,7 +18558,6 @@ use_preset_vocabulary: false
 下敷	beneath	1275
 已下	beneath	1275
 以下	beneath	1275
-一枚下	beneath	1119
 下づみ	beneath	1059
 下積み	beneath	1059
 波間に	beneath	1057
@@ -18851,6 +18842,7 @@ use_preset_vocabulary: false
 裏反る	betray	1058
 裏返る	betray	1058
 寝返る	betray	1058
+通じる	betray	1043
 背信	betrayal	1279
 変節	betrayal	1279
 内通	betrayal	1278
@@ -18932,8 +18924,6 @@ use_preset_vocabulary: false
 挟む	between	2033
 挾む	between	2033
 通う	between	2032
-極り	between	2026
-決り	between	2026
 竹蜻蛉	between	1933
 修羅場	between	1932
 あぜ道	between	1873
@@ -18946,8 +18936,6 @@ use_preset_vocabulary: false
 合い口	between	1871
 口直し	between	1871
 間合い	between	1869
-極まり	between	1866
-決まり	between	1866
 二者選一	between	1813
 二者択一	between	1813
 勘合貿易	between	1813
@@ -21060,6 +21048,7 @@ use_preset_vocabulary: false
 飛び込み台	board	1589
 ウィジャ板	board	1409
 ウィジャ盤	board	1409
+ウイジャ盤	board	1409
 プリント基板	board	1374
 プリント基盤	board	1374
 下宿	board-and-lodging	1278
@@ -22629,6 +22618,7 @@ use_preset_vocabulary: false
 便通	bowel	1279
 両便	bowel	1279
 下血	bowel	1279
+通じる	bowel	1039
 便通	bowel-movement	1279
 下腹	bowels	1278
 瀉腹	bowels	1278
@@ -23918,9 +23908,6 @@ use_preset_vocabulary: false
 覚ます	bring	1485
 来たす	bring	1485
 上せる	bring	1485
-咥える	bring	1485
-啣える	bring	1485
-銜える	bring	1485
 醒ます	bring	1485
 引込む	bring	1485
 育てる	bring	1485
@@ -24643,7 +24630,6 @@ use_preset_vocabulary: false
 仏名	buddhas	1278
 奥之院	buddhas	1117
 奥の院	buddhas	1057
-本願	buddha's	1279
 仏滅	buddha's	1279
 仏名	buddha's	1279
 仏説	buddha's	1279
@@ -24651,6 +24637,7 @@ use_preset_vocabulary: false
 仏縁	buddha's	1279
 花祭	buddha's	1279
 悲願	buddha's	1278
+本願	buddha's	1278
 仏舎利	buddha's	1119
 獅子座	buddha's	1118
 醍醐味	buddha's	1116
@@ -25470,7 +25457,6 @@ use_preset_vocabulary: false
 焦げくさい	burnt	804
 孔	burrow	1795
 穴	burrow	1795
-潜る	burrow	1215
 奨学金	bursary	1118
 劈	burst	1797
 決壊	burst	1279
@@ -26122,6 +26108,7 @@ use_preset_vocabulary: false
 抜け路	byroad	1058
 力尽で	by-sheer-strength	1059
 力ずくで	by-sheer-strength	939
+力づくで	by-sheer-strength	939
 力尽くで	by-sheer-strength	939
 万一	by-some-chance	1277
 万が一	by-some-chance	1059
@@ -26755,6 +26742,7 @@ use_preset_vocabulary: false
 何の気なしに	calmly	768
 何の気無しに	calmly	768
 なんの気なしに	calmly	733
+なんの気無しに	calmly	733
 冷静	calmness	1279
 静穏	calmness	1278
 落付き	calmness	1059
@@ -27630,6 +27618,7 @@ use_preset_vocabulary: false
 手当	care	2073
 心配	care	2073
 自重	care	2073
+粗末	care	2071
 足す	care	2014
 訪う	care	2013
 問う	care	2013
@@ -27801,6 +27790,7 @@ use_preset_vocabulary: false
 暢気	careless	1276
 暖気	careless	1276
 呑気	careless	1276
+粗末	careless	1275
 乱暴	careless	1275
 亂暴	careless	1275
 草々	careless	1274
@@ -28703,6 +28693,7 @@ use_preset_vocabulary: false
 見付ける	catch	937
 見附ける	catch	937
 取り返す	catch	937
+視付ける	catch	937
 かぜを引く	catch	804
 からめ取る	catch	804
 風邪をひく	catch	804
@@ -28912,7 +28903,6 @@ use_preset_vocabulary: false
 来たす	cause	1553
 腐らす	cause	1552
 及ぼす	cause	1552
-狂わす	cause	1552
 傷める	cause	1552
 生じる	cause	1552
 生ずる	cause	1552
@@ -30942,7 +30932,6 @@ use_preset_vocabulary: false
 安酒場	cheap-saloon	1119
 天井桟敷	cheap-seats	998
 天井棧敷	cheap-seats	998
-守銭奴	cheapskate	1118
 安普請	cheap-structure	1119
 小細工	cheap-trick	1118
 掠める	cheat	1055
@@ -31285,10 +31274,6 @@ use_preset_vocabulary: false
 共同募金	chest	999
 たから箱	chest	939
 共同救済基金	chest	829
-喰いさがる	chest	799
-喰い下がる	chest	799
-食いさがる	chest	799
-食い下がる	chest	799
 ふんぞり返る	chest	769
 ふん反り返る	chest	769
 踏ん反り返る	chest	769
@@ -31705,6 +31690,7 @@ use_preset_vocabulary: false
 子供染みた	childish	804
 子どもじみた	childish	769
 稚気	childishness	1279
+穉気	childishness	1279
 少年労働	child-labor	999
 負け犬	childless	1056
 童顔	childlike	1278
@@ -32561,8 +32547,8 @@ use_preset_vocabulary: false
 鼬ごっこ	circles	939
 周回	circling	1278
 堂々回り	circling	938
-堂堂回り	circling	938
 堂々巡り	circling	938
+堂堂回り	circling	938
 堂堂巡り	circling	938
 堂々回り	circling-a-temple	938
 堂々巡り	circling-a-temple	938
@@ -32666,6 +32652,9 @@ use_preset_vocabulary: false
 周回	circumference	1277
 周り	circumference	1219
 外回り	circumference	1059
+外廻り	circumference	1059
+そと回り	circumference	939
+外まわり	circumference	939
 周航	circumnavigation	1279
 周極星	circumpolar	1119
 周極星	circumpolar-star	1119
@@ -33050,7 +33039,6 @@ use_preset_vocabulary: false
 密航	clandestine	1278
 逢引き	clandestine	1059
 逢い引き	clandestine	939
-通じる	clandestinely	1052
 逢引	clandestine-meeting	1279
 媾曳	clandestine-meeting	1279
 逢引き	clandestine-meeting	1059
@@ -33818,10 +33806,6 @@ use_preset_vocabulary: false
 へばり付く	cling	804
 寄りすがる	cling	804
 取りすがる	cling	804
-喰いさがる	cling	803
-喰い下がる	cling	803
-食いさがる	cling	803
-食い下がる	cling	803
 後追	clinginess	1276
 後追い	clinginess	1056
 跡追い	clinginess	1056
@@ -35408,7 +35392,6 @@ use_preset_vocabulary: false
 学寮	college	2040
 女子大	college	1883
 入学難	college	1883
-工学部	college	1882
 理学部	college	1882
 短期大学	college	1763
 軍医学校	college	1763
@@ -35417,7 +35400,6 @@ use_preset_vocabulary: false
 商科大学	college	1763
 音楽大学	college	1763
 学卒	college-graduate	1279
-工学部	college-of-engineering	1118
 音大	college-of-music	1279
 音楽大学	college-of-music	999
 理学部	college-of-science	1118
@@ -35937,8 +35919,11 @@ use_preset_vocabulary: false
 持上る	come	1788
 打出す	come	1788
 覚める	come	1788
+了える	come	1788
 醒める	come	1788
 馴染む	come	1788
+終える	come	1788
+卒える	come	1788
 充ちる	come	1787
 出きる	come	1787
 出来る	come	1787
@@ -36002,6 +35987,7 @@ use_preset_vocabulary: false
 見つける	come	1670
 見付ける	come	1670
 見附ける	come	1670
+視付ける	come	1670
 思いつく	come	1670
 思い付く	come	1670
 途絶える	come	1670
@@ -36930,7 +36916,7 @@ use_preset_vocabulary: false
 共同社会	communal-society	999
 防疫	communicable	1279
 防疫	communicable-disease-control	1279
-通じる	communicate	1058
+通じる	communicate	1044
 通じあう	communicate	937
 通じ合う	communicate	937
 伝	communication	2278
@@ -37255,7 +37241,6 @@ use_preset_vocabulary: false
 突き合せる	compare	1568
 遜色がある	compare	1568
 引き合せる	compare	1568
-引合わせる	compare	1568
 付け合せる	compare	1565
 付合わせる	compare	1565
 つき合わせる	compare	1533
@@ -37263,6 +37248,7 @@ use_preset_vocabulary: false
 睨み合わせる	compare	1533
 突き合わせる	compare	1533
 一籌を輸する	compare	1533
+引きあわせる	compare	1533
 引き合わせる	compare	1533
 つけ合わせる	compare	1530
 付け合わせる	compare	1530
@@ -37583,6 +37569,9 @@ use_preset_vocabulary: false
 丸潰れ	complete	1785
 丸勝ち	complete	1785
 灰じん	complete	1784
+了える	complete	1784
+終える	complete	1784
+卒える	complete	1784
 ひと目	complete	1783
 形なし	complete	1783
 形無し	complete	1783
@@ -37921,7 +37910,6 @@ use_preset_vocabulary: false
 含蓄	complications-of-a-problem	1277
 共犯	complicity	1279
 共謀	complicity	1278
-褒言葉	compliment	1118
 褒める	compliment	1058
 褒め詞	compliment	1058
 称める	compliment	1058
@@ -37933,6 +37921,7 @@ use_preset_vocabulary: false
 褒め殺し	compliment	938
 褒め言葉	compliment	938
 誉め殺し	compliment	938
+誉め言葉	compliment	938
 ホメ殺し	compliment	698
 優待券	complimentary	1119
 招待券	complimentary	1119
@@ -38067,6 +38056,7 @@ use_preset_vocabulary: false
 掴む	comprehend	1210
 摑む	comprehend	1210
 攫む	comprehend	1210
+通じる	comprehended	1051
 包蔵	comprehending	1278
 罔羅	comprehending	1277
 網羅	comprehending	1277
@@ -38834,13 +38824,13 @@ use_preset_vocabulary: false
 叙爵	conferring-a-peerage	1279
 叙勲	conferring-of-decorations	1279
 落る	confess	1190
-言表す	confess	1058
 認める	confess	1052
 落ちる	confess	1030
 墜ちる	confess	1030
 言い表す	confess	938
 言い現す	confess	938
 言い表わす	confess	803
+言いあらわす	confess	768
 白状	confession	1279
 告白	confession	1279
 自白	confession	1279
@@ -39014,6 +39004,7 @@ use_preset_vocabulary: false
 対立	confrontation	1279
 対審	confrontation	1279
 直面	confrontation	1279
+対峠	confrontation	1278
 対峙	confrontation	1278
 逢着	confronted	1278
 臨む	confronted	1216
@@ -39242,6 +39233,7 @@ use_preset_vocabulary: false
 繋げる	connect	1357
 付ける	connect	1356
 附ける	connect	1356
+通じる	connect	1356
 着ける	connect	1356
 接する	connect	1344
 乗りつぐ	connect	1237
@@ -40791,6 +40783,7 @@ use_preset_vocabulary: false
 凸面	convex-surface	1279
 譲る	convey	1217
 伝える	convey	1059
+通じる	convey	1038
 空車	conveyance	1279
 譲渡	conveyance	1278
 運搬	conveyance	1278
@@ -40800,6 +40793,7 @@ use_preset_vocabulary: false
 通る	conveyed	1202
 透る	conveyed	1202
 伝わる	conveyed	1053
+通じる	conveyed	1052
 立ち	conveying	1210
 口移し	conveying	1057
 前科者	convict	1119
@@ -41120,6 +41114,7 @@ use_preset_vocabulary: false
 複写	copying	1279
 誤写	copying	1279
 写字	copying	1279
+筆記	copying	1278
 後追	copying	1277
 写本	copying	1277
 丸写し	copying	1059
@@ -41774,11 +41769,7 @@ use_preset_vocabulary: false
 面影	countenance	1278
 温色	countenance	1278
 顔色	countenance	1277
-極り	countenance	1213
-決り	countenance	1213
 顔いろ	countenance	1057
-極まり	countenance	1053
-決まり	countenance	1053
 把	counter	1799
 冊	counter	1799
 丁	counter	1799
@@ -42885,7 +42876,6 @@ use_preset_vocabulary: false
 這う	crawl	1219
 蠢く	crawl	1218
 蠕く	crawl	1218
-潜る	crawl	1216
 動めく	crawl	1058
 腹ばい	crawl	1058
 腹這い	crawl	1058
@@ -44627,15 +44617,11 @@ use_preset_vocabulary: false
 上客	customer	2044
 新規	customer	2043
 得意	customer	2041
-極り	customer	1978
-決り	customer	1978
 得意先	customer	1885
 取引先	customer	1885
 御客様	customer	1884
 利用者	customer	1883
 お客様	customer	1824
-極まり	customer	1818
-決まり	customer	1818
 ご用の方	customer	1705
 御用の方	customer	1705
 お客さま	customer	1704
@@ -48687,6 +48673,7 @@ use_preset_vocabulary: false
 歯磨	dentifrice	1278
 歯磨き	dentifrice	1058
 歯みがき	dentifrice	938
+歯質	dentin	1279
 歯科医	dentist	1119
 歯医者	dentist	1119
 齒醫者	dentist	1119
@@ -49071,7 +49058,6 @@ use_preset_vocabulary: false
 副司令	deputy-commander	1119
 代官	deputy-official	1277
 副首相	deputy-prime-minister	1119
-狂わす	derail	1056
 脱線	derailment	1279
 乱心	derangement	1279
 錯乱	derangement	1278
@@ -49297,6 +49283,7 @@ use_preset_vocabulary: false
 念	desire	1797
 愛	desire	1796
 本望	desire	1279
+本願	desire	1279
 垂涎	desire	1279
 念願	desire	1279
 切望	desire	1279
@@ -52086,6 +52073,7 @@ use_preset_vocabulary: false
 大わらわ	dishevelled	937
 不純	dishonest	1277
 不正	dishonesty	1276
+潔癖	dishonesty	1276
 不正直	dishonesty	1119
 創	dishonor	1790
 疵	dishonor	1790
@@ -53051,7 +53039,6 @@ use_preset_vocabulary: false
 日内周期	diurnal-cycle	999
 顛落	dive	1277
 転落	dive	1277
-潜る	dive	1217
 飛込み	dive	1058
 動力降下	dive	999
 飛び込み	dive	938
@@ -53646,7 +53633,10 @@ use_preset_vocabulary: false
 まね事	doing	1625
 取付く	doing	1625
 慣れる	doing	1624
+了える	doing	1624
 馴れる	doing	1624
+終える	doing	1624
+卒える	doing	1624
 終わる	doing	1623
 暮らす	doing	1622
 極める	doing	1621
@@ -54354,6 +54344,7 @@ use_preset_vocabulary: false
 猟	down	2592
 狩	down	2592
 頭	down	2587
+筆記	down	2076
 傳承	down	2076
 垂髪	down	2076
 打破	down	2076
@@ -54798,7 +54789,6 @@ use_preset_vocabulary: false
 突き転ばす	down	1601
 下火になる	down	1601
 雪崩落ちる	down	1601
-押えつける	down	1601
 押さえ込む	down	1601
 押したおす	down	1601
 言い籠める	down	1601
@@ -54808,6 +54798,7 @@ use_preset_vocabulary: false
 腰を降ろす	down	1601
 腰を下ろす	down	1601
 抑えつける	down	1601
+抑え付ける	down	1601
 引きおろす	down	1601
 引き降ろす	down	1601
 引き落とす	down	1601
@@ -54838,11 +54829,7 @@ use_preset_vocabulary: false
 引きさがる	down	1599
 引き下がる	down	1599
 引繰り返る	down	1599
-喰いさがる	down	1598
-喰い下がる	down	1598
 取り締まる	down	1598
-食いさがる	down	1598
-食い下がる	down	1598
 切り捨てる	down	1596
 斬り捨てる	down	1596
 せんじ詰める	down	1566
@@ -55062,6 +55049,7 @@ use_preset_vocabulary: false
 蒸し返す	drag	937
 引っぱる	drag	934
 引っ張る	drag	934
+ひき入れる	drag	804
 引きいれる	drag	804
 引き入れる	drag	804
 引摺り込む	drag	804
@@ -55297,6 +55285,7 @@ use_preset_vocabulary: false
 引っこめる	draw	804
 引っ込める	draw	804
 しのび寄る	draw	803
+ひき入れる	draw	803
 乗りつける	draw	803
 乗り付ける	draw	803
 乗り着ける	draw	803
@@ -55949,7 +55938,6 @@ use_preset_vocabulary: false
 駆動機	drive	1774
 乗回す	drive	1714
 打込む	drive	1714
-狂わす	drive	1714
 直切る	drive	1714
 値切る	drive	1714
 追払う	drive	1714
@@ -56009,8 +55997,10 @@ use_preset_vocabulary: false
 運転士	driver	1456
 運転手	driver	1456
 運転者	driver	1456
+免許	driver's	1276
 運転席	driver's	1119
 運転免許	driver's	999
+免許	driver's-license	1276
 運転免許	driver's-license	999
 運転席	driver's-seat	1119
 儺	driving	1799
@@ -56485,7 +56475,6 @@ use_preset_vocabulary: false
 乾期	dry-season	1279
 乾燥季	dry-season	1119
 乾燥期	dry-season	1119
-辛口	dry-taste	1279
 旱	dry-weather	1799
 旱り	dry-weather	1219
 日でり	dry-weather	1059
@@ -57135,6 +57124,7 @@ use_preset_vocabulary: false
 毎	each	2643
 並	each	2638
 都度	each	2123
+対峠	each	2123
 対峙	each	2123
 夫々	each	2123
 夫夫	each	2123
@@ -57215,6 +57205,7 @@ use_preset_vocabulary: false
 一日千秋	each	1842
 時々刻々	each	1841
 時時刻刻	each	1841
+しり合う	each	1783
 すれ違い	each	1783
 すれ違う	each	1783
 その都度	each	1783
@@ -57237,7 +57228,9 @@ use_preset_vocabulary: false
 向い合う	each	1783
 言い合う	each	1783
 誘い合う	each	1783
+知りあう	each	1783
 知り合う	each	1783
+助けあう	each	1783
 助け合う	each	1783
 酌み交す	each	1783
 殴りあう	each	1782
@@ -57255,6 +57248,7 @@ use_preset_vocabulary: false
 掛け合う	each	1780
 懸け合う	each	1780
 引き合い	each	1779
+たすけ合う	each	1648
 となり合う	each	1648
 にらみ合う	each	1648
 鍔ぜり合い	each	1648
@@ -58276,7 +58270,6 @@ use_preset_vocabulary: false
 不景気	economic	1733
 財政力	economic	1733
 財政難	economic	1733
-経済的	economic	1733
 経済界	economic	1733
 経済力	economic	1733
 経企庁	economic	1733
@@ -58314,7 +58307,6 @@ use_preset_vocabulary: false
 経済	economical	1276
 お得	economical	1218
 お徳	economical	1218
-経済的	economical	1118
 割り安	economical	1059
 倹しい	economical	1058
 約しい	economical	1058
@@ -58694,6 +58686,7 @@ use_preset_vocabulary: false
 手応え	effect	1601
 思入れ	effect	1601
 及ぼす	effect	1600
+通じる	effect	1590
 掛ける	effect	1579
 懸ける	effect	1579
 乗数効果	effect	1543
@@ -60554,9 +60547,7 @@ use_preset_vocabulary: false
 先き	end	2013
 終う	end	2013
 極み	end	2012
-極り	end	2012
 竟に	end	2012
-決り	end	2012
 末に	end	2012
 暮れ	end	2012
 窮み	end	2012
@@ -60617,14 +60608,15 @@ use_preset_vocabulary: false
 眩れる	end	1853
 打上げ	end	1852
 打揚げ	end	1852
-極まり	end	1852
 竭きる	end	1852
 尽きる	end	1852
-決まり	end	1852
 喰らう	end	1851
+了える	end	1851
 名残り	end	1851
 食らう	end	1851
 遂げる	end	1851
+終える	end	1851
+卒える	end	1851
 目あて	end	1850
 目当て	end	1850
 跳ねる	end	1850
@@ -61076,7 +61068,6 @@ use_preset_vocabulary: false
 電工	engineering	1869
 工兵	engineering	1869
 理科	engineering	1869
-工学部	engineering	1710
 工学科	engineering	1710
 化学工学	engineering	1590
 理工学部	engineering	1590
@@ -61702,6 +61693,7 @@ use_preset_vocabulary: false
 透す	entirety	1187
 丸ごと	entirety	1059
 丸写し	entirety	1059
+通じる	entirety	1033
 実体	entity	1278
 意識体	entity	1119
 葬る	entomb	1218
@@ -62853,7 +62845,6 @@ use_preset_vocabulary: false
 共同疎開	evacuation	999
 避難者	evacuee	1119
 疎開者	evacuee	1119
-潜る	evade	1216
 借り倒す	evade	939
 擦抜ける	evade	936
 胡麻化す	evade	933
@@ -63758,6 +63749,7 @@ use_preset_vocabulary: false
 検定	examination	1277
 検屍	examination	1277
 検死	examination	1277
+筆記	examination	1276
 調べ	examination	1218
 本試験	examination	1119
 浪人生	examination	1119
@@ -64990,7 +64982,6 @@ use_preset_vocabulary: false
 憂い事	experience	1771
 憂き目	experience	1771
 感じる	experience	1770
-感ずる	experience	1770
 触れる	experience	1769
 引出し	experience	1769
 甞める	experience	1768
@@ -65314,7 +65305,6 @@ use_preset_vocabulary: false
 宅配便	express	1566
 至急便	express	1566
 表する	express	1506
-言表す	express	1506
 嫌がる	express	1505
 厭がる	express	1505
 表わす	express	1502
@@ -65332,6 +65322,7 @@ use_preset_vocabulary: false
 歌い上げる	express	1250
 謳いあげる	express	1250
 謳い上げる	express	1250
+言いあらわす	express	1216
 表れる	expressed	1055
 顕れる	expressed	1055
 現れる	expressed	1055
@@ -65471,6 +65462,7 @@ use_preset_vocabulary: false
 継足す	extend	1059
 連なる	extend	1059
 列なる	extend	1059
+通じる	extend	1057
 突放す	extend	1054
 継ぎ足す	extend	939
 建て増す	extend	939
@@ -66372,10 +66364,6 @@ use_preset_vocabulary: false
 泣き面に蜂	face	1380
 矢面に立つ	face	1380
 水中めがね	face	1380
-喰いさがる	face	1377
-喰い下がる	face	1377
-食いさがる	face	1377
-食い下がる	face	1377
 向い合わせる	face	1346
 向かい合せる	face	1346
 泣きっ面に蜂	face	1345
@@ -66433,6 +66421,7 @@ use_preset_vocabulary: false
 医療施設	facility	1281
 畳表	facing	1279
 東面	facing	1279
+対峠	facing	1279
 対峙	facing	1279
 対面	facing	1278
 対戦	facing	1278
@@ -66555,11 +66544,9 @@ use_preset_vocabulary: false
 学部	faculty	1661
 機能	faculty	1660
 文科	faculty	1660
-工学部	faculty	1501
 理学部	faculty	1501
 医学部	faculty	1501
 理工学部	faculty	1381
-工学部	faculty-of-engineering	1119
 文科	faculty-of-humanities	1278
 医学部	faculty-of-medicine	1119
 理学部	faculty-of-science	1119
@@ -66972,7 +66959,6 @@ use_preset_vocabulary: false
 惚れる	fall	1550
 恍れる	fall	1550
 降頻る	fall	1550
-恋する	fall	1550
 落ちる	fall	1550
 耄れる	fall	1550
 幕切れ	fall	1550
@@ -67726,6 +67712,7 @@ use_preset_vocabulary: false
 換気扇	fan	1441
 扇風機	fan	1441
 扇風器	fan	1441
+仁和加	fan	1436
 仁輪加	fan	1436
 焼き豚	fan	1380
 末広がり	fan	1261
@@ -68342,6 +68329,7 @@ use_preset_vocabulary: false
 過ち	fault	1219
 誤ち	fault	1219
 論う	fault	1218
+病い	fault	1217
 悪い	fault	1213
 惡い	fault	1213
 粗探し	fault	1059
@@ -68860,7 +68848,6 @@ use_preset_vocabulary: false
 歯切れ	feel	1669
 膚触り	feel	1669
 感じる	feel	1669
-感ずる	feel	1669
 火照る	feel	1669
 肌触り	feel	1669
 愧じる	feel	1669
@@ -68872,9 +68859,6 @@ use_preset_vocabulary: false
 嘔吐く	feel	1668
 訝かる	feel	1668
 照れる	feel	1668
-愁える	feel	1666
-患える	feel	1666
-憂える	feel	1666
 蒸れる	feel	1666
 屈する	feel	1665
 萎える	feel	1665
@@ -70853,6 +70837,7 @@ use_preset_vocabulary: false
 見附ける	find	1806
 見咎める	find	1806
 掘出し物	find	1806
+視付ける	find	1806
 探りだす	find	1806
 探り出す	find	1806
 重宝がる	find	1806
@@ -70863,6 +70848,7 @@ use_preset_vocabulary: false
 探し出す	find	1805
 聞きだす	find	1805
 聞き出す	find	1805
+訊き出す	find	1805
 捻り出す	find	1804
 洗いだす	find	1804
 洗い出す	find	1804
@@ -71108,6 +71094,7 @@ use_preset_vocabulary: false
 仕上り	finish	1059
 仕舞う	finish	1059
 終える	finish	1059
+卒える	finish	1059
 仕舞い	finish	1058
 終わる	finish	1058
 綴じる	finish	1058
@@ -73403,8 +73390,8 @@ use_preset_vocabulary: false
 満ち干	flow	1374
 満引き	flow	1374
 差引き	flow	1372
-通じる	flow	1372
 差引く	flow	1371
+通じる	flow	1370
 血行障害	flow	1314
 潮の干満	flow	1254
 出し放題	flow	1254
@@ -74454,6 +74441,7 @@ use_preset_vocabulary: false
 金しばり	foot	1175
 曲がり尺	foot	1174
 曲がり金	foot	1174
+踏みぬく	foot	1174
 踏み抜く	foot	1174
 踏み貫く	foot	1174
 踏み躙る	foot	1174
@@ -75084,8 +75072,8 @@ use_preset_vocabulary: false
 切りがない	forever	801
 切りが無い	forever	801
 世々限りなく	forever	769
-世世限りなく	forever	769
 世々限り無く	forever	769
+世世限りなく	forever	769
 世世限り無く	forever	769
 世々限りなく	forever-and-ever	769
 世世限りなく	forever-and-ever	769
@@ -75355,7 +75343,6 @@ use_preset_vocabulary: false
 組み版	form	1836
 ひな形	form	1834
 ひな型	form	1834
-通じる	form	1829
 降りる	form	1828
 下りる	form	1828
 打込む	form	1825
@@ -77291,8 +77278,6 @@ use_preset_vocabulary: false
 向く	front	1853
 出し	front	1852
 力む	front	1852
-極り	front	1849
-決り	front	1849
 表表紙	front	1755
 表二階	front	1755
 表看板	front	1755
@@ -77315,8 +77300,6 @@ use_preset_vocabulary: false
 丼ぶり	front	1693
 真っ向	front	1693
 真向き	front	1693
-極まり	front	1689
-決まり	front	1689
 出征家族	front	1635
 出征軍人	front	1635
 共同戦線	front	1635
@@ -77332,10 +77315,6 @@ use_preset_vocabulary: false
 陣中見舞い	front	1440
 浮びあがる	front	1439
 浮び上がる	front	1439
-喰いさがる	front	1435
-喰い下がる	front	1435
-食いさがる	front	1435
-食い下がる	front	1435
 浮かびあがる	front	1404
 浮かび上がる	front	1404
 間口	frontage	1279
@@ -77459,7 +77438,6 @@ use_preset_vocabulary: false
 凍み豆腐	frozen-tofu	939
 凍り豆腐	frozen-tofu	939
 果糖	fructose	1279
-経済的	frugal	1117
 倹約	frugality	1278
 勤倹	frugality	1278
 始末	frugality	1272
@@ -79741,7 +79719,6 @@ use_preset_vocabulary: false
 暮す	get	2092
 凝る	get	2092
 搦む	get	2092
-潜る	get	2092
 入る	get	2092
 潤む	get	2092
 拭う	get	2092
@@ -79790,6 +79767,7 @@ use_preset_vocabulary: false
 戴く	get	2085
 頂く	get	2085
 下る	get	2085
+外す	get	2083
 被る	get	2082
 冠る	get	2082
 詰る	get	2082
@@ -79893,7 +79871,6 @@ use_preset_vocabulary: false
 膨れる	get	1930
 斉える	get	1930
 逃がす	get	1930
-通じる	get	1930
 脹れる	get	1930
 整える	get	1930
 乱れる	get	1929
@@ -79903,6 +79880,7 @@ use_preset_vocabulary: false
 嵌まる	get	1928
 填まる	get	1928
 塡まる	get	1928
+通じる	get	1928
 押える	get	1928
 這入る	get	1928
 治まる	get	1928
@@ -79935,6 +79913,7 @@ use_preset_vocabulary: false
 上ル	get	1907
 あり付く	get	1813
 あわ立つ	get	1813
+しり合う	get	1813
 せき込む	get	1813
 草臥れる	get	1813
 乗っかる	get	1813
@@ -79970,10 +79949,12 @@ use_preset_vocabulary: false
 聞き出す	get	1813
 聞き込む	get	1813
 物にする	get	1813
+訊き出す	get	1813
 有りつく	get	1813
 有り付く	get	1813
 載っかる	get	1813
 在り付く	get	1813
+知りあう	get	1813
 知り合う	get	1813
 脂が乗る	get	1813
 住めば都	get	1813
@@ -80665,6 +80646,7 @@ use_preset_vocabulary: false
 脱ける	give	1763
 上がる	give	1753
 騰がる	give	1753
+通じる	give	1751
 上ル	give	1733
 臭わせる	give	1654
 譲りあう	give	1654
@@ -81625,8 +81607,8 @@ use_preset_vocabulary: false
 昇り降り	going	1673
 他所行き	going	1673
 堂々回り	going	1673
-堂々巡り	going	1673
 堂堂回り	going	1673
+堂々巡り	going	1673
 堂堂巡り	going	1673
 下り上り	going	1673
 先まわり	going	1673
@@ -81658,8 +81640,8 @@ use_preset_vocabulary: false
 巡廻	going-around	1279
 周回	going-around	1279
 堂々回り	going-around-in-circles	939
-堂堂回り	going-around-in-circles	939
 堂々巡り	going-around-in-circles	939
+堂堂回り	going-around-in-circles	939
 堂堂巡り	going-around-in-circles	939
 下船	going-ashore	1278
 退去	going-away	1278
@@ -82411,17 +82393,13 @@ use_preset_vocabulary: false
 電気製品	goods	1377
 消耗品費	goods	1377
 店ざらし	goods	1317
-詰合せる	goods	1317
 買い占め	goods	1317
 棚ざらし	goods	1317
 仕入れ物	goods	1317
 荷さばき	goods	1316
 俄仕込み	goods	1315
-詰め合せる	goods	1182
-詰合わせる	goods	1182
 裏付け物資	goods	1182
 俄か仕込み	goods	1180
-詰め合わせる	goods	1147
 にわか仕込み	goods	1145
 コンシューマ製品	goods	897
 大目玉	good-scolding	1119
@@ -82723,10 +82701,6 @@ use_preset_vocabulary: false
 掴みかかる	grab	804
 掴み掛かる	grab	804
 つかみ出す	grab	803
-喰いさがる	grab	799
-喰い下がる	grab	799
-食いさがる	grab	799
-食い下がる	grab	799
 武者振りつく	grab	769
 武者振り付く	grab	769
 むしゃぶり付く	grab	734
@@ -82885,6 +82859,7 @@ use_preset_vocabulary: false
 巣立つ	graduate	1307
 了える	graduate	1307
 終える	graduate	1307
+卒える	graduate	1307
 優等卒業生	graduate	1114
 高卒	graduated	1279
 大学院	graduate-school	1119
@@ -85226,13 +85201,10 @@ use_preset_vocabulary: false
 病氣	habit	1277
 持病	habit	1277
 習い	habit	1219
-極り	habit	1215
-決り	habit	1215
+病い	habit	1218
 乗馬服	habit	1119
 悪習慣	habit	1119
 飲酒癖	habit	1119
-極まり	habit	1055
-決まり	habit	1055
 癖になる	habit	939
 仕付ける	habit	938
 為付ける	habit	938
@@ -85251,23 +85223,15 @@ use_preset_vocabulary: false
 食生活	habits	1119
 不勉強	habits	1118
 常用	habitual	1279
-極り	habitual	1214
-決り	habitual	1214
 常習犯	habitual	1119
 常習者	habitual	1119
 何時も	habitual	1055
-極まり	habitual	1054
-決まり	habitual	1054
 常習犯	habitual-criminal	1119
 愛飲	habitually	1279
 愛用	habitually	1278
 愛用	habitually-used	1278
 常習者	habitual-offender	1119
 常用	habitual-use	1279
-極り	habitual-way	1214
-決り	habitual-way	1214
-極まり	habitual-way	1054
-決まり	habitual-way	1054
 慣れ	habituation	1218
 馴れ	habituation	1218
 体形	habitus	1275
@@ -86337,8 +86301,6 @@ use_preset_vocabulary: false
 つり下がる	hang	804
 ぶら下がる	hang	804
 ぶら下げる	hang	804
-喰いさがる	hang	804
-喰い下がる	hang	804
 垂れ下がる	hang	804
 垂れ下げる	hang	804
 電話をきる	hang	804
@@ -86348,8 +86310,6 @@ use_preset_vocabulary: false
 立ちこめる	hang	804
 立ち籠める	hang	804
 立ち込める	hang	804
-食いさがる	hang	804
-食い下がる	hang	804
 引っかける	hang	804
 引っ掛ける	hang	804
 引っ懸ける	hang	804
@@ -87106,7 +87066,6 @@ use_preset_vocabulary: false
 邪険	harsh	1278
 苦言	harsh	1277
 厳粛	harsh	1277
-辛口	harsh	1276
 渋い	harsh	1217
 澁い	harsh	1217
 辛い	harsh	1217
@@ -87253,15 +87212,12 @@ use_preset_vocabulary: false
 一夜造り	hastily	938
 一夜造り	hastily-written	938
 せざるを得ない	has-to-do	732
-俄	hasty	1797
 乱筆	hasty	1279
 盲断	hasty	1279
 性急	hasty	1279
 急造	hasty	1278
 拙速	hasty	1278
-俄か	hasty	1217
 早合点	hasty	1119
-仁輪加	hasty	1117
 走り書	hasty	1058
 走書き	hasty	1058
 速まる	hasty	1057
@@ -87270,7 +87226,6 @@ use_preset_vocabulary: false
 応急攻撃	hasty	999
 俄仕込み	hasty	939
 早がてん	hasty	939
-軽はずみ	hasty	938
 走り書き	hasty	938
 俄か仕込み	hasty	804
 早がってん	hasty	804
@@ -87523,6 +87478,7 @@ use_preset_vocabulary: false
 篏める	have	1941
 填める	have	1941
 塡める	have	1941
+通じる	have	1937
 堕とす	have	1935
 落とす	have	1935
 切れる	have	1935
@@ -88189,10 +88145,6 @@ use_preset_vocabulary: false
 反りかえる	head	1473
 一人あたり	head	1473
 一人当たり	head	1473
-喰いさがる	head	1469
-喰い下がる	head	1469
-食いさがる	head	1469
-食い下がる	head	1469
 首をかしげる	head	1439
 向こう鉢巻き	head	1439
 あったま来る	head	1436
@@ -89348,6 +89300,7 @@ use_preset_vocabulary: false
 人肌脱ぐ	help	1814
 手つだう	help	1814
 一肌脱ぐ	help	1814
+助けあう	help	1814
 助けだす	help	1814
 助け出す	help	1814
 助け合う	help	1814
@@ -89357,6 +89310,7 @@ use_preset_vocabulary: false
 堪らない	help	1810
 仕方ない	help	1804
 仕方無い	help	1804
+たすけ合う	help	1679
 ひと肌脱ぐ	help	1679
 助け起こす	help	1679
 助け上げる	help	1679
@@ -89902,7 +89856,6 @@ use_preset_vocabulary: false
 隱す	hide	1219
 伏す	hide	1215
 囲う	hide	1215
-潜る	hide	1213
 秘める	hide	1059
 匿れる	hide	1059
 潜める	hide	1059
@@ -90581,10 +90534,6 @@ use_preset_vocabulary: false
 御神輿	hips	1117
 お神輿	hips	1057
 お御輿	hips	1057
-喰いさがる	hips	799
-喰い下がる	hips	799
-食いさがる	hips	799
-食い下がる	hips	799
 平仮名	hiragana	1119
 ひら仮名	hiragana	939
 巻柱	hiraizumi	1279
@@ -91079,9 +91028,6 @@ use_preset_vocabulary: false
 抱込む	hold	1535
 差出す	hold	1535
 握らす	hold	1535
-咥える	hold	1535
-啣える	hold	1535
-銜える	hold	1535
 制する	hold	1535
 捕まる	hold	1534
 奉げる	hold	1534
@@ -91767,7 +91713,6 @@ use_preset_vocabulary: false
 賜る	honored	1218
 賜わる	honored	1058
 給わる	honored	1058
-通じる	honored	1054
 唯我独尊	honored	999
 上様	honored-person	1278
 優等卒業生	honor-graduate	864
@@ -92362,6 +92307,7 @@ use_preset_vocabulary: false
 泊り賃	hotel-charges	1059
 熱苦しい	hot-looking	937
 暑苦しい	hot-looking	937
+暑くるしい	hot-looking	802
 掛	hot-noodles-in-broth	1790
 懸	hot-noodles-in-broth	1790
 掛け	hot-noodles-in-broth	1210
@@ -92397,10 +92343,6 @@ use_preset_vocabulary: false
 給湯	hot-water-supply	1279
 猟犬	hound	1279
 強請る	hound	1057
-喰いさがる	hound	802
-喰い下がる	hound	802
-食いさがる	hound	802
-食い下がる	hound	802
 辰	hour	2327
 丑	hour	2327
 亥	hour	2327
@@ -94346,6 +94288,7 @@ use_preset_vocabulary: false
 作病	illness	1279
 難病	illness	1278
 風邪	illness	1277
+病い	illness	1219
 病き	illness	1218
 労き	illness	1218
 功り	illness	1214
@@ -94670,14 +94613,15 @@ use_preset_vocabulary: false
 直ぐ	immediately	1219
 直に	immediately	1219
 忽ち	immediately	1218
+俄に	immediately	1216
 平土間	immediately	1119
-一枚下	immediately	1118
 すぐ様	immediately	1059
 即座に	immediately	1059
 直ぐに	immediately	1059
 直ぐ様	immediately	1059
 その儘	immediately	1057
 其の儘	immediately	1057
+俄かに	immediately	1056
 直ぐさま	immediately	939
 其のまま	immediately	937
 一刻も早く	immediately	804
@@ -95407,7 +95351,6 @@ use_preset_vocabulary: false
 ぴんと来る	impress	799
 ピンと来る	impress	559
 感じる	impressed	1056
-感ずる	impressed	1056
 沁み透る	impressed	938
 染み通る	impressed	938
 染み透る	impressed	938
@@ -95494,6 +95437,7 @@ use_preset_vocabulary: false
 抽斗	impromptu	1277
 俄か	impromptu	1216
 即興曲	impromptu	1119
+仁和加	impromptu	1116
 仁輪加	impromptu	1116
 引出し	impromptu	1057
 抽き出し	impromptu	937
@@ -95502,6 +95446,7 @@ use_preset_vocabulary: false
 偶詠	impromptu-poem	1279
 俄	impromptu-skit	1795
 俄か	impromptu-skit	1215
+仁和加	impromptu-skit	1115
 仁輪加	impromptu-skit	1115
 邪道	improper	1279
 不可	improper	1278
@@ -95561,8 +95506,12 @@ use_preset_vocabulary: false
 効率向上	improvement	999
 効率向上	improvement-in-efficiency	999
 即興	improvisation	1279
+俄	improvised	1797
 即興	improvised	1278
 茶番	improvised	1277
+俄か	improvised	1217
+仁和加	improvised	1117
+仁輪加	improvised	1117
 不所存	imprudence	1119
 軽率	imprudent	1277
 軽卒	imprudent	1277
@@ -97097,7 +97046,6 @@ use_preset_vocabulary: false
 遷る	infected	1216
 移る	infected	1216
 感じる	infected	1055
-感ずる	infected	1055
 浸みる	infected	1053
 沁みる	infected	1053
 染みる	infected	1053
@@ -98439,6 +98387,7 @@ use_preset_vocabulary: false
 中衣くし	inside	1477
 引入れる	inside	1475
 ウラ話	inside	1417
+ひき入れる	inside	1340
 引きいれる	inside	1340
 引き入れる	inside	1340
 車内	inside-a-car	1279
@@ -98546,8 +98495,8 @@ use_preset_vocabulary: false
 強弁	insisting	1279
 強辯	insisting	1279
 侃々諤々	insisting	998
-侃侃諤々	insisting	998
 侃々諤諤	insisting	998
+侃侃諤々	insisting	998
 侃侃諤諤	insisting	998
 傍若無人	insolence	997
 旁若無人	insolence	997
@@ -99947,6 +99896,7 @@ use_preset_vocabulary: false
 仲よし	intimate	1056
 仲好し	intimate	1056
 仲良し	intimate	1056
+通じる	intimate	1041
 なれ合う	intimate	937
 睦まじい	intimate	937
 馴れ合う	intimate	937
@@ -99986,7 +99936,9 @@ use_preset_vocabulary: false
 適わない	intolerable	935
 目にあまる	intolerable	804
 鼻持ちならぬ	intolerable	769
+潔癖	intolerance	1276
 不寛容	intolerance	1119
+潔癖	intolerance-of-dishonesty	1276
 抑揚	intonation	1279
 音調	intonation	1278
 語調	intonation	1277
@@ -100034,10 +99986,10 @@ use_preset_vocabulary: false
 取入れる	introduce	937
 名乗り出る	introduce	804
 引き合せる	introduce	804
-引合わせる	introduce	804
 採り入れる	introduce	802
 穫り入れる	introduce	802
 取り入れる	introduce	802
+引きあわせる	introduce	769
 引き合わせる	introduce	769
 束髪	introduced	1279
 新字	introduced	1278
@@ -101953,6 +101905,7 @@ use_preset_vocabulary: false
 海月	jellyfish	1279
 水母	jellyfish	1279
 ぴくぴく動く	jerk	769
+マスを掻く	jerk	564
 ピクピク動く	jerk	529
 洒落	jest	1278
 戯ける	jest	1059
@@ -102847,7 +102800,6 @@ use_preset_vocabulary: false
 正に	just	2078
 直ぐ	just	2076
 為る	just	2060
-一枚下	just	1983
 一夜漬	just	1982
 今が今	just	1923
 念の為	just	1923
@@ -102932,7 +102884,6 @@ use_preset_vocabulary: false
 寸前	just-before	1279
 直前	just-before	1279
 昼前	just-before-noon	1278
-一枚下	just-beneath	1119
 大義名分	just-cause	999
 上等	just-fine	1277
 公義	justice	1577
@@ -103919,7 +103870,6 @@ use_preset_vocabulary: false
 粁	kilometer	1799
 キロ米	kilometer	879
 平方キロメートル	kilometer	519
-狂わす	kilter	1057
 沈菜	kimchi	1279
 袷	kimono	1799
 単	kimono	1797
@@ -104476,7 +104426,10 @@ use_preset_vocabulary: false
 近づく	know	1889
 近付く	know	1889
 分かる	know	1886
+通じる	know	1882
+しり合う	know	1772
 思い知る	know	1772
+知りあう	know	1772
 知り合う	know	1772
 知る限り	know	1772
 何故なら	know	1771
@@ -105555,7 +105508,6 @@ use_preset_vocabulary: false
 文体	language	1991
 演義	language	1991
 雅語	language	1990
-言方	language	1990
 符牒	language	1989
 符丁	language	1989
 符帳	language	1989
@@ -105581,12 +105533,15 @@ use_preset_vocabulary: false
 尊敬語	language	1832
 横文字	language	1830
 言い方	language	1770
+云い方	language	1770
 国籍言語	language	1712
 同種同文	language	1712
 言語特有	language	1712
 自然言語	language	1712
 花ことば	language	1652
 憎まれ口	language	1652
+言いかた	language	1650
+云いかた	language	1650
 にくまれ口	language	1517
 悪態をつく	language	1517
 遊ばせ言葉	language	1517
@@ -108667,7 +108622,6 @@ use_preset_vocabulary: false
 繋ぎ	liaison	1214
 連絡会	liaison	1119
 渉外部	liaison	1119
-通じる	liaison	1051
 なれ合い	liaison	937
 馴れ合い	liaison	937
 空軍連絡将校	liaison	829
@@ -108840,7 +108794,6 @@ use_preset_vocabulary: false
 抵当権	lien	1118
 先取特権	lien	999
 嘘八百	lies	1119
-一枚下	lies	1118
 うそ八百	lies	939
 嘘っ八百	lies	939
 ウソ八百	lies	759
@@ -109692,7 +109645,6 @@ use_preset_vocabulary: false
 こう言う	like-this	938
 同	likewise	1798
 同じく	likewise	1058
-辛口	liking	1278
 両刀	liking	1277
 趣味	liking	1277
 愛想	liking	1276
@@ -110368,6 +110320,7 @@ Linux系	linux	1387
 耳を澄ます	listen	1078
 聴きほれる	listen	1078
 聴き惚れる	listen	1078
+聞きかえす	listen	1078
 聞きほれる	listen	1078
 聞き惚れる	listen	1078
 尊	listener	1798
@@ -110392,6 +110345,7 @@ Linux系	linux	1387
 聞き取り	listening	939
 聞きだす	listening	937
 聞き出す	listening	937
+訊き出す	listening	937
 謹聴	listening-attentively	1279
 傾聴	listening-closely	1279
 傾聽	listening-closely	1279
@@ -111649,11 +111603,13 @@ Linux系	linux	1387
 大砲	long-ball	1277
 大砲	long-ball-hitter	1277
 本望	long-cherished	1279
+本願	long-cherished	1279
 久懐	long-cherished	1279
 夙志	long-cherished	1279
 宿望	long-cherished	1279
 年来	long-cherished	1278
 本望	long-cherished-desire	1279
+本願	long-cherished-desire	1279
 夙志	long-cherished-desire	1279
 宿望	long-cherished-desire	1279
 久懐	long-cherished-hope	1279
@@ -112736,6 +112692,7 @@ Linux系	linux	1387
 ひと山	lot	1709
 身の上	lot	1709
 張込む	lot	1708
+通じる	lot	1701
 一ぱい	lot	1701
 一連托生	lot	1651
 一蓮托生	lot	1651
@@ -112901,8 +112858,6 @@ Linux系	linux	1387
 思い	love	1991
 想い	love	1991
 詣る	love	1991
-極り	love	1989
-決り	love	1989
 愛郷心	love	1896
 動物愛	love	1896
 横恋慕	love	1896
@@ -112925,7 +112880,6 @@ Linux系	linux	1387
 恍れる	love	1836
 頸っ丈	love	1836
 酒好き	love	1836
-恋する	love	1836
 恋疲れ	love	1836
 恋死に	love	1836
 恋占い	love	1836
@@ -112940,8 +112894,6 @@ Linux系	linux	1387
 心変り	love	1835
 縁結び	love	1835
 愛しむ	love	1829
-極まり	love	1829
-決まり	love	1829
 吝しむ	love	1829
 惜しむ	love	1829
 恋愛関係	love	1776
@@ -113323,10 +113275,6 @@ Linux系	linux	1387
 うち解ける	lower	1336
 垂れ下げる	lower	1336
 打ち解ける	lower	1336
-喰いさがる	lower	1332
-喰い下がる	lower	1332
-食いさがる	lower	1332
-食い下がる	lower	1332
 臍下	lower-abdomen	1279
 下等動物	lower-animals	999
 腰	lower-back	1799
@@ -113906,6 +113854,7 @@ Linux系	linux	1387
 誘き出す	lure	939
 引入れる	lure	937
 おびき出す	lure	804
+ひき入れる	lure	802
 落し入れる	lure	802
 引きいれる	lure	802
 引き入れる	lure	802
@@ -114126,7 +114075,6 @@ Linux系	linux	1387
 狂犬	mad	1279
 狂う	mad	1219
 狂しい	mad	1059
-狂わす	mad	1059
 狂おしい	mad	939
 気が狂う	mad	939
 気がくるう	mad	804
@@ -115215,6 +115163,7 @@ Linux系	linux	1387
 立ち上がる	make	1654
 起ち上がる	make	1654
 打ち解け難い	make	1625
+埋めあわせる	make	1625
 埋め合わせる	make	1625
 明らかにする	make	1625
 入れ合わせる	make	1625
@@ -115610,7 +115559,6 @@ Linux系	linux	1387
 誤作動	malfunction	1119
 不工合	malfunction	1117
 不具合	malfunction	1117
-狂わす	malfunction	1058
 馬稼	malfunctioning	1272
 馬鹿	malfunctioning	1272
 莫迦	malfunctioning	1272
@@ -117908,10 +117856,6 @@ Linux系	linux	1387
 帝廟	mausoleum	1279
 回し	mawashi	1219
 廻し	mawashi	1219
-喰いさがる	mawashi	799
-喰い下がる	mawashi	799
-食いさがる	mawashi	799
-食い下がる	mawashi	799
 句	maxim	1794
 最大化	maximization	1119
 極大	maximum	1719
@@ -121470,6 +121414,7 @@ Linux系	linux	1387
 寄せ集め	mishmash	939
 誤報	misinformation	1278
 曲解	misinterpretation	1279
+外す	misjudge	1208
 見損う	misjudge	1059
 見誤る	misjudge	1058
 読誤る	misjudge	1056
@@ -123991,6 +123936,9 @@ Linux系	linux	1387
 悔む	mourn	1219
 弔する	mourn	1059
 悔やむ	mourn	1059
+愁える	mourn	1056
+患える	mourn	1056
+憂える	mourn	1056
 喪主	mourner	1279
 沈痛	mournful	1278
 忌	mourning	1799
@@ -124075,9 +124023,6 @@ Linux系	linux	1387
 口もと	mouth	1059
 口辺に	mouth	1059
 口書き	mouth	1059
-咥える	mouth	1059
-啣える	mouth	1059
-銜える	mouth	1059
 口移し	mouth	1057
 入り口	mouth	1057
 含める	mouth	1056
@@ -124244,7 +124189,6 @@ Linux系	linux	1387
 脆い	moved	1216
 出戻り	moved	1059
 感じる	moved	1057
-感ずる	moved	1057
 便通	movement	1279
 動態	movement	1279
 動作	movement	1279
@@ -124263,6 +124207,7 @@ Linux系	linux	1387
 う回	movement	1218
 荷動き	movement	1059
 値動き	movement	1059
+通じる	movement	1039
 第一楽章	movement	999
 独立運動	movement	999
 革命運動	movement	999
@@ -125357,6 +125302,7 @@ Linux系	linux	1387
 むき出し	naked	1211
 剥きだし	naked	1211
 剥き出し	naked	1211
+裸になる	naked	1210
 一糸纏わぬ	naked	1076
 一糸まとわぬ	naked	1041
 赤裸	naked-barley	1276
@@ -128275,6 +128221,7 @@ Linux系	linux	1387
 何の気なしに	nonchalantly	767
 何の気無しに	nonchalantly	767
 なんの気なしに	nonchalantly	732
+なんの気無しに	nonchalantly	732
 非営利	non-commercial	1118
 兵食	noncommissioned	1279
 下士	noncommissioned	1279
@@ -129191,7 +129138,6 @@ Linux系	linux	1387
 傍訓	notes	1844
 傍注	notes	1844
 傍註	notes	1844
-筆記	notes	1844
 草稿	notes	1844
 凡例	notes	1844
 虎巻	notes	1844
@@ -129202,6 +129148,7 @@ Linux系	linux	1387
 割注	notes	1843
 訳注	notes	1843
 訳註	notes	1843
+筆記	notes	1842
 別記	notes	1842
 文書	notes	1842
 三徳	notes	1840
@@ -130945,6 +130892,7 @@ Linux系	linux	1387
 秘境	off	2103
 縄張	off	2103
 休暇	off	2103
+対峠	off	2102
 対峙	off	2102
 厄日	off	2102
 分派	off	2102
@@ -131354,6 +131302,7 @@ Linux系	linux	1387
 反りがあわない	off	1558
 反りが合わない	off	1558
 キリトリ線	off	1449
+マスを掻く	off	1389
 ソリが合わない	off	1318
 ピントが外れる	off	1318
 片	off-centre	1795
@@ -131603,6 +131552,7 @@ Linux系	linux	1387
 応接室	office	1937
 勤め人	office	1879
 外回り	office	1878
+外廻り	office	1878
 出先機関	office	1819
 公証役場	office	1819
 管轄官庁	office	1819
@@ -131613,6 +131563,8 @@ Linux系	linux	1387
 営業時間	office	1818
 ご用納め	office	1759
 御用納め	office	1759
+そと回り	office	1758
+外まわり	office	1758
 事ム所	office	1699
 郵便私書箱	office	1684
 日本国特許庁	office	1649
@@ -131855,6 +131807,7 @@ Linux系	linux	1387
 偏り	offset	1218
 片寄り	offset	1058
 埋め合せる	offset	803
+埋めあわせる	offset	768
 埋め合わせる	offset	768
 児	offshoot	1793
 子	offshoot	1793
@@ -133507,7 +133460,6 @@ Linux系	linux	1387
 燻る	oneself	1215
 願う	oneself	1215
 招く	oneself	1214
-潜る	oneself	1213
 遊ぶ	oneself	1213
 降る	oneself	1211
 下る	oneself	1211
@@ -134015,6 +133967,7 @@ Linux系	linux	1387
 一足とび	one-step	938
 一足飛び	one-step	938
 一足跳び	one-step	938
+一枚下	one-step-below	1119
 一枚上	one-step-higher	1119
 島	ones-territory	1798
 嶋	ones-territory	1798
@@ -134975,10 +134928,6 @@ Linux系	linux	1387
 うち込む	opponent's	928
 打ちこむ	opponent's	928
 打ち込む	opponent's	928
-喰いさがる	opponent's	799
-喰い下がる	opponent's	799
-食いさがる	opponent's	799
-食い下がる	opponent's	799
 丁度	opportunely	1277
 恰度	opportunely	1277
 機宜	opportuneness	1279
@@ -135785,7 +135734,6 @@ Linux系	linux	1387
 本格	original	1950
 本木	original	1950
 本訴	original	1950
-本願	original	1950
 初心	original	1950
 初志	original	1950
 創意	original	1950
@@ -135820,6 +135768,7 @@ Linux系	linux	1387
 正本	original	1950
 正副	original	1950
 本書	original	1949
+本願	original	1949
 本字	original	1949
 正編	original	1949
 正篇	original	1949
@@ -136069,6 +136018,7 @@ Linux系	linux	1387
 別言	other	2164
 此間	other	2164
 点睛	other	2164
+対峠	other	2164
 対峙	other	2164
 分身	other	2164
 隔日	other	2164
@@ -136170,6 +136120,7 @@ Linux系	linux	1387
 引合い	other	1940
 向こう	other	1939
 いずれ又	other	1824
+しり合う	other	1824
 すれ違い	other	1824
 すれ違う	other	1824
 その半面	other	1824
@@ -136202,7 +136153,9 @@ Linux系	linux	1387
 言い合う	other	1824
 一日置き	other	1824
 誘い合う	other	1824
+知りあう	other	1824
 知り合う	other	1824
+助けあう	other	1824
 助け合う	other	1824
 酌み交す	other	1824
 草場の影	other	1823
@@ -136232,6 +136185,7 @@ Linux系	linux	1387
 引き合い	other	1820
 ウラ側	other	1763
 五十歩百歩	other	1749
+たすけ合う	other	1689
 となり合う	other	1689
 にらみ合う	other	1689
 別言すれば	other	1689
@@ -136240,6 +136194,7 @@ Linux系	linux	1387
 鍔競り合い	other	1689
 鍔迫り合い	other	1689
 何だかんだ	other	1689
+何だ彼んだ	other	1689
 換言すれば	other	1689
 睨み合せる	other	1689
 向かいあう	other	1689
@@ -136411,8 +136366,10 @@ Linux系	linux	1387
 可き	ought-to	1218
 ウィジャ板	ouija	624
 ウィジャ盤	ouija	624
+ウイジャ盤	ouija	624
 ウィジャ板	ouija-board	624
 ウィジャ盤	ouija-board	624
+ウイジャ盤	ouija-board	624
 欠片	ounce	1276
 欠けら	ounce	1056
 裡	our	2674
@@ -136825,7 +136782,6 @@ Linux系	linux	1387
 案じる	out	1937
 案ずる	out	1937
 遁げる	out	1937
-狂わす	out	1937
 立退く	out	1937
 滅びる	out	1937
 判じる	out	1937
@@ -136883,6 +136839,7 @@ Linux系	linux	1387
 墜ちる	out	1923
 当たる	out	1920
 中たる	out	1920
+通じる	out	1916
 上ル	out	1913
 初志貫徹	out	1879
 市場撤退	out	1879
@@ -137029,6 +136986,7 @@ Linux系	linux	1387
 聞きだす	out	1819
 聞き出す	out	1819
 嗅ぎ出す	out	1819
+訊き出す	out	1819
 押し出し	out	1819
 押し出す	out	1819
 魘される	out	1819
@@ -137455,6 +137413,9 @@ Linux系	linux	1387
 外づら	outer	1059
 外がわ	outer	1058
 外回り	outer	1057
+外廻り	outer	1057
+そと回り	outer	937
+外まわり	outer	937
 外郭	outer-block	1278
 外廓	outer-block	1278
 上箱	outer-box	1279
@@ -137480,6 +137441,9 @@ Linux系	linux	1387
 外面	outer-surface	1279
 外づら	outer-surface	1059
 外回り	outer-tracks	1057
+外廻り	outer-tracks	1057
+そと回り	outer-tracks	937
+外まわり	outer-tracks	937
 外壁	outer-wall	1279
 表着	outerwear	1278
 上衣	outerwear	1278
@@ -137735,11 +137699,14 @@ Linux系	linux	1387
 町外れ	outside	1563
 街外れ	outside	1563
 外回り	outside	1563
+外廻り	outside	1563
 目隠し	outside	1561
 畑ちがい	outside	1444
+そと回り	outside	1443
 町はずれ	outside	1443
 街はずれ	outside	1443
 上手投げ	outside	1443
+外まわり	outside	1443
 目かくし	outside	1441
 院外	outside-congress	1279
 外角	outside-corner	1278
@@ -137801,8 +137768,8 @@ Linux系	linux	1387
 赤裸々	outspoken	1116
 赤裸裸	outspoken	1116
 侃々諤々	outspoken	999
-侃侃諤々	outspoken	999
 侃々諤諤	outspoken	999
+侃侃諤々	outspoken	999
 侃侃諤諤	outspoken	999
 抜群	outstanding	1279
 出色	outstanding	1279
@@ -138302,6 +138269,7 @@ Linux系	linux	1387
 油をしぼる	over	1666
 振りかえる	over	1666
 振り替える	over	1666
+ひき入れる	over	1664
 言いかえす	over	1664
 引きいれる	over	1664
 引きうける	over	1664
@@ -139908,6 +139876,7 @@ Linux系	linux	1387
 互格	par	1277
 互角	par	1277
 牛角	par	1277
+通じる	par	1045
 額面割れ	par	939
 喩	parable	1796
 例え	parable	1216
@@ -141260,7 +141229,6 @@ Linux系	linux	1387
 曰く	past	1866
 此の	past	1865
 斯の	past	1865
-潜る	past	1863
 古い	past	1862
 故い	past	1862
 旧い	past	1862
@@ -143719,8 +143687,6 @@ Linux系	linux	1387
 指す	person	1940
 掛り	person	1937
 懸り	person	1937
-極り	person	1936
-決り	person	1936
 向き	person	1936
 為る	person	1927
 当る	person	1920
@@ -143943,8 +143909,6 @@ Linux系	linux	1387
 神さま	person	1778
 掛かり	person	1777
 懸かり	person	1777
-極まり	person	1776
-決まり	person	1776
 当たる	person	1760
 中たる	person	1760
 不所存者	person	1722
@@ -145641,8 +145605,8 @@ Linux系	linux	1387
 組み敷く	pin	938
 押さえ込む	pin	804
 押したおす	pin	804
-押えつける	pin	803
 抑えつける	pin	803
+抑え付ける	pin	803
 押さえつける	pin	768
 押さえ付ける	pin	768
 鼻眼鏡	pince-nez	1119
@@ -146260,10 +146224,6 @@ Linux系	linux	1387
 くっ付ける	place	1597
 打ちすえる	place	1597
 打ち据える	place	1597
-喰いさがる	place	1594
-喰い下がる	place	1594
-食いさがる	place	1594
-食い下がる	place	1594
 つき合わせる	place	1564
 突き合わせる	place	1564
 立つ鳥後を濁さず	place	1493
@@ -146804,6 +146764,7 @@ Linux系	linux	1387
 焼付ける	plate	932
 焼きつける	plate	797
 焼き付ける	plate	797
+サラダ皿	plate	759
 台	plateau	1788
 台地	plateau	1279
 蒙古	plateau	1278
@@ -150005,7 +149966,6 @@ Linux系	linux	1387
 讚美	praise	1279
 謙る	praise	1219
 遜る	praise	1219
-褒言葉	praise	1119
 褒める	praise	1059
 褒め詞	praise	1059
 称える	praise	1059
@@ -150029,6 +149989,7 @@ Linux系	linux	1387
 持て栄す	praise	939
 持て囃す	praise	939
 誉め殺し	praise	939
+誉め言葉	praise	939
 持上げる	praise	936
 褒めたてる	praise	804
 褒めちぎる	praise	804
@@ -151268,11 +151229,11 @@ Linux系	linux	1387
 刷り上がる	press	1564
 問いつめる	press	1564
 問い詰める	press	1564
-押えつける	press	1564
 押しつける	press	1564
 押し付ける	press	1564
 押し固める	press	1564
 抑えつける	press	1564
+抑え付ける	press	1564
 摺り付ける	press	1564
 追いたてる	press	1562
 追い立てる	press	1562
@@ -151534,6 +151495,7 @@ Linux系	linux	1387
 流行	prevalence	1276
 横行	prevalent	1278
 流行る	prevalent	1058
+通じる	prevalent	1047
 天魔	prevent	1279
 補導	prevent	1277
 輔導	prevent	1277
@@ -153708,6 +153670,7 @@ Linux系	linux	1387
 本来	proper	1275
 満足	proper	1275
 滿足	proper	1275
+粗末	proper	1274
 大抵	proper	1274
 全う	proper	1219
 常分数	proper	1119
@@ -154036,16 +153999,12 @@ Linux系	linux	1387
 天神	prostitute	1274
 呼出	prostitute	1273
 転ぶ	prostitute	1215
-極り	prostitute	1212
-決り	prostitute	1212
 売春婦	prostitute	1119
 売笑婦	prostitute	1119
 鼠鳴き	prostitute	1059
 売り児	prostitute	1056
 売り子	prostitute	1056
 呼出し	prostitute	1053
-極まり	prostitute	1052
-決まり	prostitute	1052
 呼び出し	prostitute	933
 黒人	prostitutes	1276
 玄人	prostitutes	1276
@@ -155928,6 +155887,7 @@ Linux系	linux	1387
 切り殺す	put	1612
 辱しめる	put	1612
 書留める	put	1612
+踏みぬく	put	1612
 踏み抜く	put	1612
 踏み貫く	put	1612
 討ち果す	put	1612
@@ -156249,7 +156209,6 @@ Linux系	linux	1387
 物	quality	2561
 半襟	quality	2049
 本領	quality	2049
-歯質	quality	2049
 画質	quality	2049
 良質	quality	2049
 品質	quality	2049
@@ -156306,7 +156265,6 @@ Linux系	linux	1387
 品質管理	quality-control	999
 響	quality-of-a-sound	1797
 響き	quality-of-a-sound	1217
-歯質	quality-of-teeth	1279
 材質	quality-of-wood	1277
 謹製	quality-product	1278
 良品	quality-product	1278
@@ -156551,6 +156509,7 @@ Linux系	linux	1387
 問いつめる	question	1507
 問い掛ける	question	1507
 問い詰める	question	1507
+聞きかえす	question	1506
 処ではない	question	1505
 所ではない	question	1505
 もっての外	question	1504
@@ -158297,6 +158256,7 @@ Linux系	linux	1387
 間合い	reach	1057
 行渡る	reach	1057
 伸ばす	reach	1056
+通じる	reach	1056
 延ばす	reach	1056
 邀える	reach	1053
 迎える	reach	1053
@@ -158423,7 +158383,9 @@ Linux系	linux	1387
 旁点	reader's	1279
 投書欄	readers'-column	1119
 読者層	readership	1119
+俄に	readily	1217
 安売り	readily	1057
+俄かに	readily	1057
 君子豹変	readily	999
 構	readiness	1795
 覚悟	readiness	1279
@@ -160665,10 +160627,6 @@ Linux系	linux	1387
 粗大ごみ	refuse	939
 撥ねつける	refuse	804
 撥ね付ける	refuse	804
-喰いさがる	refuse	801
-喰い下がる	refuse	801
-食いさがる	refuse	801
-食い下がる	refuse	801
 粗大ゴミ	refuse	759
 うの花	refuse-from-tofu	1058
 卯の花	refuse-from-tofu	1058
@@ -161290,8 +161248,6 @@ Linux系	linux	1387
 系統	relationship	1606
 挨拶	relationship	1602
 江に	relationship	1550
-極り	relationship	1544
-決り	relationship	1544
 当る	relationship	1528
 中る	relationship	1528
 遠距離	relationship	1450
@@ -161308,8 +161264,6 @@ Linux系	linux	1387
 交わる	relationship	1387
 控える	relationship	1385
 扣える	relationship	1385
-極まり	relationship	1384
-決まり	relationship	1384
 当たる	relationship	1368
 中たる	relationship	1368
 不側不離	relationship	1331
@@ -161487,6 +161441,7 @@ Linux系	linux	1387
 関連性	relevance	1117
 当該	relevant	1577
 該当	relevant	1577
+通じる	relevant	1339
 高信頼性	reliability	999
 確	reliable	1797
 地道	reliable	1277
@@ -162357,6 +162312,7 @@ Linux系	linux	1387
 くり返し	repeatedly	936
 繰り返し	repeatedly	936
 打ちまくる	repeatedly	804
+聞きかえす	repeatedly	804
 呉れ呉れも	repeatedly	802
 繰りかえし	repeatedly	801
 三嘆	repeatedly-lamenting	1278
@@ -164175,6 +164131,7 @@ Linux系	linux	1387
 引上げる	return	1714
 打ちかえす	return	1585
 突きかえす	return	1585
+聞きかえす	return	1584
 押しかえす	return	1583
 折りかえす	return	1583
 引きあげる	return	1579
@@ -165188,6 +165145,7 @@ Linux系	linux	1387
 占取権	right	1941
 占有権	right	1941
 真最中	right	1941
+一枚下	right	1940
 優先権	right	1940
 有権者	right	1939
 すぐ側	right	1881
@@ -165426,6 +165384,7 @@ Linux系	linux	1387
 使用権	right-to-use	1119
 正道	right-track	1278
 真下	right-under	1279
+一枚下	right-underneath	1118
 右派	right-wing	1279
 右翼	right-wing	1279
 右傾	right-wing	1277
@@ -166368,8 +166327,8 @@ Linux系	linux	1387
 堂々巡り	roll-call	937
 堂堂巡り	roll-call	937
 堂々回り	roll-call-vote	937
-堂堂回り	roll-call-vote	937
 堂々巡り	roll-call-vote	937
+堂堂回り	roll-call-vote	937
 堂堂巡り	roll-call-vote	937
 目	rolled	1779
 眼	rolled	1779
@@ -167493,8 +167452,6 @@ Linux系	linux	1387
 規定	rule	1706
 大凡	rule	1705
 尺度	rule	1704
-極り	rule	1648
-決り	rule	1648
 凡そ	rule	1645
 司る	rule	1645
 掌る	rule	1645
@@ -167506,8 +167463,6 @@ Linux系	linux	1387
 不文律	rule	1547
 多数決	rule	1547
 滑り尺	rule	1488
-極まり	rule	1488
-決まり	rule	1488
 統べる	rule	1488
 治める	rule	1488
 総べる	rule	1488
@@ -168576,7 +168531,6 @@ Linux系	linux	1387
 桜飯	sake	1279
 猪口	sake	1279
 後生	sake	1278
-辛口	sake	1278
 正宗	sake	1278
 酒屋	sake	1277
 賢人	sake	1277
@@ -168635,6 +168589,8 @@ Linux系	linux	1387
 淫乱	salacious	1277
 好き	salacious	1211
 好色	salaciousness	1278
+サラダ皿	salad	759
+サラダ皿	salad-plate	759
 鯢	salamander	1799
 山椒魚	salamander	1119
 有給	salaried	1279
@@ -168857,7 +168813,6 @@ Linux系	linux	1387
 潮風呂	saltwater-bath	1119
 塩風呂	saltwater-bath	1119
 塩味	salty	1279
-辛口	salty	1277
 辛い	salty	1218
 塩っぱい	salty	939
 塩味	salty-taste	1279
@@ -169777,7 +169732,6 @@ Linux系	linux	1387
 口癖	saying	1279
 名言	saying	1279
 俗説	saying	1279
-言方	saying	1279
 過言	saying	1278
 切言	saying	1278
 電波	saying	1277
@@ -169787,11 +169741,14 @@ Linux系	linux	1387
 下世話	saying	1119
 口ぐせ	saying	1059
 言い方	saying	1059
+云い方	saying	1059
 言張る	saying	1058
 言切る	saying	1057
 知れる	saying	1054
 年中失言	saying	999
 申遅れる	saying	939
+言いかた	saying	939
+云いかた	saying	939
 言いはる	saying	938
 言い張る	saying	938
 言習わす	saying	938
@@ -170970,6 +170927,7 @@ Linux系	linux	1387
 弾幕	scrolling	1276
 双幅	scrolls	1279
 万巻	scrolls	1279
+守銭奴	scrooge	1118
 陰嚢	scrotum	1279
 陰囊	scrotum	1279
 陰のう	scrotum	1059
@@ -171000,6 +170958,7 @@ Linux系	linux	1387
 行き届く	scrupulous	939
 行きとどく	scrupulous	804
 厳守	scrupulous-compliance	1278
+潔癖	scrupulousness	1277
 じろじろ見る	scrutinise	767
 ジロジロ見る	scrutinise	527
 精査	scrutiny	1278
@@ -172173,6 +172132,7 @@ Linux系	linux	1387
 堕とす	secretly	1052
 落とす	secretly	1052
 墜とす	secretly	1052
+通じる	secretly	1044
 面従腹背	secretly	999
 人知れず	secretly	939
 隠しどり	secretly	939
@@ -172465,6 +172425,7 @@ Linux系	linux	1387
 見付ける	seeing	936
 見附ける	seeing	936
 見損なう	seeing	936
+視付ける	seeing	936
 見そこなう	seeing	801
 奉送	seeing-an-emperor-off	1279
 望遠	seeing-at-a-distance	1279
@@ -174560,8 +174521,6 @@ Linux系	linux	1387
 和解	settlement	1276
 会計	settlement	1274
 勘定	settlement	1274
-極り	settlement	1218
-決り	settlement	1218
 後始末	settlement	1119
 跡始末	settlement	1119
 居留地	settlement	1119
@@ -174570,8 +174529,6 @@ Linux系	linux	1387
 殖民地	settlement	1118
 慰藉料	settlement	1117
 慰謝料	settlement	1117
-極まり	settlement	1058
-決まり	settlement	1058
 仕切り	settlement	1057
 纏まり	settlement	1056
 勘定日	settlement-day	1119
@@ -175834,6 +175791,7 @@ Linux系	linux	1387
 力尽で	sheer	1059
 単なる	sheer	1058
 力ずくで	sheer	939
+力づくで	sheer	939
 力尽くで	sheer	939
 屏風岩	sheer-cliff	1119
 板	sheet	2084
@@ -179671,6 +179629,7 @@ Linux系	linux	1387
 漫才	skit	1278
 万才	skit	1278
 俄か	skit	1215
+仁和加	skit	1115
 仁輪加	skit	1115
 髑髏	skull	1279
 曝首	skull	1279
@@ -180236,7 +180195,6 @@ Linux系	linux	1387
 誤り	slip	1218
 滑る	slip	1217
 辷る	slip	1217
-潜る	slip	1215
 売上票	slip	1119
 御神籤	slip	1119
 御御籤	slip	1119
@@ -180893,6 +180851,8 @@ Linux系	linux	1387
 小道具	small-tool	1119
 小滝	small-waterfall	1279
 才槌	small-wooden-mallet	1279
+賢い	smart	2020
+利口	smart	1830
 乙	smart	1796
 味	smart	1794
 鯔背	smart	1278
@@ -180900,7 +180860,6 @@ Linux系	linux	1387
 軽妙	smart	1277
 疼く	smart	1218
 畏い	smart	1218
-賢い	smart	1218
 気のきいた	smart	803
 気の利いた	smart	803
 洒落	smartly	1276
@@ -181514,7 +181473,6 @@ Linux系	linux	1387
 爪弾き	snub	1057
 つま弾き	snub	937
 爪はじき	snub	937
-潜る	snuggle	1214
 擦寄る	snuggle	1058
 すり寄る	snuggle	938
 擦り寄る	snuggle	938
@@ -182418,6 +182376,7 @@ Linux系	linux	1387
 何やかや	something-or-other	938
 何や彼や	something-or-other	938
 何だかんだ	something-or-other	804
+何だ彼んだ	something-or-other	804
 何とか彼とか	something-or-other	769
 何とかかんとか	something-or-other	734
 幾ら	something-over	1218
@@ -182799,9 +182758,6 @@ Linux系	linux	1387
 患い	sorrow	1219
 憂い	sorrow	1219
 泣暮す	sorrow	1058
-愁える	sorrow	1056
-患える	sorrow	1056
-憂える	sorrow	1056
 悲喜交々	sorrow	998
 悲喜交交	sorrow	998
 泣き暮す	sorrow	938
@@ -182876,6 +182832,7 @@ Linux系	linux	1387
 様に	so-that	1218
 謂わば	so-to-speak	1059
 言わば	so-to-speak	1059
+云わば	so-to-speak	1059
 お尋ね者	sought	939
 御尋ね者	sought	939
 おたずね者	sought	804
@@ -183446,6 +183403,7 @@ Linux系	linux	1387
 架かる	span	1059
 股がる	span	1057
 跨がる	span	1057
+通じる	span	1033
 一指当たり	span	804
 鰆	spanish	2112
 無敵艦隊	spanish	1312
@@ -183590,6 +183548,7 @@ Linux系	linux	1387
 話せる	speak	1059
 謂わば	speak	1059
 言わば	speak	1059
+云わば	speak	1059
 毒づく	speak	1058
 毒突く	speak	1058
 惚気る	speak	1058
@@ -185150,7 +185109,6 @@ Linux系	linux	1387
 伸ばす	spread	1054
 懸ける	spread	1054
 延ばす	spread	1054
-通じる	spread	1050
 触れる	spread	1049
 飛ばす	spread	1046
 燃え移る	spread	939
@@ -186172,6 +186130,7 @@ Linux系	linux	1387
 常任	standing	1279
 常設	standing	1279
 待機	standing	1279
+対峠	standing	1279
 対峙	standing	1279
 分際	standing	1279
 分限	standing	1279
@@ -186253,6 +186212,7 @@ Linux系	linux	1387
 遜色がない	standing-comparison-with	804
 遜色が無い	standing-comparison-with	804
 直立	standing-erect	1278
+対峠	standing-facing-each-other	1279
 対峙	standing-facing-each-other	1279
 標榜	standing-for	1279
 標ぼう	standing-for	1059
@@ -186263,6 +186223,7 @@ Linux系	linux	1387
 櫛比	standing-in-a-row	1279
 濫立	standing-in-large-numbers	1278
 乱立	standing-in-large-numbers	1278
+対峠	standing-off-against	1277
 対峙	standing-off-against	1277
 他人行儀	standing-on-formality	999
 爪立ち	standing-on-tiptoes	1059
@@ -187434,6 +187395,7 @@ Linux系	linux	1387
 破る	step	1801
 第一歩	step	1710
 一枚上	step	1710
+一枚下	step	1710
 一足飛	step	1709
 ひと足	step	1650
 二の足	step	1650
@@ -187457,6 +187419,7 @@ Linux系	linux	1387
 一歩一歩	step	1590
 進み出る	step	1530
 踏みだす	step	1530
+踏みぬく	step	1530
 踏み抜く	step	1530
 踏み出す	step	1530
 踏み貫く	step	1530
@@ -189462,6 +189425,7 @@ Linux系	linux	1387
 力試し	strength	1059
 萎える	strength	1059
 力ずくで	strength	939
+力づくで	strength	939
 力まかせ	strength	939
 力合わせ	strength	939
 力尽くで	strength	939
@@ -189869,6 +189833,7 @@ Linux系	linux	1387
 折ぐ	strip	1215
 滑走路	strip	1118
 一衣帯水	strip	999
+裸になる	strip	938
 縞	stripe	1799
 一条	stripe	1278
 鰡	striped	1799
@@ -190563,6 +190528,7 @@ Linux系	linux	1387
 籠もる	stuffy	1053
 熱苦しい	stuffy	938
 暑苦しい	stuffy	938
+暑くるしい	stuffy	803
 株	stump	1798
 杭	stump	1797
 杙	stump	1797
@@ -191565,6 +191531,7 @@ Linux系	linux	1387
 急降下	sudden	1119
 急上昇	sudden	1119
 急停車	sudden	1119
+仁和加	sudden	1119
 仁輪加	sudden	1119
 天狗風	sudden	1119
 突発的	sudden	1119
@@ -192036,6 +192003,7 @@ Linux系	linux	1387
 熱苦しい	sultry	939
 暑苦しい	sultry	939
 蒸し蒸し	sultry	938
+暑くるしい	sultry	804
 和	sum	1799
 倭	sum	1799
 也	sum	1797
@@ -192947,9 +192915,9 @@ Linux系	linux	1387
 圧さえる	suppress	926
 押さえる	suppress	926
 圧しころす	suppress	802
-押えつける	suppress	802
 押しころす	suppress	802
 抑えつける	suppress	802
+抑え付ける	suppress	802
 押さえ込む	suppress	801
 押しつぶす	suppress	801
 押さえつける	suppress	767
@@ -193393,7 +193361,6 @@ Linux系	linux	1387
 啖う	survive	1217
 食う	survive	1217
 凌ぐ	survive	1216
-潜る	survive	1214
 立つ	survive	1196
 助かる	survive	1058
 生き残る	survive	939
@@ -195907,9 +195874,11 @@ Linux系	linux	1387
 捲くし立てる	talking	768
 ウィジャ板	talking	623
 ウィジャ盤	talking	623
+ウイジャ盤	talking	623
 口返答	talking-back	1119
 ウィジャ板	talking-board	623
 ウィジャ盤	talking-board	623
+ウイジャ盤	talking-board	623
 口が巧い	talking-glibly	937
 口がうまい	talking-glibly	802
 口が上手い	talking-glibly	802
@@ -197044,7 +197013,6 @@ Linux系	linux	1387
 歯形	teeth	1279
 歯型	teeth	1279
 歯牙	teeth	1279
-歯質	teeth	1279
 鋸歯	teeth	1279
 上歯	teeth	1279
 下歯	teeth	1279
@@ -197218,10 +197186,12 @@ Linux系	linux	1387
 言いきる	tell	1596
 言い切る	tell	1596
 申聞かせる	tell	1464
+言いきかす	tell	1464
 言いつける	tell	1464
 言い付ける	tell	1464
 言い聞かす	tell	1464
 言聞かせる	tell	1464
+云い聞かす	tell	1464
 仰せつける	tell	1463
 仰せ付ける	tell	1463
 仰っしゃる	tell	1463
@@ -197671,10 +197641,6 @@ Linux系	linux	1387
 執念深い	tenacious	939
 ねばり強い	tenacious	804
 執念ぶかい	tenacious	804
-喰いさがる	tenaciously	800
-喰い下がる	tenaciously	800
-食いさがる	tenaciously	800
-食い下がる	tenaciously	800
 執念	tenacity	1279
 不撓	tenacity	1278
 粘り	tenacity	1218
@@ -198032,8 +197998,8 @@ Linux系	linux	1387
 段段畑	terraced	1119
 だんだん畑	terraced	804
 段々畑	terraced-fields	1119
-段々畠	terraced-fields	1119
 段段畑	terraced-fields	1119
+段々畠	terraced-fields	1119
 だんだん畑	terraced-fields	804
 黒土	terracotta	1279
 地形	terrain	1279
@@ -198881,10 +198847,6 @@ Linux系	linux	1387
 ぶっ飛ばす	their	1685
 打っ飛ばす	their	1685
 助け起こす	their	1685
-喰いさがる	their	1680
-喰い下がる	their	1680
-食いさがる	their	1680
-食い下がる	their	1680
 有神論	theism	1119
 日本側	the-japanese	1119
 大和魂	the-japanese-spirit	1119
@@ -200462,6 +200424,7 @@ Linux系	linux	1387
 何だかだ	this-or-that	938
 何だ彼だ	this-or-that	938
 何だかんだ	this-or-that	803
+何だ彼んだ	this-or-that	803
 本文	this-passage	1278
 此奴	this-person	1277
 此方	this-person	1274
@@ -200685,7 +200648,6 @@ Linux系	linux	1387
 浅はか	thoughtless	1058
 上滑り	thoughtless	1057
 不所存者	thoughtless	999
-軽はずみ	thoughtless	939
 上すべり	thoughtless	937
 憖	thoughtlessly	1799
 矢鱈	thoughtlessly	1277
@@ -201256,7 +201218,6 @@ Linux系	linux	1387
 徹す	through	2063
 捲る	through	2063
 凌ぎ	through	2063
-潜る	through	2063
 通す	through	2063
 透す	through	2063
 泳ぐ	through	2063
@@ -201320,10 +201281,10 @@ Linux系	linux	1387
 零れる	through	1902
 押通す	through	1902
 溢れる	through	1902
-通じる	through	1901
 壊れる	through	1900
 毀れる	through	1900
 決込む	through	1900
+通じる	through	1899
 詰める	through	1897
 抜ける	through	1894
 頒ける	through	1894
@@ -201372,6 +201333,7 @@ Linux系	linux	1387
 根っから	through	1783
 済ませる	through	1783
 見とおす	through	1783
+踏みぬく	through	1783
 踏み抜く	through	1783
 踏み貫く	through	1783
 行き止り	through	1783
@@ -201492,7 +201454,6 @@ Linux系	linux	1387
 巴投げ	throw	1058
 反返る	throw	1058
 陥れる	throw	1058
-狂わす	throw	1057
 費やす	throw	1056
 転がす	throw	1056
 けん制	throw	1054
@@ -203230,7 +203191,7 @@ Linux系	linux	1387
 整える	to-adjust	1053
 引合せる	to-adjust	937
 引き合せる	to-adjust	802
-引合わせる	to-adjust	802
+引きあわせる	to-adjust	767
 引き合わせる	to-adjust	767
 盛る	to-administer	1215
 投じる	to-administer	1056
@@ -203267,8 +203228,10 @@ Linux系	linux	1387
 警める	to-admonish	1058
 言聞かす	to-admonish	937
 申聞かせる	to-admonish	802
+言いきかす	to-admonish	802
 言い聞かす	to-admonish	802
 言聞かせる	to-admonish	802
+云い聞かす	to-admonish	802
 申し聞かせる	to-admonish	767
 言いきかせる	to-admonish	767
 言い聞かせる	to-admonish	767
@@ -203337,8 +203300,10 @@ Linux系	linux	1387
 諭す	to-advise	1218
 言聞かす	to-advise	938
 申聞かせる	to-advise	803
+言いきかす	to-advise	803
 言い聞かす	to-advise	803
 言聞かせる	to-advise	803
+云い聞かす	to-advise	803
 申し聞かせる	to-advise	768
 言いきかせる	to-advise	768
 言い聞かせる	to-advise	768
@@ -203868,6 +203833,7 @@ Linux系	linux	1387
 きき返す	to-ask-again	937
 聞き返す	to-ask-again	937
 訊き返す	to-ask-again	937
+聞きかえす	to-ask-again	802
 問掛ける	to-ask-a-question	939
 問いかける	to-ask-a-question	804
 問い掛ける	to-ask-a-question	804
@@ -204821,7 +204787,6 @@ Linux系	linux	1387
 濁る	to-become-impure	1215
 溺れ込む	to-become-infatuated	938
 感じる	to-become-infected-with	1055
-感ずる	to-become-infected-with	1055
 瘠る	to-become-infertile	1216
 痩る	to-become-infertile	1216
 瘠せる	to-become-infertile	1056
@@ -205064,6 +205029,7 @@ Linux系	linux	1387
 込み入る	to-be-complicated	939
 成立つ	to-be-composed-of	1058
 成り立つ	to-be-composed-of	938
+通じる	to-be-comprehended	1051
 含まれる	to-be-comprised-of	938
 潜む	to-be-concealed	1218
 潛む	to-be-concealed	1218
@@ -205129,6 +205095,7 @@ Linux系	linux	1387
 通る	to-be-conveyed	1202
 透る	to-be-conveyed	1202
 伝わる	to-be-conveyed	1053
+通じる	to-be-conveyed	1052
 決込む	to-be-convinced	1058
 思いこむ	to-be-convinced	939
 思い込む	to-be-convinced	939
@@ -205690,6 +205657,7 @@ Linux系	linux	1387
 聞出す	to-begin-listening	1057
 聞きだす	to-begin-listening	937
 聞き出す	to-begin-listening	937
+訊き出す	to-begin-listening	937
 打出す	to-begin-striking	1054
 打ちだす	to-begin-striking	934
 打ち出す	to-begin-striking	934
@@ -205846,7 +205814,6 @@ Linux系	linux	1387
 つり上がる	to-be-hoisted	803
 吊りあがる	to-be-hoisted	803
 吊り上がる	to-be-hoisted	803
-通じる	to-be-honored	1054
 賜る	to-be-honored-with	1218
 賜わる	to-be-honored-with	1058
 給わる	to-be-honored-with	1058
@@ -205875,7 +205842,6 @@ Linux系	linux	1387
 主だつ	to-be-important	1058
 主立つ	to-be-important	1058
 感じる	to-be-impressed	1056
-感ずる	to-be-impressed	1056
 浸み込む	to-be-impressed	935
 沁み込む	to-be-impressed	935
 染み込む	to-be-impressed	935
@@ -205957,6 +205923,7 @@ Linux系	linux	1387
 取れる	to-be-interpreted	1052
 跡切れる	to-be-interrupted	938
 途切れる	to-be-interrupted	938
+通じる	to-be-intimate	1041
 親しむ	to-be-intimate-with	1059
 間にあう	to-be-in-time	939
 間に合う	to-be-in-time	939
@@ -206180,7 +206147,6 @@ Linux系	linux	1387
 上廻る	to-be-more-than	1058
 上まわる	to-be-more-than	938
 感じる	to-be-moved	1057
-感ずる	to-be-moved	1057
 恐れいる	to-be-much-obliged	937
 恐れ入る	to-be-much-obliged	937
 畏れ入る	to-be-much-obliged	937
@@ -206273,6 +206239,7 @@ Linux系	linux	1387
 尖んがる	to-be-on-edge	937
 識る	to-be-ones-concern	1206
 知る	to-be-ones-concern	1206
+通じる	to-be-on-par	1045
 開く	to-be-open	1214
 空く	to-be-open	1214
 明く	to-be-open	1214
@@ -206437,6 +206404,7 @@ Linux系	linux	1387
 見栄をはる	to-be-pretentious	804
 見栄を張る	to-be-pretentious	804
 流行る	to-be-prevalent	1058
+通じる	to-be-prevalent	1047
 出る	to-be-produced	1190
 取れる	to-be-produced	1054
 出きる	to-be-proficient	1056
@@ -206572,6 +206540,7 @@ Linux系	linux	1387
 纏る	to-be-related-to	1218
 纏わる	to-be-related-to	1058
 放れる	to-be-released	1058
+通じる	to-be-relevant	1040
 渋る	to-be-reluctant	1219
 愛しむ	to-be-reluctant	1055
 吝しむ	to-be-reluctant	1055
@@ -207050,6 +207019,7 @@ Linux系	linux	1387
 裏反る	to-betray	1058
 裏返る	to-betray	1058
 寝返る	to-betray	1058
+通じる	to-betray	1043
 迷惑	to-be-troubled	1276
 困る	to-be-troubled	1219
 弱る	to-be-troubled	1215
@@ -207074,7 +207044,6 @@ Linux系	linux	1387
 通る	to-be-understandable	1195
 透る	to-be-understandable	1195
 話せる	to-be-understanding	1058
-通じる	to-be-understood	1055
 取れる	to-be-understood	1051
 裏切る	to-be-unfaithful	1057
 匿れる	to-be-unknown	1054
@@ -207198,6 +207167,7 @@ Linux系	linux	1387
 請ける	to-be-well-received	1044
 受ける	to-be-well-received	1044
 享ける	to-be-well-received	1044
+通じる	to-be-well-versed	1050
 潤む	to-be-wet	1219
 舞い上る	to-be-whirled-up	938
 舞上がる	to-be-whirled-up	938
@@ -207208,6 +207178,7 @@ Linux系	linux	1387
 見いだす	to-be-wide-eyed	935
 見い出す	to-be-wide-eyed	935
 見出だす	to-be-wide-eyed	935
+通じる	to-be-widespread	1048
 惑わす	to-bewilder	1059
 迷わす	to-bewilder	1058
 魅す	to-bewitch	1219
@@ -207788,9 +207759,6 @@ Linux系	linux	1387
 取り上げる	to-bring-up	800
 蒸返す	to-bring-up-again	1058
 蒸し返す	to-bring-up-again	938
-咥える	to-bring-with	1058
-啣える	to-bring-with	1058
-銜える	to-bring-with	1058
 言出す	to-broach	1058
 切出す	to-broach	1056
 言いだす	to-broach	938
@@ -207906,7 +207874,6 @@ Linux系	linux	1387
 焼き捨てる	to-burn-up	804
 燃す	to-burn-with	1218
 燃やす	to-burn-with	1058
-潜る	to-burrow-into	1215
 擘く	to-burst	1217
 劈く	to-burst	1217
 割ける	to-burst	1058
@@ -208289,6 +208256,7 @@ Linux系	linux	1387
 見つける	to-catch	937
 見付ける	to-catch	937
 見附ける	to-catch	937
+視付ける	to-catch	937
 受けとめる	to-catch	804
 受け止める	to-catch	804
 かぜを引く	to-catch-a-cold	804
@@ -208339,7 +208307,6 @@ Linux系	linux	1387
 ひき起こす	to-cause	804
 引きおこす	to-cause	804
 引き起こす	to-cause	804
-狂わす	to-cause-a-malfunction	1058
 流す	to-cause-a-miscarriage	1197
 傷める	to-cause-financial-loss	1053
 痛める	to-cause-financial-loss	1053
@@ -208755,10 +208722,6 @@ Linux系	linux	1387
 へばり付く	to-cling-to	804
 寄りすがる	to-cling-to	804
 取りすがる	to-cling-to	804
-喰いさがる	to-cling-to	803
-喰い下がる	to-cling-to	803
-食いさがる	to-cling-to	803
-食い下がる	to-cling-to	803
 鋏む	to-clip	1219
 剪む	to-clip	1219
 刈る	to-clip	1218
@@ -208929,6 +208892,7 @@ Linux系	linux	1387
 見つける	to-come-across	938
 見付ける	to-come-across	938
 見附ける	to-come-across	938
+視付ける	to-come-across	938
 続く	to-come-after	1213
 出直す	to-come-again	1057
 出なおす	to-come-again	937
@@ -209160,8 +209124,8 @@ Linux系	linux	1387
 召す	to-commit-seppuku	1207
 覚える	to-commit-to-memory	1058
 憶える	to-commit-to-memory	1058
-通じる	to-communicate	1058
-通じる	to-communicate-clandestinely	1052
+通じる	to-communicate	1037
+通じる	to-communicate-secretly	1044
 通う	to-commute	1216
 合す	to-compare	1215
 比する	to-compare	1059
@@ -209177,11 +209141,11 @@ Linux系	linux	1387
 つき合せる	to-compare	803
 突き合せる	to-compare	803
 引き合せる	to-compare	803
-引合わせる	to-compare	803
 付け合せる	to-compare	800
 付合わせる	to-compare	800
 つき合わせる	to-compare	768
 突き合わせる	to-compare	768
+引きあわせる	to-compare	768
 引き合わせる	to-compare	768
 つけ合わせる	to-compare	765
 付け合わせる	to-compare	765
@@ -209223,6 +209187,9 @@ Linux系	linux	1387
 践む	to-complete	1213
 履む	to-complete	1213
 踏む	to-complete	1213
+了える	to-complete	1058
+終える	to-complete	1058
+卒える	to-complete	1058
 嫁ける	to-complete	1053
 上げる	to-complete	1048
 騰げる	to-complete	1048
@@ -209352,13 +209319,13 @@ Linux系	linux	1387
 賜わる	to-confer	1056
 給わる	to-confer	1056
 落る	to-confess	1190
-言表す	to-confess	1058
 認める	to-confess	1052
 落ちる	to-confess	1030
 墜ちる	to-confess	1030
 言い表す	to-confess	938
 言い現す	to-confess	938
 言い表わす	to-confess	803
+言いあらわす	to-confess	768
 打明ける	to-confide	939
 打ち明ける	to-confide	804
 限る	to-confine	1218
@@ -209419,6 +209386,7 @@ Linux系	linux	1387
 繋げる	to-connect	1059
 付ける	to-connect	1058
 附ける	to-connect	1058
+通じる	to-connect	1058
 着ける	to-connect	1058
 接する	to-connect	1046
 乗りつぐ	to-connect	939
@@ -209583,6 +209551,7 @@ Linux系	linux	1387
 借り換える	to-convert	804
 譲る	to-convey	1217
 伝える	to-convey	1059
+通じる	to-convey	1038
 嚼む	to-convince	1210
 噛む	to-convince	1210
 嚙む	to-convince	1210
@@ -209742,7 +209711,6 @@ Linux系	linux	1387
 匍う	to-crawl	1219
 延う	to-crawl	1219
 這う	to-crawl	1219
-潜る	to-crawl-under	1216
 轢る	to-creak	1219
 軋る	to-creak	1219
 輾る	to-creak	1219
@@ -210542,7 +210510,6 @@ Linux系	linux	1387
 採り上げる	to-deprive-of	796
 取りあげる	to-deprive-of	796
 取り上げる	to-deprive-of	796
-狂わす	to-derail	1056
 嫐る	to-deride	1216
 嬲る	to-deride	1216
 弄する	to-deride	1057
@@ -211130,7 +211097,6 @@ Linux系	linux	1387
 とり乱す	to-disturb	934
 取り乱す	to-disturb	934
 掻きまわす	to-disturb	800
-潜る	to-dive	1217
 異る	to-diverge	1217
 分れる	to-diverge	1058
 岐れる	to-diverge	1058
@@ -211253,6 +211219,7 @@ Linux系	linux	1387
 先駈ける	to-do-before	939
 遣る	to-do-broadly	1193
 行る	to-do-broadly	1193
+通じる	to-do-by-using	1034
 差引く	to-dock	1058
 差し引く	to-dock	938
 切る	to-do-clearly	1184
@@ -211385,6 +211352,7 @@ Linux系	linux	1387
 上げる	to-do-up	1044
 騰げる	to-do-up	1044
 果てる	to-do-utterly	1056
+通じる	to-do-via	1035
 千切る	to-do-vigorously	1054
 立てる	to-do-vigorously	1042
 飛ばす	to-do-vigorously	1039
@@ -211418,6 +211386,7 @@ Linux系	linux	1387
 引き摺りこむ	to-drag-in	769
 引き摺り込む	to-drag-in	769
 引入れる	to-drag-into	939
+ひき入れる	to-drag-into	804
 引きいれる	to-drag-into	804
 引き入れる	to-drag-into	804
 蒸返す	to-drag-up	1057
@@ -211483,6 +211452,7 @@ Linux系	linux	1387
 引っこめる	to-draw-in	804
 引っ込める	to-draw-in	804
 引入れる	to-draw-into	938
+ひき入れる	to-draw-into	803
 引きいれる	to-draw-into	803
 引き入れる	to-draw-into	803
 詰寄る	to-draw-near	1059
@@ -211628,7 +211598,6 @@ Linux系	linux	1387
 叩き込む	to-drive-into	939
 たたき込む	to-drive-into	804
 乗り入れる	to-drive-into	804
-狂わす	to-drive-mad	1059
 はね飛ばす	to-drive-off	803
 撥ね飛ばす	to-drive-off	803
 跳ね飛ばす	to-drive-off	803
@@ -212241,7 +212210,6 @@ Linux系	linux	1387
 水を注す	to-estrange	936
 刻む	to-etch	1212
 指先	toe-tip	1278
-潜る	to-evade	1216
 擦抜ける	to-evade	936
 胡麻化す	to-evade	933
 誤摩化す	to-evade	933
@@ -212459,7 +212427,6 @@ Linux系	linux	1387
 識る	to-experience	1210
 知る	to-experience	1210
 感じる	to-experience	1058
-感ずる	to-experience	1058
 触れる	to-experience	1057
 甞める	to-experience	1056
 嘗める	to-experience	1056
@@ -212522,7 +212489,6 @@ Linux系	linux	1387
 含む	to-express	1213
 銜む	to-express	1213
 表する	to-express	1059
-言表す	to-express	1059
 表わす	to-express	1055
 現わす	to-express	1055
 漏らす	to-express	1054
@@ -212532,6 +212498,7 @@ Linux系	linux	1387
 描きだす	to-express	938
 描き出す	to-express	938
 言い表わす	to-express	804
+言いあらわす	to-express	769
 嫌がる	to-express-dislike	1058
 厭がる	to-express-dislike	1058
 絞る	to-express-milk	1216
@@ -212545,6 +212512,7 @@ Linux系	linux	1387
 継足す	to-extend	1059
 連なる	to-extend	1059
 列なる	to-extend	1059
+通じる	to-extend	1057
 継ぎ足す	to-extend	939
 建て増す	to-extend	939
 接ぎ足す	to-extend	939
@@ -212789,7 +212757,6 @@ Linux系	linux	1387
 ポタポタ落ちる	to-fall-in-drops	494
 惚れる	to-fall-in-love	1059
 恍れる	to-fall-in-love	1059
-恋する	to-fall-in-love	1059
 耄れる	to-fall-in-love	1059
 恋をする	to-fall-in-love	939
 陥る	to-fall-into	1219
@@ -212915,7 +212882,6 @@ Linux系	linux	1387
 想う	to-feel	1211
 憶う	to-feel	1211
 感じる	to-feel	1059
-感ずる	to-feel	1059
 覚える	to-feel	1054
 憶える	to-feel	1054
 気がする	to-feel	939
@@ -213005,9 +212971,6 @@ Linux系	linux	1387
 恐れいる	to-feel-small	938
 恐れ入る	to-feel-small	938
 畏れ入る	to-feel-small	938
-愁える	to-feel-sorrow-for	1056
-患える	to-feel-sorrow-for	1056
-憂える	to-feel-sorrow-for	1056
 蒸れる	to-feel-sticky	1056
 思いこむ	to-feel-sure	938
 思い込む	to-feel-sure	938
@@ -213140,6 +213103,7 @@ Linux系	linux	1387
 見つける	to-find	939
 見付ける	to-find	939
 見附ける	to-find	939
+視付ける	to-find	939
 捜し当てる	to-find	804
 探しあてる	to-find	804
 探し当てる	to-find	804
@@ -213174,6 +213138,7 @@ Linux系	linux	1387
 探し出す	to-find-out	938
 聞きだす	to-find-out	938
 聞き出す	to-find-out	938
+訊き出す	to-find-out	938
 洗いだす	to-find-out	937
 洗い出す	to-find-out	937
 探り当てる	to-find-out	804
@@ -213194,6 +213159,7 @@ Linux系	linux	1387
 了える	to-finish	1059
 仕舞う	to-finish	1059
 終える	to-finish	1059
+卒える	to-finish	1059
 終わる	to-finish	1058
 嫁ける	to-finish	1054
 納める	to-finish	1044
@@ -213224,6 +213190,9 @@ Linux系	linux	1387
 了る	to-finish-doing	1214
 終る	to-finish-doing	1214
 卒る	to-finish-doing	1214
+了える	to-finish-doing	1055
+終える	to-finish-doing	1055
+卒える	to-finish-doing	1055
 終わる	to-finish-doing	1054
 命じ終わる	to-finish-giving-orders	804
 仕上げる	to-finish-off	938
@@ -213437,7 +213406,7 @@ Linux系	linux	1387
 振りかざす	to-flourish	803
 振りまわす	to-flourish	803
 出る	to-flow	1179
-通じる	to-flow	1057
+通じる	to-flow	1055
 潅ぐ	to-flow-into	1213
 灌ぐ	to-flow-into	1213
 濺ぐ	to-flow-into	1213
@@ -213669,7 +213638,6 @@ Linux系	linux	1387
 組み立る	to-form	936
 組立てる	to-form	936
 組み立てる	to-form	801
-通じる	to-form-a-liaison	1051
 儀式張る	to-formalize	939
 弧を描く	to-form-an-arc	938
 立てる	to-formulate	1050
@@ -214363,7 +214331,6 @@ Linux系	linux	1387
 懊れる	to-get-impatient	1059
 焦れる	to-get-impatient	1059
 入る	to-get-in	1218
-潜る	to-get-in	1217
 咎める	to-get-inflamed	1052
 尤める	to-get-inflamed	1052
 聞込む	to-get-information	1059
@@ -214469,6 +214436,7 @@ Linux系	linux	1387
 からみ合う	to-get-tangled	803
 細る	to-get-thin	1219
 届く	to-get-through	1213
+通じる	to-get-through	1054
 乗りきる	to-get-through	937
 乗り切る	to-get-through	937
 乗越える	to-get-through	936
@@ -214476,7 +214444,6 @@ Linux系	linux	1387
 通り抜ける	to-get-through	803
 乗りこえる	to-get-through	801
 乗り越える	to-get-through	801
-通じる	to-get-through-to	1056
 済ませる	to-get-through-with	938
 退屈	to-get-tired	1275
 疲れる	to-get-tired	1059
@@ -214506,7 +214473,6 @@ Linux系	linux	1387
 捩れる	to-get-twisted	1059
 捻れる	to-get-twisted	1059
 捻じれる	to-get-twisted	939
-潜る	to-get-under	1218
 走りだす	to-get-under-way	936
 走り出す	to-get-under-way	936
 起きる	to-get-up	1059
@@ -214522,6 +214488,7 @@ Linux系	linux	1387
 聞込む	to-get-wind-of	1058
 聞きこむ	to-get-wind-of	938
 聞き込む	to-get-wind-of	938
+外す	to-get-wrong	1209
 間違える	to-get-wrong	938
 くすくす笑う	to-giggle	769
 クスクス笑う	to-giggle	529
@@ -214623,6 +214590,7 @@ Linux系	linux	1387
 上る	to-give-out	1198
 上がる	to-give-out	1038
 騰がる	to-give-out	1038
+通じる	to-give-out	1036
 上ル	to-give-out	1018
 取立てる	to-give-patronage	936
 取りたてる	to-give-patronage	801
@@ -214889,7 +214857,6 @@ Linux系	linux	1387
 出張る	to-go-somewhere	1057
 扱う	to-gossip	1206
 貫く	to-go-through	1219
-潜る	to-go-through	1218
 抜く	to-go-through	1202
 徹す	to-go-through	1202
 通す	to-go-through	1202
@@ -214954,8 +214921,6 @@ Linux系	linux	1387
 くり貫く	to-gouge-out	939
 刳り抜く	to-gouge-out	939
 刳り貫く	to-gouge-out	939
-潜る	to-go-under	1219
-潜る	to-go-underground	1212
 押掛ける	to-go-uninvited	939
 押しかける	to-go-uninvited	804
 押し掛ける	to-go-uninvited	804
@@ -215007,6 +214972,7 @@ Linux系	linux	1387
 巣立つ	to-graduate	1057
 了える	to-graduate	1057
 終える	to-graduate	1057
+卒える	to-graduate	1057
 接ぐ	to-graft	1217
 授ける	to-grant	1059
 叶える	to-grant	1059
@@ -215353,10 +215319,6 @@ Linux系	linux	1387
 俯く	to-hang-ones-head	1219
 俯向く	to-hang-ones-head	1059
 うつ向く	to-hang-ones-head	939
-喰いさがる	to-hang-on-to	804
-喰い下がる	to-hang-on-to	804
-食いさがる	to-hang-on-to	804
-食い下がる	to-hang-on-to	804
 巣くう	to-hang-out	1058
 巣喰う	to-hang-out	1058
 巣食う	to-hang-out	1058
@@ -215553,11 +215515,13 @@ Linux系	linux	1387
 会う	to-have-an-accident	1217
 遇う	to-have-an-accident	1217
 遭う	to-have-an-accident	1217
+通じる	to-have-an-affair	1042
 蹣跚めく	to-have-an-affair	936
 蹌踉めく	to-have-an-affair	936
 謁する	to-have-an-audience	1059
 響く	to-have-an-effect	1215
 及ぼす	to-have-an-effect	1056
+通じる	to-have-an-effect	1046
 立つ	to-have-an-erection	1202
 気がある	to-have-an-interest	939
 開く	to-have-an-interval	1209
@@ -215579,6 +215543,7 @@ Linux系	linux	1387
 落ち着く	to-have-been-reached	932
 負う	to-have-behind-one	1210
 兼ね備える	to-have-both	804
+通じる	to-have-bowel-movement	1039
 差支える	to-have-difficulty	937
 差し支える	to-have-difficulty	802
 居る	to-have--ed	1216
@@ -215697,7 +215662,9 @@ Linux系	linux	1387
 手つだう	to-help	939
 世話をやく	to-help	803
 世話を焼く	to-help	803
+助けあう	to-help-each-other	939
 助け合う	to-help-each-other	939
+たすけ合う	to-help-each-other	804
 助け上げる	to-help-up	804
 縁どる	to-hem	1058
 縁取る	to-hem	1058
@@ -215731,7 +215698,6 @@ Linux系	linux	1387
 隠くす	to-hide	1059
 隠れる	to-hide	1059
 伏する	to-hide	1054
-潜る	to-hide-oneself	1213
 押出す	to-highlight	1056
 押し出す	to-highlight	936
 乗っとる	to-hijack	936
@@ -215963,10 +215929,6 @@ Linux系	linux	1387
 念じる	to-hope	1058
 念ずる	to-hope	1058
 強請る	to-hound	1057
-喰いさがる	to-hound	802
-喰い下がる	to-hound	802
-食いさがる	to-hound	802
-食い下がる	to-hound	802
 宿す	to-house	1219
 嘯く	to-howl	1215
 吠える	to-howl	1056
@@ -216543,10 +216505,10 @@ Linux系	linux	1387
 引合せる	to-introduce	939
 取入れる	to-introduce	937
 引き合せる	to-introduce	804
-引合わせる	to-introduce	804
 採り入れる	to-introduce	802
 穫り入れる	to-introduce	802
 取り入れる	to-introduce	802
+引きあわせる	to-introduce	769
 引き合わせる	to-introduce	769
 名乗り出る	to-introduce-oneself	804
 割込む	to-intrude-on	1057
@@ -216646,6 +216608,7 @@ Linux系	linux	1387
 凝る	to-jellify	1218
 ぴくぴく動く	to-jerk	769
 ピクピク動く	to-jerk	529
+マスを掻く	to-jerk-off	564
 戯ける	to-jest	1059
 戲ける	to-jest	1059
 お道化る	to-jest	939
@@ -217083,6 +217046,7 @@ Linux系	linux	1387
 受け賜る	to-know	938
 受け賜わる	to-know	803
 受けたまわる	to-know	768
+通じる	to-know-a-lot	1049
 ぴんと来る	to-know-intuitively	802
 ピンと来る	to-know-intuitively	562
 個人的に知る	to-know-personally	769
@@ -217768,6 +217732,7 @@ Linux系	linux	1387
 きき返す	to-listen-repeatedly	939
 聞き返す	to-listen-repeatedly	939
 訊き返す	to-listen-repeatedly	939
+聞きかえす	to-listen-repeatedly	804
 徹す	to-listen-through	1198
 通す	to-listen-through	1198
 透す	to-listen-through	1198
@@ -218187,6 +218152,7 @@ Linux系	linux	1387
 落とし入れる	to-lure	767
 釣る	to-lure-in	1217
 引入れる	to-lure-inside	937
+ひき入れる	to-lure-inside	802
 引きいれる	to-lure-inside	802
 引き入れる	to-lure-inside	802
 釣出す	to-lure-out	1059
@@ -218486,6 +218452,7 @@ Linux系	linux	1387
 埋める	to-make-up-for	1054
 代わりに	to-make-up-for	936
 埋め合せる	to-make-up-for	804
+埋めあわせる	to-make-up-for	769
 埋め合わせる	to-make-up-for	769
 入れ合わせる	to-make-up-for	769
 活かす	to-make-use-of	1059
@@ -218780,6 +218747,7 @@ Linux系	linux	1387
 刻む	to-mince	1219
 構う	to-mind	1219
 気にする	to-mind	939
+外す	to-misjudge	1208
 見損う	to-misjudge	1059
 見誤る	to-misjudge	1058
 読誤る	to-misjudge	1056
@@ -218958,6 +218926,9 @@ Linux系	linux	1387
 悔む	to-mourn	1219
 弔する	to-mourn	1059
 悔やむ	to-mourn	1059
+愁える	to-mourn	1056
+患える	to-mourn	1056
+憂える	to-mourn	1056
 弔う	to-mourn-for	1219
 動く	to-move	1219
 遷る	to-move	1219
@@ -219474,6 +219445,7 @@ Linux系	linux	1387
 差し伸べる	to-offer	801
 差し延べる	to-offer	801
 埋め合せる	to-offset	803
+埋めあわせる	to-offset	768
 埋め合わせる	to-offset	768
 慣々しい	too-friendly	938
 馴々しい	too-friendly	938
@@ -219974,9 +219946,13 @@ Linux系	linux	1387
 詰込む	to-pack	1057
 埋める	to-pack	1056
 填める	to-pack	1056
+詰合せる	to-pack	939
 つめ込む	to-pack	937
 詰めこむ	to-pack	937
 詰め込む	to-pack	937
+詰め合せる	to-pack	804
+詰合わせる	to-pack	804
+詰め合わせる	to-pack	769
 いれ込む	to-pack-into	938
 入れこむ	to-pack-into	938
 入れ込む	to-pack-into	938
@@ -220562,8 +220538,8 @@ Linux系	linux	1387
 組み敷く	to-pin-down	938
 押さえ込む	to-pin-down	804
 押したおす	to-pin-down	804
-押えつける	to-pin-down	803
 抑えつける	to-pin-down	803
+抑え付ける	to-pin-down	803
 押さえつける	to-pin-down	768
 押さえ付ける	to-pin-down	768
 慕う	to-pine-for	1218
@@ -221092,8 +221068,8 @@ Linux系	linux	1387
 組み敷く	to-press-down	939
 圧さえる	to-press-down	938
 押さえる	to-press-down	938
-押えつける	to-press-down	804
 抑えつける	to-press-down	804
+抑え付ける	to-press-down	804
 押さえつける	to-press-down	769
 押さえ付ける	to-press-down	769
 握る	to-press-into-shape	1212
@@ -222022,6 +221998,7 @@ Linux系	linux	1387
 廻る	to-reach	1204
 周る	to-reach	1204
 達する	to-reach	1059
+通じる	to-reach	1056
 邀える	to-reach	1053
 迎える	to-reach	1053
 こぎ着ける	to-reach	803
@@ -224749,7 +224726,6 @@ Linux系	linux	1387
 抜け出る	to-slip-out	939
 脱け出す	to-slip-out	939
 脱け出る	to-slip-out	939
-潜る	to-slip-past	1215
 擦抜ける	to-slip-through	939
 すり抜ける	to-slip-through	804
 擦り抜ける	to-slip-through	804
@@ -224914,7 +224890,6 @@ Linux系	linux	1387
 言いつける	to-snitch	801
 言い付ける	to-snitch	801
 鳴らす	to-snort	1057
-潜る	to-snuggle-under	1214
 擦寄る	to-snuggle-up-to	1058
 すり寄る	to-snuggle-up-to	938
 擦り寄る	to-snuggle-up-to	938
@@ -225011,6 +224986,7 @@ Linux系	linux	1387
 引っ叩く	to-spank	938
 引っぱたく	to-spank	803
 引っ張たく	to-spank	803
+通じる	to-span-the-entirety	1033
 徹す	to-span-the-whole	1186
 通す	to-span-the-whole	1186
 透す	to-span-the-whole	1186
@@ -225261,7 +225237,6 @@ Linux系	linux	1387
 徹る	to-spread-throughout	1205
 通る	to-spread-throughout	1205
 透る	to-spread-throughout	1205
-通じる	to-spread-widely	1050
 勢む	to-spring	1219
 弾む	to-spring	1219
 飛ぶ	to-spring	1217
@@ -225682,6 +225657,7 @@ Linux系	linux	1387
 履む	to-step-on	1219
 踏む	to-step-on	1219
 踏抜く	to-step-on	1059
+踏みぬく	to-step-on	939
 踏み抜く	to-step-on	939
 踏み貫く	to-step-on	939
 外す	to-step-out	1213
@@ -226068,6 +226044,7 @@ Linux系	linux	1387
 張りめぐらす	to-string-up	768
 剥く	to-strip	1217
 剝く	to-strip	1217
+裸になる	to-strip-naked	938
 剥ぐ	to-strip-of	1215
 剝ぐ	to-strip-of	1215
 折ぐ	to-strip-of	1215
@@ -226356,9 +226333,9 @@ Linux系	linux	1387
 圧さえる	to-suppress	926
 押さえる	to-suppress	926
 圧しころす	to-suppress	802
-押えつける	to-suppress	802
 押しころす	to-suppress	802
 抑えつける	to-suppress	802
+抑え付ける	to-suppress	802
 押さえ込む	to-suppress	801
 押しつぶす	to-suppress	801
 押さえつける	to-suppress	767
@@ -226427,7 +226404,6 @@ Linux系	linux	1387
 啖う	to-survive	1217
 食う	to-survive	1217
 凌ぐ	to-survive	1216
-潜る	to-survive	1214
 立つ	to-survive	1196
 助かる	to-survive	1058
 生き残る	to-survive	939
@@ -227273,10 +227249,12 @@ Linux系	linux	1387
 取り次ぐ	to-tell	937
 取り継ぐ	to-tell	937
 申聞かせる	to-tell	804
+言いきかす	to-tell	804
 言いつける	to-tell	804
 言い付ける	to-tell	804
 言い聞かす	to-tell	804
 言聞かせる	to-tell	804
+云い聞かす	to-tell	804
 仰せつける	to-tell	803
 仰せ付ける	to-tell	803
 仰っしゃる	to-tell	803
@@ -227326,10 +227304,6 @@ Linux系	linux	1387
 引張る	to-tempt-into-joining	1050
 引っぱる	to-tempt-into-joining	930
 引っ張る	to-tempt-into-joining	930
-喰いさがる	to-tenaciously-face	800
-喰い下がる	to-tenaciously-face	800
-食いさがる	to-tenaciously-face	800
-食い下がる	to-tenaciously-face	800
 傾く	to-tend	1212
 差出す	to-tender	1057
 さし出す	to-tender	937
@@ -229101,6 +229075,7 @@ Linux系	linux	1387
 手なずける	to-win-over	803
 手なづける	to-win-over	803
 手名付ける	to-win-over	803
+ひき入れる	to-win-over	801
 引きいれる	to-win-over	801
 引き入れる	to-win-over	801
 勝ち通す	to-win-straight-victories	939
@@ -229232,6 +229207,7 @@ Linux系	linux	1387
 稼げる	to-work	1059
 勤める	to-work	1059
 務める	to-work	1059
+通じる	to-work	1053
 為る	to-work-as	1214
 体を粉にする	to-work-assiduously	769
 勤め働く	to-work-diligently	939
@@ -229514,6 +229490,9 @@ Linux系	linux	1387
 実績	track-record	1277
 上下線	tracks	1119
 外回り	tracks	1057
+外廻り	tracks	1057
+そと回り	tracks	937
+外まわり	tracks	937
 管	tract	1796
 緑地	tract	1279
 気道	tract	1279
@@ -231002,8 +230981,8 @@ Linux系	linux	1387
 家鳴り	trembling	1059
 りつ然	trembling	1058
 戦々兢々	trembling	999
-戦戦兢兢	trembling	999
 戦々恐々	trembling	999
+戦戦兢兢	trembling	999
 戦戦恐恐	trembling	999
 武者顫い	trembling	939
 武者震い	trembling	939
@@ -231017,8 +230996,8 @@ Linux系	linux	1387
 戦慄	trembling-with-fear	1278
 りつ然	trembling-with-fear	1058
 戦々兢々	trembling-with-fear	999
-戦戦兢兢	trembling-with-fear	999
 戦々恐々	trembling-with-fear	999
+戦戦兢兢	trembling-with-fear	999
 戦戦恐恐	trembling-with-fear	999
 豪雪	tremendous	1279
 絶大	tremendous	1279
@@ -232923,8 +232902,8 @@ Linux系	linux	1387
 一石二鳥	two	1860
 一言二言	two	1860
 一昨々日	two	1860
-一昨々夜	two	1860
 一昨昨日	two	1860
+一昨々夜	two	1860
 一昨昨夜	two	1860
 阿鼻叫喚	two	1859
 二股膏薬	two	1859
@@ -233529,6 +233508,7 @@ Linux系	linux	1387
 卒然	unannounced	1278
 飛込み	unannounced	1056
 飛び込み	unannounced	936
+意外	unanticipated	1278
 飛火	unanticipated	1277
 飛び火	unanticipated	1057
 丸腰	unarmed	1279
@@ -233724,8 +233704,10 @@ Linux系	linux	1387
 異和感	uncomfortable-feeling	1119
 熱苦しい	uncomfortably	937
 暑苦しい	uncomfortably	937
+暑くるしい	uncomfortably	802
 熱苦しい	uncomfortably-hot-looking	937
 暑苦しい	uncomfortably-hot-looking	937
+暑くるしい	uncomfortably-hot-looking	802
 不凡	uncommon	1279
 俊抜	uncommon	1279
 異常	uncommon	1277
@@ -233895,7 +233877,6 @@ Linux系	linux	1387
 以下	under	2115
 該当	under	2114
 下敷	under	2114
-潜る	under	2056
 預り	under	2056
 掛る	under	2053
 懸る	under	2053
@@ -234047,7 +234028,6 @@ Linux系	linux	1387
 伏水	underground	1279
 埋蔵	underground	1278
 黄泉	underground	1277
-潜る	underground	1212
 地下街	underground	1119
 地下茎	underground	1119
 地下鉄	underground	1118
@@ -234082,6 +234062,7 @@ Linux系	linux	1387
 後記	undermentioned	1278
 突崩す	undermine	1055
 突き崩す	undermine	935
+一枚下	underneath	1118
 唯でさえ	under-normal-circumstances	938
 通常条件下で	under-normal-conditions	769
 小脇	under-ones-arm	1279
@@ -234243,7 +234224,6 @@ Linux系	linux	1387
 半解	understood	1279
 独得	understood	1277
 独特	understood	1277
-通じる	understood	1055
 取れる	understood	1051
 承知之助	understood	997
 通じあう	understood	939
@@ -234470,6 +234450,7 @@ Linux系	linux	1387
 俄か	unexpected	1218
 意想外	unexpected	1119
 予想外	unexpected	1119
+仁和加	unexpected	1118
 仁輪加	unexpected	1118
 飛んだ	unexpected	1059
 神出鬼没	unexpected	999
@@ -234606,6 +234587,7 @@ Linux系	linux	1387
 不虞	unforeseen	1279
 暗礁	unforeseen	1278
 案外	unforeseen	1277
+意外	unforeseen	1277
 暗礁	unforeseen-difficulty	1278
 悪い	unforgivable	1208
 惡い	unforgivable	1208
@@ -234792,6 +234774,7 @@ Linux系	linux	1387
 何の気なしに	unintentionally	769
 何の気無しに	unintentionally	769
 なんの気なしに	unintentionally	734
+なんの気無しに	unintentionally	734
 淡々	uninterested	1279
 淡淡	uninterested	1279
 澹々	uninterested	1279
@@ -236213,6 +236196,7 @@ Linux系	linux	1387
 直行	upright-conduct	1276
 茶柱	upright-floating	1279
 茶柱	upright-floating-tea-stalk	1279
+潔癖	uprightness	1278
 清廉潔白	uprightness	998
 一揆	uprising	1279
 暴動	uprising	1278
@@ -236824,6 +236808,7 @@ Linux系	linux	1387
 使い方	using	1880
 降ろし	using	1876
 下ろし	using	1876
+通じる	using	1855
 呼びすて	using	1760
 呼び捨て	using	1760
 力まかせ	using	1760
@@ -237378,7 +237363,6 @@ Linux系	linux	1387
 虚栄	vanity	1279
 鏡台	vanity	1278
 衒気	vanity	1278
-虚栄心	vanity	1119
 化粧箱	vanity	1118
 色即是空	vanity	998
 化粧箱	vanity-case	1118
@@ -238012,8 +237996,8 @@ Linux系	linux	1387
 通達	versed	1277
 明い	versed	1211
 軍事通	versed	1119
-通じる	versed	1053
 明るい	versed	1051
+通じる	versed	1050
 短詩	verselet	1279
 歌道	versification	1279
 作詩	versification	1279
@@ -238459,6 +238443,7 @@ Linux系	linux	1387
 透す	via	1827
 振込み	via	1685
 振込む	via	1685
+通じる	via	1661
 振り込み	via	1565
 振り込む	via	1565
 に依って	via	1563
@@ -239689,8 +239674,8 @@ Linux系	linux	1387
 信任投票	vote	1434
 一国一票	vote	1434
 堂々回り	vote	1372
-堂堂回り	vote	1372
 堂々巡り	vote	1372
+堂堂回り	vote	1372
 堂堂巡り	vote	1372
 不信任投票	vote	1299
 反対票	vote-against	1119
@@ -239733,12 +239718,12 @@ Linux系	linux	1387
 受合う	vouch	1057
 請け合う	vouch	937
 受け合う	vouch	937
-本願	vow	1279
 祈誓	vow	1279
 起請	vow	1279
 誓願	vow	1279
 信約	vow	1279
 悲願	vow	1278
+本願	vow	1278
 母音	vowel	1279
 長音	vowel	1278
 一段動詞	vowel-stem	998
@@ -241530,7 +241515,6 @@ Linux系	linux	1387
 外方	way	2112
 邪道	way	2112
 行方	way	2112
-言方	way	2112
 一途	way	2112
 銀漢	way	2112
 銀河	way	2112
@@ -241604,8 +241588,6 @@ Linux系	linux	1387
 塞ぐ	way	2048
 通る	way	2048
 透る	way	2048
-極り	way	2047
-決り	way	2047
 限る	way	2047
 寡し	way	2046
 少し	way	2046
@@ -241670,6 +241652,7 @@ Linux系	linux	1387
 因みに	way	1892
 有り方	way	1892
 語り口	way	1892
+云い方	way	1892
 在り方	way	1892
 組み方	way	1892
 別れ路	way	1891
@@ -241709,8 +241692,6 @@ Linux系	linux	1387
 准ずる	way	1888
 準じる	way	1888
 準ずる	way	1888
-極まり	way	1887
-決まり	way	1887
 口きき	way	1887
 口利き	way	1887
 頒ける	way	1882
@@ -241742,6 +241723,8 @@ Linux系	linux	1387
 通せん坊	way	1772
 惟神の道	way	1772
 押し通る	way	1772
+言いかた	way	1772
+云いかた	way	1772
 其れなり	way	1771
 切りこむ	way	1771
 切り込む	way	1771
@@ -241843,8 +241826,10 @@ Linux系	linux	1387
 句読	way-of-reading	1277
 読み方	way-of-reading	1058
 語り口	way-of-reciting	1059
-言方	way-of-saying	1279
 言い方	way-of-saying	1059
+云い方	way-of-saying	1059
+言いかた	way-of-saying	939
+云いかた	way-of-saying	939
 口前	way-of-speaking	1279
 口吻	way-of-speaking	1279
 口ぶり	way-of-speaking	1059
@@ -242806,11 +242791,11 @@ Linux系	linux	1387
 聞える	well	1904
 除ける	well	1902
 退ける	well	1902
-通じる	well	1901
 投じる	well	1901
 決まる	well	1900
 明るい	well	1899
 以って	well	1899
+通じる	well	1898
 承ける	well	1891
 当たる	well	1891
 請ける	well	1891
@@ -243007,6 +242992,7 @@ Linux系	linux	1387
 為る	were	2071
 謂わば	were	1929
 言わば	were	1929
+云わば	were	1929
 傍若無人	were	1870
 旁若無人	were	1870
 と言えば	were	1808
@@ -243203,7 +243189,6 @@ Linux系	linux	1387
 何番目	what	2000
 何曜日	what	2000
 何処迄	what	1999
-一枚下	what	1999
 どの様	what	1940
 何ごと	what	1940
 何たる	what	1940
@@ -243279,7 +243264,6 @@ Linux系	linux	1387
 如何言う	what-kind-of	939
 何物	what-kind-of-thing	1279
 何もの	what-kind-of-thing	1059
-一枚下	what-lies-immediately-below	1118
 無けなし	what-little-one-has	939
 無け無し	what-little-one-has	939
 何分	what-minute	1279
@@ -244503,7 +244487,6 @@ Linux系	linux	1387
 散蒔く	widely	1057
 表わす	widely	1054
 現わす	widely	1054
-通じる	widely	1050
 知れ渡る	widely	939
 出まわる	widely	938
 ばら撒く	widely	937
@@ -244541,6 +244524,7 @@ Linux系	linux	1387
 蔓衍	widespread	1277
 市民権	widespread	1117
 まん延	widespread	1057
+通じる	widespread	1048
 盛んになる	widespread	802
 盛んに成る	widespread	802
 市民権	widespread-acceptance	1117
@@ -244952,6 +244936,7 @@ Linux系	linux	1387
 手なずける	win	1291
 手なづける	win	1291
 手名付ける	win	1291
+ひき入れる	win	1289
 引きいれる	win	1289
 引き入れる	win	1289
 のるか反るか	win	1257
@@ -245770,6 +245755,7 @@ Linux系	linux	1387
 失敬	without	2068
 無縁	without	2068
 伝法	without	2068
+粗末	without	2067
 素直	without	2067
 無残	without	2067
 無慚	without	2067
@@ -245858,8 +245844,8 @@ Linux系	linux	1387
 無銭遊興	without	1792
 夜郎自大	without	1792
 侃々諤々	without	1791
-侃々諤諤	without	1791
 侃侃諤々	without	1791
+侃々諤諤	without	1791
 侃侃諤諤	without	1791
 写真結婚	without	1791
 虚心坦懐	without	1791
@@ -246042,6 +246028,7 @@ Linux系	linux	1387
 無償	without-pay	1278
 素直	without-peculiarity	1274
 無断で	without-permission	1059
+粗末	without-proper-care	1274
 我しらず	without-realizing	938
 我知らず	without-realizing	938
 われ知らず	without-realizing	803
@@ -246714,12 +246701,14 @@ Linux系	linux	1387
 文責	wording	1279
 字句	wording	1279
 辞令	wording	1278
-言方	wording	1278
 用語	wording	1278
 語法	wording	1277
 言い方	wording	1058
+云い方	wording	1058
+言いかた	wording	938
 言葉遣い	wording	938
 言葉使い	wording	938
+云いかた	wording	938
 ことば遣い	wording	803
 言葉づかい	wording	803
 語長	word-length	1279
@@ -246788,7 +246777,6 @@ Linux系	linux	1387
 噛む	words	1824
 嚙む	words	1824
 咬む	words	1824
-褒言葉	words	1727
 類義語	words	1727
 囃子詞	words	1727
 重言葉	words	1726
@@ -246811,6 +246799,7 @@ Linux系	linux	1387
 褒め言葉	words	1547
 申しよう	words	1547
 脅し文句	words	1547
+誉め言葉	words	1547
 重ね言葉	words	1546
 はやし言葉	words	1412
 わかち書き	words	1412
@@ -246827,10 +246816,10 @@ Linux系	linux	1387
 語句	words-and-phrases	1279
 単語検索	word-search	999
 悼辞	words-of-condolence	1278
-褒言葉	words-of-praise	1119
 褒め詞	words-of-praise	1059
 ほめ言葉	words-of-praise	939
 褒め言葉	words-of-praise	939
+誉め言葉	words-of-praise	939
 謝辞	words-of-thanks	1279
 仏語	words-of-the-buddha	1277
 冗長	wordy	1278
@@ -247009,10 +246998,12 @@ Linux系	linux	1387
 編出す	work	1916
 居残る	work	1916
 外回り	work	1916
+外廻り	work	1916
 引摺り	work	1916
 打出す	work	1915
 兼ねる	work	1915
 取組む	work	1914
+通じる	work	1911
 調える	work	1910
 斉える	work	1910
 整える	work	1910
@@ -247046,8 +247037,10 @@ Linux系	linux	1387
 丸木造り	work	1797
 中を取る	work	1797
 あみ出す	work	1796
+そと回り	work	1796
 編みだす	work	1796
 編み出す	work	1796
+外まわり	work	1796
 引きずり	work	1796
 引き摺り	work	1796
 打ちだす	work	1795
@@ -247273,6 +247266,9 @@ Linux系	linux	1387
 運動	workout	1278
 練習	workout	1277
 外回り	work-outside-the-office	1058
+外廻り	work-outside-the-office	1058
+そと回り	work-outside-the-office	938
+外まわり	work-outside-the-office	938
 会所	workplace	1278
 職場	workplace	1278
 会社	workplace	1277
@@ -248130,6 +248126,7 @@ Linux系	linux	1387
 蠢動	writhing	1278
 筆	writing	2378
 真	writing	2374
+筆記	writing	1858
 便箋	writing	1858
 表記	writing	1858
 併記	writing	1858
@@ -248248,6 +248245,7 @@ Linux系	linux	1387
 筆箱	writing-brush-case	1278
 書き物机	writing-desk	939
 書きもの机	writing-desk	804
+筆記	writing-down	1279
 書記	writing-down	1278
 横書	writing-horizontally	1279
 横書き	writing-horizontally	1059
@@ -248319,6 +248317,7 @@ Linux系	linux	1387
 裏書	written	1906
 願書	written	1906
 座右	written	1906
+筆記	written	1905
 表示書	written	1748
 裁決書	written	1748
 仮名本	written	1748
@@ -248356,6 +248355,7 @@ Linux系	linux	1387
 見積書	written-estimate	1119
 見積り書	written-estimate	939
 見積もり書	written-estimate	804
+筆記	written-examination	1276
 筆記試験	written-examination	999
 文語	written-language	1279
 誓文	written-oath	1279
@@ -248400,6 +248400,7 @@ Linux系	linux	1387
 狂う	wrong	1561
 悪い	wrong	1558
 惡い	wrong	1558
+外す	wrong	1555
 誤変換	wrong	1465
 明後日	wrong	1464
 不都合	wrong	1462

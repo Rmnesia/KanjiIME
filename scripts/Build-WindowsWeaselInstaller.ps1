@@ -82,6 +82,10 @@ Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_hk.schema.yaml") -Destina
 Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_jp.dict.yaml") -Destination $dataDir -Force
 Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_zh.dict.yaml") -Destination $dataDir -Force
 Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_hk.dict.yaml") -Destination $dataDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/rime.lua") -Destination $dataDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanjiime_readings_jp.tsv") -Destination $dataDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanjiime_readings_zh.tsv") -Destination $dataDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanjiime_readings_hk.tsv") -Destination $dataDir -Force
 
 $kanjiUserDir = Join-Path $weaselOutput "kanjiime-user"
 New-Item -ItemType Directory -Force -Path $kanjiUserDir | Out-Null
@@ -94,6 +98,10 @@ Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_hk.schema.yaml") -Destina
 Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_jp.dict.yaml") -Destination $kanjiUserDir -Force
 Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_zh.dict.yaml") -Destination $kanjiUserDir -Force
 Copy-Item -LiteralPath (Join-Path $root "rime/kanji_en_hk.dict.yaml") -Destination $kanjiUserDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/rime.lua") -Destination $kanjiUserDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanjiime_readings_jp.tsv") -Destination $kanjiUserDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanjiime_readings_zh.tsv") -Destination $kanjiUserDir -Force
+Copy-Item -LiteralPath (Join-Path $root "rime/kanjiime_readings_hk.tsv") -Destination $kanjiUserDir -Force
 
 $nsi = Get-Content -LiteralPath (Join-Path $weaselOutput "install.nsi") -Raw -Encoding UTF8
 $compatibleInitBlock = @'
@@ -203,6 +211,10 @@ $copyUserBlock = @'
   File "kanjiime-user\kanji_en_jp.dict.yaml"
   File "kanjiime-user\kanji_en_zh.dict.yaml"
   File "kanjiime-user\kanji_en_hk.dict.yaml"
+  File "kanjiime-user\rime.lua"
+  File "kanjiime-user\kanjiime_readings_jp.tsv"
+  File "kanjiime-user\kanjiime_readings_zh.tsv"
+  File "kanjiime-user\kanjiime_readings_hk.tsv"
   RMDir /r "$APPDATA\Rime\build"
   SetShellVarContext all
 '@

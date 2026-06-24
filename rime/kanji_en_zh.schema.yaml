@@ -24,6 +24,7 @@ engine:
     - table_translator
     - echo_translator
   filters:
+    - lua_filter@kanjiime_reading_filter
     - uniquifier
 
 speller:
@@ -36,8 +37,9 @@ translator:
   dictionary: kanji_en_zh
   enable_sentence: false
   enable_user_dict: false
-  comment_format:
-    - xform/^~//
+
+kanjiime_reading_filter:
+  readings: kanjiime_readings_zh.tsv
 
 key_binder:
   bindings:

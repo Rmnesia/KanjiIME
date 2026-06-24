@@ -1,15 +1,19 @@
 # mode	english	candidate	weight	comment
-all	fire	火	1900	common-override
-jp	fire	炎	1160	common-override
-jp	fire	火事	1120	common-override
-zh	fire	火	1900	common-override
-zh	fire	火灾	1140	common-override
-hk	fire	火	1900	common-override
-hk	fire	火災	1140	common-override
-all	water	水	1200	common-override
-zh	water	河	1120	common-override
-hk	water	河	1120	common-override
-jp	water	水道	1080	common-override
+jp	fire	火	1900	~(ひ)
+jp	fire	炎	1160	~(ほのお,えん)
+jp	fire	火事	1120	~(かじ)
+zh	fire	火	1900	~(huǒ)
+zh	fire	炎	1160	~(yán)
+zh	fire	火灾	1140	~(huǒ zāi)
+hk	fire	火	1900	~(huǒ)
+hk	fire	炎	1160	~(yán)
+hk	fire	火災	1140	~(huǒ zāi)
+jp	water	水	1200	~(みず)
+zh	water	水	1200	~(shuǐ)
+hk	water	水	1200	~(shuǐ)
+zh	water	河	1120	~(hé)
+hk	water	河	1120	~(hé)
+jp	water	水道	1080	~(すいどう)
 all	friend	友	1160	common-override
 jp	friend	友人	1300	common-override
 jp	friend	友達	1280	common-override
@@ -101,6 +105,14 @@ hk	big	大	1450	common-override
 jp	small	小	1450	common-override
 zh	small	小	1450	common-override
 hk	small	小	1450	common-override
+jp	smart	賢い	1700	~(かしこい)
+jp	smart	利口	1450	~(りこう)
+zh	smart	聪明	1900	~(cōng míng)
+zh	smart	机灵	1500	~(jī líng)
+zh	smart	聪慧	1450	~(cōng huì)
+hk	smart	聰明	1900	~(cōng míng)
+hk	smart	機靈	1500	~(jī líng)
+hk	smart	聰慧	1450	~(cōng huì)
 jp	new	新	1450	common-override
 zh	new	新	1450	common-override
 hk	new	新	1450	common-override
