@@ -65,9 +65,14 @@ def make_frame(mode, typed, candidates=None, committed=None, active="jp"):
 
     rounded(draw, (42, 158, 778, 303), 8, "#ffffff", "#cbd7e6")
     text(draw, (66, 185), "Input", "#64748b", 14)
-    text(draw, (66, 213), typed + ("|" if committed is None else ""), "#172033", 30, cjk=False)
 
-    if candidates:
+    if committed:
+        text(draw, (66, 220), "Committed", "#64748b", 13)
+        text(draw, (66, 240), committed, "#111827", 40, cjk=True, mode=mode)
+    else:
+        text(draw, (66, 213), typed + "|", "#172033", 30, cjk=False)
+
+    if candidates and not committed:
         cx, cy = 66, 246
         for i, cand in enumerate(candidates, 1):
             word, reading = cand
@@ -77,10 +82,6 @@ def make_frame(mode, typed, candidates=None, committed=None, active="jp"):
             text(draw, (cx + 28, cy + 5), word, "#111827", 22, cjk=True, mode=mode)
             text(draw, (cx + 28, cy + 27), reading, "#2563eb", 11, cjk=True, mode=mode)
             cx += chip_w + 8
-
-    if committed:
-        text(draw, (66, 246), "Committed", "#64748b", 13)
-        text(draw, (150, 236), committed, "#111827", 34, cjk=True, mode=mode)
 
     text(draw, (42, 326), "Number/click commits a candidate. Space or Enter keeps the English word.", "#58677d", 13)
     return img
