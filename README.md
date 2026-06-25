@@ -64,6 +64,8 @@ On Windows, the bundled hotkeys are:
 - `Ctrl+2` - Simplified Chinese
 - `Ctrl+3` - Traditional Chinese / Hong Kong
 
+Reading shortcuts work in every mode: press `Shift` + a candidate number on Windows, or long-press a candidate on Android, to commit the pronunciation hint instead of the displayed kanji/hanzi.
+
 ## Why KanjiIME
 
 - Type from meaning, not pronunciation.
