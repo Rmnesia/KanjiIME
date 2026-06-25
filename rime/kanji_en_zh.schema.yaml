@@ -13,6 +13,7 @@ engine:
     - ascii_composer
     - key_binder
     - speller
+    - lua_processor@kanjiime_reading_processor
     - selector
     - navigator
     - express_editor

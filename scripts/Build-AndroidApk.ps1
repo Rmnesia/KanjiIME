@@ -196,6 +196,45 @@ if (Test-Path $commonKeyboard) {
   Set-Content -LiteralPath $commonKeyboard -Value $text -Encoding UTF8
 }
 
+$pagedCandidatesUi = Join-Path $work "app/src/main/java/com/osfans/trime/ime/candidates/popup/PagedCandidatesUi.kt"
+if (Test-Path $pagedCandidatesUi) {
+  $text = Get-Content -LiteralPath $pagedCandidatesUi -Raw -Encoding UTF8
+  $text = $text.Replace(
+    "private val onCandidateAction: (Int, String, View) -> Unit,",
+    "private val onCandidateAction: (Int, CandidateProto, View) -> Unit,"
+  )
+  $text = $text.Replace(
+    "onCandidateAction.invoke(position, candidate.text, v)",
+    "onCandidateAction.invoke(position, candidate, v)"
+  )
+  Set-Content -LiteralPath $pagedCandidatesUi -Value $text -Encoding UTF8
+}
+
+$candidatesView = Join-Path $work "app/src/main/java/com/osfans/trime/ime/composition/CandidatesView.kt"
+if (Test-Path $candidatesView) {
+  $text = Get-Content -LiteralPath $candidatesView -Raw -Encoding UTF8
+  $old = "onCandidateAction = { index, text, view -> showCandidateActionMenu(index, text, view, global = false) },"
+  $new = @'
+            onCandidateAction = { index, candidate, view ->
+                val reading = candidate.comment
+                    .trim()
+                    .takeIf { it.isNotEmpty() }
+                    ?.removePrefix("(")
+                    ?.removeSuffix(")")
+                if (!reading.isNullOrBlank()) {
+                    service.commitText(reading)
+                    rime.launchOnReady { it.clearComposition() }
+                } else {
+                    showCandidateActionMenu(index, candidate.text, view, global = false)
+                }
+            },
+'@
+  if ($text.Contains($old)) {
+    $text = $text.Replace($old, $new.TrimEnd("`r", "`n"))
+  }
+  Set-Content -LiteralPath $candidatesView -Value $text -Encoding UTF8
+}
+
 $trimeYaml = Join-Path $assetDir "trime.yaml"
 if (Test-Path $trimeYaml) {
   $text = Get-Content -LiteralPath $trimeYaml -Raw -Encoding UTF8

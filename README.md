@@ -44,6 +44,8 @@ Examples:
 
 Select a candidate by pressing its number or clicking/tapping it.
 
+Need only the pronunciation? On Windows, press `Shift` + a candidate number to commit that candidate's reading instead of its kanji/hanzi. On Android, long-press a candidate to commit its reading.
+
 Press `Space` or `Enter` while composing to keep the English word itself. For example, `fire` + `Space` commits `fire`.
 
 ## Three Output Modes
@@ -66,6 +68,7 @@ On Windows, the bundled hotkeys are:
 
 - Type from meaning, not pronunciation.
 - See pronunciation hints before committing a candidate.
+- Commit a reading directly with `Shift` + number on Windows or long-press on Android.
 - Use one English vocabulary to reach Japanese and Chinese text.
 - Works locally with bundled offline dictionaries.
 - Ships with a large vocabulary instead of asking users to download dictionaries after installation.
